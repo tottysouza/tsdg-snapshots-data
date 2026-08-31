@@ -1,0 +1,87 @@
+{
+  "started_at": "2026-08-31T18:28:27.459Z",
+  "duration_ms": 72700,
+  "dates": {
+    "today": "2026-08-31",
+    "current": {
+      "since": "2026-08-24",
+      "until": "2026-08-30",
+      "label_pt": "24 ago a 30 ago"
+    },
+    "previous": {
+      "since": "2026-08-17",
+      "until": "2026-08-23"
+    }
+  },
+  "total": 19,
+  "ok": 6,
+  "partial": 8,
+  "failed": 5,
+  "failures": [
+    {
+      "id": "act_787511457358450",
+      "name": "BIOMA Brisa",
+      "reason": "current: fetch failed"
+    },
+    {
+      "id": "act_1745103243320903",
+      "name": "BIOMA Casa 631",
+      "reason": "current: fetch failed"
+    },
+    {
+      "id": "act_848058778028078",
+      "name": "BIOMA Casa Fio",
+      "reason": "previous: fetch failed"
+    },
+    {
+      "id": "act_1778995386836575",
+      "name": "BIOMA Jackeline",
+      "reason": "previous: fetch failed"
+    },
+    {
+      "id": "act_1425536086084105",
+      "name": "BIOMA Paixão",
+      "reason": "current: fetch failed"
+    },
+    {
+      "id": "act_919673088419931",
+      "name": "BIOMA Silvio Amaral",
+      "reason": "current: fetch failed"
+    },
+    {
+      "id": "act_1761413471046706",
+      "name": "BIOMA Uberaba",
+      "reason": "previous: fetch failed"
+    },
+    {
+      "id": "act_166071522",
+      "name": "BIOMA Valéria Alleoni",
+      "reason": "current: fetch failed"
+    },
+    {
+      "id": "act_1073344743202770",
+      "name": "BIOMA Yu Tin Tin",
+      "reason": "current: fetch failed"
+    },
+    {
+      "id": "act_1813229102959243",
+      "name": "MORINGA Hair",
+      "reason": "current: fetch failed"
+    },
+    {
+      "id": "act_806895401401781",
+      "name": "Espaçolaser Bragança",
+      "reason": "current: fetch failed"
+    },
+    {
+      "id": "act_1495147508059741",
+      "name": "Espaçolaser Caçapava",
+      "reason": "current: fetch failed"
+    },
+    {
+      "id": "act_431873056620839",
+      "name": "Espaçolaser Campolim",
+      "reason": "current: fetch failed"
+    }
+  ]
+}

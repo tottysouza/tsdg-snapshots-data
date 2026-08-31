@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "account_id": "act_1761413471046706",
+    "account_name": "BIOMA Uberaba",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-08-31T18:28:30.194Z",
+    "fetch_status": "partial",
+    "fetch_source": "github_actions",
+    "notes": [
+      "previous: fetch failed"
+    ]
+  },
+  "period": {
+    "current": {
+      "since": "2026-08-24",
+      "until": "2026-08-30",
+      "label_pt": "24 ago a 30 ago"
+    },
+    "previous": {
+      "since": "2026-08-17",
+      "until": "2026-08-23"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": null,
+      "previous": null,
+      "delta_pct": null
+    },
+    "impressions": {
+      "current": null,
+      "previous": null,
+      "delta_pct": null
+    },
+    "reach": {
+      "current": null,
+      "previous": null,
+      "delta_pct": null
+    },
+    "clicks": {
+      "current": null,
+      "previous": null,
+      "delta_pct": null
+    },
+    "ctr": {
+      "current": null,
+      "previous": null,
+      "delta_pct": null
+    },
+    "cpc": {
+      "current": null,
+      "previous": null,
+      "delta_pct": null
+    },
+    "thruplay": {
+      "current": null,
+      "previous": null,
+      "delta_pct": null
+    },
+    "frequency": {
+      "current": null,
+      "previous": null,
+      "delta_pct": null
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [],
+  "demographics": null,
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": null,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": []
+}
