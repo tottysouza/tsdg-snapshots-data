@@ -4,7 +4,7 @@
     "account_name": "Espaçolaser Caçapava",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-08-31T20:27:57.943Z",
+    "generated_at": "2026-08-31T20:34:49.533Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -42,9 +42,9 @@
       "delta_pct": -13
     },
     "ctr": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 1.03,
+      "previous": 1.15,
+      "delta_pct": -10
     },
     "cpc": {
       "current": 1.07,
@@ -75,7 +75,7 @@
         "delta_pct": -9
       },
       "top_creative": {
-        "name": "sem nome",
+        "name": "3 sessões 2",
         "value": 14
       }
     },
@@ -97,7 +97,7 @@
   },
   "top_creatives": [
     {
-      "name": "sem nome",
+      "name": "3 sessões 2",
       "impressions": 20999,
       "reach": 10873,
       "clicks": 130,
@@ -106,7 +106,7 @@
       "thruplay": 564
     },
     {
-      "name": "sem nome",
+      "name": "Chega de tabu",
       "impressions": 5974,
       "reach": 5660,
       "clicks": 74,
@@ -115,7 +115,7 @@
       "thruplay": 1237
     },
     {
-      "name": "sem nome",
+      "name": "As prioridades",
       "impressions": 5239,
       "reach": 2319,
       "clicks": 27,
@@ -124,7 +124,7 @@
       "thruplay": 253
     },
     {
-      "name": "sem nome",
+      "name": "POV",
       "impressions": 2645,
       "reach": 2370,
       "clicks": 68,
@@ -133,7 +133,7 @@
       "thruplay": 150
     },
     {
-      "name": "sem nome",
+      "name": "A chegada",
       "impressions": 2207,
       "reach": 1965,
       "clicks": 70,
@@ -142,7 +142,7 @@
       "thruplay": 65
     },
     {
-      "name": "sem nome",
+      "name": "As prioridades",
       "impressions": 1390,
       "reach": 1341,
       "clicks": 9,
@@ -151,7 +151,7 @@
       "thruplay": 279
     },
     {
-      "name": "sem nome",
+      "name": "No inverno",
       "impressions": 425,
       "reach": 407,
       "clicks": 21,
@@ -160,7 +160,7 @@
       "thruplay": 31
     },
     {
-      "name": "sem nome",
+      "name": "Uma pele bem cuidada",
       "impressions": 204,
       "reach": 194,
       "clicks": 6,
@@ -169,7 +169,7 @@
       "thruplay": 4
     },
     {
-      "name": "sem nome",
+      "name": "no seu ritmo",
       "impressions": 98,
       "reach": 85,
       "clicks": 0,
@@ -178,7 +178,7 @@
       "thruplay": 0
     },
     {
-      "name": "sem nome",
+      "name": "ATENÇÃO",
       "impressions": 54,
       "reach": 54,
       "clicks": 1,

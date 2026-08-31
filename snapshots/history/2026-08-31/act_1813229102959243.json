@@ -4,7 +4,7 @@
     "account_name": "MORINGA Hair",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T20:27:52.277Z",
+    "generated_at": "2026-08-31T20:34:42.633Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -42,9 +42,9 @@
       "delta_pct": -18
     },
     "ctr": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 6.17,
+      "previous": 6.3,
+      "delta_pct": -2
     },
     "cpc": {
       "current": 0.39,
@@ -75,7 +75,7 @@
         "delta_pct": -1
       },
       "top_creative": {
-        "name": "sem nome",
+        "name": "Zero frizz",
         "value": 18
       }
     },
@@ -97,7 +97,7 @@
   },
   "top_creatives": [
     {
-      "name": "sem nome",
+      "name": "O que houve, Luzia?",
       "impressions": 7443,
       "reach": 6215,
       "clicks": 691,
@@ -106,7 +106,7 @@
       "thruplay": 1822
     },
     {
-      "name": "sem nome",
+      "name": "Zero frizz",
       "impressions": 3918,
       "reach": 1483,
       "clicks": 63,
@@ -115,7 +115,7 @@
       "thruplay": 182
     },
     {
-      "name": "sem nome",
+      "name": "Naturalíssima",
       "impressions": 1649,
       "reach": 1309,
       "clicks": 47,
@@ -124,7 +124,7 @@
       "thruplay": 155
     },
     {
-      "name": "sem nome",
+      "name": "Algumas histórias",
       "impressions": 37,
       "reach": 37,
       "clicks": 4,
@@ -133,7 +133,7 @@
       "thruplay": 9
     },
     {
-      "name": "sem nome",
+      "name": "Naturalíssima3",
       "impressions": 4,
       "reach": 4,
       "clicks": 0,
@@ -159,7 +159,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 27.06,
+    "balance_brl": 27.33,
     "balance_low": false,
     "account_disabled": false
   },

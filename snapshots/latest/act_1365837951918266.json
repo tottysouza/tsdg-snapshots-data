@@ -4,7 +4,7 @@
     "account_name": "MIMO Live Sales",
     "segment": "TECH",
     "template": "MIMO",
-    "generated_at": "2026-08-31T20:28:01.256Z",
+    "generated_at": "2026-08-31T20:34:52.675Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -43,7 +43,7 @@
     },
     "ctr": {
       "current": null,
-      "previous": null,
+      "previous": 3.57,
       "delta_pct": null
     },
     "cpc": {

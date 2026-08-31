@@ -4,7 +4,7 @@
     "account_name": "Espaçolaser Campolim",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-08-31T20:27:57.967Z",
+    "generated_at": "2026-08-31T20:34:47.089Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -42,9 +42,9 @@
       "delta_pct": 132
     },
     "ctr": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 2.2,
+      "previous": 1.57,
+      "delta_pct": 40
     },
     "cpc": {
       "current": 0.43,
@@ -75,7 +75,7 @@
         "delta_pct": -60
       },
       "top_creative": {
-        "name": "sem nome",
+        "name": "3 sessões",
         "value": 7
       }
     },
@@ -97,7 +97,7 @@
   },
   "top_creatives": [
     {
-      "name": "sem nome",
+      "name": "Pele lisinha",
       "impressions": 8694,
       "reach": 7465,
       "clicks": 322,
@@ -106,7 +106,7 @@
       "thruplay": 1978
     },
     {
-      "name": "sem nome",
+      "name": "3 sessões",
       "impressions": 5720,
       "reach": 4324,
       "clicks": 58,
@@ -115,7 +115,7 @@
       "thruplay": 180
     },
     {
-      "name": "sem nome",
+      "name": "Resgate",
       "impressions": 4152,
       "reach": 3512,
       "clicks": 43,
@@ -124,7 +124,7 @@
       "thruplay": 106
     },
     {
-      "name": "sem nome",
+      "name": "POV",
       "impressions": 3585,
       "reach": 3159,
       "clicks": 82,
@@ -133,7 +133,7 @@
       "thruplay": 200
     },
     {
-      "name": "sem nome",
+      "name": "Pena que nao e meu caso",
       "impressions": 837,
       "reach": 736,
       "clicks": 6,
@@ -142,7 +142,7 @@
       "thruplay": 76
     },
     {
-      "name": "sem nome",
+      "name": "Segredos",
       "impressions": 679,
       "reach": 617,
       "clicks": 11,
@@ -151,7 +151,7 @@
       "thruplay": 22
     },
     {
-      "name": "sem nome",
+      "name": "Uma pele bem cuidada",
       "impressions": 570,
       "reach": 537,
       "clicks": 10,
@@ -160,7 +160,7 @@
       "thruplay": 19
     },
     {
-      "name": "sem nome",
+      "name": "Funciona",
       "impressions": 25,
       "reach": 23,
       "clicks": 1,
@@ -169,7 +169,7 @@
       "thruplay": 2
     },
     {
-      "name": "sem nome",
+      "name": "Preparo correto",
       "impressions": 13,
       "reach": 8,
       "clicks": 0,
@@ -178,7 +178,7 @@
       "thruplay": 1
     },
     {
-      "name": "sem nome",
+      "name": "Não é luxo",
       "impressions": 2,
       "reach": 2,
       "clicks": 1,
@@ -204,7 +204,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 21.76,
+    "balance_brl": 20.85,
     "balance_low": false,
     "account_disabled": false
   },

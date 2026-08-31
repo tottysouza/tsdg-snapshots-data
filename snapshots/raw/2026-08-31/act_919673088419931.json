@@ -1,7 +1,7 @@
 {
   "current": {
     "accountId": "act_919673088419931",
-    "saldo": 370.17,
+    "saldo": 369.79,
     "dateRange": {
       "since": "2026-08-24",
       "until": "2026-08-30"
@@ -33,7 +33,7 @@
       "65+": 27
     },
     "periodo": "custom",
-    "timestamp": "2026-08-31T20:27:11.387Z",
+    "timestamp": "2026-08-31T20:34:12.426Z",
     "prev": {
       "investimento": 467.14,
       "impressoes": 19965,
@@ -49,7 +49,7 @@
   },
   "previous": {
     "accountId": "act_919673088419931",
-    "saldo": 369.79,
+    "saldo": 370.39,
     "dateRange": {
       "since": "2026-08-17",
       "until": "2026-08-23"
@@ -81,7 +81,7 @@
       "65+": 26
     },
     "periodo": "custom",
-    "timestamp": "2026-08-31T20:27:14.042Z",
+    "timestamp": "2026-08-31T20:34:06.411Z",
     "prev": {
       "investimento": 240.29,
       "impressoes": 9416,

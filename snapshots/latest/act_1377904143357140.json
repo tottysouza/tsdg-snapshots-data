@@ -4,7 +4,7 @@
     "account_name": "LACES Origens",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T20:27:21.061Z",
+    "generated_at": "2026-08-31T20:34:20.695Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -27,7 +27,7 @@
       "delta_pct": 1
     },
     "impressions": {
-      "current": 37875,
+      "current": 37876,
       "previous": 37432,
       "delta_pct": 1
     },
@@ -42,9 +42,9 @@
       "delta_pct": -2
     },
     "ctr": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 1.31,
+      "previous": 1.35,
+      "delta_pct": -3
     },
     "cpc": {
       "current": 0.94,
@@ -75,7 +75,7 @@
         "delta_pct": 23
       },
       "top_creative": {
-        "name": "sem nome",
+        "name": "Você conta",
         "value": 11
       }
     },
@@ -97,7 +97,7 @@
   },
   "top_creatives": [
     {
-      "name": "sem nome",
+      "name": "Reels Inglês",
       "impressions": 20556,
       "reach": 13975,
       "clicks": 19,
@@ -106,8 +106,8 @@
       "thruplay": 69
     },
     {
-      "name": "sem nome",
-      "impressions": 7826,
+      "name": "O dia do seu casamento",
+      "impressions": 7827,
       "reach": 7183,
       "clicks": 114,
       "messages": 0,
@@ -115,7 +115,7 @@
       "thruplay": 1418
     },
     {
-      "name": "sem nome",
+      "name": "Eu entro",
       "impressions": 5051,
       "reach": 4247,
       "clicks": 281,
@@ -124,7 +124,7 @@
       "thruplay": 564
     },
     {
-      "name": "sem nome",
+      "name": "Você conta",
       "impressions": 2642,
       "reach": 1582,
       "clicks": 49,
@@ -133,7 +133,7 @@
       "thruplay": 0
     },
     {
-      "name": "sem nome",
+      "name": "Se você tem medo",
       "impressions": 1404,
       "reach": 1376,
       "clicks": 17,
@@ -142,7 +142,7 @@
       "thruplay": 448
     },
     {
-      "name": "sem nome",
+      "name": "Contei para vocês",
       "impressions": 305,
       "reach": 290,
       "clicks": 12,
@@ -151,7 +151,7 @@
       "thruplay": 40
     },
     {
-      "name": "sem nome",
+      "name": "Ritual Volta a Rotina — video",
       "impressions": 53,
       "reach": 49,
       "clicks": 2,
@@ -160,7 +160,7 @@
       "thruplay": 5
     },
     {
-      "name": "sem nome",
+      "name": "Se você tem medo",
       "impressions": 38,
       "reach": 34,
       "clicks": 1,

@@ -4,7 +4,7 @@
     "account_name": "BIOMA Sense",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T20:27:07.599Z",
+    "generated_at": "2026-08-31T20:34:04.664Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -42,9 +42,9 @@
       "delta_pct": -49
     },
     "ctr": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 1.75,
+      "previous": 1.83,
+      "delta_pct": -4
     },
     "cpc": {
       "current": 0.93,
@@ -75,7 +75,7 @@
         "delta_pct": 303
       },
       "top_creative": {
-        "name": "sem nome",
+        "name": "Cabelo bonito",
         "value": 1
       }
     },
@@ -97,7 +97,7 @@
   },
   "top_creatives": [
     {
-      "name": "sem nome",
+      "name": "Cabelo bonito",
       "impressions": 9488,
       "reach": 6771,
       "clicks": 170,
@@ -106,7 +106,7 @@
       "thruplay": 253
     },
     {
-      "name": "sem nome",
+      "name": "Cabelo bonito",
       "impressions": 1630,
       "reach": 580,
       "clicks": 23,
@@ -115,7 +115,7 @@
       "thruplay": 78
     },
     {
-      "name": "sem nome",
+      "name": "Um papo sobre corte",
       "impressions": 79,
       "reach": 77,
       "clicks": 3,
@@ -124,7 +124,7 @@
       "thruplay": 23
     },
     {
-      "name": "sem nome",
+      "name": "Um papo sobre corte",
       "impressions": 71,
       "reach": 58,
       "clicks": 1,

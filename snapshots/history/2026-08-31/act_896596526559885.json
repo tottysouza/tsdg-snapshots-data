@@ -4,7 +4,7 @@
     "account_name": "VIRGO Cases",
     "segment": "TECH",
     "template": "VIRGO",
-    "generated_at": "2026-08-31T20:27:57.148Z",
+    "generated_at": "2026-08-31T20:34:45.867Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -43,7 +43,7 @@
     },
     "ctr": {
       "current": null,
-      "previous": null,
+      "previous": 6.22,
       "delta_pct": null
     },
     "cpc": {
@@ -130,7 +130,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 57.87,
+    "balance_brl": 56.73,
     "balance_low": false,
     "account_disabled": false
   },

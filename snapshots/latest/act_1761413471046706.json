@@ -4,7 +4,7 @@
     "account_name": "BIOMA Uberaba",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T20:27:13.482Z",
+    "generated_at": "2026-08-31T20:34:02.266Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -42,9 +42,9 @@
       "delta_pct": -18
     },
     "ctr": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 0.86,
+      "previous": 0.96,
+      "delta_pct": -10
     },
     "cpc": {
       "current": 1.08,
@@ -75,7 +75,7 @@
         "delta_pct": 67
       },
       "top_creative": {
-        "name": "sem nome",
+        "name": "Livre, leve e solto",
         "value": 15
       }
     },
@@ -97,7 +97,7 @@
   },
   "top_creatives": [
     {
-      "name": "sem nome",
+      "name": "Tem cuidados",
       "impressions": 30913,
       "reach": 22374,
       "clicks": 31,
@@ -106,7 +106,7 @@
       "thruplay": 11944
     },
     {
-      "name": "sem nome",
+      "name": "Tem cuidados — Cópia",
       "impressions": 26929,
       "reach": 21280,
       "clicks": 29,
@@ -115,7 +115,7 @@
       "thruplay": 10373
     },
     {
-      "name": "sem nome",
+      "name": "Autoconhecimento",
       "impressions": 16136,
       "reach": 13447,
       "clicks": 421,
@@ -124,7 +124,7 @@
       "thruplay": 764
     },
     {
-      "name": "sem nome",
+      "name": "Livre, leve e solto",
       "impressions": 9022,
       "reach": 4743,
       "clicks": 147,
@@ -133,7 +133,7 @@
       "thruplay": 575
     },
     {
-      "name": "sem nome",
+      "name": "Frizz em excesso",
       "impressions": 8432,
       "reach": 4488,
       "clicks": 108,
@@ -142,7 +142,7 @@
       "thruplay": 500
     },
     {
-      "name": "sem nome",
+      "name": "Você sabia que em Uberaba",
       "impressions": 2390,
       "reach": 2146,
       "clicks": 40,
@@ -151,7 +151,7 @@
       "thruplay": 146
     },
     {
-      "name": "sem nome",
+      "name": "Seja bem-vindo",
       "impressions": 764,
       "reach": 747,
       "clicks": 27,
@@ -160,7 +160,7 @@
       "thruplay": 64
     },
     {
-      "name": "sem nome",
+      "name": "No Bioma",
       "impressions": 386,
       "reach": 363,
       "clicks": 11,
@@ -169,7 +169,7 @@
       "thruplay": 9
     },
     {
-      "name": "sem nome",
+      "name": "Um convite",
       "impressions": 257,
       "reach": 228,
       "clicks": 3,
@@ -178,7 +178,7 @@
       "thruplay": 8
     },
     {
-      "name": "sem nome",
+      "name": "BIOMA Conexão",
       "impressions": 153,
       "reach": 106,
       "clicks": 2,
@@ -204,7 +204,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 30.96,
+    "balance_brl": 31.6,
     "balance_low": false,
     "account_disabled": false
   },

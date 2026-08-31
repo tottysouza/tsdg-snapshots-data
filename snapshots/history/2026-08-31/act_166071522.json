@@ -4,13 +4,10 @@
     "account_name": "BIOMA Valéria Alleoni",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T20:27:46.555Z",
-    "fetch_status": "failed",
+    "generated_at": "2026-08-31T20:34:36.417Z",
+    "fetch_status": "ok",
     "fetch_source": "github_actions",
-    "notes": [
-      "current: timeout 15s",
-      "previous: timeout 15s"
-    ]
+    "notes": []
   },
   "period": {
     "current": {
@@ -25,57 +22,61 @@
   },
   "totals": {
     "spend": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 672.16,
+      "previous": 604.51,
+      "delta_pct": 11
     },
     "impressions": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 60861,
+      "previous": 47987,
+      "delta_pct": 27
     },
     "reach": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 37801,
+      "previous": 25894,
+      "delta_pct": 46
     },
     "clicks": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 1762,
+      "previous": 1295,
+      "delta_pct": 36
     },
     "ctr": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 2.9,
+      "previous": 2.7,
+      "delta_pct": 7
     },
     "cpc": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 0.38,
+      "previous": 0.47,
+      "delta_pct": -19
     },
     "thruplay": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 4076,
+      "previous": 2872,
+      "delta_pct": 42
     },
     "frequency": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 1.61,
+      "previous": 1.85,
+      "delta_pct": -13
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": null,
-        "previous": null,
-        "delta_pct": null
+        "current": 23,
+        "previous": 23,
+        "delta_pct": 0
       },
       "cost": {
-        "current": null,
-        "previous": null,
-        "delta_pct": null
+        "current": 29.22,
+        "previous": 26.28,
+        "delta_pct": 11
+      },
+      "top_creative": {
+        "name": "Moreno iluminado",
+        "value": 11
       }
     },
     "instagram_visits": {
@@ -88,18 +89,117 @@
         "current": null,
         "previous": null,
         "delta_pct": null
-      }
+      },
+      "top_creative": null
     },
     "site_visits": null,
     "site_purchases": null
   },
-  "top_creatives": [],
-  "demographics": null,
+  "top_creatives": [
+    {
+      "name": "Moreno iluminado",
+      "impressions": 31993,
+      "reach": 20682,
+      "clicks": 1040,
+      "messages": 0,
+      "ctr": 3.25,
+      "thruplay": 433
+    },
+    {
+      "name": "Ontem",
+      "impressions": 12640,
+      "reach": 10453,
+      "clicks": 429,
+      "messages": 2,
+      "ctr": 3.39,
+      "thruplay": 2326
+    },
+    {
+      "name": "Moreno iluminado",
+      "impressions": 9539,
+      "reach": 5225,
+      "clicks": 153,
+      "messages": 11,
+      "ctr": 1.6,
+      "thruplay": 585
+    },
+    {
+      "name": "Moreno iluminado",
+      "impressions": 4746,
+      "reach": 3036,
+      "clicks": 93,
+      "messages": 6,
+      "ctr": 1.96,
+      "thruplay": 323
+    },
+    {
+      "name": "O equilíbrio",
+      "impressions": 599,
+      "reach": 588,
+      "clicks": 5,
+      "messages": 0,
+      "ctr": 0.83,
+      "thruplay": 293
+    },
+    {
+      "name": "Alguém se identifica",
+      "impressions": 545,
+      "reach": 404,
+      "clicks": 22,
+      "messages": 2,
+      "ctr": 4.04,
+      "thruplay": 69
+    },
+    {
+      "name": "Agosto",
+      "impressions": 382,
+      "reach": 331,
+      "clicks": 10,
+      "messages": 0,
+      "ctr": 2.62,
+      "thruplay": 2
+    },
+    {
+      "name": "Detox day",
+      "impressions": 352,
+      "reach": 293,
+      "clicks": 10,
+      "messages": 2,
+      "ctr": 2.84,
+      "thruplay": 22
+    },
+    {
+      "name": "Cabelos saudáveis",
+      "impressions": 65,
+      "reach": 63,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 23
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 72,
+      "male_pct": 28,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 14,
+      "35-44": 17,
+      "45-54": 20,
+      "55-64": 24,
+      "65+": 25
+    }
+  },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": null,
+    "balance_brl": 154.68,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": []
+  "auto_flags": [
+    "balance_low"
+  ]
 }

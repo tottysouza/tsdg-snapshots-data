@@ -4,7 +4,7 @@
     "account_name": "BIOMA Brisa",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T20:26:57.359Z",
+    "generated_at": "2026-08-31T20:33:51.983Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -42,9 +42,9 @@
       "delta_pct": -11
     },
     "ctr": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 0.76,
+      "previous": 0.6,
+      "delta_pct": 27
     },
     "cpc": {
       "current": 0.99,
@@ -75,7 +75,7 @@
         "delta_pct": 21
       },
       "top_creative": {
-        "name": "sem nome",
+        "name": "Em breve vegetal",
         "value": 12
       }
     },
@@ -97,7 +97,7 @@
   },
   "top_creatives": [
     {
-      "name": "sem nome",
+      "name": "Você não está imaginando",
       "impressions": 30246,
       "reach": 27876,
       "clicks": 78,
@@ -106,7 +106,7 @@
       "thruplay": 133
     },
     {
-      "name": "sem nome",
+      "name": "Em breve vegetal",
       "impressions": 3390,
       "reach": 2312,
       "clicks": 152,
@@ -115,7 +115,7 @@
       "thruplay": 477
     },
     {
-      "name": "sem nome",
+      "name": "Frizz não é",
       "impressions": 2759,
       "reach": 2757,
       "clicks": 8,
@@ -124,7 +124,7 @@
       "thruplay": 23
     },
     {
-      "name": "sem nome",
+      "name": "Comunidade",
       "impressions": 1117,
       "reach": 434,
       "clicks": 35,
@@ -133,7 +133,7 @@
       "thruplay": 0
     },
     {
-      "name": "sem nome",
+      "name": "Na ultima terça",
       "impressions": 498,
       "reach": 492,
       "clicks": 2,
@@ -142,7 +142,7 @@
       "thruplay": 0
     },
     {
-      "name": "sem nome",
+      "name": "Terra Fértil 4",
       "impressions": 251,
       "reach": 210,
       "clicks": 8,
@@ -151,7 +151,7 @@
       "thruplay": 17
     },
     {
-      "name": "sem nome",
+      "name": "Você não está imaginando",
       "impressions": 123,
       "reach": 105,
       "clicks": 7,
@@ -160,7 +160,7 @@
       "thruplay": 21
     },
     {
-      "name": "sem nome",
+      "name": "Em breve vegetal",
       "impressions": 22,
       "reach": 19,
       "clicks": 2,
@@ -186,7 +186,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 50.58,
+    "balance_brl": 50.98,
     "balance_low": false,
     "account_disabled": false
   },

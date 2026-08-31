@@ -4,7 +4,7 @@
     "account_name": "BIOMA Casa 631",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T20:26:54.770Z",
+    "generated_at": "2026-08-31T20:33:42.982Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -42,9 +42,9 @@
       "delta_pct": -21
     },
     "ctr": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 1.92,
+      "previous": 2.57,
+      "delta_pct": -25
     },
     "cpc": {
       "current": 0.79,
@@ -75,7 +75,7 @@
         "delta_pct": 101
       },
       "top_creative": {
-        "name": "sem nome",
+        "name": "O Wellness Moviment",
         "value": 6
       }
     },
@@ -97,7 +97,7 @@
   },
   "top_creatives": [
     {
-      "name": "sem nome",
+      "name": "Um movimento",
       "impressions": 11030,
       "reach": 5968,
       "clicks": 218,
@@ -106,7 +106,7 @@
       "thruplay": 134
     },
     {
-      "name": "sem nome",
+      "name": "O Wellness Moviment",
       "impressions": 3587,
       "reach": 1641,
       "clicks": 63,
@@ -115,7 +115,7 @@
       "thruplay": 174
     },
     {
-      "name": "sem nome",
+      "name": "Nasce",
       "impressions": 2770,
       "reach": 1324,
       "clicks": 56,
@@ -124,7 +124,7 @@
       "thruplay": 206
     },
     {
-      "name": "sem nome",
+      "name": "Cuidado que vira rotina",
       "impressions": 2757,
       "reach": 2281,
       "clicks": 66,
@@ -133,7 +133,7 @@
       "thruplay": 133
     },
     {
-      "name": "sem nome",
+      "name": "Um movimento",
       "impressions": 2596,
       "reach": 2183,
       "clicks": 22,
@@ -142,7 +142,7 @@
       "thruplay": 1023
     },
     {
-      "name": "sem nome",
+      "name": "Dia de tonalizar",
       "impressions": 1556,
       "reach": 1347,
       "clicks": 46,
@@ -151,7 +151,7 @@
       "thruplay": 73
     },
     {
-      "name": "sem nome",
+      "name": "Alguns lugares — Cópia",
       "impressions": 925,
       "reach": 893,
       "clicks": 13,
@@ -177,7 +177,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 182.11,
+    "balance_brl": 182.52,
     "balance_low": false,
     "account_disabled": false
   },

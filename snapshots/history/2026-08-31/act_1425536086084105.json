@@ -4,7 +4,7 @@
     "account_name": "BIOMA Paixão",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T20:26:59.428Z",
+    "generated_at": "2026-08-31T20:33:54.310Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -42,9 +42,9 @@
       "delta_pct": 39
     },
     "ctr": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 2.54,
+      "previous": 1.84,
+      "delta_pct": 38
     },
     "cpc": {
       "current": 0.33,
@@ -75,7 +75,7 @@
         "delta_pct": null
       },
       "top_creative": {
-        "name": "sem nome",
+        "name": "Quando o cuidado 2",
         "value": 0
       }
     },
@@ -97,7 +97,7 @@
   },
   "top_creatives": [
     {
-      "name": "sem nome",
+      "name": "Quando o cuidado 2",
       "impressions": 12272,
       "reach": 8866,
       "clicks": 373,
@@ -106,7 +106,7 @@
       "thruplay": 705
     },
     {
-      "name": "sem nome",
+      "name": "Quando o cuidado",
       "impressions": 3955,
       "reach": 3750,
       "clicks": 40,
@@ -115,7 +115,7 @@
       "thruplay": 1097
     },
     {
-      "name": "sem nome",
+      "name": "Você está prestes",
       "impressions": 104,
       "reach": 103,
       "clicks": 3,
@@ -124,7 +124,7 @@
       "thruplay": 32
     },
     {
-      "name": "sem nome",
+      "name": "O Bioma",
       "impressions": 62,
       "reach": 51,
       "clicks": 1,
@@ -133,7 +133,7 @@
       "thruplay": 0
     },
     {
-      "name": "sem nome",
+      "name": "Lavar os cabelos",
       "impressions": 44,
       "reach": 44,
       "clicks": 1,
@@ -159,7 +159,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 10.42,
+    "balance_brl": 10.49,
     "balance_low": false,
     "account_disabled": false
   },

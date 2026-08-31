@@ -4,7 +4,7 @@
     "account_name": "BIOMA Elizete Corrêa",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T20:27:00.472Z",
+    "generated_at": "2026-08-31T20:33:56.694Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -42,9 +42,9 @@
       "delta_pct": -2
     },
     "ctr": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 3.04,
+      "previous": 3.26,
+      "delta_pct": -7
     },
     "cpc": {
       "current": 0.29,
@@ -75,7 +75,7 @@
         "delta_pct": null
       },
       "top_creative": {
-        "name": "sem nome",
+        "name": "Corte de cabelo",
         "value": 0
       }
     },
@@ -97,7 +97,7 @@
   },
   "top_creatives": [
     {
-      "name": "sem nome",
+      "name": "Corte de cabelo",
       "impressions": 8637,
       "reach": 8291,
       "clicks": 151,
@@ -106,7 +106,7 @@
       "thruplay": 2723
     },
     {
-      "name": "sem nome",
+      "name": "Sua transição 2",
       "impressions": 4898,
       "reach": 3959,
       "clicks": 285,
@@ -115,7 +115,7 @@
       "thruplay": 925
     },
     {
-      "name": "sem nome",
+      "name": "Corte de cabelo",
       "impressions": 2277,
       "reach": 2199,
       "clicks": 48,
@@ -124,7 +124,7 @@
       "thruplay": 747
     },
     {
-      "name": "sem nome",
+      "name": "Cuidado",
       "impressions": 102,
       "reach": 102,
       "clicks": 1,
@@ -133,7 +133,7 @@
       "thruplay": 24
     },
     {
-      "name": "sem nome",
+      "name": "Isso aqui",
       "impressions": 7,
       "reach": 7,
       "clicks": 0,
@@ -142,7 +142,7 @@
       "thruplay": 4
     },
     {
-      "name": "sem nome",
+      "name": "Já pensou",
       "impressions": 5,
       "reach": 5,
       "clicks": 0,
@@ -151,7 +151,7 @@
       "thruplay": 2
     },
     {
-      "name": "sem nome",
+      "name": "Isso aqui",
       "impressions": 4,
       "reach": 4,
       "clicks": 0,
@@ -177,7 +177,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 41.18,
+    "balance_brl": 41.2,
     "balance_low": false,
     "account_disabled": false
   },

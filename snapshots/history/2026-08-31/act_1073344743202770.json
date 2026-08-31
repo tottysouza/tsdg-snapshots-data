@@ -4,7 +4,7 @@
     "account_name": "BIOMA Yu Tin Tin",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T20:27:19.542Z",
+    "generated_at": "2026-08-31T20:34:16.994Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -42,9 +42,9 @@
       "delta_pct": -14
     },
     "ctr": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 2.39,
+      "previous": 2.53,
+      "delta_pct": -6
     },
     "cpc": {
       "current": 0.77,
@@ -75,7 +75,7 @@
         "delta_pct": 34
       },
       "top_creative": {
-        "name": "sem nome",
+        "name": "O frizz",
         "value": 18
       }
     },
@@ -97,7 +97,7 @@
   },
   "top_creatives": [
     {
-      "name": "sem nome",
+      "name": "Muito além",
       "impressions": 12590,
       "reach": 9387,
       "clicks": 408,
@@ -106,7 +106,7 @@
       "thruplay": 720
     },
     {
-      "name": "sem nome",
+      "name": "O frizz",
       "impressions": 6091,
       "reach": 2766,
       "clicks": 108,
@@ -115,7 +115,7 @@
       "thruplay": 412
     },
     {
-      "name": "sem nome",
+      "name": "Seu grande dia",
       "impressions": 4975,
       "reach": 3991,
       "clicks": 53,
@@ -124,7 +124,7 @@
       "thruplay": 1932
     },
     {
-      "name": "sem nome",
+      "name": "Cor e alongamento",
       "impressions": 2420,
       "reach": 1813,
       "clicks": 66,
@@ -133,7 +133,7 @@
       "thruplay": 91
     },
     {
-      "name": "sem nome",
+      "name": "Loiros — 2",
       "impressions": 1942,
       "reach": 836,
       "clicks": 36,
@@ -142,7 +142,7 @@
       "thruplay": 65
     },
     {
-      "name": "sem nome",
+      "name": "Mais do que um momento",
       "impressions": 3,
       "reach": 3,
       "clicks": 0,
@@ -168,7 +168,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 46.37,
+    "balance_brl": 46.49,
     "balance_low": false,
     "account_disabled": false
   },

@@ -4,7 +4,7 @@
     "account_name": "BIOMA Casa Fio",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T20:26:56.274Z",
+    "generated_at": "2026-08-31T20:33:42.465Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -42,9 +42,9 @@
       "delta_pct": -1
     },
     "ctr": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 3.82,
+      "previous": 3.16,
+      "delta_pct": 21
     },
     "cpc": {
       "current": 0.46,
@@ -75,7 +75,7 @@
         "delta_pct": 37
       },
       "top_creative": {
-        "name": "sem nome",
+        "name": "fernandahmacuco",
         "value": 14
       }
     },
@@ -97,7 +97,7 @@
   },
   "top_creatives": [
     {
-      "name": "sem nome",
+      "name": "fernandahmacuco - rec",
       "impressions": 12546,
       "reach": 12029,
       "clicks": 178,
@@ -106,7 +106,7 @@
       "thruplay": 2202
     },
     {
-      "name": "sem nome",
+      "name": "Experiencias BIOMA",
       "impressions": 11879,
       "reach": 6747,
       "clicks": 860,
@@ -115,7 +115,7 @@
       "thruplay": 0
     },
     {
-      "name": "sem nome",
+      "name": "fernandahmacuco",
       "impressions": 4043,
       "reach": 2875,
       "clicks": 127,
@@ -124,7 +124,7 @@
       "thruplay": 502
     },
     {
-      "name": "sem nome",
+      "name": "Detox também",
       "impressions": 1792,
       "reach": 1134,
       "clicks": 42,
@@ -133,7 +133,7 @@
       "thruplay": 139
     },
     {
-      "name": "sem nome",
+      "name": "Se você mora em Salvador",
       "impressions": 1554,
       "reach": 1540,
       "clicks": 23,
@@ -142,7 +142,7 @@
       "thruplay": 88
     },
     {
-      "name": "sem nome",
+      "name": "A queda capilar",
       "impressions": 1271,
       "reach": 766,
       "clicks": 40,
@@ -151,7 +151,7 @@
       "thruplay": 94
     },
     {
-      "name": "sem nome",
+      "name": "Frizz voltando",
       "impressions": 123,
       "reach": 102,
       "clicks": 1,
@@ -160,7 +160,7 @@
       "thruplay": 8
     },
     {
-      "name": "sem nome",
+      "name": "O Beauty Talk",
       "impressions": 14,
       "reach": 13,
       "clicks": 0,
@@ -169,7 +169,7 @@
       "thruplay": 2
     },
     {
-      "name": "sem nome",
+      "name": "Todo cuidado",
       "impressions": 14,
       "reach": 14,
       "clicks": 0,
@@ -195,7 +195,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 121.85,
+    "balance_brl": 121.73,
     "balance_low": false,
     "account_disabled": false
   },

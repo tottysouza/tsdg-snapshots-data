@@ -4,7 +4,7 @@
     "account_name": "BIOMA Jackeline",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T20:27:01.611Z",
+    "generated_at": "2026-08-31T20:33:56.742Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -42,9 +42,9 @@
       "delta_pct": -10
     },
     "ctr": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 3.5,
+      "previous": 3.27,
+      "delta_pct": 7
     },
     "cpc": {
       "current": 0.45,
@@ -75,7 +75,7 @@
         "delta_pct": 6
       },
       "top_creative": {
-        "name": "sem nome",
+        "name": "Corte",
         "value": 15
       }
     },
@@ -97,7 +97,7 @@
   },
   "top_creatives": [
     {
-      "name": "sem nome",
+      "name": "Seu cabelo - reconhecimento",
       "impressions": 13564,
       "reach": 12190,
       "clicks": 261,
@@ -106,7 +106,7 @@
       "thruplay": 2896
     },
     {
-      "name": "sem nome",
+      "name": "Corte",
       "impressions": 10267,
       "reach": 6906,
       "clicks": 264,
@@ -115,7 +115,7 @@
       "thruplay": 317
     },
     {
-      "name": "sem nome",
+      "name": "Tem dias que o corpo",
       "impressions": 9549,
       "reach": 7662,
       "clicks": 554,
@@ -124,7 +124,7 @@
       "thruplay": 252
     },
     {
-      "name": "sem nome",
+      "name": "Tem lugares",
       "impressions": 7728,
       "reach": 6568,
       "clicks": 424,
@@ -133,7 +133,7 @@
       "thruplay": 275
     },
     {
-      "name": "sem nome",
+      "name": "Tem lugares",
       "impressions": 1276,
       "reach": 507,
       "clicks": 3,
@@ -142,7 +142,7 @@
       "thruplay": 1165
     },
     {
-      "name": "sem nome",
+      "name": "Antes de qualquer ritual",
       "impressions": 1066,
       "reach": 860,
       "clicks": 21,
@@ -151,7 +151,7 @@
       "thruplay": 59
     },
     {
-      "name": "sem nome",
+      "name": "Nutrição Detox",
       "impressions": 102,
       "reach": 86,
       "clicks": 1,
@@ -160,7 +160,7 @@
       "thruplay": 8
     },
     {
-      "name": "sem nome",
+      "name": "A mala",
       "impressions": 81,
       "reach": 78,
       "clicks": 2,
@@ -169,7 +169,7 @@
       "thruplay": 0
     },
     {
-      "name": "sem nome",
+      "name": "Alguns lugares",
       "impressions": 70,
       "reach": 70,
       "clicks": 1,
@@ -178,7 +178,7 @@
       "thruplay": 23
     },
     {
-      "name": "sem nome",
+      "name": "Agosto",
       "impressions": 0,
       "reach": 0,
       "clicks": 0,
@@ -204,7 +204,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 159.55,
+    "balance_brl": 160.05,
     "balance_low": false,
     "account_disabled": false
   },

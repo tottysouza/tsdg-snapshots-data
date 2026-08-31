@@ -4,7 +4,7 @@
     "account_name": "MORINGA Barber",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T20:27:49.511Z",
+    "generated_at": "2026-08-31T20:34:39.115Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -42,9 +42,9 @@
       "delta_pct": 45
     },
     "ctr": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 1.64,
+      "previous": 1.42,
+      "delta_pct": 15
     },
     "cpc": {
       "current": 0.64,
@@ -75,7 +75,7 @@
         "delta_pct": 93
       },
       "top_creative": {
-        "name": "sem nome",
+        "name": "Barbeiro",
         "value": 6
       }
     },
@@ -97,7 +97,7 @@
   },
   "top_creatives": [
     {
-      "name": "sem nome",
+      "name": "Novo anúncio de Reconhecimento",
       "impressions": 24884,
       "reach": 17502,
       "clicks": 26,
@@ -106,7 +106,7 @@
       "thruplay": 158
     },
     {
-      "name": "sem nome",
+      "name": "Afinal",
       "impressions": 8136,
       "reach": 6915,
       "clicks": 443,
@@ -115,7 +115,7 @@
       "thruplay": 1295
     },
     {
-      "name": "sem nome",
+      "name": "Barbeiro",
       "impressions": 5273,
       "reach": 1837,
       "clicks": 102,
@@ -124,7 +124,7 @@
       "thruplay": 84
     },
     {
-      "name": "sem nome",
+      "name": "Afinal",
       "impressions": 5027,
       "reach": 3266,
       "clicks": 141,
@@ -133,7 +133,7 @@
       "thruplay": 686
     },
     {
-      "name": "sem nome",
+      "name": "Corte italiano",
       "impressions": 588,
       "reach": 484,
       "clicks": 8,
@@ -142,7 +142,7 @@
       "thruplay": 34
     },
     {
-      "name": "sem nome",
+      "name": "A elegância",
       "impressions": 86,
       "reach": 85,
       "clicks": 2,
@@ -168,7 +168,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 40.86,
+    "balance_brl": 41.12,
     "balance_low": false,
     "account_disabled": false
   },
