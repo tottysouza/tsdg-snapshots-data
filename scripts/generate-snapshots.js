@@ -18,7 +18,9 @@ import { dirname } from "node:path";
 // ============================================================
 // CONFIG — editar quando entrar/sair conta
 // ============================================================
-const PROXY_URL = "https://dash-trafego-pago.netlify.app/api/meta";
+// Proxy que o dashboard dash.tsdg.com.br usa com token válido.
+// Formato dos params idêntico ao proxy Netlify: method=getAccountData&account_id=X&period=custom&since=Y&until=Z
+const PROXY_URL = "https://billowing-mode-468c.totty.workers.dev/";
 
 const ACCOUNTS = [
   // ── HAIR (14 contas ativas — Terra do Beija Flor pausada, fora daqui)
