@@ -4,12 +4,10 @@
     "account_name": "BIOMA Casa Fio",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T18:28:30.152Z",
-    "fetch_status": "partial",
+    "generated_at": "2026-08-31T19:13:44.137Z",
+    "fetch_status": "ok",
     "fetch_source": "github_actions",
-    "notes": [
-      "previous: fetch failed"
-    ]
+    "notes": []
   },
   "period": {
     "current": {
@@ -24,24 +22,24 @@
   },
   "totals": {
     "spend": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 0,
+      "previous": 0,
+      "delta_pct": 0
     },
     "impressions": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 0,
+      "previous": 0,
+      "delta_pct": 0
     },
     "reach": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 0,
+      "previous": 0,
+      "delta_pct": 0
     },
     "clicks": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 0,
+      "previous": 0,
+      "delta_pct": 0
     },
     "ctr": {
       "current": null,
@@ -49,27 +47,27 @@
       "delta_pct": null
     },
     "cpc": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 0,
+      "previous": 0,
+      "delta_pct": 0
     },
     "thruplay": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 0,
+      "previous": 0,
+      "delta_pct": 0
     },
     "frequency": {
-      "current": null,
-      "previous": null,
-      "delta_pct": null
+      "current": 0,
+      "previous": 0,
+      "delta_pct": 0
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": null,
-        "previous": null,
-        "delta_pct": null
+        "current": 0,
+        "previous": 0,
+        "delta_pct": 0
       },
       "cost": {
         "current": null,
@@ -95,12 +93,29 @@
     "site_purchases": null
   },
   "top_creatives": [],
-  "demographics": null,
+  "demographics": {
+    "gender": {
+      "female_pct": 0,
+      "male_pct": 0,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    }
+  },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": null,
+    "balance_brl": 0,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": []
+  "auto_flags": [
+    "zero_conversations_current",
+    "zero_activity_current"
+  ]
 }

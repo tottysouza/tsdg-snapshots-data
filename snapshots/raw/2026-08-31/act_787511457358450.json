@@ -1,13 +1,13 @@
 {
   "current": {
-    "accountId": "act_806895401401781",
+    "accountId": "act_787511457358450",
     "saldo": 0,
     "periodo": "custom",
     "dateRange": {
       "since": "2026-08-24",
       "until": "2026-08-30"
     },
-    "timestamp": "2026-08-31T19:14:38.647Z",
+    "timestamp": "2026-08-31T19:13:28.081Z",
     "kpis": {
       "investimento": 0,
       "impressoes": 0,
@@ -48,14 +48,14 @@
     }
   },
   "previous": {
-    "accountId": "act_806895401401781",
+    "accountId": "act_787511457358450",
     "saldo": 0,
     "periodo": "custom",
     "dateRange": {
       "since": "2026-08-17",
       "until": "2026-08-23"
     },
-    "timestamp": "2026-08-31T19:14:55.479Z",
+    "timestamp": "2026-08-31T19:13:28.305Z",
     "kpis": {
       "investimento": 0,
       "impressoes": 0,
