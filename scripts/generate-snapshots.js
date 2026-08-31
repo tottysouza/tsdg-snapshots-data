@@ -190,26 +190,29 @@ function buildSnapshot(account, dates, currentRaw, previousRaw, fetchStatus, not
 // ============================================================
 function extractMetrics(raw) {
   if (!raw) return {};
-  // Schema real do proxy Netlify: dados em raw.kpis (PT-BR)
+  // Schema real do proxy: dados em raw.kpis (PT-BR)
   const k = raw.kpis || raw.totals || raw.summary || raw;
+  const clicks = num(k.cliques ?? k.clicks ?? k.link_clicks);
+  const impressions = num(k.impressoes ?? k.impressions);
+  // CTR: se proxy não trouxer, calcula (clicks/impressions * 100)
+  const ctr = num(k.ctr) ?? ((clicks != null && impressions != null && impressions > 0)
+    ? +((clicks / impressions) * 100).toFixed(2)
+    : null);
   return {
     spend:       num(k.investimento ?? k.spend ?? k.cost),
-    impressions: num(k.impressoes ?? k.impressions),
+    impressions,
     reach:       num(k.alcance ?? k.reach),
-    clicks:      num(k.cliques ?? k.clicks ?? k.link_clicks),
-    ctr:         num(k.ctr),
+    clicks,
+    ctr,
     cpc:         num(k.cpc),
     cpm:         num(k.cpm),
-    cpa:         num(k.cpa), // custo por ação (mensagem OU visita, depende do objetivo da conta)
+    cpa:         num(k.cpa),
     thruplay:    num(k.thruplay ?? k.thru_play),
     frequency:   num(k.frequencia ?? k.frequency),
     messages:    num(k.mensagens ?? k.messages ?? k.conversas),
-    // Custo por mensagem: se proxy não trouxer direto, calcula (investimento / mensagens)
     cost_per_message: (num(k.mensagens) > 0)
       ? +(num(k.investimento) / num(k.mensagens)).toFixed(2)
       : null,
-    // IG visits / site visits: não têm campos próprios nos KPIs do proxy;
-    // TODO: extrair de raw.ads[] filtrando por objetivo do anúncio quando dados chegarem.
     ig_visits:   null,
     cost_per_ig_visit: null,
     site_visits: null,
@@ -222,10 +225,15 @@ function extractMetrics(raw) {
   };
 }
 
+function creativeName(ad) {
+  // Tenta vários campos possíveis onde o nome pode estar
+  return ad.name || ad.ad_name || ad.adName || ad.creative_name || ad.creativeName
+      || ad.title || ad.titulo || ad.nome || ad.label || "sem nome";
+}
+
 function extractTopCreative(raw, metric) {
   const ads = raw?.ads || raw?.creatives || raw?.top_ads || [];
   if (!Array.isArray(ads) || ads.length === 0) return null;
-  // Aliases PT-BR + EN pra cada tipo de métrica
   const keys = metric === "mensagens" || metric === "messages" ? ["mensagens", "messages", "conversas"]
              : metric === "ig_visits" ? ["ig_visits", "visitas_instagram", "profile_visit"]
              : metric === "site_visits" ? ["site_visits", "landing_page_views", "visitas_site"]
@@ -234,7 +242,7 @@ function extractTopCreative(raw, metric) {
   for (const ad of ads) {
     const v = firstDefined(ad, keys);
     if (v == null) continue;
-    if (!best || v > best.value) best = { name: ad.name || ad.creative_name || ad.ad_name || "sem nome", value: num(v) };
+    if (!best || v > best.value) best = { name: creativeName(ad), value: num(v) };
   }
   return best;
 }
@@ -243,7 +251,7 @@ function extractTopCreatives(raw) {
   const ads = raw?.ads || raw?.creatives || raw?.top_ads || [];
   if (!Array.isArray(ads)) return [];
   return ads.slice(0, 10).map((ad) => ({
-    name: ad.name || ad.creative_name || ad.ad_name || "sem nome",
+    name: creativeName(ad),
     impressions: num(ad.impressoes ?? ad.impressions),
     reach: num(ad.alcance ?? ad.reach),
     clicks: num(ad.cliques ?? ad.clicks),
@@ -355,7 +363,7 @@ async function fetchProxy(accountId, since, until) {
   // Tenta 2x: se der erro transitório, aguarda 2s e tenta de novo
   const MAX_ATTEMPTS = 2;
   const RETRY_DELAY_MS = 2000;
-  const FETCH_TIMEOUT_MS = 15000;
+  const FETCH_TIMEOUT_MS = 25000; // 25s — Valéria Alleoni e algumas outras demoram
 
   let lastError;
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
@@ -373,7 +381,7 @@ async function fetchProxy(accountId, since, until) {
       return data;
     } catch (e) {
       clearTimeout(timeoutId);
-      lastError = e.name === "AbortError" ? new Error("timeout 15s") : e;
+      lastError = e.name === "AbortError" ? new Error("timeout 25s") : e;
       if (attempt < MAX_ATTEMPTS) await sleep(RETRY_DELAY_MS);
     }
   }
