@@ -60,9 +60,21 @@ async function main() {
   console.log(`  previous: ${dates.previous.since} → ${dates.previous.until}`);
   console.log(`  accounts: ${ACCOUNTS.length}\n`);
 
-  const results = await Promise.allSettled(
-    ACCOUNTS.map((acc) => processAccount(acc, dates))
-  );
+  // Processa em batches pra não sobrecarregar o proxy Netlify.
+  // 3 contas por vez = 6 requests simultâneos máx (2 períodos por conta).
+  const BATCH_SIZE = 3;
+  const BATCH_DELAY_MS = 500;
+  const results = [];
+  for (let i = 0; i < ACCOUNTS.length; i += BATCH_SIZE) {
+    const batch = ACCOUNTS.slice(i, i + BATCH_SIZE);
+    const batchResults = await Promise.allSettled(
+      batch.map((acc) => processAccount(acc, dates))
+    );
+    results.push(...batchResults);
+    if (i + BATCH_SIZE < ACCOUNTS.length) {
+      await sleep(BATCH_DELAY_MS);
+    }
+  }
 
   const summary = compileSummary(results, dates, startedAt);
   await writeJson(`snapshots/runs/${dates.today}.json`, summary);
@@ -143,7 +155,8 @@ function buildSnapshot(account, dates, currentRaw, previousRaw, fetchStatus, not
     site_purchases:    account.template === "VIRGO" ? purchaseBlock(cur.purchases, prev.purchases, cur.revenue, cur.spend) : null,
   };
 
-  const autoFlags = computeAutoFlags(totals, conversions, cur);
+  const health = extractHealth(currentRaw);
+  const autoFlags = computeAutoFlags(totals, conversions, cur, health);
 
   return {
     meta: {
@@ -165,7 +178,7 @@ function buildSnapshot(account, dates, currentRaw, previousRaw, fetchStatus, not
     top_creatives: extractTopCreatives(currentRaw),
     demographics: extractDemographics(currentRaw),
     campaigns_active: extractCampaigns(currentRaw),
-    account_health: extractHealth(currentRaw),
+    account_health: health,
     auto_flags: autoFlags,
   };
 }
@@ -175,25 +188,33 @@ function buildSnapshot(account, dates, currentRaw, previousRaw, fetchStatus, not
 // ============================================================
 function extractMetrics(raw) {
   if (!raw) return {};
-  const t = raw.totals || raw.summary || raw.aggregate || raw;
+  // Schema real do proxy Netlify: dados em raw.kpis (PT-BR)
+  const k = raw.kpis || raw.totals || raw.summary || raw;
   return {
-    spend:       num(t.spend ?? t.investimento ?? t.cost),
-    impressions: num(t.impressions ?? t.impressoes ?? t.impressao),
-    reach:       num(t.reach ?? t.alcance),
-    clicks:      num(t.clicks ?? t.cliques ?? t.link_clicks),
-    ctr:         num(t.ctr),
-    cpc:         num(t.cpc),
-    thruplay:    num(t.thruplay ?? t.thru_play ?? t.video_thruplay_watched_actions),
-    frequency:   num(t.frequency ?? t.frequencia),
-    messages:    num(t.messages ?? t.conversas ?? t.onsite_conversion_messaging_conversation_started_7d),
-    cost_per_message: num(t.cost_per_message ?? t.custo_por_conversa),
-    ig_visits:   num(t.ig_visits ?? t.instagram_visits ?? t.visitas_instagram ?? t.profile_visit),
-    cost_per_ig_visit: num(t.cost_per_ig_visit ?? t.custo_por_visita_ig),
-    site_visits: num(t.site_visits ?? t.landing_page_views ?? t.visitas_site),
-    cost_per_site_visit: num(t.cost_per_site_visit ?? t.custo_por_visita_site),
-    purchases:   num(t.purchases ?? t.compras ?? t.omni_purchase),
-    revenue:     num(t.revenue ?? t.receita ?? t.purchase_value),
-    top_creative_messages: extractTopCreative(raw, "messages"),
+    spend:       num(k.investimento ?? k.spend ?? k.cost),
+    impressions: num(k.impressoes ?? k.impressions),
+    reach:       num(k.alcance ?? k.reach),
+    clicks:      num(k.cliques ?? k.clicks ?? k.link_clicks),
+    ctr:         num(k.ctr),
+    cpc:         num(k.cpc),
+    cpm:         num(k.cpm),
+    cpa:         num(k.cpa), // custo por ação (mensagem OU visita, depende do objetivo da conta)
+    thruplay:    num(k.thruplay ?? k.thru_play),
+    frequency:   num(k.frequencia ?? k.frequency),
+    messages:    num(k.mensagens ?? k.messages ?? k.conversas),
+    // Custo por mensagem: se proxy não trouxer direto, calcula (investimento / mensagens)
+    cost_per_message: (num(k.mensagens) > 0)
+      ? +(num(k.investimento) / num(k.mensagens)).toFixed(2)
+      : null,
+    // IG visits / site visits: não têm campos próprios nos KPIs do proxy;
+    // TODO: extrair de raw.ads[] filtrando por objetivo do anúncio quando dados chegarem.
+    ig_visits:   null,
+    cost_per_ig_visit: null,
+    site_visits: null,
+    cost_per_site_visit: null,
+    purchases:   null,
+    revenue:     null,
+    top_creative_messages: extractTopCreative(raw, "mensagens"),
     top_creative_ig:       extractTopCreative(raw, "ig_visits"),
     top_creative_site:     extractTopCreative(raw, "site_visits"),
   };
@@ -202,9 +223,10 @@ function extractMetrics(raw) {
 function extractTopCreative(raw, metric) {
   const ads = raw?.ads || raw?.creatives || raw?.top_ads || [];
   if (!Array.isArray(ads) || ads.length === 0) return null;
-  const keys = metric === "messages" ? ["messages", "conversas"]
+  // Aliases PT-BR + EN pra cada tipo de métrica
+  const keys = metric === "mensagens" || metric === "messages" ? ["mensagens", "messages", "conversas"]
              : metric === "ig_visits" ? ["ig_visits", "visitas_instagram", "profile_visit"]
-             : metric === "site_visits" ? ["site_visits", "landing_page_views"]
+             : metric === "site_visits" ? ["site_visits", "landing_page_views", "visitas_site"]
              : [metric];
   let best = null;
   for (const ad of ads) {
@@ -220,22 +242,40 @@ function extractTopCreatives(raw) {
   if (!Array.isArray(ads)) return [];
   return ads.slice(0, 10).map((ad) => ({
     name: ad.name || ad.creative_name || ad.ad_name || "sem nome",
-    impressions: num(ad.impressions ?? ad.impressoes),
-    reach: num(ad.reach ?? ad.alcance),
-    clicks: num(ad.clicks ?? ad.cliques),
-    messages: num(ad.messages ?? ad.conversas),
+    impressions: num(ad.impressoes ?? ad.impressions),
+    reach: num(ad.alcance ?? ad.reach),
+    clicks: num(ad.cliques ?? ad.clicks),
+    messages: num(ad.mensagens ?? ad.messages ?? ad.conversas),
     ctr: num(ad.ctr),
     thruplay: num(ad.thruplay ?? ad.thru_play),
   }));
 }
 
 function extractDemographics(raw) {
-  const demo = raw?.demographics || raw?.demografia || null;
-  if (!demo) return null;
+  if (!raw) return null;
+  // Schema real: genero e idade na raiz do raw (não em raw.demographics)
+  const gender = raw.genero || raw.demographics?.gender || raw.demographics?.genero;
+  const age = raw.idade || raw.demographics?.age || raw.demographics?.idade;
+  if (!gender && !age) return null;
+  // Normaliza gênero: F/M/U → female_pct/male_pct/unknown_pct
+  const normalizedGender = gender ? {
+    female_pct: pct(gender.F ?? gender.female ?? gender.female_pct, gender),
+    male_pct: pct(gender.M ?? gender.male ?? gender.male_pct, gender),
+    unknown_pct: pct(gender.U ?? gender.unknown ?? gender.unknown_pct, gender),
+  } : null;
   return {
-    gender: demo.gender || demo.genero || null,
-    age: demo.age || demo.idade || null,
+    gender: normalizedGender,
+    age: age || null,
   };
+}
+
+// Converte contagem absoluta em porcentagem sobre o total do objeto
+function pct(value, obj) {
+  const v = num(value);
+  if (v == null) return null;
+  const total = Object.values(obj).reduce((sum, x) => sum + (num(x) || 0), 0);
+  if (total === 0) return 0;
+  return Math.round((v / total) * 100);
 }
 
 function extractCampaigns(raw) {
@@ -253,13 +293,13 @@ function extractCampaigns(raw) {
 }
 
 function extractHealth(raw) {
-  const h = raw?.account || raw?.account_health || raw?.health || {};
-  const balanceCents = num(h.balance);
-  const balanceBrl = balanceCents ? balanceCents / 100 : null;
+  if (!raw) return { balance_brl: null, balance_low: false, account_disabled: false };
+  // Schema real: raw.saldo na raiz. Assumindo já em reais (não em centavos).
+  const balance = num(raw.saldo);
   return {
-    balance_brl: balanceBrl,
-    balance_low: false,
-    account_disabled: h.disable_reason != null && h.disable_reason !== 0,
+    balance_brl: balance,
+    balance_low: false, // computed depois no auto_flags cruzando com spend
+    account_disabled: raw.disable_reason != null && raw.disable_reason !== 0,
   };
 }
 
@@ -289,24 +329,56 @@ function deltaPct(current, previous) {
   return Math.round(((current - previous) / previous) * 100);
 }
 
-function computeAutoFlags(totals, conversions, cur) {
+function computeAutoFlags(totals, conversions, cur, health) {
   const flags = [];
   if (Math.abs(totals.spend.delta_pct ?? 0) > 50) flags.push("spend_delta_over_50");
   if (conversions.whatsapp_messages?.count?.current === 0) flags.push("zero_conversations_current");
   const topMsg = conversions.whatsapp_messages?.top_creative?.value;
   const totalMsg = conversions.whatsapp_messages?.count?.current;
   if (topMsg && totalMsg && (topMsg / totalMsg) > 0.8) flags.push("creative_concentration_over_80");
+  // Saldo baixo: cobre menos de 3 dias no ritmo atual
+  if (health?.balance_brl != null && cur.spend && cur.spend > 0) {
+    const dailyAvg = cur.spend / 7;
+    if (health.balance_brl < dailyAvg * 3) flags.push("balance_low");
+  }
+  if (health?.account_disabled) flags.push("account_disabled");
+  // Sinal explícito de conta zerada (comum em contas pausadas ou sem saldo)
+  if (cur.spend === 0 && cur.impressions === 0) flags.push("zero_activity_current");
   return flags;
 }
 
 async function fetchProxy(accountId, since, until) {
   const url = `${PROXY_URL}?method=getAccountData&account_id=${accountId}&period=custom&since=${since}&until=${until}`;
-  const res = await fetch(url, { headers: { "accept": "application/json" } });
-  if (!res.ok) throw new Error(`proxy ${res.status}`);
-  const data = await res.json();
-  if (data.error) throw new Error(`proxy error: ${JSON.stringify(data.error).slice(0, 100)}`);
-  return data;
+
+  // Tenta 2x: se der erro transitório, aguarda 2s e tenta de novo
+  const MAX_ATTEMPTS = 2;
+  const RETRY_DELAY_MS = 2000;
+  const FETCH_TIMEOUT_MS = 15000;
+
+  let lastError;
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+    try {
+      const res = await fetch(url, {
+        headers: { "accept": "application/json" },
+        signal: controller.signal,
+      });
+      clearTimeout(timeoutId);
+      if (!res.ok) throw new Error(`proxy ${res.status}`);
+      const data = await res.json();
+      if (data.error) throw new Error(`proxy error: ${JSON.stringify(data.error).slice(0, 100)}`);
+      return data;
+    } catch (e) {
+      clearTimeout(timeoutId);
+      lastError = e.name === "AbortError" ? new Error("timeout 15s") : e;
+      if (attempt < MAX_ATTEMPTS) await sleep(RETRY_DELAY_MS);
+    }
+  }
+  throw lastError;
 }
+
+function sleep(ms) { return new Promise((r) => setTimeout(r, ms)); }
 
 function computeDateWindows() {
   const now = new Date();
