@@ -1,0 +1,37 @@
+# Netlify config — serve snapshots como estático a partir do repo GitHub
+
+# Nada pra buildar — só servir os arquivos JSON do diretório
+[build]
+  publish = "."
+  command = ""
+
+# URL bonita: /api/snapshot/act_XXX → /snapshots/latest/act_XXX.json
+[[redirects]]
+  from = "/api/snapshot/:accountId"
+  to = "/snapshots/latest/:accountId.json"
+  status = 200
+
+# URL com data histórica: /api/snapshot/act_XXX/2026-09-15
+[[redirects]]
+  from = "/api/snapshot/:accountId/:date"
+  to = "/snapshots/history/:date/:accountId.json"
+  status = 200
+
+# Lista de execuções do dia (resumo do cron)
+[[redirects]]
+  from = "/api/runs/:date"
+  to = "/snapshots/runs/:date.json"
+  status = 200
+
+# CORS liberado pra Claude fazer fetch sem drama
+[[headers]]
+  for = "/api/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "public, max-age=300"
+
+[[headers]]
+  for = "/snapshots/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "public, max-age=300"
