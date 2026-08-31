@@ -4,7 +4,7 @@
     "account_name": "BIOMA Brisa",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T19:13:28.382Z",
+    "generated_at": "2026-08-31T20:26:57.359Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -22,24 +22,24 @@
   },
   "totals": {
     "spend": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 288.53,
+      "previous": 356.61,
+      "delta_pct": -19
     },
     "impressions": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 38406,
+      "previous": 54107,
+      "delta_pct": -29
     },
     "reach": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 34056,
+      "previous": 45972,
+      "delta_pct": -26
     },
     "clicks": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 292,
+      "previous": 327,
+      "delta_pct": -11
     },
     "ctr": {
       "current": null,
@@ -47,34 +47,37 @@
       "delta_pct": null
     },
     "cpc": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 0.99,
+      "previous": 1.09,
+      "delta_pct": -9
     },
     "thruplay": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 675,
+      "previous": 812,
+      "delta_pct": -17
     },
     "frequency": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 1.13,
+      "previous": 1.18,
+      "delta_pct": -4
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 0,
-        "previous": 0,
-        "delta_pct": 0
+        "current": 22,
+        "previous": 33,
+        "delta_pct": -33
       },
       "cost": {
-        "current": null,
-        "previous": null,
-        "delta_pct": null
+        "current": 13.11,
+        "previous": 10.81,
+        "delta_pct": 21
       },
-      "top_creative": null
+      "top_creative": {
+        "name": "sem nome",
+        "value": 12
+      }
     },
     "instagram_visits": {
       "count": {
@@ -92,30 +95,102 @@
     "site_visits": null,
     "site_purchases": null
   },
-  "top_creatives": [],
+  "top_creatives": [
+    {
+      "name": "sem nome",
+      "impressions": 30246,
+      "reach": 27876,
+      "clicks": 78,
+      "messages": 0,
+      "ctr": 0.26,
+      "thruplay": 133
+    },
+    {
+      "name": "sem nome",
+      "impressions": 3390,
+      "reach": 2312,
+      "clicks": 152,
+      "messages": 12,
+      "ctr": 4.48,
+      "thruplay": 477
+    },
+    {
+      "name": "sem nome",
+      "impressions": 2759,
+      "reach": 2757,
+      "clicks": 8,
+      "messages": 0,
+      "ctr": 0.29,
+      "thruplay": 23
+    },
+    {
+      "name": "sem nome",
+      "impressions": 1117,
+      "reach": 434,
+      "clicks": 35,
+      "messages": 8,
+      "ctr": 3.13,
+      "thruplay": 0
+    },
+    {
+      "name": "sem nome",
+      "impressions": 498,
+      "reach": 492,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 0.4,
+      "thruplay": 0
+    },
+    {
+      "name": "sem nome",
+      "impressions": 251,
+      "reach": 210,
+      "clicks": 8,
+      "messages": 1,
+      "ctr": 3.19,
+      "thruplay": 17
+    },
+    {
+      "name": "sem nome",
+      "impressions": 123,
+      "reach": 105,
+      "clicks": 7,
+      "messages": 1,
+      "ctr": 5.69,
+      "thruplay": 21
+    },
+    {
+      "name": "sem nome",
+      "impressions": 22,
+      "reach": 19,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 9.09,
+      "thruplay": 4
+    }
+  ],
   "demographics": {
     "gender": {
-      "female_pct": 0,
-      "male_pct": 0,
+      "female_pct": 88,
+      "male_pct": 12,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 0,
-      "35-44": 0,
-      "45-54": 0,
-      "55-64": 0,
-      "65+": 0
+      "25-34": 18,
+      "35-44": 15,
+      "45-54": 21,
+      "55-64": 28,
+      "65+": 19
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 0,
+    "balance_brl": 50.58,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
-    "zero_conversations_current",
-    "zero_activity_current"
+    "balance_low"
   ]
 }

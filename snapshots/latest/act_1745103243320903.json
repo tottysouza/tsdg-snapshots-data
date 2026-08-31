@@ -4,7 +4,7 @@
     "account_name": "BIOMA Casa 631",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T19:13:29.495Z",
+    "generated_at": "2026-08-31T20:26:54.770Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -22,24 +22,24 @@
   },
   "totals": {
     "spend": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 383.22,
+      "previous": 402.36,
+      "delta_pct": -5
     },
     "impressions": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 25221,
+      "previous": 24001,
+      "delta_pct": 5
     },
     "reach": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 13490,
+      "previous": 11466,
+      "delta_pct": 18
     },
     "clicks": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 484,
+      "previous": 616,
+      "delta_pct": -21
     },
     "ctr": {
       "current": null,
@@ -47,34 +47,37 @@
       "delta_pct": null
     },
     "cpc": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 0.79,
+      "previous": 0.65,
+      "delta_pct": 22
     },
     "thruplay": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 1923,
+      "previous": 2202,
+      "delta_pct": -13
     },
     "frequency": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 1.87,
+      "previous": 2.09,
+      "delta_pct": -11
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 0,
-        "previous": 0,
-        "delta_pct": 0
+        "current": 9,
+        "previous": 19,
+        "delta_pct": -53
       },
       "cost": {
-        "current": null,
-        "previous": null,
-        "delta_pct": null
+        "current": 42.58,
+        "previous": 21.18,
+        "delta_pct": 101
       },
-      "top_creative": null
+      "top_creative": {
+        "name": "sem nome",
+        "value": 6
+      }
     },
     "instagram_visits": {
       "count": {
@@ -92,30 +95,91 @@
     "site_visits": null,
     "site_purchases": null
   },
-  "top_creatives": [],
+  "top_creatives": [
+    {
+      "name": "sem nome",
+      "impressions": 11030,
+      "reach": 5968,
+      "clicks": 218,
+      "messages": 0,
+      "ctr": 1.98,
+      "thruplay": 134
+    },
+    {
+      "name": "sem nome",
+      "impressions": 3587,
+      "reach": 1641,
+      "clicks": 63,
+      "messages": 6,
+      "ctr": 1.76,
+      "thruplay": 174
+    },
+    {
+      "name": "sem nome",
+      "impressions": 2770,
+      "reach": 1324,
+      "clicks": 56,
+      "messages": 3,
+      "ctr": 2.02,
+      "thruplay": 206
+    },
+    {
+      "name": "sem nome",
+      "impressions": 2757,
+      "reach": 2281,
+      "clicks": 66,
+      "messages": 0,
+      "ctr": 2.39,
+      "thruplay": 133
+    },
+    {
+      "name": "sem nome",
+      "impressions": 2596,
+      "reach": 2183,
+      "clicks": 22,
+      "messages": 0,
+      "ctr": 0.85,
+      "thruplay": 1023
+    },
+    {
+      "name": "sem nome",
+      "impressions": 1556,
+      "reach": 1347,
+      "clicks": 46,
+      "messages": 0,
+      "ctr": 2.96,
+      "thruplay": 73
+    },
+    {
+      "name": "sem nome",
+      "impressions": 925,
+      "reach": 893,
+      "clicks": 13,
+      "messages": 0,
+      "ctr": 1.41,
+      "thruplay": 180
+    }
+  ],
   "demographics": {
     "gender": {
-      "female_pct": 0,
-      "male_pct": 0,
+      "female_pct": 88,
+      "male_pct": 12,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 0,
-      "35-44": 0,
-      "45-54": 0,
-      "55-64": 0,
-      "65+": 0
+      "25-34": 39,
+      "35-44": 23,
+      "45-54": 16,
+      "55-64": 13,
+      "65+": 10
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 0,
+    "balance_brl": 182.11,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": [
-    "zero_conversations_current",
-    "zero_activity_current"
-  ]
+  "auto_flags": []
 }

@@ -4,7 +4,7 @@
     "account_name": "Espaçolaser Caçapava",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-08-31T19:14:56.570Z",
+    "generated_at": "2026-08-31T20:27:57.943Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -22,24 +22,24 @@
   },
   "totals": {
     "spend": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 436.25,
+      "previous": 389.26,
+      "delta_pct": 12
     },
     "impressions": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 39238,
+      "previous": 40618,
+      "delta_pct": -3
     },
     "reach": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 21553,
+      "previous": 23001,
+      "delta_pct": -6
     },
     "clicks": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 406,
+      "previous": 466,
+      "delta_pct": -13
     },
     "ctr": {
       "current": null,
@@ -47,34 +47,37 @@
       "delta_pct": null
     },
     "cpc": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 1.07,
+      "previous": 0.84,
+      "delta_pct": 27
     },
     "thruplay": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 2590,
+      "previous": 2440,
+      "delta_pct": 6
     },
     "frequency": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 1.82,
+      "previous": 1.77,
+      "delta_pct": 3
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 0,
-        "previous": 0,
-        "delta_pct": 0
+        "current": 16,
+        "previous": 13,
+        "delta_pct": 23
       },
       "cost": {
-        "current": null,
-        "previous": null,
-        "delta_pct": null
+        "current": 27.27,
+        "previous": 29.94,
+        "delta_pct": -9
       },
-      "top_creative": null
+      "top_creative": {
+        "name": "sem nome",
+        "value": 14
+      }
     },
     "instagram_visits": {
       "count": {
@@ -92,30 +95,121 @@
     "site_visits": null,
     "site_purchases": null
   },
-  "top_creatives": [],
+  "top_creatives": [
+    {
+      "name": "sem nome",
+      "impressions": 20999,
+      "reach": 10873,
+      "clicks": 130,
+      "messages": 14,
+      "ctr": 0.62,
+      "thruplay": 564
+    },
+    {
+      "name": "sem nome",
+      "impressions": 5974,
+      "reach": 5660,
+      "clicks": 74,
+      "messages": 0,
+      "ctr": 1.24,
+      "thruplay": 1237
+    },
+    {
+      "name": "sem nome",
+      "impressions": 5239,
+      "reach": 2319,
+      "clicks": 27,
+      "messages": 2,
+      "ctr": 0.52,
+      "thruplay": 253
+    },
+    {
+      "name": "sem nome",
+      "impressions": 2645,
+      "reach": 2370,
+      "clicks": 68,
+      "messages": 0,
+      "ctr": 2.57,
+      "thruplay": 150
+    },
+    {
+      "name": "sem nome",
+      "impressions": 2207,
+      "reach": 1965,
+      "clicks": 70,
+      "messages": 0,
+      "ctr": 3.17,
+      "thruplay": 65
+    },
+    {
+      "name": "sem nome",
+      "impressions": 1390,
+      "reach": 1341,
+      "clicks": 9,
+      "messages": 0,
+      "ctr": 0.65,
+      "thruplay": 279
+    },
+    {
+      "name": "sem nome",
+      "impressions": 425,
+      "reach": 407,
+      "clicks": 21,
+      "messages": 0,
+      "ctr": 4.94,
+      "thruplay": 31
+    },
+    {
+      "name": "sem nome",
+      "impressions": 204,
+      "reach": 194,
+      "clicks": 6,
+      "messages": 0,
+      "ctr": 2.94,
+      "thruplay": 4
+    },
+    {
+      "name": "sem nome",
+      "impressions": 98,
+      "reach": 85,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    },
+    {
+      "name": "sem nome",
+      "impressions": 54,
+      "reach": 54,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 1.85,
+      "thruplay": 5
+    }
+  ],
   "demographics": {
     "gender": {
-      "female_pct": 0,
-      "male_pct": 0,
+      "female_pct": 68,
+      "male_pct": 32,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 0,
-      "35-44": 0,
-      "45-54": 0,
-      "55-64": 0,
-      "65+": 0
+      "25-34": 34,
+      "35-44": 26,
+      "45-54": 16,
+      "55-64": 11,
+      "65+": 13
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 0,
+    "balance_brl": 39.23,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
-    "zero_conversations_current",
-    "zero_activity_current"
+    "creative_concentration_over_80",
+    "balance_low"
   ]
 }

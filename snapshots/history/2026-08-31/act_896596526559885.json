@@ -4,7 +4,7 @@
     "account_name": "VIRGO Cases",
     "segment": "TECH",
     "template": "VIRGO",
-    "generated_at": "2026-08-31T19:14:56.935Z",
+    "generated_at": "2026-08-31T20:27:57.148Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -23,23 +23,23 @@
   "totals": {
     "spend": {
       "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "previous": 511.44,
+      "delta_pct": -100
     },
     "impressions": {
       "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "previous": 65125,
+      "delta_pct": -100
     },
     "reach": {
       "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "previous": 32156,
+      "delta_pct": -100
     },
     "clicks": {
       "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "previous": 4049,
+      "delta_pct": -100
     },
     "ctr": {
       "current": null,
@@ -48,30 +48,30 @@
     },
     "cpc": {
       "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "previous": 0.13,
+      "delta_pct": -100
     },
     "thruplay": {
       "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "previous": 683,
+      "delta_pct": -100
     },
     "frequency": {
       "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "previous": 2.03,
+      "delta_pct": -100
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
         "current": 0,
-        "previous": 0,
-        "delta_pct": 0
+        "previous": 1,
+        "delta_pct": -100
       },
       "cost": {
         "current": null,
-        "previous": null,
+        "previous": 511.44,
         "delta_pct": null
       },
       "top_creative": null
@@ -130,11 +130,12 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 0,
+    "balance_brl": 57.87,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
+    "spend_delta_over_50",
     "zero_conversations_current",
     "zero_activity_current"
   ]

@@ -4,7 +4,7 @@
     "account_name": "BIOMA Jackeline",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T19:13:45.282Z",
+    "generated_at": "2026-08-31T20:27:01.611Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -22,24 +22,24 @@
   },
   "totals": {
     "spend": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 687.14,
+      "previous": 719.69,
+      "delta_pct": -5
     },
     "impressions": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 43703,
+      "previous": 52165,
+      "delta_pct": -16
     },
     "reach": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 33873,
+      "previous": 40257,
+      "delta_pct": -16
     },
     "clicks": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 1531,
+      "previous": 1708,
+      "delta_pct": -10
     },
     "ctr": {
       "current": null,
@@ -47,34 +47,37 @@
       "delta_pct": null
     },
     "cpc": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 0.45,
+      "previous": 0.42,
+      "delta_pct": 7
     },
     "thruplay": {
-      "current": 0,
-      "previous": 0,
+      "current": 4995,
+      "previous": 5002,
       "delta_pct": 0
     },
     "frequency": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 1.29,
+      "previous": 1.3,
+      "delta_pct": -1
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 0,
-        "previous": 0,
-        "delta_pct": 0
+        "current": 18,
+        "previous": 20,
+        "delta_pct": -10
       },
       "cost": {
-        "current": null,
-        "previous": null,
-        "delta_pct": null
+        "current": 38.17,
+        "previous": 35.98,
+        "delta_pct": 6
       },
-      "top_creative": null
+      "top_creative": {
+        "name": "sem nome",
+        "value": 15
+      }
     },
     "instagram_visits": {
       "count": {
@@ -92,30 +95,121 @@
     "site_visits": null,
     "site_purchases": null
   },
-  "top_creatives": [],
+  "top_creatives": [
+    {
+      "name": "sem nome",
+      "impressions": 13564,
+      "reach": 12190,
+      "clicks": 261,
+      "messages": 2,
+      "ctr": 1.92,
+      "thruplay": 2896
+    },
+    {
+      "name": "sem nome",
+      "impressions": 10267,
+      "reach": 6906,
+      "clicks": 264,
+      "messages": 15,
+      "ctr": 2.57,
+      "thruplay": 317
+    },
+    {
+      "name": "sem nome",
+      "impressions": 9549,
+      "reach": 7662,
+      "clicks": 554,
+      "messages": 0,
+      "ctr": 5.8,
+      "thruplay": 252
+    },
+    {
+      "name": "sem nome",
+      "impressions": 7728,
+      "reach": 6568,
+      "clicks": 424,
+      "messages": 0,
+      "ctr": 5.49,
+      "thruplay": 275
+    },
+    {
+      "name": "sem nome",
+      "impressions": 1276,
+      "reach": 507,
+      "clicks": 3,
+      "messages": 0,
+      "ctr": 0.24,
+      "thruplay": 1165
+    },
+    {
+      "name": "sem nome",
+      "impressions": 1066,
+      "reach": 860,
+      "clicks": 21,
+      "messages": 1,
+      "ctr": 1.97,
+      "thruplay": 59
+    },
+    {
+      "name": "sem nome",
+      "impressions": 102,
+      "reach": 86,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 0.98,
+      "thruplay": 8
+    },
+    {
+      "name": "sem nome",
+      "impressions": 81,
+      "reach": 78,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 2.47,
+      "thruplay": 0
+    },
+    {
+      "name": "sem nome",
+      "impressions": 70,
+      "reach": 70,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 1.43,
+      "thruplay": 23
+    },
+    {
+      "name": "sem nome",
+      "impressions": 0,
+      "reach": 0,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    }
+  ],
   "demographics": {
     "gender": {
-      "female_pct": 0,
-      "male_pct": 0,
+      "female_pct": 80,
+      "male_pct": 20,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 0,
-      "35-44": 0,
-      "45-54": 0,
-      "55-64": 0,
-      "65+": 0
+      "25-34": 35,
+      "35-44": 22,
+      "45-54": 11,
+      "55-64": 15,
+      "65+": 16
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 0,
+    "balance_brl": 159.55,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
-    "zero_conversations_current",
-    "zero_activity_current"
+    "creative_concentration_over_80",
+    "balance_low"
   ]
 }

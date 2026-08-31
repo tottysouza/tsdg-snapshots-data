@@ -4,7 +4,7 @@
     "account_name": "MORINGA Barber",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T19:14:41.141Z",
+    "generated_at": "2026-08-31T20:27:49.511Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -22,24 +22,24 @@
   },
   "totals": {
     "spend": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 462.22,
+      "previous": 258.32,
+      "delta_pct": 79
     },
     "impressions": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 43994,
+      "previous": 35219,
+      "delta_pct": 25
     },
     "reach": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 28425,
+      "previous": 22244,
+      "delta_pct": 28
     },
     "clicks": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 722,
+      "previous": 499,
+      "delta_pct": 45
     },
     "ctr": {
       "current": null,
@@ -47,34 +47,37 @@
       "delta_pct": null
     },
     "cpc": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 0.64,
+      "previous": 0.52,
+      "delta_pct": 23
     },
     "thruplay": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 2257,
+      "previous": 907,
+      "delta_pct": 149
     },
     "frequency": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 1.55,
+      "previous": 1.58,
+      "delta_pct": -2
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 0,
-        "previous": 0,
-        "delta_pct": 0
+        "current": 13,
+        "previous": 14,
+        "delta_pct": -7
       },
       "cost": {
-        "current": null,
-        "previous": null,
-        "delta_pct": null
+        "current": 35.56,
+        "previous": 18.45,
+        "delta_pct": 93
       },
-      "top_creative": null
+      "top_creative": {
+        "name": "sem nome",
+        "value": 6
+      }
     },
     "instagram_visits": {
       "count": {
@@ -92,30 +95,85 @@
     "site_visits": null,
     "site_purchases": null
   },
-  "top_creatives": [],
+  "top_creatives": [
+    {
+      "name": "sem nome",
+      "impressions": 24884,
+      "reach": 17502,
+      "clicks": 26,
+      "messages": 0,
+      "ctr": 0.1,
+      "thruplay": 158
+    },
+    {
+      "name": "sem nome",
+      "impressions": 8136,
+      "reach": 6915,
+      "clicks": 443,
+      "messages": 0,
+      "ctr": 5.44,
+      "thruplay": 1295
+    },
+    {
+      "name": "sem nome",
+      "impressions": 5273,
+      "reach": 1837,
+      "clicks": 102,
+      "messages": 6,
+      "ctr": 1.93,
+      "thruplay": 84
+    },
+    {
+      "name": "sem nome",
+      "impressions": 5027,
+      "reach": 3266,
+      "clicks": 141,
+      "messages": 6,
+      "ctr": 2.8,
+      "thruplay": 686
+    },
+    {
+      "name": "sem nome",
+      "impressions": 588,
+      "reach": 484,
+      "clicks": 8,
+      "messages": 1,
+      "ctr": 1.36,
+      "thruplay": 34
+    },
+    {
+      "name": "sem nome",
+      "impressions": 86,
+      "reach": 85,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 2.33,
+      "thruplay": 0
+    }
+  ],
   "demographics": {
     "gender": {
-      "female_pct": 0,
-      "male_pct": 0,
+      "female_pct": 22,
+      "male_pct": 78,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 0,
-      "35-44": 0,
-      "45-54": 0,
-      "55-64": 0,
-      "65+": 0
+      "25-34": 40,
+      "35-44": 25,
+      "45-54": 18,
+      "55-64": 10,
+      "65+": 6
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 0,
+    "balance_brl": 40.86,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
-    "zero_conversations_current",
-    "zero_activity_current"
+    "spend_delta_over_50",
+    "balance_low"
   ]
 }

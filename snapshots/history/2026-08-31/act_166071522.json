@@ -4,10 +4,13 @@
     "account_name": "BIOMA Valéria Alleoni",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T19:14:37.750Z",
-    "fetch_status": "ok",
+    "generated_at": "2026-08-31T20:27:46.555Z",
+    "fetch_status": "failed",
     "fetch_source": "github_actions",
-    "notes": []
+    "notes": [
+      "current: timeout 15s",
+      "previous: timeout 15s"
+    ]
   },
   "period": {
     "current": {
@@ -22,24 +25,24 @@
   },
   "totals": {
     "spend": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": null,
+      "previous": null,
+      "delta_pct": null
     },
     "impressions": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": null,
+      "previous": null,
+      "delta_pct": null
     },
     "reach": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": null,
+      "previous": null,
+      "delta_pct": null
     },
     "clicks": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": null,
+      "previous": null,
+      "delta_pct": null
     },
     "ctr": {
       "current": null,
@@ -47,34 +50,33 @@
       "delta_pct": null
     },
     "cpc": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": null,
+      "previous": null,
+      "delta_pct": null
     },
     "thruplay": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": null,
+      "previous": null,
+      "delta_pct": null
     },
     "frequency": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": null,
+      "previous": null,
+      "delta_pct": null
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 0,
-        "previous": 0,
-        "delta_pct": 0
+        "current": null,
+        "previous": null,
+        "delta_pct": null
       },
       "cost": {
         "current": null,
         "previous": null,
         "delta_pct": null
-      },
-      "top_creative": null
+      }
     },
     "instagram_visits": {
       "count": {
@@ -86,36 +88,18 @@
         "current": null,
         "previous": null,
         "delta_pct": null
-      },
-      "top_creative": null
+      }
     },
     "site_visits": null,
     "site_purchases": null
   },
   "top_creatives": [],
-  "demographics": {
-    "gender": {
-      "female_pct": 0,
-      "male_pct": 0,
-      "unknown_pct": 0
-    },
-    "age": {
-      "18-24": 0,
-      "25-34": 0,
-      "35-44": 0,
-      "45-54": 0,
-      "55-64": 0,
-      "65+": 0
-    }
-  },
+  "demographics": null,
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 0,
+    "balance_brl": null,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": [
-    "zero_conversations_current",
-    "zero_activity_current"
-  ]
+  "auto_flags": []
 }

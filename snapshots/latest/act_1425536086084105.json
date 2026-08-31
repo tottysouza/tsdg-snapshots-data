@@ -4,7 +4,7 @@
     "account_name": "BIOMA Paixão",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-08-31T19:14:01.953Z",
+    "generated_at": "2026-08-31T20:26:59.428Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
@@ -22,24 +22,24 @@
   },
   "totals": {
     "spend": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 138.34,
+      "previous": 108.51,
+      "delta_pct": 27
     },
     "impressions": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 16437,
+      "previous": 16311,
+      "delta_pct": 1
     },
     "reach": {
-      "current": 0,
-      "previous": 0,
+      "current": 11425,
+      "previous": 11441,
       "delta_pct": 0
     },
     "clicks": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 418,
+      "previous": 300,
+      "delta_pct": 39
     },
     "ctr": {
       "current": null,
@@ -47,19 +47,19 @@
       "delta_pct": null
     },
     "cpc": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 0.33,
+      "previous": 0.36,
+      "delta_pct": -8
     },
     "thruplay": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 1836,
+      "previous": 1084,
+      "delta_pct": 69
     },
     "frequency": {
-      "current": 0,
-      "previous": 0,
-      "delta_pct": 0
+      "current": 1.44,
+      "previous": 1.43,
+      "delta_pct": 1
     }
   },
   "conversions": {
@@ -74,7 +74,10 @@
         "previous": null,
         "delta_pct": null
       },
-      "top_creative": null
+      "top_creative": {
+        "name": "sem nome",
+        "value": 0
+      }
     },
     "instagram_visits": {
       "count": {
@@ -92,30 +95,76 @@
     "site_visits": null,
     "site_purchases": null
   },
-  "top_creatives": [],
+  "top_creatives": [
+    {
+      "name": "sem nome",
+      "impressions": 12272,
+      "reach": 8866,
+      "clicks": 373,
+      "messages": 0,
+      "ctr": 3.04,
+      "thruplay": 705
+    },
+    {
+      "name": "sem nome",
+      "impressions": 3955,
+      "reach": 3750,
+      "clicks": 40,
+      "messages": 0,
+      "ctr": 1.01,
+      "thruplay": 1097
+    },
+    {
+      "name": "sem nome",
+      "impressions": 104,
+      "reach": 103,
+      "clicks": 3,
+      "messages": 0,
+      "ctr": 2.88,
+      "thruplay": 32
+    },
+    {
+      "name": "sem nome",
+      "impressions": 62,
+      "reach": 51,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 1.61,
+      "thruplay": 0
+    },
+    {
+      "name": "sem nome",
+      "impressions": 44,
+      "reach": 44,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 2.27,
+      "thruplay": 2
+    }
+  ],
   "demographics": {
     "gender": {
-      "female_pct": 0,
-      "male_pct": 0,
-      "unknown_pct": 0
+      "female_pct": 95,
+      "male_pct": 2,
+      "unknown_pct": 3
     },
     "age": {
       "18-24": 0,
-      "25-34": 0,
-      "35-44": 0,
-      "45-54": 0,
-      "55-64": 0,
-      "65+": 0
+      "25-34": 32,
+      "35-44": 29,
+      "45-54": 17,
+      "55-64": 8,
+      "65+": 5
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 0,
+    "balance_brl": 10.42,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
     "zero_conversations_current",
-    "zero_activity_current"
+    "balance_low"
   ]
 }
