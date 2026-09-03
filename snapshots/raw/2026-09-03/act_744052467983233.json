@@ -1,0 +1,208 @@
+{
+  "current": {
+    "accountId": "act_744052467983233",
+    "saldo": 52.04,
+    "dateRange": {
+      "since": "2026-08-27",
+      "until": "2026-09-02"
+    },
+    "kpis": {
+      "investimento": 172.55,
+      "impressoes": 6919,
+      "alcance": 5258,
+      "cliques": 231,
+      "cpc": 0.75,
+      "cpm": 24.94,
+      "mensagens": 5,
+      "cpa": 34.51,
+      "thruplay": 989,
+      "frequencia": 1.32
+    },
+    "ads": [
+      {
+        "id": "120252029563050508",
+        "nome": "Cabelo bonito",
+        "legenda": "Cabelo bonito vai além da cor e do design ele precisa estar associado a saúde capilar! E a saúde só 2026-08-06-25228b870605d59c0a919146db733148",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-yyz1-1.xx.fbcdn.net/v/t15.5256-10/768873776_27667374289621716_7075982832565576154_n.jpg?_nc_cat=101&ccb=1-7&_nc_eui2=AeFD0T__q70R-mJkVnEKSs5_-Y84iM63rNn5jziIzres2WZRAokapzmymweK-etwoZlASB5CUIguIHKc3lOyjaqY&_nc_ohc=obj6fegatnsQ7kNvwF_0yO2&_nc_oc=AdoCj6XQm9yUhk898CnJq17ZEGwIRdniLtVYniHIcvpbIx8pu8AAqjthS5HfnHoCgn0&_nc_zt=23&_nc_ht=scontent-yyz1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=VHoKmxs3ISuEgNslM7Hl4w&_nc_tpa=Q5bMBQIt26hQidCiloHnrEylXt4cZIhhYTq1-cTbz6MAE3TTw4PCXy0t21Tv26vJd-r5To7gx-up9P_Ptg&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQLJr0PyfrcsHh05Y7nm7Go91sSrtTgdi6Gc8yGtxa0-xw&oe=6A9F5592",
+        "impressoes": 2635,
+        "alcance": 2275,
+        "cliques": 47,
+        "mensagens": 0,
+        "thruplay": 74,
+        "investimento": 17.17,
+        "cpc": 0.37,
+        "ctr": 1.78
+      },
+      {
+        "id": "120252516294280508",
+        "nome": "Um papo sobre corte",
+        "legenda": "Um papo sobre corte…\nE aí, está na hora de um novo design pro visual?\n.\n\n.\n#cortefeminino #cortecur 2026-08-28-17fa3d0772b4028e9645ea6756fe0aa6",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-yyz1-1.xx.fbcdn.net/v/t15.5256-10/788629344_1046529707979313_3709041470172937023_n.jpg?_nc_cat=106&ccb=1-7&_nc_eui2=AeHJ9Kuen3qf_ZyMNxtEhq4E8FIgIdCjOBzwUiAh0KM4HE0CB2GFDrt4lMeGnlzoZGhpYkVpo6_AfY88ZUoAoTBr&_nc_ohc=OWYlxEIst3MQ7kNvwFkeyHV&_nc_oc=Adq3VJGTOY2mk2ptowPrP_xVdoA2tFt4fXxEx5ErBtvKgTd8tLhtULq8oeLm4cTtkxI&_nc_zt=23&_nc_ht=scontent-yyz1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=VHoKmxs3ISuEgNslM7Hl4w&_nc_tpa=Q5bMBQIIeKXeCEttu7fsE2tzzDAn8YkHeFdd42N9X_An8DMIu5B-_BLiIObq7G4IInQl3cxjHc6XEjRQEg&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQJVdT4xK1ZkOs8XF0d_o-B-UKHz9uBzLPjb-qkMyN5Zgg&oe=6A9F26D6",
+        "impressoes": 2461,
+        "alcance": 2199,
+        "cliques": 150,
+        "mensagens": 0,
+        "thruplay": 638,
+        "investimento": 43.79,
+        "cpc": 0.29,
+        "ctr": 6.1
+      },
+      {
+        "id": "120252516281330508",
+        "nome": "Um papo sobre corte",
+        "legenda": "Um papo sobre corte…\nE aí, está na hora de um novo design pro visual?\n.\n\n.\n#cortefeminino #cortecur 2026-08-28-797e51d6ee2a061d2f33742640214edd",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-yyz1-1.xx.fbcdn.net/v/t15.5256-10/786390858_1424036272906442_1221408390529770189_n.jpg?_nc_cat=104&ccb=1-7&_nc_eui2=AeGxNwFm8L3c8R0s-rLP1Odvdnt9KlIR_l92e30qUhH-X6Z6u7k59OpbQ3w_15ibYn53zlCQ_VawxelyXiUxeYa4&_nc_ohc=dVX1zTBhzoAQ7kNvwFsAy0O&_nc_oc=AdoTeBxbjwyXMIEgk40-gwGegrjZNf7ULrVJYFcEwEOz7w_cQgnd8x8oIciDP6dr_ik&_nc_zt=23&_nc_ht=scontent-yyz1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=VHoKmxs3ISuEgNslM7Hl4w&_nc_tpa=Q5bMBQLREaM_5QsWacWudRGFT0CMMBz-WFg6jIU71zN20DsYQC0XM6s0bx0U5wMPvYysWYfD_J28uE03BQ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQL3-3Qy8YHcKDWdqC3xamCxDldtI8qA3D0FiFOClKLKpA&oe=6A9F5367",
+        "impressoes": 1408,
+        "alcance": 791,
+        "cliques": 28,
+        "mensagens": 5,
+        "thruplay": 257,
+        "investimento": 89.84,
+        "cpc": 3.21,
+        "ctr": 1.99
+      },
+      {
+        "id": "120252055120480508",
+        "nome": "Cabelo bonito",
+        "legenda": "Cabelo bonito vai além da cor e do design ele precisa estar associado a saúde capilar! E a saúde só 2026-08-06-8d4590f0db4052dfb405eb6381ba2559",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-yyz1-1.xx.fbcdn.net/v/t15.5256-10/768969537_2031519864138947_3364889517191477686_n.jpg?_nc_cat=103&ccb=1-7&_nc_eui2=AeHtDjGY7bw5hCIUnac06Uujuihs--NR4yq6KGz741HjKof_NZyPs3_EbR_4f1VDNyyIh4yf0jHqxEpoeeQOrlIc&_nc_ohc=VQ159M4KywkQ7kNvwEMMOv2&_nc_oc=Adop39OsANIlPPpR3ci-OijzYgArxexCQ_NzPvA0I7K8--S0maEVB4CybxxEC2mTvXA&_nc_zt=23&_nc_ht=scontent-yyz1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=VHoKmxs3ISuEgNslM7Hl4w&_nc_tpa=Q5bMBQI70dp8ZKSrjjqSlamXnbLijD7VIrsbywOG9jjSfwSOV3IR7TLkufwmzCAfumOce6iLa_YdBm-qHA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQKHwIotWNgjCGL3rzqqkyD2RH0fV5V7GrLGTEKRD66qpQ&oe=6A9F2FE3",
+        "impressoes": 415,
+        "alcance": 242,
+        "cliques": 6,
+        "mensagens": 0,
+        "thruplay": 20,
+        "investimento": 21.75,
+        "cpc": 3.63,
+        "ctr": 1.45
+      }
+    ],
+    "genero": {
+      "F": 94,
+      "M": 6,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 28,
+      "35-44": 16,
+      "45-54": 15,
+      "55-64": 21,
+      "65+": 20
+    },
+    "periodo": "custom",
+    "timestamp": "2026-09-03T12:34:45.924Z",
+    "prev": {
+      "investimento": 343.14,
+      "impressoes": 22346,
+      "alcance": 12419,
+      "cliques": 387,
+      "cpc": 0.89,
+      "cpm": 15.36,
+      "mensagens": 6,
+      "cpa": 57.19,
+      "thruplay": 754,
+      "frequencia": 1.8
+    }
+  },
+  "previous": {
+    "accountId": "act_744052467983233",
+    "saldo": 52.04,
+    "dateRange": {
+      "since": "2026-08-20",
+      "until": "2026-08-26"
+    },
+    "kpis": {
+      "investimento": 343.14,
+      "impressoes": 22346,
+      "alcance": 12419,
+      "cliques": 387,
+      "cpc": 0.89,
+      "cpm": 15.36,
+      "mensagens": 6,
+      "cpa": 57.19,
+      "thruplay": 754,
+      "frequencia": 1.8
+    },
+    "ads": [
+      {
+        "id": "120252029563050508",
+        "nome": "Cabelo bonito",
+        "legenda": "Cabelo bonito vai além da cor e do design ele precisa estar associado a saúde capilar! E a saúde só 2026-08-06-25228b870605d59c0a919146db733148",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-yyz1-1.xx.fbcdn.net/v/t15.5256-10/768873776_27667374289621716_7075982832565576154_n.jpg?_nc_cat=101&ccb=1-7&_nc_eui2=AeFD0T__q70R-mJkVnEKSs5_-Y84iM63rNn5jziIzres2WZRAokapzmymweK-etwoZlASB5CUIguIHKc3lOyjaqY&_nc_ohc=obj6fegatnsQ7kNvwF_0yO2&_nc_oc=AdoCj6XQm9yUhk898CnJq17ZEGwIRdniLtVYniHIcvpbIx8pu8AAqjthS5HfnHoCgn0&_nc_zt=23&_nc_ht=scontent-yyz1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=uHreBu2t4DE1yTEMq5w4Jw&_nc_tpa=Q5bMBQIurKMFG9gEFEpvGYIg5ufS1WAZ69Yk1YpHka2J51a0c8ThRHPX03vAFZeLm9y3bb6UZpSoDTfg4g&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQIPX1hYxg94tMB_Xsc3VBlFPBN8-VgomVy0CkvAe-3mEQ&oe=6A9F5592",
+        "impressoes": 19277,
+        "alcance": 11473,
+        "cliques": 349,
+        "mensagens": 0,
+        "thruplay": 558,
+        "investimento": 126.88,
+        "cpc": 0.36,
+        "ctr": 1.81
+      },
+      {
+        "id": "120252055120480508",
+        "nome": "Cabelo bonito",
+        "legenda": "Cabelo bonito vai além da cor e do design ele precisa estar associado a saúde capilar! E a saúde só 2026-08-06-8d4590f0db4052dfb405eb6381ba2559",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-yyz1-1.xx.fbcdn.net/v/t15.5256-10/768969537_2031519864138947_3364889517191477686_n.jpg?_nc_cat=103&ccb=1-7&_nc_eui2=AeHtDjGY7bw5hCIUnac06Uujuihs--NR4yq6KGz741HjKof_NZyPs3_EbR_4f1VDNyyIh4yf0jHqxEpoeeQOrlIc&_nc_ohc=VQ159M4KywkQ7kNvwEMMOv2&_nc_oc=Adop39OsANIlPPpR3ci-OijzYgArxexCQ_NzPvA0I7K8--S0maEVB4CybxxEC2mTvXA&_nc_zt=23&_nc_ht=scontent-yyz1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=uHreBu2t4DE1yTEMq5w4Jw&_nc_tpa=Q5bMBQK8jzbe_u8T8LFfw_YkqD_YE3mOCGl25vgtFbwojGLBIsoWZCXJDkF9BLC98-W_j3aDmDwBNG0Yfg&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQLQHNFsn0w8D54uKXdceEHFZKRbLpQNHk7M71kWwoOk3g&oe=6A9F2FE3",
+        "impressoes": 3069,
+        "alcance": 1014,
+        "cliques": 38,
+        "mensagens": 6,
+        "thruplay": 196,
+        "investimento": 216.26,
+        "cpc": 5.69,
+        "ctr": 1.24
+      }
+    ],
+    "genero": {
+      "F": 77,
+      "M": 23,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 52,
+      "35-44": 18,
+      "45-54": 11,
+      "55-64": 10,
+      "65+": 10
+    },
+    "periodo": "custom",
+    "timestamp": "2026-09-03T12:34:45.575Z",
+    "prev": {
+      "investimento": 115.39,
+      "impressoes": 7047,
+      "alcance": 5696,
+      "cliques": 142,
+      "cpc": 0.81,
+      "cpm": 16.37,
+      "mensagens": 2,
+      "cpa": 57.7,
+      "thruplay": 334,
+      "frequencia": 1.24
+    }
+  }
+}
