@@ -1,0 +1,135 @@
+{
+  "current": {
+    "accountId": "act_1365837951918266",
+    "saldo": 51.52,
+    "dateRange": {
+      "since": "2026-09-02",
+      "until": "2026-09-08"
+    },
+    "kpis": {
+      "investimento": 37.89,
+      "impressoes": 5573,
+      "alcance": 5202,
+      "cliques": 122,
+      "cpc": 0.31,
+      "cpm": 6.8,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 130,
+      "frequencia": 1.07
+    },
+    "ads": [
+      {
+        "id": "120243453496020214",
+        "nome": "Você investe",
+        "legenda": "Pare de limitar suas vendas a um único canal! 2026-08-05-47d65116142d34db2ac24a937a6049bf",
+        "campId": "120242596089720214",
+        "campanha": "1. TOPO | Tráfego HOME B2B — Conversão",
+        "adsetId": "120242596089710214",
+        "adset": "Interesses e região",
+        "thumbnail": "https://scontent-ord5-2.xx.fbcdn.net/v/t45.1600-4/676596859_27008846062041019_6288038869012264899_n.png?stp=dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=d5bd00&_nc_eui2=AeGn_gjfry2FYnkTpSHh20WqDkjXZRHgabcOSNdlEeBpt8zNko-_fbelzwfHF2MbztuRqHkHzVGp9CU4jo3RizK6&_nc_ohc=JTcwNb0ZA7MQ7kNvwE-9H7I&_nc_oc=AdoeB0dWM2ov3fZyHM63fu3VYKgg7geI92uxFKeJI3cyKe19v20Ml5_FZFOU_Qol9t0&_nc_zt=1&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=oglV68tiEoDL7cni8oD4zQ&_nc_tpa=Q5bMBQL50lolisYgNBt9VMZjpCbXtm3mKikZL05SF-whDI5rG8DimLZeGzYpMdOlHRDT-8gUGDt6YCbd4A&oh=00_AQLXzD5fMZBcNXlHFvjwURnhI7QBjG876AzSBF5aRFUtXw&oe=6AA73E2E",
+        "impressoes": 3572,
+        "alcance": 3250,
+        "cliques": 51,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 17.5,
+        "cpc": 0.34,
+        "ctr": 1.43
+      },
+      {
+        "id": "120241531769710214",
+        "nome": "Monique Lima",
+        "legenda": "🔮 O futuro do Live Commerce 2026-05-06-05c8ac770beaaa20860d059406a692d1",
+        "campId": "120234251484470214",
+        "campanha": "1. TOPO | Tráfego HOME B2B",
+        "adsetId": "120234251484530214",
+        "adset": "Interesses e região - Monique Lima",
+        "thumbnail": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/654751936_948990638086672_7210777396023777929_n.jpg?_nc_cat=100&ccb=1-7&_nc_eui2=AeFPuaACFBY1U5ibXkDGz36S_NgU84HlRBj82BTzgeVEGFbCObudL2TOR_9N5xZE_6FFc_ml-fM9W_P1_IsSuK8g&_nc_ohc=2xHV2xjJfrkQ7kNvwF25Uzm&_nc_oc=AdptR6V6vmA6xtC9sA7bU4LIWsRNoEa3DlToL_suUACmBuoGlsQ0uLgXfZRQygOsWB4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=oglV68tiEoDL7cni8oD4zQ&_nc_tpa=Q5bMBQJ06vYeZF5NEdneZiC2MtgL47mdavpx-e8czYZMD53EowyTWPo4QyI_9_9Z2XrrOTE_YKO12VUafQ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQJbP-_4yxggbc9OWhh1wgeM1xvP9KDmgXgAGLaDjoUR2g&oe=6AA72404",
+        "impressoes": 2001,
+        "alcance": 2001,
+        "cliques": 71,
+        "mensagens": 0,
+        "thruplay": 130,
+        "investimento": 20.39,
+        "cpc": 0.29,
+        "ctr": 3.55
+      }
+    ],
+    "genero": {
+      "F": 76,
+      "M": 24,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 53,
+      "35-44": 13,
+      "45-54": 6,
+      "55-64": 9,
+      "65+": 20
+    },
+    "periodo": "custom",
+    "timestamp": "2026-09-09T12:44:08.528Z",
+    "prev": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    }
+  },
+  "previous": {
+    "accountId": "act_1365837951918266",
+    "saldo": 51.52,
+    "periodo": "custom",
+    "dateRange": {
+      "since": "2026-08-26",
+      "until": "2026-09-01"
+    },
+    "timestamp": "2026-09-09T12:44:05.942Z",
+    "kpis": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    },
+    "ads": [],
+    "genero": {
+      "F": 0,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    },
+    "prev": {
+      "investimento": 56.15,
+      "impressoes": 7658,
+      "alcance": 5623,
+      "cliques": 261,
+      "cpc": 0.22,
+      "cpm": 7.33,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 237,
+      "frequencia": 1.36
+    }
+  }
+}
