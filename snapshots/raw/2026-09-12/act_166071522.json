@@ -1,0 +1,98 @@
+{
+  "current": {
+    "accountId": "act_166071522",
+    "saldo": 862.08,
+    "dateRange": {
+      "since": "2026-09-05",
+      "until": "2026-09-11"
+    },
+    "kpis": {
+      "investimento": 973.88,
+      "impressoes": 97830,
+      "alcance": 49355,
+      "cliques": 2505,
+      "cpc": 0.39,
+      "cpm": 9.95,
+      "mensagens": 39,
+      "cpa": 24.97,
+      "thruplay": 6325,
+      "frequencia": 1.98
+    },
+    "ads": [],
+    "genero": {
+      "F": 72,
+      "M": 27,
+      "U": 1
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 10,
+      "35-44": 13,
+      "45-54": 18,
+      "55-64": 26,
+      "65+": 29
+    },
+    "periodo": "custom",
+    "timestamp": "2026-09-12T11:57:53.420Z",
+    "prev": {
+      "investimento": 805.51,
+      "impressoes": 75792,
+      "alcance": 42765,
+      "cliques": 2069,
+      "cpc": 0.39,
+      "cpm": 10.63,
+      "mensagens": 40,
+      "cpa": 20.14,
+      "thruplay": 4980,
+      "frequencia": 1.77
+    }
+  },
+  "previous": {
+    "accountId": "act_166071522",
+    "saldo": 862.08,
+    "dateRange": {
+      "since": "2026-08-29",
+      "until": "2026-09-04"
+    },
+    "kpis": {
+      "investimento": 805.51,
+      "impressoes": 75792,
+      "alcance": 42765,
+      "cliques": 2069,
+      "cpc": 0.39,
+      "cpm": 10.63,
+      "mensagens": 40,
+      "cpa": 20.14,
+      "thruplay": 4980,
+      "frequencia": 1.77
+    },
+    "ads": [],
+    "genero": {
+      "F": 73,
+      "M": 26,
+      "U": 1
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 12,
+      "35-44": 15,
+      "45-54": 18,
+      "55-64": 25,
+      "65+": 26
+    },
+    "periodo": "custom",
+    "timestamp": "2026-09-12T11:57:53.412Z",
+    "prev": {
+      "investimento": 658.82,
+      "impressoes": 54499,
+      "alcance": 33850,
+      "cliques": 1569,
+      "cpc": 0.42,
+      "cpm": 12.09,
+      "mensagens": 14,
+      "cpa": 47.06,
+      "thruplay": 3662,
+      "frequencia": 1.61
+    }
+  }
+}
