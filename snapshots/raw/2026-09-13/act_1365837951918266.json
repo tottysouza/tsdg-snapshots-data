@@ -1,0 +1,207 @@
+{
+  "current": {
+    "accountId": "act_1365837951918266",
+    "saldo": 30.22,
+    "dateRange": {
+      "since": "2026-09-06",
+      "until": "2026-09-12"
+    },
+    "kpis": {
+      "investimento": 382.4,
+      "impressoes": 40677,
+      "alcance": 34077,
+      "cliques": 1742,
+      "cpc": 0.22,
+      "cpm": 9.4,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 985,
+      "frequencia": 1.19
+    },
+    "ads": [
+      {
+        "id": "120243455536880214",
+        "nome": "Enquanto você tenta",
+        "legenda": "✅ Muito mais vendas! 2026-08-05-b111acd88ce08e4e009190d9aeba902a",
+        "campId": "120242596089720214",
+        "campanha": "1. TOPO | Tráfego HOME B2B — Conversão",
+        "adsetId": "120242596089710214",
+        "adset": "Interesses e região",
+        "thumbnail": "https://scontent-lax3-2.xx.fbcdn.net/v/t45.1600-4/669530376_26855697660689194_3852440765442329575_n.png?stp=dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=ff4730&_nc_eui2=AeHXCMamTqULYt9KllvxORgfS0DpclM5XgZLQOlyUzleBq9-9C9KjV0s2kDIGlcKSuAkx18vCDHC5bmVsCn4pWi2&_nc_ohc=8BN2sBktocUQ7kNvwGLlUyB&_nc_oc=AdqQCvWtbl_-D7DfviqRcvdlT1Y7xrjbwLvAzB_M28rsesxy5FBTVK537vfY9_yzw6A&_nc_zt=1&_nc_ht=scontent-lax3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=eNlaLQMO5GHEthhFnl_8yg&_nc_tpa=Q5bMBQJAnEtBMGBvQ6Xwe9BwIN2zB6vsIMvJ0QL_jyWzRX_wyja5WdIXW4nmtwfIf2WprPJsN4jjST5D7g&oh=00_AQKJq4OiSKY6U90BKOBdFQ_P1iB_EoifTsCAziun7-me7Q&oe=6AAC6936",
+        "impressoes": 18463,
+        "alcance": 15296,
+        "cliques": 587,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 111.04,
+        "cpc": 0.19,
+        "ctr": 3.18
+      },
+      {
+        "id": "120241531769710214",
+        "nome": "Monique Lima",
+        "legenda": "🔮 O futuro do Live Commerce 2026-05-06-05c8ac770beaaa20860d059406a692d1",
+        "campId": "120234251484470214",
+        "campanha": "1. TOPO | Tráfego HOME B2B",
+        "adsetId": "120234251484530214",
+        "adset": "Interesses e região - Monique Lima",
+        "thumbnail": "https://scontent-lax3-2.xx.fbcdn.net/v/t15.5256-10/654751936_948990638086672_7210777396023777929_n.jpg?_nc_cat=100&ccb=1-7&_nc_eui2=AeFPuaACFBY1U5ibXkDGz36S_NgU84HlRBj82BTzgeVEGFbCObudL2TOR_9N5xZE_6FFc_ml-fM9W_P1_IsSuK8g&_nc_ohc=ORRcQK0rH58Q7kNvwFn69VC&_nc_oc=AdpcKMCVnxBwexaGJSQiP7eNuxSHVVtoRKQh7HvU3RPXiwhpRMgI63fjHuT-x4bqhh0&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=eNlaLQMO5GHEthhFnl_8yg&_nc_tpa=Q5bMBQI_novFUoK13FpByfxRxodhs7q4C0FOqiBZr0xUkvUcHpQRqamCFQPCIaPlc4IFHpKV2cuZiPsrJA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQJbRjSW_z-6bEJtd4FE7MGhx1MB7-BWs2-gApRg7rTtZg&oe=6AAC6A04",
+        "impressoes": 10603,
+        "alcance": 9230,
+        "cliques": 533,
+        "mensagens": 0,
+        "thruplay": 970,
+        "investimento": 138.05,
+        "cpc": 0.26,
+        "ctr": 5.03
+      },
+      {
+        "id": "120243453496020214",
+        "nome": "Você investe",
+        "legenda": "Pare de limitar suas vendas a um único canal! 2026-08-05-47d65116142d34db2ac24a937a6049bf",
+        "campId": "120242596089720214",
+        "campanha": "1. TOPO | Tráfego HOME B2B — Conversão",
+        "adsetId": "120242596089710214",
+        "adset": "Interesses e região",
+        "thumbnail": "https://scontent-lax3-1.xx.fbcdn.net/v/t45.1600-4/676596859_27008846062041019_6288038869012264899_n.png?stp=dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=ff4730&_nc_eui2=AeGn_gjfry2FYnkTpSHh20WqDkjXZRHgabcOSNdlEeBpt8zNko-_fbelzwfHF2MbztuRqHkHzVGp9CU4jo3RizK6&_nc_ohc=lneb-Si6X-EQ7kNvwHavFP3&_nc_oc=AdqnCmULmDhZTTuf9rxT-RqYdmDJGxC2toRRe7PlELEdZK1QvejlL7GjVIUh_3hJ914&_nc_zt=1&_nc_ht=scontent-lax3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=eNlaLQMO5GHEthhFnl_8yg&_nc_tpa=Q5bMBQKco6ejDxET6UqbWJC2ModW6XqchnsKHLYnbgFP7OZQKMJ2-sNFfdSo8kHyjIJcK93heZytpAPRRA&oh=00_AQKqnValkEVpUnQzL17feL2OOg-0ucqiSYYETbX-VNRY7w&oe=6AAC842E",
+        "impressoes": 5377,
+        "alcance": 4886,
+        "cliques": 106,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 28.89,
+        "cpc": 0.27,
+        "ctr": 1.97
+      },
+      {
+        "id": "120250284209810214",
+        "nome": "O calendário",
+        "legenda": "🤩 Black Friday MIMO 2026-09-11-a61a5437db5413c83e7b021a2d4e0a38",
+        "campId": "120250284209800214",
+        "campanha": "CALENDARIO 26",
+        "adsetId": "120250284209820214",
+        "adset": "Interesses e região",
+        "thumbnail": "https://scontent-lax3-2.xx.fbcdn.net/v/t45.1600-4/794032966_28719223144336627_6296912370231584976_n.png?stp=dst-jpg_tt6&_nc_cat=103&ccb=1-7&_nc_sid=ff4730&_nc_eui2=AeEYYYzDOrU2F317BxKYDmmCP5vtE6s074M_m-0TqzTvg9b_V0UTIaJ3n9CQ1QUQ6mPvjkH1zibrntf4JCyBr0pt&_nc_ohc=AhQ4fe9p1ZQQ7kNvwEi54tH&_nc_oc=AdrNzHtxS3caQJ6V9oF5TJzYujGTJhwHey6ZZP4dhWsJdlgOJyFdVuMCRfVlgzsqm6o&_nc_zt=1&_nc_ht=scontent-lax3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=eNlaLQMO5GHEthhFnl_8yg&_nc_tpa=Q5bMBQI08Mjk96XKHB4XktwVORv2jU4K_ZyBz1Se6pR_Vb_Ri92A9_YpEG7WshdhkDWtD7FHEraI01F_Og&oh=00_AQJPV5qq-9DcCXNlh1eQgeQE890QmLVdIKdsaCJWoRfmqg&oe=6AAC655E",
+        "impressoes": 3238,
+        "alcance": 2929,
+        "cliques": 235,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 51.27,
+        "cpc": 0.22,
+        "ctr": 7.26
+      },
+      {
+        "id": "120250284025200214",
+        "nome": "Sua BF ja comecou?",
+        "legenda": "🤩 Black Friday MIMO 2026-09-11-2b3476eb37c7d025bb3d3c68abfa2af7",
+        "campId": "120250283981570214",
+        "campanha": "BLACK FRIDAY 26",
+        "adsetId": "120250283981700214",
+        "adset": "Interesses e região",
+        "thumbnail": "https://scontent-lax3-1.xx.fbcdn.net/v/t45.1600-4/793935884_28719148607677414_866749684375410460_n.png?stp=dst-jpg_tt6&_nc_cat=110&ccb=1-7&_nc_sid=ff4730&_nc_eui2=AeHsfKnGIJ73PRT9z9inZqAtMxwP0_ZgGcMzHA_T9mAZwzQuE1KJDkM_11iLQE6fmv-yjrqtWlppWMn6T2Y71mxy&_nc_ohc=MrNVUylK1ZYQ7kNvwHWJ6Zk&_nc_oc=Adp8G2zMAKYlXQcNM38wpOAhl1ni3EYmbn6BLDrqo4bC2jameMsmKo_kYVgdm6o2F_A&_nc_zt=1&_nc_ht=scontent-lax3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=eNlaLQMO5GHEthhFnl_8yg&_nc_tpa=Q5bMBQKBY8hsgcxdVlHAtZLeiWbKAJh2mG-RGTT6_4WmMJKHwo2IeuUI1zzPjTokvG4C8q6SWlVx4FriQA&oh=00_AQJcHASI32HNPUMLX-PpbquKXEoeCy7ZuowH_dgimNDbNA&oe=6AAC6FEA",
+        "impressoes": 2854,
+        "alcance": 2571,
+        "cliques": 270,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 51.25,
+        "cpc": 0.19,
+        "ctr": 9.46
+      },
+      {
+        "id": "120236343789970214",
+        "nome": "A criação de UGC não é sobre — Cópia",
+        "legenda": "A criação de UGC não é sobre “conteúdos fofos” — é sobre conteúdos que vendem porque parecem reais. 2026-03-26-78e0b821e932cefabda712ee2b4eab2a",
+        "campId": "120234251484470214",
+        "campanha": "1. TOPO | Tráfego HOME B2B",
+        "adsetId": "120234251484530214",
+        "adset": "Interesses e região - Monique Lima",
+        "thumbnail": "https://scontent-lax3-2.xx.fbcdn.net/v/t51.71878-10/587496098_1518831176054929_4928523203020076987_n.jpg?_nc_cat=106&ccb=1-7&_nc_eui2=AeEtMWg8IZOwcweHiG2I4PPUDOpYyZB1Cu0M6ljJkHUK7TXi-kv6fp23QfFLAAIZL8m-aEwVdJfmgiRvI1FVftqp&_nc_ohc=0rmeY7ySoO0Q7kNvwEXhHug&_nc_oc=Adp-cJHNjIRkO1I67FcSyLXbd-PWT7CAhDoqRBtTtmcWVqID_qzCoSmqnRfezAYDG3A&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=eNlaLQMO5GHEthhFnl_8yg&_nc_tpa=Q5bMBQL1tGRRjtm8vO6eVM28g56Mqc9ZxXei008IVNfKe0WYRz5rOIhRZ0dqK2jANBNziEJedYMKvhYMVw&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQI-mfPFsMJTuiHQf0x-c449ZuP5t1fCcyrA3G47N-ldqA&oe=6AAC74C3",
+        "impressoes": 142,
+        "alcance": 133,
+        "cliques": 11,
+        "mensagens": 0,
+        "thruplay": 15,
+        "investimento": 1.9,
+        "cpc": 0.17,
+        "ctr": 7.75
+      }
+    ],
+    "genero": {
+      "F": 58,
+      "M": 41,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 47,
+      "35-44": 15,
+      "45-54": 10,
+      "55-64": 9,
+      "65+": 18
+    },
+    "periodo": "custom",
+    "timestamp": "2026-09-13T13:06:23.995Z",
+    "prev": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    }
+  },
+  "previous": {
+    "accountId": "act_1365837951918266",
+    "saldo": 30.22,
+    "periodo": "custom",
+    "dateRange": {
+      "since": "2026-08-30",
+      "until": "2026-09-05"
+    },
+    "timestamp": "2026-09-13T13:06:22.315Z",
+    "kpis": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    },
+    "ads": [],
+    "genero": {
+      "F": 0,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    },
+    "prev": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    }
+  }
+}
