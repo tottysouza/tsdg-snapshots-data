@@ -1,0 +1,172 @@
+{
+  "current": {
+    "accountId": "act_744052467983233",
+    "saldo": 39.41,
+    "dateRange": {
+      "since": "2026-09-07",
+      "until": "2026-09-13"
+    },
+    "kpis": {
+      "investimento": 79.58,
+      "impressoes": 1827,
+      "alcance": 1454,
+      "cliques": 78,
+      "cpc": 1.02,
+      "cpm": 43.56,
+      "mensagens": 8,
+      "cpa": 9.95,
+      "thruplay": 384,
+      "frequencia": 1.26
+    },
+    "ads": [
+      {
+        "id": "120252516294280508",
+        "nome": "Um papo sobre corte",
+        "legenda": "Um papo sobre corte…\nE aí, está na hora de um novo design pro visual?\n.\n\n.\n#cortefeminino #cortecur 2026-08-28-17fa3d0772b4028e9645ea6756fe0aa6",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/788629344_1046529707979313_3709041470172937023_n.jpg?_nc_cat=106&ccb=1-7&_nc_eui2=AeHJ9Kuen3qf_ZyMNxtEhq4E8FIgIdCjOBzwUiAh0KM4HE0CB2GFDrt4lMeGnlzoZGhpYkVpo6_AfY88ZUoAoTBr&_nc_ohc=pbYAj-lrcFgQ7kNvwFwXwiR&_nc_oc=AdozOkc1qOcNbu_aeZYPpnXob2AfeQNAYCr9jI2INDH7S24rfiadAMo3NQQfUXSUPJU&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=OUL4-5DZVK_wYHJhVF0SXw&_nc_tpa=Q5bMBQJ682s69Gh_w291sFmXPv1LAX4kBIwglvsmpxu7oZDyfd6vKDVn1ttBjbnXuPJ13bicIGxuu3vQlw&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQKViBwBQRo1QEP_D0dfh0hhGD_NeeQbxg_fVIlMnygtnw&oe=6AADDF96",
+        "impressoes": 1059,
+        "alcance": 988,
+        "cliques": 56,
+        "mensagens": 0,
+        "thruplay": 275,
+        "investimento": 24.41,
+        "cpc": 0.44,
+        "ctr": 5.29
+      },
+      {
+        "id": "120252516281330508",
+        "nome": "Um papo sobre corte",
+        "legenda": "Um papo sobre corte…\nE aí, está na hora de um novo design pro visual?\n.\n\n.\n#cortefeminino #cortecur 2026-08-28-797e51d6ee2a061d2f33742640214edd",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/786390858_1424036272906442_1221408390529770189_n.jpg?_nc_cat=104&ccb=1-7&_nc_eui2=AeGxNwFm8L3c8R0s-rLP1Odvdnt9KlIR_l92e30qUhH-X6Z6u7k59OpbQ3w_15ibYn53zlCQ_VawxelyXiUxeYa4&_nc_ohc=mlYzCoWs3B4Q7kNvwEIS2t4&_nc_oc=AdovIcrmZbe_VcwOX-Wh0QPr7XirNjRUX8-T3FhOGK6rWxx7kA685ehnTPuVvVyP5vw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=OUL4-5DZVK_wYHJhVF0SXw&_nc_tpa=Q5bMBQJVLEEcdyJMhpc6XMv5Wv7yer8Icb20vJhZXiQ8v4jHSe8kCYU1yLXDpu99v-pWRcpcEYZusVfQsQ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQLSeQ3FOSbp6UjQFr-rZiHwM0sUDs6l6y2zPO9VNtXiaQ&oe=6AADD3E7",
+        "impressoes": 768,
+        "alcance": 469,
+        "cliques": 22,
+        "mensagens": 8,
+        "thruplay": 109,
+        "investimento": 55.17,
+        "cpc": 2.51,
+        "ctr": 2.86
+      }
+    ],
+    "genero": {
+      "F": 96,
+      "M": 4,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 7,
+      "35-44": 15,
+      "45-54": 20,
+      "55-64": 29,
+      "65+": 30
+    },
+    "periodo": "custom",
+    "timestamp": "2026-09-14T14:42:54.001Z",
+    "prev": {
+      "investimento": 321.67,
+      "impressoes": 9637,
+      "alcance": 6320,
+      "cliques": 425,
+      "cpc": 0.76,
+      "cpm": 33.38,
+      "mensagens": 14,
+      "cpa": 22.98,
+      "thruplay": 2111,
+      "frequencia": 1.52
+    }
+  },
+  "previous": {
+    "accountId": "act_744052467983233",
+    "saldo": 39.41,
+    "dateRange": {
+      "since": "2026-08-31",
+      "until": "2026-09-06"
+    },
+    "kpis": {
+      "investimento": 321.67,
+      "impressoes": 9637,
+      "alcance": 6320,
+      "cliques": 425,
+      "cpc": 0.76,
+      "cpm": 33.38,
+      "mensagens": 14,
+      "cpa": 22.98,
+      "thruplay": 2111,
+      "frequencia": 1.52
+    },
+    "ads": [
+      {
+        "id": "120252516294280508",
+        "nome": "Um papo sobre corte",
+        "legenda": "Um papo sobre corte…\nE aí, está na hora de um novo design pro visual?\n.\n\n.\n#cortefeminino #cortecur 2026-08-28-17fa3d0772b4028e9645ea6756fe0aa6",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/788629344_1046529707979313_3709041470172937023_n.jpg?_nc_cat=106&ccb=1-7&_nc_eui2=AeHJ9Kuen3qf_ZyMNxtEhq4E8FIgIdCjOBzwUiAh0KM4HE0CB2GFDrt4lMeGnlzoZGhpYkVpo6_AfY88ZUoAoTBr&_nc_ohc=pbYAj-lrcFgQ7kNvwHiYa5L&_nc_oc=Ado9hirGh3eETz1GUhkGLx727nFdFaCvAjapApnzL0754ItSYpYfvtw-WdoPI9ECrnw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=tgZTShTSwKT5K_Uu6KWHcg&_nc_tpa=Q5bMBQKAAoJAGhlGuzwfMypT4lD3FAlmHPBJvc_3byv6RjzxqUR7nBbuhdsA4LrXktwc81xn675L-wetgw&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQJdLMJfetdAlM807r2YRpAp2LtrGx9kSjw0gdbDTeJz-g&oe=6AADDF96",
+        "impressoes": 6167,
+        "alcance": 4962,
+        "cliques": 348,
+        "mensagens": 0,
+        "thruplay": 1567,
+        "investimento": 123.05,
+        "cpc": 0.35,
+        "ctr": 5.64
+      },
+      {
+        "id": "120252516281330508",
+        "nome": "Um papo sobre corte",
+        "legenda": "Um papo sobre corte…\nE aí, está na hora de um novo design pro visual?\n.\n\n.\n#cortefeminino #cortecur 2026-08-28-797e51d6ee2a061d2f33742640214edd",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/786390858_1424036272906442_1221408390529770189_n.jpg?_nc_cat=104&ccb=1-7&_nc_eui2=AeGxNwFm8L3c8R0s-rLP1Odvdnt9KlIR_l92e30qUhH-X6Z6u7k59OpbQ3w_15ibYn53zlCQ_VawxelyXiUxeYa4&_nc_ohc=mlYzCoWs3B4Q7kNvwFewWjT&_nc_oc=AdqEiS6rWpkZkQ3pKVmGcupi3-3TKTieqBTvFvptpZ_Wr_6zVYsn879BMqd5E4seUuE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=tgZTShTSwKT5K_Uu6KWHcg&_nc_tpa=Q5bMBQLUSU33a9CofK8QY9I6-8x3XRzTDLxMQibeqXc5NvWs1KFu26zfF8cbOakT7Ur_Lq-McSizPFpIxw&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQJ12lTFAad8t10X5rBembPw1LBJ-aYyouXDa-TOLgsPow&oe=6AADD3E7",
+        "impressoes": 3470,
+        "alcance": 1514,
+        "cliques": 77,
+        "mensagens": 14,
+        "thruplay": 544,
+        "investimento": 198.62,
+        "cpc": 2.58,
+        "ctr": 2.22
+      }
+    ],
+    "genero": {
+      "F": 96,
+      "M": 4,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 9,
+      "35-44": 14,
+      "45-54": 21,
+      "55-64": 29,
+      "65+": 27
+    },
+    "periodo": "custom",
+    "timestamp": "2026-09-14T14:42:40.589Z",
+    "prev": {
+      "investimento": 182.56,
+      "impressoes": 11268,
+      "alcance": 7391,
+      "cliques": 197,
+      "cpc": 0.93,
+      "cpm": 16.2,
+      "mensagens": 1,
+      "cpa": 182.56,
+      "thruplay": 369,
+      "frequencia": 1.52
+    }
+  }
+}
