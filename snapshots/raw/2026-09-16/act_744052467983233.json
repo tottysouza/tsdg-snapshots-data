@@ -1,0 +1,135 @@
+{
+  "current": {
+    "accountId": "act_744052467983233",
+    "saldo": 0,
+    "periodo": "custom",
+    "dateRange": {
+      "since": "2026-09-09",
+      "until": "2026-09-15"
+    },
+    "timestamp": "2026-09-16T13:05:37.608Z",
+    "kpis": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    },
+    "ads": [],
+    "genero": {
+      "F": 0,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    },
+    "prev": {
+      "investimento": 336.86,
+      "impressoes": 9424,
+      "alcance": 6276,
+      "cliques": 416,
+      "cpc": 0.81,
+      "cpm": 35.74,
+      "mensagens": 18,
+      "cpa": 18.71,
+      "thruplay": 2064,
+      "frequencia": 1.5
+    }
+  },
+  "previous": {
+    "accountId": "act_744052467983233",
+    "saldo": 0,
+    "dateRange": {
+      "since": "2026-09-02",
+      "until": "2026-09-08"
+    },
+    "kpis": {
+      "investimento": 336.86,
+      "impressoes": 9424,
+      "alcance": 6276,
+      "cliques": 416,
+      "cpc": 0.81,
+      "cpm": 35.74,
+      "mensagens": 18,
+      "cpa": 18.71,
+      "thruplay": 2064,
+      "frequencia": 1.5
+    },
+    "ads": [
+      {
+        "id": "120252516294280508",
+        "nome": "Um papo sobre corte",
+        "legenda": "Um papo sobre corte…\nE aí, está na hora de um novo design pro visual?\n.\n\n.\n#cortefeminino #cortecur 2026-08-28-17fa3d0772b4028e9645ea6756fe0aa6",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/788629344_1046529707979313_3709041470172937023_n.jpg?_nc_cat=106&ccb=1-7&_nc_eui2=AeHJ9Kuen3qf_ZyMNxtEhq4E8FIgIdCjOBzwUiAh0KM4HE0CB2GFDrt4lMeGnlzoZGhpYkVpo6_AfY88ZUoAoTBr&_nc_ohc=kNCZ9V8ojyQQ7kNvwEFfWTz&_nc_oc=AdrpPRYqpIamxxdyehRknb-12Sr-T-qG3zhmesp9-Td500VgSuPFICmmpLYK5xUcSlU&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=JDmUXXrplf867sjfn53Dyg&_nc_tpa=Q5bMBQIdH14NYzjVvDiVoG6TAh4Ri6Z8Um3tWNJb1MK6rVBbw6pUe7sDWuS7HXay7zvTsPHT0GprPBVCOw&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQL6y_vd_ni4wLxf0ME_itFiY0aQJxNUKxgrdzesjaYVJQ&oe=6AB08296",
+        "impressoes": 5880,
+        "alcance": 4835,
+        "cliques": 330,
+        "mensagens": 0,
+        "thruplay": 1516,
+        "investimento": 126.4,
+        "cpc": 0.38,
+        "ctr": 5.61
+      },
+      {
+        "id": "120252516281330508",
+        "nome": "Um papo sobre corte",
+        "legenda": "Um papo sobre corte…\nE aí, está na hora de um novo design pro visual?\n.\n\n.\n#cortefeminino #cortecur 2026-08-28-797e51d6ee2a061d2f33742640214edd",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/786390858_1424036272906442_1221408390529770189_n.jpg?_nc_cat=104&ccb=1-7&_nc_eui2=AeGxNwFm8L3c8R0s-rLP1Odvdnt9KlIR_l92e30qUhH-X6Z6u7k59OpbQ3w_15ibYn53zlCQ_VawxelyXiUxeYa4&_nc_ohc=mlYzCoWs3B4Q7kNvwEKuuFr&_nc_oc=AdrI_8Iiy6t-ECX9QcSVvOFdNqPpkfXZ226Tg72R75PdiVacqDFrTYXAeteGE2Bcz7I&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=JDmUXXrplf867sjfn53Dyg&_nc_tpa=Q5bMBQLoar71uZ9s5YtGfOj4sGfppGFkARZg9E2MUWZLBK5CwUt5_tFOKDkuyuhxNM7scigwlR_YTs4qlg&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQKDMSCfkhaegozYfgUU1HEVfW5qvP17X0TAZjlkrL0IoA&oe=6AB076E7",
+        "impressoes": 3544,
+        "alcance": 1565,
+        "cliques": 86,
+        "mensagens": 18,
+        "thruplay": 548,
+        "investimento": 210.46,
+        "cpc": 2.45,
+        "ctr": 2.43
+      }
+    ],
+    "genero": {
+      "F": 96,
+      "M": 4,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 8,
+      "35-44": 14,
+      "45-54": 21,
+      "55-64": 29,
+      "65+": 28
+    },
+    "periodo": "custom",
+    "timestamp": "2026-09-16T13:05:41.632Z",
+    "prev": {
+      "investimento": 146.96,
+      "impressoes": 7460,
+      "alcance": 5438,
+      "cliques": 195,
+      "cpc": 0.75,
+      "cpm": 19.7,
+      "mensagens": 3,
+      "cpa": 48.99,
+      "thruplay": 635,
+      "frequencia": 1.37
+    }
+  }
+}
