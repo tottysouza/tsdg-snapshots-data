@@ -1,0 +1,27 @@
+{
+  "started_at": "2026-09-18T12:40:27.062Z",
+  "duration_ms": 100753,
+  "dates": {
+    "today": "2026-09-18",
+    "current": {
+      "since": "2026-09-11",
+      "until": "2026-09-17",
+      "label_pt": "11 set a 17 set"
+    },
+    "previous": {
+      "since": "2026-09-04",
+      "until": "2026-09-10"
+    }
+  },
+  "total": 19,
+  "ok": 18,
+  "partial": 0,
+  "failed": 1,
+  "failures": [
+    {
+      "id": "act_166071522",
+      "name": "BIOMA Valéria Alleoni",
+      "reason": "current: timeout 25s"
+    }
+  ]
+}
