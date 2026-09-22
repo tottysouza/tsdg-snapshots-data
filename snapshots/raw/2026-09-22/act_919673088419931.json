@@ -1,0 +1,51 @@
+{
+  "current": {
+    "accountId": "act_919673088419931",
+    "saldo": 1025.31,
+    "dateRange": {
+      "since": "2026-09-15",
+      "until": "2026-09-21"
+    },
+    "kpis": {
+      "investimento": 742.51,
+      "impressoes": 35074,
+      "alcance": 21422,
+      "cliques": 1577,
+      "cpc": 0.47,
+      "cpm": 21.17,
+      "mensagens": 20,
+      "cpa": 37.13,
+      "thruplay": 4711,
+      "frequencia": 1.64
+    },
+    "ads": [],
+    "genero": {
+      "F": 87,
+      "M": 13,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 13,
+      "35-44": 15,
+      "45-54": 23,
+      "55-64": 26,
+      "65+": 24
+    },
+    "periodo": "custom",
+    "timestamp": "2026-09-22T13:03:58.659Z",
+    "prev": {
+      "investimento": 664.22,
+      "impressoes": 30534,
+      "alcance": 20582,
+      "cliques": 1507,
+      "cpc": 0.44,
+      "cpm": 21.75,
+      "mensagens": 22,
+      "cpa": 30.19,
+      "thruplay": 4912,
+      "frequencia": 1.48
+    }
+  },
+  "previous": null
+}
