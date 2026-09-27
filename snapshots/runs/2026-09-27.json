@@ -1,0 +1,21 @@
+{
+  "started_at": "2026-09-27T13:30:33.893Z",
+  "duration_ms": 145313,
+  "dates": {
+    "today": "2026-09-27",
+    "current": {
+      "since": "2026-09-20",
+      "until": "2026-09-26",
+      "label_pt": "20 set a 26 set"
+    },
+    "previous": {
+      "since": "2026-09-13",
+      "until": "2026-09-19"
+    }
+  },
+  "total": 19,
+  "ok": 19,
+  "partial": 0,
+  "failed": 0,
+  "failures": []
+}
