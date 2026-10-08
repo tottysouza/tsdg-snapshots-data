@@ -1,0 +1,233 @@
+{
+  "current": {
+    "accountId": "act_744052467983233",
+    "saldo": 63.1,
+    "dateRange": {
+      "since": "2026-10-01",
+      "until": "2026-10-07"
+    },
+    "kpis": {
+      "investimento": 280.15,
+      "impressoes": 16343,
+      "alcance": 9722,
+      "cliques": 333,
+      "cpc": 0.84,
+      "cpm": 17.14,
+      "mensagens": 11,
+      "cpa": 25.47,
+      "thruplay": 454,
+      "frequencia": 1.68
+    },
+    "ads": [
+      {
+        "id": "120252915299880508",
+        "nome": "É primavera",
+        "status": "ACTIVE",
+        "legenda": "É Primavera… cores e formas dão o tom da estação! 2026-09-22-41d65513ca11aa9fd62c8c640fe46b03",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/820953477_1409275107227944_5383555540034751894_n.jpg?_nc_cat=109&ccb=1-7&_nc_eui2=AeHczHhVLTVboi_gX3mO5vvHxYDh3dhNWLnFgOHd2E1YuU_qi5Xnm0WmnOJSWZw4I6Ov0dop5BNfwCsSCe2hqRxP&_nc_ohc=waNbUFCjfusQ7kNvwE1_tY0&_nc_oc=Adrh83xOvzt8DxcC0L7DdiOCL3tHP_LKV-ebl0EViFsvd7xtAJnhZ8wKCM3S1t-vJT4&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=Y2yb3luWM_D20blfKivnug&_nc_tpa=Q5bMBQKZVYLQwcl7inj-CsnrrTgswi2f0VWRgZ0LmzhIhyxAHYwclUaJNr2UNy4NjFU4YN5rvPJFNESSeA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQPIK8byGyK3Boz-uhaD6wvec3Kr1ppWl7HI4IVoFFj6DQ&oe=6ACD6F3D",
+        "impressoes": 13023,
+        "alcance": 8776,
+        "cliques": 305,
+        "mensagens": 0,
+        "thruplay": 363,
+        "investimento": 104.14,
+        "cpc": 0.34,
+        "ctr": 2.34
+      },
+      {
+        "id": "120252915319500508",
+        "nome": "É primavera",
+        "status": "ACTIVE",
+        "legenda": "É Primavera… cores e formas dão o tom da estação! 2026-09-22-412065c96e2669a494b743f1476ad940",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-atl3-2.xx.fbcdn.net/v/t15.5256-10/820483729_1096724479748538_2488657461989756073_n.jpg?_nc_cat=111&ccb=1-7&_nc_eui2=AeEj22ZnKxhRu85RIJalrTrVj63ldCL_F6uPreV0Iv8Xq6cgqFGkDdTazwG0OV3MJTG1OsGbCXyp4ug2gzgYP3Mm&_nc_ohc=CEKZ3DWJksIQ7kNvwG6h8L5&_nc_oc=AdqA33eHvH3V1WoUZAxPjPbUP9ShqdztBWW060UptBccEDAeR5K7ibjweR62YT1FyeQ&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=Y2yb3luWM_D20blfKivnug&_nc_tpa=Q5bMBQI0kxSlJGL1PNixnF970jh8DlYeeslBGyAo2dybJLCCiRBj8NIx74sOshmAWrv9OdWjd-0Ql1v_9g&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQMj8u-SQNyeS3n20Hz9str8MBChiSqPQdUVsfNl0l8Z9w&oe=6ACD7AE4",
+        "impressoes": 3320,
+        "alcance": 951,
+        "cliques": 28,
+        "mensagens": 10,
+        "thruplay": 91,
+        "investimento": 176.01,
+        "cpc": 6.29,
+        "ctr": 0.84
+      },
+      {
+        "id": "120252825677280508",
+        "nome": "A queda",
+        "status": "PAUSED",
+        "legenda": "📅 Agende seu Horário 2026-09-16-1d3733c924ebc8ac19d5210ac2fa3424",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/805579256_1333156662228684_2022936848591501616_n.jpg?_nc_cat=110&ccb=1-7&_nc_eui2=AeFUNSSUko_W7MDkcm_2tYUpphAy2meAhKKmEDLaZ4CEora6dXqX81HWMtqjodgbACZf_Rcp60TYAPdOeQqGVNCm&_nc_ohc=pm3W4RDT2cMQ7kNvwEhGtpd&_nc_oc=AdquXYz8HH_nfQ2bWI61tzt7fKoWxn99DxE6qRjvAWiAc5gBWk4mhbCBynqgsh2Hy3E&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=Y2yb3luWM_D20blfKivnug&_nc_tpa=Q5bMBQJM17pJy3O4XKTdnmOAdNbxve1pVGApA3x08pw76DQ-Rij3j9HEm9jD-GP0mKFkeYn4EKXnqWieVg&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQNfdL5dVNaeNErd3KFAg2DD8BznRKmlDF872rUBkrJRFg&oe=6ACD7168",
+        "impressoes": 0,
+        "alcance": 0,
+        "cliques": 0,
+        "mensagens": 1,
+        "thruplay": 0,
+        "investimento": 0,
+        "cpc": 0,
+        "ctr": 0
+      }
+    ],
+    "genero": {
+      "F": 68,
+      "M": 32,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 24,
+      "35-44": 19,
+      "45-54": 20,
+      "55-64": 20,
+      "65+": 16
+    },
+    "periodo": "custom",
+    "timestamp": "2026-10-08T15:11:46.610Z",
+    "prev": {
+      "investimento": 274.42,
+      "impressoes": 9587,
+      "alcance": 6284,
+      "cliques": 200,
+      "cpc": 1.37,
+      "cpm": 28.62,
+      "mensagens": 9,
+      "cpa": 30.49,
+      "thruplay": 409,
+      "frequencia": 1.53
+    }
+  },
+  "previous": {
+    "accountId": "act_744052467983233",
+    "saldo": 63.1,
+    "dateRange": {
+      "since": "2026-09-24",
+      "until": "2026-09-30"
+    },
+    "kpis": {
+      "investimento": 274.42,
+      "impressoes": 9587,
+      "alcance": 6284,
+      "cliques": 200,
+      "cpc": 1.37,
+      "cpm": 28.62,
+      "mensagens": 9,
+      "cpa": 30.49,
+      "thruplay": 409,
+      "frequencia": 1.53
+    },
+    "ads": [
+      {
+        "id": "120252825648890508",
+        "nome": "A queda",
+        "status": "PAUSED",
+        "legenda": "A queda de cabelo sempre foi um dos motivos das clientes nos procurarem… de um ano pra cá com o aum 2026-09-16-a38b93ad76cd283b65e208cc3cad4bd6",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-hou1-1.xx.fbcdn.net/v/t15.5256-10/805579256_1333156662228684_2022936848591501616_n.jpg?_nc_cat=110&ccb=1-7&_nc_eui2=AeFUNSSUko_W7MDkcm_2tYUpphAy2meAhKKmEDLaZ4CEora6dXqX81HWMtqjodgbACZf_Rcp60TYAPdOeQqGVNCm&_nc_ohc=pm3W4RDT2cMQ7kNvwFkRItu&_nc_oc=AdrZJ0OKmNOZnYHXPVNdXpeQXHaeCDNNSGr7wnQmZtWIaCcvZIMo-L8VdQxfZu68vos&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=8clj-FWt4Ey_GDnu9mYM1A&_nc_tpa=Q5bMBQKpVHI5pBn2mWNz9hb9hiRpX3WCaCAZbHlGRli2yL9GWxmSCg8T_SDlc1mh4d4i26NID76ND1OfEw&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQPPmKNecmBk4VC76iLmH7Du-mIZ6xj6fKPufOi8gUmExg&oe=6ACD7168",
+        "impressoes": 4447,
+        "alcance": 3952,
+        "cliques": 119,
+        "mensagens": 0,
+        "thruplay": 255,
+        "investimento": 67.7,
+        "cpc": 0.57,
+        "ctr": 2.68
+      },
+      {
+        "id": "120252915299880508",
+        "nome": "É primavera",
+        "status": "ACTIVE",
+        "legenda": "É Primavera… cores e formas dão o tom da estação! 2026-09-22-41d65513ca11aa9fd62c8c640fe46b03",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-hou1-1.xx.fbcdn.net/v/t15.5256-10/820953477_1409275107227944_5383555540034751894_n.jpg?_nc_cat=109&ccb=1-7&_nc_eui2=AeHczHhVLTVboi_gX3mO5vvHxYDh3dhNWLnFgOHd2E1YuU_qi5Xnm0WmnOJSWZw4I6Ov0dop5BNfwCsSCe2hqRxP&_nc_ohc=waNbUFCjfusQ7kNvwF3kWwg&_nc_oc=AdpcgVPQ18dEO72mrjCkmiwpHoELDCsCHPfpAdBnNLnRTxA9RXWNzB7U4lqhbugBG_s&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=8clj-FWt4Ey_GDnu9mYM1A&_nc_tpa=Q5bMBQKKuB71CyM3-mD-ZEvTAtJyWHPVLByp_iv0L19R09D3dvgM0qg2Ow6xTs14nRB_IcXW7PxZdvi1bQ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQNtww2hG4NYYLy6gy_9efFGtasIkbn0OQ0x_FPrMv1WVA&oe=6ACD6F3D",
+        "impressoes": 2333,
+        "alcance": 1990,
+        "cliques": 56,
+        "mensagens": 0,
+        "thruplay": 66,
+        "investimento": 34.71,
+        "cpc": 0.62,
+        "ctr": 2.4
+      },
+      {
+        "id": "120252915319500508",
+        "nome": "É primavera",
+        "status": "ACTIVE",
+        "legenda": "É Primavera… cores e formas dão o tom da estação! 2026-09-22-412065c96e2669a494b743f1476ad940",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-hou1-1.xx.fbcdn.net/v/t15.5256-10/820483729_1096724479748538_2488657461989756073_n.jpg?_nc_cat=111&ccb=1-7&_nc_eui2=AeEj22ZnKxhRu85RIJalrTrVj63ldCL_F6uPreV0Iv8Xq6cgqFGkDdTazwG0OV3MJTG1OsGbCXyp4ug2gzgYP3Mm&_nc_ohc=CEKZ3DWJksIQ7kNvwEHlHtP&_nc_oc=AdrzFKCBRWml87pP5mfO7nc1-ljTg1_Xrb-v8y4Btot5mP3pxc3aWjtX_SYbqJlTv6c&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=8clj-FWt4Ey_GDnu9mYM1A&_nc_tpa=Q5bMBQI2Ygcq2e--tQLgdZtylD8HPseo0q5L3jd9_i_3V8lptqqmHwAVqH6R0XPQTwRjiu1M6oMVVIxi8A&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQNQ022B3FY2JJNbOaGdiYmFuIjRUN7oikJKULG54TeFXg&oe=6ACD7AE4",
+        "impressoes": 2113,
+        "alcance": 504,
+        "cliques": 14,
+        "mensagens": 8,
+        "thruplay": 58,
+        "investimento": 139.55,
+        "cpc": 9.97,
+        "ctr": 0.66
+      },
+      {
+        "id": "120252825677280508",
+        "nome": "A queda",
+        "status": "PAUSED",
+        "legenda": "📅 Agende seu Horário 2026-09-16-1d3733c924ebc8ac19d5210ac2fa3424",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-hou1-1.xx.fbcdn.net/v/t15.5256-10/805579256_1333156662228684_2022936848591501616_n.jpg?_nc_cat=110&ccb=1-7&_nc_eui2=AeFUNSSUko_W7MDkcm_2tYUpphAy2meAhKKmEDLaZ4CEora6dXqX81HWMtqjodgbACZf_Rcp60TYAPdOeQqGVNCm&_nc_ohc=pm3W4RDT2cMQ7kNvwFkRItu&_nc_oc=AdrZJ0OKmNOZnYHXPVNdXpeQXHaeCDNNSGr7wnQmZtWIaCcvZIMo-L8VdQxfZu68vos&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=8clj-FWt4Ey_GDnu9mYM1A&_nc_tpa=Q5bMBQIk8yeBvwX6jyNBWJ9Z5mlG1dTIvF5ww_jQsfE_XOvmo1DBAX5xu-FDB-RAXVkvsP9-mFD8r32c4Q&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQN3qv8EDK5B3iCrBGNnhq1ckUQAFREycDWPwgVxOKTG3A&oe=6ACD7168",
+        "impressoes": 694,
+        "alcance": 288,
+        "cliques": 11,
+        "mensagens": 1,
+        "thruplay": 30,
+        "investimento": 32.46,
+        "cpc": 2.95,
+        "ctr": 1.59
+      }
+    ],
+    "genero": {
+      "F": 79,
+      "M": 21,
+      "U": 1
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 30,
+      "35-44": 22,
+      "45-54": 18,
+      "55-64": 16,
+      "65+": 14
+    },
+    "periodo": "custom",
+    "timestamp": "2026-10-08T15:11:48.574Z",
+    "prev": {
+      "investimento": 383.04,
+      "impressoes": 11718,
+      "alcance": 7621,
+      "cliques": 253,
+      "cpc": 1.51,
+      "cpm": 32.69,
+      "mensagens": 11,
+      "cpa": 34.82,
+      "thruplay": 831,
+      "frequencia": 1.54
+    }
+  }
+}
