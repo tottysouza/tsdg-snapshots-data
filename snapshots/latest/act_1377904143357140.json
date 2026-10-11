@@ -4,62 +4,62 @@
     "account_name": "LACES Origens",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-10T14:13:11.806Z",
+    "generated_at": "2026-10-11T14:37:53.427Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-03",
-      "until": "2026-10-09",
-      "label_pt": "3 out a 9 out"
+      "since": "2026-10-04",
+      "until": "2026-10-10",
+      "label_pt": "4 out a 10 out"
     },
     "previous": {
-      "since": "2026-09-26",
-      "until": "2026-10-02"
+      "since": "2026-09-27",
+      "until": "2026-10-03"
     }
   },
   "totals": {
     "spend": {
-      "current": 236.85,
-      "previous": 456.2,
-      "delta_pct": -48
+      "current": 243.63,
+      "previous": 450.62,
+      "delta_pct": -46
     },
     "impressions": {
-      "current": 32258,
-      "previous": 24106,
-      "delta_pct": 34
+      "current": 32667,
+      "previous": 24279,
+      "delta_pct": 35
     },
     "reach": {
-      "current": 23666,
-      "previous": 18060,
+      "current": 23855,
+      "previous": 18246,
       "delta_pct": 31
     },
     "clicks": {
-      "current": 641,
-      "previous": 564,
-      "delta_pct": 14
+      "current": 599,
+      "previous": 590,
+      "delta_pct": 2
     },
     "ctr": {
-      "current": 1.99,
-      "previous": 2.34,
-      "delta_pct": -15
+      "current": 1.83,
+      "previous": 2.43,
+      "delta_pct": -25
     },
     "cpc": {
-      "current": 0.37,
-      "previous": 0.81,
-      "delta_pct": -54
+      "current": 0.41,
+      "previous": 0.76,
+      "delta_pct": -46
     },
     "thruplay": {
-      "current": 3898,
-      "previous": 3566,
-      "delta_pct": 9
+      "current": 3989,
+      "previous": 3534,
+      "delta_pct": 13
     },
     "frequency": {
-      "current": 1.36,
+      "current": 1.37,
       "previous": 1.33,
-      "delta_pct": 2
+      "delta_pct": 3
     }
   },
   "conversions": {
@@ -71,7 +71,7 @@
       },
       "cost": {
         "current": null,
-        "previous": 50.69,
+        "previous": 50.07,
         "delta_pct": null
       },
       "top_creative": {
@@ -98,71 +98,71 @@
   "top_creatives": [
     {
       "name": "Há rituais",
-      "impressions": 9945,
-      "reach": 7731,
-      "clicks": 39,
+      "impressions": 10603,
+      "reach": 8309,
+      "clicks": 40,
       "messages": 0,
-      "ctr": 0.39,
-      "thruplay": 2465
+      "ctr": 0.38,
+      "thruplay": 2715
     },
     {
       "name": "Nesta quinta",
-      "impressions": 7972,
-      "reach": 5991,
-      "clicks": 198,
+      "impressions": 8913,
+      "reach": 6663,
+      "clicks": 211,
       "messages": 0,
-      "ctr": 2.48,
+      "ctr": 2.37,
       "thruplay": 0
     },
     {
       "name": "Contei para vocês",
-      "impressions": 5584,
-      "reach": 4562,
-      "clicks": 172,
+      "impressions": 6334,
+      "reach": 5110,
+      "clicks": 201,
       "messages": 0,
-      "ctr": 3.08,
-      "thruplay": 165
+      "ctr": 3.17,
+      "thruplay": 208
+    },
+    {
+      "name": "Nesta quinta",
+      "impressions": 2217,
+      "reach": 2024,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 0.09,
+      "thruplay": 470
     },
     {
       "name": "Encanto da Lua",
-      "impressions": 2986,
-      "reach": 2168,
-      "clicks": 205,
+      "impressions": 1912,
+      "reach": 1535,
+      "clicks": 129,
       "messages": 0,
-      "ctr": 6.87,
+      "ctr": 6.75,
       "thruplay": 0
     },
     {
       "name": "Multiprime",
-      "impressions": 2449,
-      "reach": 2163,
-      "clicks": 24,
+      "impressions": 1660,
+      "reach": 1537,
+      "clicks": 15,
       "messages": 0,
-      "ctr": 0.98,
-      "thruplay": 582
-    },
-    {
-      "name": "Nesta quinta",
-      "impressions": 2179,
-      "reach": 2003,
-      "clicks": 2,
-      "messages": 0,
-      "ctr": 0.09,
-      "thruplay": 461
+      "ctr": 0.9,
+      "thruplay": 398
     },
     {
       "name": "Lua 26/09",
-      "impressions": 1138,
-      "reach": 1013,
+      "impressions": 1024,
+      "reach": 928,
       "clicks": 1,
       "messages": 0,
-      "ctr": 0.09,
-      "thruplay": 225
+      "ctr": 0.1,
+      "thruplay": 198
     },
     {
       "name": "Lua 26/09",
-      "impressions": 5,
-      "reach": 5,
+      "impressions": 4,
+      "reach": 4,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
@@ -171,22 +171,22 @@
   ],
   "demographics": {
     "gender": {
-      "female_pct": 69,
-      "male_pct": 30,
+      "female_pct": 75,
+      "male_pct": 24,
       "unknown_pct": 1
     },
     "age": {
       "18-24": 0,
-      "25-34": 26,
+      "25-34": 25,
       "35-44": 15,
       "45-54": 14,
       "55-64": 17,
-      "65+": 28
+      "65+": 29
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 189,
+    "balance_brl": 229.93,
     "balance_low": false,
     "account_disabled": false
   },

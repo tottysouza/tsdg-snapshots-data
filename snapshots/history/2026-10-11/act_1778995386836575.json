@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "account_id": "act_1778995386836575",
+    "account_name": "BIOMA Jackeline",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-11T14:36:53.062Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-04",
+      "until": "2026-10-10",
+      "label_pt": "4 out a 10 out"
+    },
+    "previous": {
+      "since": "2026-09-27",
+      "until": "2026-10-03"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 697.87,
+      "previous": 698.99,
+      "delta_pct": 0
+    },
+    "impressions": {
+      "current": 62276,
+      "previous": 51678,
+      "delta_pct": 21
+    },
+    "reach": {
+      "current": 48574,
+      "previous": 41145,
+      "delta_pct": 18
+    },
+    "clicks": {
+      "current": 1653,
+      "previous": 1678,
+      "delta_pct": -1
+    },
+    "ctr": {
+      "current": 2.65,
+      "previous": 3.25,
+      "delta_pct": -18
+    },
+    "cpc": {
+      "current": 0.42,
+      "previous": 0.42,
+      "delta_pct": 0
+    },
+    "thruplay": {
+      "current": 5113,
+      "previous": 4651,
+      "delta_pct": 10
+    },
+    "frequency": {
+      "current": 1.28,
+      "previous": 1.26,
+      "delta_pct": 2
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 32,
+        "previous": 30,
+        "delta_pct": 7
+      },
+      "cost": {
+        "current": 21.81,
+        "previous": 23.3,
+        "delta_pct": -6
+      },
+      "top_creative": {
+        "name": "Corte",
+        "value": 13
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Quem vive",
+      "impressions": 27083,
+      "reach": 23401,
+      "clicks": 629,
+      "messages": 0,
+      "ctr": 2.32,
+      "thruplay": 0
+    },
+    {
+      "name": "Corte",
+      "impressions": 11892,
+      "reach": 9517,
+      "clicks": 202,
+      "messages": 13,
+      "ctr": 1.7,
+      "thruplay": 317
+    },
+    {
+      "name": "Tem dias que o corpo",
+      "impressions": 10081,
+      "reach": 7890,
+      "clicks": 611,
+      "messages": 1,
+      "ctr": 6.06,
+      "thruplay": 298
+    },
+    {
+      "name": "Beleza à brasileira",
+      "impressions": 3920,
+      "reach": 1023,
+      "clicks": 14,
+      "messages": 0,
+      "ctr": 0.36,
+      "thruplay": 3600
+    },
+    {
+      "name": "Seu cabelo - reconhecimento",
+      "impressions": 3775,
+      "reach": 3500,
+      "clicks": 37,
+      "messages": 0,
+      "ctr": 0.98,
+      "thruplay": 646
+    },
+    {
+      "name": "Tem dias que o corpo — Cópia",
+      "impressions": 2947,
+      "reach": 2102,
+      "clicks": 85,
+      "messages": 6,
+      "ctr": 2.88,
+      "thruplay": 166
+    },
+    {
+      "name": "Tem dias que o corpo",
+      "impressions": 1984,
+      "reach": 1489,
+      "clicks": 60,
+      "messages": 11,
+      "ctr": 3.02,
+      "thruplay": 83
+    },
+    {
+      "name": "Projeto Verão",
+      "impressions": 314,
+      "reach": 227,
+      "clicks": 9,
+      "messages": 1,
+      "ctr": 2.87,
+      "thruplay": 0
+    },
+    {
+      "name": "Semana",
+      "impressions": 172,
+      "reach": 161,
+      "clicks": 5,
+      "messages": 0,
+      "ctr": 2.91,
+      "thruplay": 1
+    },
+    {
+      "name": "Semana",
+      "impressions": 81,
+      "reach": 55,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 1.23,
+      "thruplay": 2
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 67,
+      "male_pct": 33,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 45,
+      "35-44": 25,
+      "45-54": 12,
+      "55-64": 10,
+      "65+": 9
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 1784.98,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": []
+}

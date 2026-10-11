@@ -4,79 +4,79 @@
     "account_name": "Espaçolaser Campolim",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-10-10T14:13:55.143Z",
+    "generated_at": "2026-10-11T14:38:50.337Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-03",
-      "until": "2026-10-09",
-      "label_pt": "3 out a 9 out"
+      "since": "2026-10-04",
+      "until": "2026-10-10",
+      "label_pt": "4 out a 10 out"
     },
     "previous": {
-      "since": "2026-09-26",
-      "until": "2026-10-02"
+      "since": "2026-09-27",
+      "until": "2026-10-03"
     }
   },
   "totals": {
     "spend": {
-      "current": 332.25,
-      "previous": 326.82,
-      "delta_pct": 2
+      "current": 338.13,
+      "previous": 314.76,
+      "delta_pct": 7
     },
     "impressions": {
-      "current": 43980,
-      "previous": 45065,
-      "delta_pct": -2
+      "current": 37020,
+      "previous": 49123,
+      "delta_pct": -25
     },
     "reach": {
-      "current": 23266,
-      "previous": 20228,
-      "delta_pct": 15
+      "current": 20940,
+      "previous": 22064,
+      "delta_pct": -5
     },
     "clicks": {
-      "current": 595,
-      "previous": 723,
-      "delta_pct": -18
+      "current": 566,
+      "previous": 701,
+      "delta_pct": -19
     },
     "ctr": {
-      "current": 1.35,
-      "previous": 1.6,
-      "delta_pct": -16
+      "current": 1.53,
+      "previous": 1.43,
+      "delta_pct": 7
     },
     "cpc": {
-      "current": 0.56,
+      "current": 0.6,
       "previous": 0.45,
-      "delta_pct": 24
+      "delta_pct": 33
     },
     "thruplay": {
-      "current": 3925,
-      "previous": 4689,
-      "delta_pct": -16
+      "current": 3712,
+      "previous": 4802,
+      "delta_pct": -23
     },
     "frequency": {
-      "current": 1.89,
+      "current": 1.77,
       "previous": 2.23,
-      "delta_pct": -15
+      "delta_pct": -21
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 24,
-        "previous": 17,
-        "delta_pct": 41
+        "current": 27,
+        "previous": 19,
+        "delta_pct": 42
       },
       "cost": {
-        "current": 13.84,
-        "previous": 19.22,
-        "delta_pct": -28
+        "current": 12.52,
+        "previous": 16.57,
+        "delta_pct": -24
       },
       "top_creative": {
         "name": "[80%] Unidade — Cópia",
-        "value": 11
+        "value": 15
       }
     },
     "instagram_visits": {
@@ -98,113 +98,113 @@
   "top_creatives": [
     {
       "name": "Resgate",
-      "impressions": 17788,
-      "reach": 12683,
-      "clicks": 83,
-      "messages": 10,
-      "ctr": 0.47,
-      "thruplay": 256
+      "impressions": 10589,
+      "reach": 7908,
+      "clicks": 62,
+      "messages": 8,
+      "ctr": 0.59,
+      "thruplay": 156
+    },
+    {
+      "name": "[80%] Unidade — Cópia",
+      "impressions": 7542,
+      "reach": 4443,
+      "clicks": 45,
+      "messages": 15,
+      "ctr": 0.6,
+      "thruplay": 124
     },
     {
       "name": "Pele lisinha",
-      "impressions": 7137,
-      "reach": 6512,
-      "clicks": 325,
+      "impressions": 6974,
+      "reach": 6231,
+      "clicks": 314,
       "messages": 0,
-      "ctr": 4.55,
-      "thruplay": 1506
-    },
-    {
-      "name": "[80%] Unidade — Cópia",
-      "impressions": 6417,
-      "reach": 3807,
-      "clicks": 31,
-      "messages": 11,
-      "ctr": 0.48,
-      "thruplay": 95
+      "ctr": 4.5,
+      "thruplay": 1441
     },
     {
       "name": "De perto",
-      "impressions": 5596,
-      "reach": 5042,
-      "clicks": 27,
+      "impressions": 4401,
+      "reach": 4066,
+      "clicks": 21,
       "messages": 0,
       "ctr": 0.48,
-      "thruplay": 1092
+      "thruplay": 851
     },
     {
       "name": "Pena que nao e meu caso",
-      "impressions": 2579,
-      "reach": 2468,
-      "clicks": 44,
+      "impressions": 2396,
+      "reach": 2328,
+      "clicks": 39,
       "messages": 0,
-      "ctr": 1.71,
-      "thruplay": 179
+      "ctr": 1.63,
+      "thruplay": 164
     },
     {
       "name": "[80%] Carol Leite",
-      "impressions": 1498,
-      "reach": 1216,
+      "impressions": 1585,
+      "reach": 1267,
       "clicks": 57,
       "messages": 0,
-      "ctr": 3.81,
-      "thruplay": 60
+      "ctr": 3.6,
+      "thruplay": 61
     },
     {
       "name": "[80%] Especialista planejamento",
-      "impressions": 916,
-      "reach": 895,
+      "impressions": 1212,
+      "reach": 1162,
       "clicks": 4,
       "messages": 0,
-      "ctr": 0.44,
-      "thruplay": 515
-    },
-    {
-      "name": "Segredos",
-      "impressions": 554,
-      "reach": 380,
-      "clicks": 7,
-      "messages": 2,
-      "ctr": 1.26,
-      "thruplay": 18
+      "ctr": 0.33,
+      "thruplay": 683
     },
     {
       "name": "[80%] Unidade — Cópia",
-      "impressions": 485,
+      "impressions": 752,
+      "reach": 583,
+      "clicks": 6,
+      "messages": 2,
+      "ctr": 0.8,
+      "thruplay": 16
+    },
+    {
+      "name": "Segredos",
+      "impressions": 511,
       "reach": 358,
-      "clicks": 5,
-      "messages": 1,
-      "ctr": 1.03,
-      "thruplay": 5
+      "clicks": 7,
+      "messages": 2,
+      "ctr": 1.37,
+      "thruplay": 16
     },
     {
       "name": "[80%] Momento outubro",
-      "impressions": 256,
-      "reach": 253,
+      "impressions": 266,
+      "reach": 263,
       "clicks": 1,
       "messages": 0,
-      "ctr": 0.39,
-      "thruplay": 145
+      "ctr": 0.38,
+      "thruplay": 153
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 50,
-      "male_pct": 36,
-      "unknown_pct": 14
+      "female_pct": 54,
+      "male_pct": 35,
+      "unknown_pct": 11
     },
     "age": {
       "18-24": 0,
       "25-34": 30,
-      "35-44": 17,
-      "45-54": 11,
-      "55-64": 10,
-      "65+": 12
+      "35-44": 18,
+      "45-54": 12,
+      "55-64": 12,
+      "65+": 13
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 8.68,
+    "balance_brl": 20.78,
     "balance_low": false,
     "account_disabled": false
   },

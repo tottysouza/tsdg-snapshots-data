@@ -4,79 +4,79 @@
     "account_name": "BIOMA Sense",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-10T14:12:21.096Z",
+    "generated_at": "2026-10-11T14:36:59.595Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-03",
-      "until": "2026-10-09",
-      "label_pt": "3 out a 9 out"
+      "since": "2026-10-04",
+      "until": "2026-10-10",
+      "label_pt": "4 out a 10 out"
     },
     "previous": {
-      "since": "2026-09-26",
-      "until": "2026-10-02"
+      "since": "2026-09-27",
+      "until": "2026-10-03"
     }
   },
   "totals": {
     "spend": {
-      "current": 200.52,
-      "previous": 275.96,
-      "delta_pct": -27
+      "current": 175.04,
+      "previous": 279.19,
+      "delta_pct": -37
     },
     "impressions": {
-      "current": 12742,
-      "previous": 10559,
-      "delta_pct": 21
+      "current": 11174,
+      "previous": 10957,
+      "delta_pct": 2
     },
     "reach": {
-      "current": 7679,
-      "previous": 7224,
-      "delta_pct": 6
+      "current": 6937,
+      "previous": 7348,
+      "delta_pct": -6
     },
     "clicks": {
-      "current": 249,
-      "previous": 222,
-      "delta_pct": 12
+      "current": 219,
+      "previous": 223,
+      "delta_pct": -2
     },
     "ctr": {
-      "current": 1.95,
-      "previous": 2.1,
-      "delta_pct": -7
+      "current": 1.96,
+      "previous": 2.04,
+      "delta_pct": -4
     },
     "cpc": {
-      "current": 0.81,
-      "previous": 1.24,
-      "delta_pct": -35
+      "current": 0.8,
+      "previous": 1.25,
+      "delta_pct": -36
     },
     "thruplay": {
-      "current": 363,
-      "previous": 382,
-      "delta_pct": -5
+      "current": 311,
+      "previous": 374,
+      "delta_pct": -17
     },
     "frequency": {
-      "current": 1.66,
-      "previous": 1.46,
-      "delta_pct": 14
+      "current": 1.61,
+      "previous": 1.49,
+      "delta_pct": 8
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 10,
+        "current": 9,
         "previous": 11,
-        "delta_pct": -9
+        "delta_pct": -18
       },
       "cost": {
-        "current": 20.05,
-        "previous": 25.09,
-        "delta_pct": -20
+        "current": 19.45,
+        "previous": 25.38,
+        "delta_pct": -23
       },
       "top_creative": {
         "name": "É primavera",
-        "value": 10
+        "value": 9
       }
     },
     "instagram_visits": {
@@ -98,36 +98,36 @@
   "top_creatives": [
     {
       "name": "É primavera",
-      "impressions": 10012,
-      "reach": 6773,
-      "clicks": 227,
+      "impressions": 8826,
+      "reach": 6146,
+      "clicks": 201,
       "messages": 0,
-      "ctr": 2.27,
-      "thruplay": 285
+      "ctr": 2.28,
+      "thruplay": 244
     },
     {
       "name": "É primavera",
-      "impressions": 2730,
-      "reach": 886,
-      "clicks": 22,
-      "messages": 10,
-      "ctr": 0.81,
-      "thruplay": 78
+      "impressions": 2348,
+      "reach": 798,
+      "clicks": 18,
+      "messages": 9,
+      "ctr": 0.77,
+      "thruplay": 67
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 66,
-      "male_pct": 34,
+      "female_pct": 68,
+      "male_pct": 32,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 20,
-      "35-44": 19,
+      "25-34": 19,
+      "35-44": 20,
       "45-54": 21,
       "55-64": 22,
-      "65+": 18
+      "65+": 17
     }
   },
   "campaigns_active": [],

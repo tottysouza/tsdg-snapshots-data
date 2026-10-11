@@ -4,79 +4,79 @@
     "account_name": "BIOMA Uberaba",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-10T14:12:20.004Z",
+    "generated_at": "2026-10-11T14:36:58.500Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-03",
-      "until": "2026-10-09",
-      "label_pt": "3 out a 9 out"
+      "since": "2026-10-04",
+      "until": "2026-10-10",
+      "label_pt": "4 out a 10 out"
     },
     "previous": {
-      "since": "2026-09-26",
-      "until": "2026-10-02"
+      "since": "2026-09-27",
+      "until": "2026-10-03"
     }
   },
   "totals": {
     "spend": {
-      "current": 939.3,
-      "previous": 914.82,
+      "current": 949.86,
+      "previous": 918,
       "delta_pct": 3
     },
     "impressions": {
-      "current": 87337,
-      "previous": 61701,
-      "delta_pct": 42
+      "current": 88876,
+      "previous": 64433,
+      "delta_pct": 38
     },
     "reach": {
-      "current": 52741,
-      "previous": 39783,
-      "delta_pct": 33
+      "current": 55478,
+      "previous": 40466,
+      "delta_pct": 37
     },
     "clicks": {
-      "current": 1030,
-      "previous": 814,
-      "delta_pct": 27
+      "current": 997,
+      "previous": 878,
+      "delta_pct": 14
     },
     "ctr": {
-      "current": 1.18,
-      "previous": 1.32,
-      "delta_pct": -11
+      "current": 1.12,
+      "previous": 1.36,
+      "delta_pct": -18
     },
     "cpc": {
-      "current": 0.91,
-      "previous": 1.12,
-      "delta_pct": -19
+      "current": 0.95,
+      "previous": 1.05,
+      "delta_pct": -10
     },
     "thruplay": {
-      "current": 19476,
-      "previous": 14402,
-      "delta_pct": 35
+      "current": 19784,
+      "previous": 14845,
+      "delta_pct": 33
     },
     "frequency": {
-      "current": 1.66,
-      "previous": 1.55,
-      "delta_pct": 7
+      "current": 1.6,
+      "previous": 1.59,
+      "delta_pct": 1
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 74,
-        "previous": 42,
-        "delta_pct": 76
+        "current": 68,
+        "previous": 51,
+        "delta_pct": 33
       },
       "cost": {
-        "current": 12.69,
-        "previous": 21.78,
-        "delta_pct": -42
+        "current": 13.97,
+        "previous": 18,
+        "delta_pct": -22
       },
       "top_creative": {
         "name": "Rozana",
-        "value": 24
+        "value": 20
       }
     },
     "instagram_visits": {
@@ -98,99 +98,99 @@
   "top_creatives": [
     {
       "name": "Tem cuidados",
-      "impressions": 33197,
-      "reach": 27967,
-      "clicks": 21,
+      "impressions": 34498,
+      "reach": 28798,
+      "clicks": 22,
       "messages": 0,
       "ctr": 0.06,
-      "thruplay": 14954
+      "thruplay": 15402
     },
     {
       "name": "Mais comprimento",
-      "impressions": 9974,
-      "reach": 7339,
+      "impressions": 9949,
+      "reach": 7338,
       "clicks": 83,
-      "messages": 17,
+      "messages": 16,
       "ctr": 0.83,
       "thruplay": 0
     },
     {
       "name": "Monalisa",
-      "impressions": 7811,
-      "reach": 6295,
-      "clicks": 308,
+      "impressions": 8068,
+      "reach": 6499,
+      "clicks": 316,
       "messages": 1,
-      "ctr": 3.94,
-      "thruplay": 305
-    },
-    {
-      "name": "Rozana",
-      "impressions": 6876,
-      "reach": 4422,
-      "clicks": 146,
-      "messages": 24,
-      "ctr": 2.12,
-      "thruplay": 723
+      "ctr": 3.92,
+      "thruplay": 317
     },
     {
       "name": "MelPlus",
-      "impressions": 6709,
-      "reach": 4334,
-      "clicks": 112,
+      "impressions": 6620,
+      "reach": 4217,
+      "clicks": 103,
       "messages": 9,
-      "ctr": 1.67,
-      "thruplay": 477
+      "ctr": 1.56,
+      "thruplay": 457
+    },
+    {
+      "name": "Rozana",
+      "impressions": 6264,
+      "reach": 4133,
+      "clicks": 130,
+      "messages": 20,
+      "ctr": 2.08,
+      "thruplay": 618
     },
     {
       "name": "Tem cuidados — Cópia",
-      "impressions": 4626,
-      "reach": 4184,
-      "clicks": 3,
+      "impressions": 4449,
+      "reach": 4084,
+      "clicks": 4,
       "messages": 0,
-      "ctr": 0.06,
-      "thruplay": 1936
+      "ctr": 0.09,
+      "thruplay": 1887
     },
     {
       "name": "Você sabia que em Uberaba",
-      "impressions": 4026,
-      "reach": 2730,
-      "clicks": 63,
-      "messages": 16,
-      "ctr": 1.56,
-      "thruplay": 364
-    },
-    {
-      "name": "Seja bem-vindo",
-      "impressions": 3807,
-      "reach": 3369,
-      "clicks": 141,
-      "messages": 0,
-      "ctr": 3.7,
-      "thruplay": 239
+      "impressions": 4076,
+      "reach": 2736,
+      "clicks": 56,
+      "messages": 15,
+      "ctr": 1.37,
+      "thruplay": 350
     },
     {
       "name": "Livre, leve e solto",
-      "impressions": 2868,
-      "reach": 2021,
-      "clicks": 33,
+      "impressions": 4010,
+      "reach": 2844,
+      "clicks": 39,
       "messages": 1,
-      "ctr": 1.15,
-      "thruplay": 116
+      "ctr": 0.97,
+      "thruplay": 158
+    },
+    {
+      "name": "Seja bem-vindo",
+      "impressions": 3695,
+      "reach": 3366,
+      "clicks": 122,
+      "messages": 0,
+      "ctr": 3.3,
+      "thruplay": 231
     },
     {
       "name": "Autoconhecimento",
-      "impressions": 2245,
-      "reach": 1837,
-      "clicks": 52,
+      "impressions": 2469,
+      "reach": 2087,
+      "clicks": 59,
       "messages": 0,
-      "ctr": 2.32,
-      "thruplay": 75
+      "ctr": 2.39,
+      "thruplay": 86
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 58,
-      "male_pct": 37,
+      "female_pct": 56,
+      "male_pct": 39,
       "unknown_pct": 5
     },
     "age": {
@@ -204,7 +204,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 182.07,
+    "balance_brl": 307.83,
     "balance_low": false,
     "account_disabled": false
   },

@@ -4,75 +4,75 @@
     "account_name": "Espaçolaser Bragança",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-10-10T14:13:38.135Z",
+    "generated_at": "2026-10-11T14:38:43.922Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-03",
-      "until": "2026-10-09",
-      "label_pt": "3 out a 9 out"
+      "since": "2026-10-04",
+      "until": "2026-10-10",
+      "label_pt": "4 out a 10 out"
     },
     "previous": {
-      "since": "2026-09-26",
-      "until": "2026-10-02"
+      "since": "2026-09-27",
+      "until": "2026-10-03"
     }
   },
   "totals": {
     "spend": {
-      "current": 366.42,
-      "previous": 412.21,
-      "delta_pct": -11
+      "current": 390.34,
+      "previous": 391.25,
+      "delta_pct": 0
     },
     "impressions": {
-      "current": 35968,
-      "previous": 37859,
-      "delta_pct": -5
+      "current": 36201,
+      "previous": 35720,
+      "delta_pct": 1
     },
     "reach": {
-      "current": 20416,
-      "previous": 15810,
-      "delta_pct": 29
+      "current": 21121,
+      "previous": 15482,
+      "delta_pct": 36
     },
     "clicks": {
-      "current": 445,
-      "previous": 448,
+      "current": 446,
+      "previous": 449,
       "delta_pct": -1
     },
     "ctr": {
-      "current": 1.24,
-      "previous": 1.18,
-      "delta_pct": 5
+      "current": 1.23,
+      "previous": 1.26,
+      "delta_pct": -2
     },
     "cpc": {
-      "current": 0.82,
-      "previous": 0.92,
-      "delta_pct": -11
+      "current": 0.88,
+      "previous": 0.87,
+      "delta_pct": 1
     },
     "thruplay": {
-      "current": 2568,
-      "previous": 3580,
-      "delta_pct": -28
+      "current": 2575,
+      "previous": 3432,
+      "delta_pct": -25
     },
     "frequency": {
-      "current": 1.76,
-      "previous": 2.39,
+      "current": 1.71,
+      "previous": 2.31,
       "delta_pct": -26
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 15,
+        "current": 16,
         "previous": 18,
-        "delta_pct": -17
+        "delta_pct": -11
       },
       "cost": {
-        "current": 24.43,
-        "previous": 22.9,
-        "delta_pct": 7
+        "current": 24.4,
+        "previous": 21.74,
+        "delta_pct": 12
       },
       "top_creative": {
         "name": "3 sessões",
@@ -98,21 +98,39 @@
   "top_creatives": [
     {
       "name": "3 sessões",
-      "impressions": 12184,
-      "reach": 7252,
-      "clicks": 84,
+      "impressions": 10064,
+      "reach": 6650,
+      "clicks": 68,
       "messages": 10,
-      "ctr": 0.69,
-      "thruplay": 269
+      "ctr": 0.68,
+      "thruplay": 217
     },
     {
       "name": "Região íntima",
-      "impressions": 3454,
-      "reach": 3167,
-      "clicks": 47,
+      "impressions": 3291,
+      "reach": 3048,
+      "clicks": 45,
       "messages": 0,
-      "ctr": 1.36,
-      "thruplay": 661
+      "ctr": 1.37,
+      "thruplay": 620
+    },
+    {
+      "name": "[80%] Carol Leite",
+      "impressions": 3277,
+      "reach": 2881,
+      "clicks": 122,
+      "messages": 0,
+      "ctr": 3.72,
+      "thruplay": 87
+    },
+    {
+      "name": "[80%] Unidade — Cópia — Cópia",
+      "impressions": 3184,
+      "reach": 2228,
+      "clicks": 21,
+      "messages": 1,
+      "ctr": 0.66,
+      "thruplay": 50
     },
     {
       "name": "[80%] Unidade — Cópia — Cópia",
@@ -124,40 +142,31 @@
       "thruplay": 57
     },
     {
-      "name": "[80%] Carol Leite",
-      "impressions": 2536,
-      "reach": 2206,
-      "clicks": 87,
-      "messages": 0,
-      "ctr": 3.43,
-      "thruplay": 69
+      "name": "[80%] Unidade — Cópia — Cópia",
+      "impressions": 2156,
+      "reach": 1875,
+      "clicks": 15,
+      "messages": 1,
+      "ctr": 0.7,
+      "thruplay": 36
     },
     {
       "name": "Fui conhecer",
-      "impressions": 2149,
-      "reach": 1872,
-      "clicks": 79,
+      "impressions": 1800,
+      "reach": 1615,
+      "clicks": 61,
       "messages": 0,
-      "ctr": 3.68,
-      "thruplay": 54
-    },
-    {
-      "name": "[80%] Unidade — Cópia — Cópia",
-      "impressions": 2098,
-      "reach": 1626,
-      "clicks": 9,
-      "messages": 0,
-      "ctr": 0.43,
-      "thruplay": 38
+      "ctr": 3.39,
+      "thruplay": 47
     },
     {
       "name": "Pena que nao e meu caso",
-      "impressions": 1958,
-      "reach": 1639,
-      "clicks": 20,
+      "impressions": 1744,
+      "reach": 1503,
+      "clicks": 16,
       "messages": 1,
-      "ctr": 1.02,
-      "thruplay": 105
+      "ctr": 0.92,
+      "thruplay": 92
     },
     {
       "name": "[80%] Unidade",
@@ -169,22 +178,13 @@
       "thruplay": 18
     },
     {
-      "name": "[80%] Unidade — Cópia — Cópia",
-      "impressions": 969,
-      "reach": 817,
-      "clicks": 11,
-      "messages": 1,
-      "ctr": 1.14,
-      "thruplay": 15
-    },
-    {
       "name": "Os astros",
-      "impressions": 969,
-      "reach": 872,
-      "clicks": 37,
+      "impressions": 805,
+      "reach": 724,
+      "clicks": 28,
       "messages": 0,
-      "ctr": 3.82,
-      "thruplay": 83
+      "ctr": 3.48,
+      "thruplay": 65
     }
   ],
   "demographics": {
@@ -195,7 +195,7 @@
     },
     "age": {
       "18-24": 0,
-      "25-34": 35,
+      "25-34": 34,
       "35-44": 26,
       "45-54": 16,
       "55-64": 11,
@@ -204,7 +204,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 17.73,
+    "balance_brl": 15.39,
     "balance_low": false,
     "account_disabled": false
   },

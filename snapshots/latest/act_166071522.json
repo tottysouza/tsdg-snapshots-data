@@ -4,79 +4,77 @@
     "account_name": "BIOMA Valéria Alleoni",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-10T14:13:30.061Z",
-    "fetch_status": "ok",
+    "generated_at": "2026-10-11T14:38:38.072Z",
+    "fetch_status": "partial",
     "fetch_source": "github_actions",
-    "notes": []
+    "notes": [
+      "current: timeout 25s"
+    ]
   },
   "period": {
     "current": {
-      "since": "2026-10-03",
-      "until": "2026-10-09",
-      "label_pt": "3 out a 9 out"
+      "since": "2026-10-04",
+      "until": "2026-10-10",
+      "label_pt": "4 out a 10 out"
     },
     "previous": {
-      "since": "2026-09-26",
-      "until": "2026-10-02"
+      "since": "2026-09-27",
+      "until": "2026-10-03"
     }
   },
   "totals": {
     "spend": {
-      "current": 925.42,
-      "previous": 811.32,
-      "delta_pct": 14
+      "current": null,
+      "previous": 835.64,
+      "delta_pct": null
     },
     "impressions": {
-      "current": 149260,
-      "previous": 75497,
-      "delta_pct": 98
+      "current": null,
+      "previous": 87237,
+      "delta_pct": null
     },
     "reach": {
-      "current": 65112,
-      "previous": 40097,
-      "delta_pct": 62
+      "current": null,
+      "previous": 45370,
+      "delta_pct": null
     },
     "clicks": {
-      "current": 3037,
-      "previous": 2059,
-      "delta_pct": 47
+      "current": null,
+      "previous": 2381,
+      "delta_pct": null
     },
     "ctr": {
-      "current": 2.03,
+      "current": null,
       "previous": 2.73,
-      "delta_pct": -26
+      "delta_pct": null
     },
     "cpc": {
-      "current": 0.3,
-      "previous": 0.39,
-      "delta_pct": -23
+      "current": null,
+      "previous": 0.35,
+      "delta_pct": null
     },
     "thruplay": {
-      "current": 10211,
-      "previous": 6459,
-      "delta_pct": 58
+      "current": null,
+      "previous": 7292,
+      "delta_pct": null
     },
     "frequency": {
-      "current": 2.29,
-      "previous": 1.88,
-      "delta_pct": 22
+      "current": null,
+      "previous": 1.92,
+      "delta_pct": null
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 39,
-        "previous": 31,
-        "delta_pct": 26
+        "current": null,
+        "previous": 27,
+        "delta_pct": null
       },
       "cost": {
-        "current": 23.73,
-        "previous": 26.17,
-        "delta_pct": -9
-      },
-      "top_creative": {
-        "name": "O Meu Corte Saudável",
-        "value": 18
+        "current": null,
+        "previous": 30.95,
+        "delta_pct": null
       }
     },
     "instagram_visits": {
@@ -89,104 +87,16 @@
         "current": null,
         "previous": null,
         "delta_pct": null
-      },
-      "top_creative": null
+      }
     },
     "site_visits": null,
     "site_purchases": null
   },
-  "top_creatives": [
-    {
-      "name": "Moreno iluminado",
-      "impressions": 64733,
-      "reach": 37298,
-      "clicks": 1577,
-      "messages": 0,
-      "ctr": 2.44,
-      "thruplay": 971
-    },
-    {
-      "name": "Ontem",
-      "impressions": 22158,
-      "reach": 16888,
-      "clicks": 524,
-      "messages": 0,
-      "ctr": 2.36,
-      "thruplay": 3305
-    },
-    {
-      "name": "Detox day",
-      "impressions": 17739,
-      "reach": 16542,
-      "clicks": 154,
-      "messages": 14,
-      "ctr": 0.87,
-      "thruplay": 530
-    },
-    {
-      "name": "O Meu Corte Saudável",
-      "impressions": 17273,
-      "reach": 14653,
-      "clicks": 229,
-      "messages": 18,
-      "ctr": 1.33,
-      "thruplay": 1063
-    },
-    {
-      "name": "Quase 50 anos",
-      "impressions": 12486,
-      "reach": 9997,
-      "clicks": 332,
-      "messages": 0,
-      "ctr": 2.66,
-      "thruplay": 3036
-    },
-    {
-      "name": "Moreno iluminado",
-      "impressions": 12035,
-      "reach": 9478,
-      "clicks": 156,
-      "messages": 7,
-      "ctr": 1.3,
-      "thruplay": 767
-    },
-    {
-      "name": "De Paris ao Rio",
-      "impressions": 2682,
-      "reach": 2397,
-      "clicks": 65,
-      "messages": 0,
-      "ctr": 2.42,
-      "thruplay": 530
-    },
-    {
-      "name": "De Paris ao Rio",
-      "impressions": 154,
-      "reach": 143,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 9
-    }
-  ],
-  "demographics": {
-    "gender": {
-      "female_pct": 68,
-      "male_pct": 23,
-      "unknown_pct": 9
-    },
-    "age": {
-      "18-24": 0,
-      "25-34": 9,
-      "35-44": 10,
-      "45-54": 13,
-      "55-64": 21,
-      "65+": 26
-    }
-  },
+  "top_creatives": [],
+  "demographics": null,
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 1375.66,
+    "balance_brl": null,
     "balance_low": false,
     "account_disabled": false
   },
