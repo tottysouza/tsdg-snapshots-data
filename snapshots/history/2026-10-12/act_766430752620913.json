@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "account_id": "act_766430752620913",
+    "account_name": "MORINGA Barber",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-12T17:21:31.310Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-05",
+      "until": "2026-10-11",
+      "label_pt": "5 out a 11 out"
+    },
+    "previous": {
+      "since": "2026-09-28",
+      "until": "2026-10-04"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 22.43,
+      "previous": 227.83,
+      "delta_pct": -90
+    },
+    "impressions": {
+      "current": 6559,
+      "previous": 41924,
+      "delta_pct": -84
+    },
+    "reach": {
+      "current": 6559,
+      "previous": 30437,
+      "delta_pct": -78
+    },
+    "clicks": {
+      "current": 88,
+      "previous": 534,
+      "delta_pct": -84
+    },
+    "ctr": {
+      "current": 1.34,
+      "previous": 1.27,
+      "delta_pct": 6
+    },
+    "cpc": {
+      "current": 0.25,
+      "previous": 0.43,
+      "delta_pct": -42
+    },
+    "thruplay": {
+      "current": 139,
+      "previous": 1049,
+      "delta_pct": -87
+    },
+    "frequency": {
+      "current": 1,
+      "previous": 1.38,
+      "delta_pct": -28
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 0,
+        "previous": 1,
+        "delta_pct": -100
+      },
+      "cost": {
+        "current": null,
+        "previous": 227.83,
+        "delta_pct": null
+      },
+      "top_creative": {
+        "name": "Afial",
+        "value": 0
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Afial",
+      "impressions": 4345,
+      "reach": 4345,
+      "clicks": 5,
+      "messages": 0,
+      "ctr": 0.12,
+      "thruplay": 28
+    },
+    {
+      "name": "Fazer barba",
+      "impressions": 1482,
+      "reach": 1422,
+      "clicks": 75,
+      "messages": 0,
+      "ctr": 5.06,
+      "thruplay": 98
+    },
+    {
+      "name": "Barboterapia",
+      "impressions": 500,
+      "reach": 460,
+      "clicks": 8,
+      "messages": 0,
+      "ctr": 1.6,
+      "thruplay": 12
+    },
+    {
+      "name": "CORTE & BARBA ITALIANO — Lettering",
+      "impressions": 225,
+      "reach": 224,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 1
+    },
+    {
+      "name": "Método Vero",
+      "impressions": 7,
+      "reach": 7,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 41,
+      "male_pct": 59,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 45,
+      "35-44": 22,
+      "45-54": 14,
+      "55-64": 10,
+      "65+": 9
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 452.68,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "zero_conversations_current"
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "account_id": "act_1377904143357140",
+    "account_name": "LACES Origens",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-12T17:21:27.163Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-05",
+      "until": "2026-10-11",
+      "label_pt": "5 out a 11 out"
+    },
+    "previous": {
+      "since": "2026-09-28",
+      "until": "2026-10-04"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 241.44,
+      "previous": 455.76,
+      "delta_pct": -47
+    },
+    "impressions": {
+      "current": 30487,
+      "previous": 27795,
+      "delta_pct": 10
+    },
+    "reach": {
+      "current": 22591,
+      "previous": 20827,
+      "delta_pct": 8
+    },
+    "clicks": {
+      "current": 569,
+      "previous": 677,
+      "delta_pct": -16
+    },
+    "ctr": {
+      "current": 1.87,
+      "previous": 2.44,
+      "delta_pct": -23
+    },
+    "cpc": {
+      "current": 0.42,
+      "previous": 0.67,
+      "delta_pct": -37
+    },
+    "thruplay": {
+      "current": 3964,
+      "previous": 3770,
+      "delta_pct": 5
+    },
+    "frequency": {
+      "current": 1.35,
+      "previous": 1.33,
+      "delta_pct": 2
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 1,
+        "previous": 9,
+        "delta_pct": -89
+      },
+      "cost": {
+        "current": 241.44,
+        "previous": 50.64,
+        "delta_pct": 377
+      },
+      "top_creative": {
+        "name": "Contei para vocês",
+        "value": 1
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Há rituais",
+      "impressions": 10962,
+      "reach": 8391,
+      "clicks": 47,
+      "messages": 0,
+      "ctr": 0.43,
+      "thruplay": 2862
+    },
+    {
+      "name": "Nesta quinta",
+      "impressions": 9029,
+      "reach": 6774,
+      "clicks": 216,
+      "messages": 0,
+      "ctr": 2.39,
+      "thruplay": 0
+    },
+    {
+      "name": "Contei para vocês",
+      "impressions": 4595,
+      "reach": 3859,
+      "clicks": 175,
+      "messages": 1,
+      "ctr": 3.81,
+      "thruplay": 190
+    },
+    {
+      "name": "Nesta quinta",
+      "impressions": 2232,
+      "reach": 2038,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 0.09,
+      "thruplay": 474
+    },
+    {
+      "name": "Encanto da Lua",
+      "impressions": 1778,
+      "reach": 1452,
+      "clicks": 118,
+      "messages": 0,
+      "ctr": 6.64,
+      "thruplay": 0
+    },
+    {
+      "name": "Multiprime",
+      "impressions": 1111,
+      "reach": 1059,
+      "clicks": 11,
+      "messages": 0,
+      "ctr": 0.99,
+      "thruplay": 292
+    },
+    {
+      "name": "Lua 26/09",
+      "impressions": 768,
+      "reach": 737,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 144
+    },
+    {
+      "name": "Multiprime",
+      "impressions": 11,
+      "reach": 11,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 2
+    },
+    {
+      "name": "Lua 26/09",
+      "impressions": 1,
+      "reach": 1,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 77,
+      "male_pct": 23,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 23,
+      "35-44": 15,
+      "45-54": 14,
+      "55-64": 18,
+      "65+": 31
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 274.16,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "creative_concentration_over_80"
+  ]
+}

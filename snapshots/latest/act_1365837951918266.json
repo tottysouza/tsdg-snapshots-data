@@ -4,62 +4,62 @@
     "account_name": "MIMO Live Sales",
     "segment": "TECH",
     "template": "MIMO",
-    "generated_at": "2026-10-11T14:38:57.530Z",
+    "generated_at": "2026-10-12T17:21:50.779Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-04",
-      "until": "2026-10-10",
-      "label_pt": "4 out a 10 out"
+      "since": "2026-10-05",
+      "until": "2026-10-11",
+      "label_pt": "5 out a 11 out"
     },
     "previous": {
-      "since": "2026-09-27",
-      "until": "2026-10-03"
+      "since": "2026-09-28",
+      "until": "2026-10-04"
     }
   },
   "totals": {
     "spend": {
-      "current": 280,
-      "previous": 279.89,
-      "delta_pct": 0
+      "current": 277.8,
+      "previous": 282.22,
+      "delta_pct": -2
     },
     "impressions": {
-      "current": 27697,
-      "previous": 24976,
-      "delta_pct": 11
+      "current": 27750,
+      "previous": 25435,
+      "delta_pct": 9
     },
     "reach": {
-      "current": 20470,
-      "previous": 19724,
-      "delta_pct": 4
+      "current": 21447,
+      "previous": 19723,
+      "delta_pct": 9
     },
     "clicks": {
-      "current": 1471,
-      "previous": 1145,
-      "delta_pct": 28
+      "current": 1467,
+      "previous": 1214,
+      "delta_pct": 21
     },
     "ctr": {
-      "current": 5.31,
-      "previous": 4.58,
-      "delta_pct": 16
+      "current": 5.29,
+      "previous": 4.77,
+      "delta_pct": 11
     },
     "cpc": {
       "current": 0.19,
-      "previous": 0.24,
-      "delta_pct": -21
+      "previous": 0.23,
+      "delta_pct": -17
     },
     "thruplay": {
-      "current": 410,
-      "previous": 188,
-      "delta_pct": 118
+      "current": 414,
+      "previous": 200,
+      "delta_pct": 107
     },
     "frequency": {
-      "current": 1.35,
-      "previous": 1.27,
-      "delta_pct": 6
+      "current": 1.29,
+      "previous": 1.29,
+      "delta_pct": 0
     }
   },
   "conversions": {
@@ -98,44 +98,44 @@
   "top_creatives": [
     {
       "name": "ANÚNCIO CALENDÁRIO",
-      "impressions": 16433,
-      "reach": 13466,
-      "clicks": 794,
+      "impressions": 16632,
+      "reach": 13737,
+      "clicks": 790,
       "messages": 0,
-      "ctr": 4.83,
-      "thruplay": 314
+      "ctr": 4.75,
+      "thruplay": 317
     },
     {
       "name": "ANÚNCIO BLACK",
-      "impressions": 5294,
-      "reach": 4617,
-      "clicks": 149,
+      "impressions": 5545,
+      "reach": 4851,
+      "clicks": 155,
       "messages": 0,
-      "ctr": 2.81,
-      "thruplay": 90
+      "ctr": 2.8,
+      "thruplay": 96
     },
     {
       "name": "Sua BF ja comecou?",
-      "impressions": 5050,
-      "reach": 2352,
+      "impressions": 4837,
+      "reach": 2274,
       "clicks": 446,
       "messages": 0,
-      "ctr": 8.83,
+      "ctr": 9.22,
       "thruplay": 0
     },
     {
       "name": "O calendário",
-      "impressions": 890,
-      "reach": 811,
-      "clicks": 82,
+      "impressions": 689,
+      "reach": 635,
+      "clicks": 76,
       "messages": 0,
-      "ctr": 9.21,
-      "thruplay": 5
+      "ctr": 11.03,
+      "thruplay": 0
     },
     {
       "name": "O último trimestre",
-      "impressions": 25,
-      "reach": 25,
+      "impressions": 42,
+      "reach": 42,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
@@ -159,7 +159,7 @@
     },
     "age": {
       "18-24": 0,
-      "25-34": 11,
+      "25-34": 10,
       "35-44": 7,
       "45-54": 9,
       "55-64": 22,
@@ -168,7 +168,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 411.51,
+    "balance_brl": 461.96,
     "balance_low": false,
     "account_disabled": false
   },

@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_1425536086084105",
+    "account_name": "BIOMA Paixão",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-12T17:19:43.571Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-05",
+      "until": "2026-10-11",
+      "label_pt": "5 out a 11 out"
+    },
+    "previous": {
+      "since": "2026-09-28",
+      "until": "2026-10-04"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 55.88,
+      "previous": 297.48,
+      "delta_pct": -81
+    },
+    "impressions": {
+      "current": 9172,
+      "previous": 25643,
+      "delta_pct": -64
+    },
+    "reach": {
+      "current": 5386,
+      "previous": 14320,
+      "delta_pct": -62
+    },
+    "clicks": {
+      "current": 205,
+      "previous": 912,
+      "delta_pct": -78
+    },
+    "ctr": {
+      "current": 2.24,
+      "previous": 3.56,
+      "delta_pct": -37
+    },
+    "cpc": {
+      "current": 0.27,
+      "previous": 0.33,
+      "delta_pct": -18
+    },
+    "thruplay": {
+      "current": 326,
+      "previous": 1775,
+      "delta_pct": -82
+    },
+    "frequency": {
+      "current": 1.7,
+      "previous": 1.79,
+      "delta_pct": -5
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 3,
+        "previous": 15,
+        "delta_pct": -80
+      },
+      "cost": {
+        "current": 18.63,
+        "previous": 19.83,
+        "delta_pct": -6
+      },
+      "top_creative": {
+        "name": "Mês do cliente",
+        "value": 2
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Mês do cliente",
+      "impressions": 5686,
+      "reach": 2636,
+      "clicks": 19,
+      "messages": 2,
+      "ctr": 0.33,
+      "thruplay": 3
+    },
+    {
+      "name": "Mês do cliente",
+      "impressions": 1447,
+      "reach": 1171,
+      "clicks": 147,
+      "messages": 0,
+      "ctr": 10.16,
+      "thruplay": 0
+    },
+    {
+      "name": "Um dia",
+      "impressions": 886,
+      "reach": 844,
+      "clicks": 23,
+      "messages": 0,
+      "ctr": 2.6,
+      "thruplay": 66
+    },
+    {
+      "name": "Quando o cuidado",
+      "impressions": 409,
+      "reach": 382,
+      "clicks": 3,
+      "messages": 0,
+      "ctr": 0.73,
+      "thruplay": 137
+    },
+    {
+      "name": "Diagnóstico",
+      "impressions": 364,
+      "reach": 339,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 0.27,
+      "thruplay": 93
+    },
+    {
+      "name": "Terapias Capilares",
+      "impressions": 253,
+      "reach": 165,
+      "clicks": 10,
+      "messages": 1,
+      "ctr": 3.95,
+      "thruplay": 14
+    },
+    {
+      "name": "Um dia",
+      "impressions": 102,
+      "reach": 101,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 1.96,
+      "thruplay": 13
+    },
+    {
+      "name": "Quando o cuidado 2",
+      "impressions": 25,
+      "reach": 25,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    },
+    {
+      "name": "Para celebrar",
+      "impressions": 0,
+      "reach": 0,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    },
+    {
+      "name": "Diagnóstico",
+      "impressions": 0,
+      "reach": 0,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 75,
+      "male_pct": 25,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 52,
+      "35-44": 22,
+      "45-54": 15,
+      "55-64": 7,
+      "65+": 4
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 237.39,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50"
+  ]
+}
