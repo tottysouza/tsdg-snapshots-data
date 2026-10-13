@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_1745103243320903",
+    "account_name": "BIOMA Casa 631",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-13T15:33:01.229Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-06",
+      "until": "2026-10-12",
+      "label_pt": "6 out a 12 out"
+    },
+    "previous": {
+      "since": "2026-09-29",
+      "until": "2026-10-05"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 388.29,
+      "previous": 386.71,
+      "delta_pct": 0
+    },
+    "impressions": {
+      "current": 27162,
+      "previous": 29190,
+      "delta_pct": -7
+    },
+    "reach": {
+      "current": 14499,
+      "previous": 14035,
+      "delta_pct": 3
+    },
+    "clicks": {
+      "current": 1227,
+      "previous": 1174,
+      "delta_pct": 5
+    },
+    "ctr": {
+      "current": 4.52,
+      "previous": 4.02,
+      "delta_pct": 12
+    },
+    "cpc": {
+      "current": 0.32,
+      "previous": 0.33,
+      "delta_pct": -3
+    },
+    "thruplay": {
+      "current": 2442,
+      "previous": 2313,
+      "delta_pct": 6
+    },
+    "frequency": {
+      "current": 1.87,
+      "previous": 2.08,
+      "delta_pct": -10
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 17,
+        "previous": 18,
+        "delta_pct": -6
+      },
+      "cost": {
+        "current": 22.84,
+        "previous": 21.48,
+        "delta_pct": 6
+      },
+      "top_creative": {
+        "name": "Cuidado",
+        "value": 13
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Cuidado",
+      "impressions": 11759,
+      "reach": 6309,
+      "clicks": 237,
+      "messages": 13,
+      "ctr": 2.02,
+      "thruplay": 815
+    },
+    {
+      "name": "Seu cabelo",
+      "impressions": 9049,
+      "reach": 5069,
+      "clicks": 885,
+      "messages": 0,
+      "ctr": 9.78,
+      "thruplay": 0
+    },
+    {
+      "name": "Alguns lugares — Cópia",
+      "impressions": 3168,
+      "reach": 2639,
+      "clicks": 42,
+      "messages": 0,
+      "ctr": 1.33,
+      "thruplay": 1524
+    },
+    {
+      "name": "Seu cabelo",
+      "impressions": 1566,
+      "reach": 918,
+      "clicks": 18,
+      "messages": 1,
+      "ctr": 1.15,
+      "thruplay": 13
+    },
+    {
+      "name": "Comunidade",
+      "impressions": 677,
+      "reach": 460,
+      "clicks": 14,
+      "messages": 2,
+      "ctr": 2.07,
+      "thruplay": 26
+    },
+    {
+      "name": "Cuidado",
+      "impressions": 602,
+      "reach": 551,
+      "clicks": 13,
+      "messages": 1,
+      "ctr": 2.16,
+      "thruplay": 39
+    },
+    {
+      "name": "Um novo conceito",
+      "impressions": 217,
+      "reach": 208,
+      "clicks": 17,
+      "messages": 0,
+      "ctr": 7.83,
+      "thruplay": 0
+    },
+    {
+      "name": "Comunidade",
+      "impressions": 66,
+      "reach": 66,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 1.52,
+      "thruplay": 23
+    },
+    {
+      "name": "Produtos",
+      "impressions": 46,
+      "reach": 31,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 2
+    },
+    {
+      "name": "BIOMA Equilíbrio",
+      "impressions": 4,
+      "reach": 4,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 55,
+      "male_pct": 45,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 39,
+      "35-44": 25,
+      "45-54": 17,
+      "55-64": 11,
+      "65+": 9
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 151.87,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

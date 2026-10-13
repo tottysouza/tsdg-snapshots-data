@@ -4,75 +4,75 @@
     "account_name": "BIOMA Casa 631",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-12T17:19:40.444Z",
+    "generated_at": "2026-10-13T15:33:01.229Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-05",
-      "until": "2026-10-11",
-      "label_pt": "5 out a 11 out"
+      "since": "2026-10-06",
+      "until": "2026-10-12",
+      "label_pt": "6 out a 12 out"
     },
     "previous": {
-      "since": "2026-09-28",
-      "until": "2026-10-04"
+      "since": "2026-09-29",
+      "until": "2026-10-05"
     }
   },
   "totals": {
     "spend": {
-      "current": 392.89,
-      "previous": 388.05,
-      "delta_pct": 1
+      "current": 388.29,
+      "previous": 386.71,
+      "delta_pct": 0
     },
     "impressions": {
-      "current": 29075,
-      "previous": 26874,
-      "delta_pct": 8
+      "current": 27162,
+      "previous": 29190,
+      "delta_pct": -7
     },
     "reach": {
-      "current": 15369,
-      "previous": 13326,
-      "delta_pct": 15
+      "current": 14499,
+      "previous": 14035,
+      "delta_pct": 3
     },
     "clicks": {
-      "current": 1286,
-      "previous": 1075,
-      "delta_pct": 20
+      "current": 1227,
+      "previous": 1174,
+      "delta_pct": 5
     },
     "ctr": {
-      "current": 4.42,
-      "previous": 4,
-      "delta_pct": 10
+      "current": 4.52,
+      "previous": 4.02,
+      "delta_pct": 12
     },
     "cpc": {
-      "current": 0.31,
-      "previous": 0.36,
-      "delta_pct": -14
+      "current": 0.32,
+      "previous": 0.33,
+      "delta_pct": -3
     },
     "thruplay": {
-      "current": 2470,
-      "previous": 2285,
-      "delta_pct": 8
+      "current": 2442,
+      "previous": 2313,
+      "delta_pct": 6
     },
     "frequency": {
-      "current": 1.89,
-      "previous": 2.02,
-      "delta_pct": -6
+      "current": 1.87,
+      "previous": 2.08,
+      "delta_pct": -10
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 16,
-        "previous": 19,
-        "delta_pct": -16
+        "current": 17,
+        "previous": 18,
+        "delta_pct": -6
       },
       "cost": {
-        "current": 24.56,
-        "previous": 20.42,
-        "delta_pct": 20
+        "current": 22.84,
+        "previous": 21.48,
+        "delta_pct": 6
       },
       "top_creative": {
         "name": "Cuidado",
@@ -98,93 +98,93 @@
   "top_creatives": [
     {
       "name": "Cuidado",
-      "impressions": 12005,
-      "reach": 6426,
-      "clicks": 244,
+      "impressions": 11759,
+      "reach": 6309,
+      "clicks": 237,
       "messages": 13,
-      "ctr": 2.03,
-      "thruplay": 825
+      "ctr": 2.02,
+      "thruplay": 815
     },
     {
       "name": "Seu cabelo",
-      "impressions": 9826,
-      "reach": 5269,
-      "clicks": 942,
+      "impressions": 9049,
+      "reach": 5069,
+      "clicks": 885,
       "messages": 0,
-      "ctr": 9.59,
+      "ctr": 9.78,
       "thruplay": 0
     },
     {
       "name": "Alguns lugares — Cópia",
-      "impressions": 3112,
-      "reach": 2635,
-      "clicks": 47,
+      "impressions": 3168,
+      "reach": 2639,
+      "clicks": 42,
       "messages": 0,
-      "ctr": 1.51,
-      "thruplay": 1485
-    },
-    {
-      "name": "Comunidade",
-      "impressions": 2154,
-      "reach": 1229,
-      "clicks": 21,
-      "messages": 2,
-      "ctr": 0.97,
-      "thruplay": 49
-    },
-    {
-      "name": "Cuidado",
-      "impressions": 814,
-      "reach": 697,
-      "clicks": 14,
-      "messages": 1,
-      "ctr": 1.72,
-      "thruplay": 54
+      "ctr": 1.33,
+      "thruplay": 1524
     },
     {
       "name": "Seu cabelo",
-      "impressions": 747,
-      "reach": 431,
-      "clicks": 8,
-      "messages": 0,
-      "ctr": 1.07,
-      "thruplay": 4
+      "impressions": 1566,
+      "reach": 918,
+      "clicks": 18,
+      "messages": 1,
+      "ctr": 1.15,
+      "thruplay": 13
     },
     {
       "name": "Comunidade",
-      "impressions": 123,
-      "reach": 121,
-      "clicks": 1,
-      "messages": 0,
-      "ctr": 0.81,
-      "thruplay": 44
+      "impressions": 677,
+      "reach": 460,
+      "clicks": 14,
+      "messages": 2,
+      "ctr": 2.07,
+      "thruplay": 26
+    },
+    {
+      "name": "Cuidado",
+      "impressions": 602,
+      "reach": 551,
+      "clicks": 13,
+      "messages": 1,
+      "ctr": 2.16,
+      "thruplay": 39
     },
     {
       "name": "Um novo conceito",
-      "impressions": 111,
-      "reach": 107,
-      "clicks": 9,
+      "impressions": 217,
+      "reach": 208,
+      "clicks": 17,
       "messages": 0,
-      "ctr": 8.11,
+      "ctr": 7.83,
       "thruplay": 0
     },
     {
-      "name": "Voce me pediu",
-      "impressions": 75,
-      "reach": 70,
-      "clicks": 0,
+      "name": "Comunidade",
+      "impressions": 66,
+      "reach": 66,
+      "clicks": 1,
       "messages": 0,
-      "ctr": 0,
-      "thruplay": 3
+      "ctr": 1.52,
+      "thruplay": 23
     },
     {
       "name": "Produtos",
-      "impressions": 70,
-      "reach": 48,
+      "impressions": 46,
+      "reach": 31,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
       "thruplay": 2
+    },
+    {
+      "name": "BIOMA Equilíbrio",
+      "impressions": 4,
+      "reach": 4,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
     }
   ],
   "demographics": {
@@ -196,20 +196,19 @@
     "age": {
       "18-24": 0,
       "25-34": 39,
-      "35-44": 24,
-      "45-54": 16,
+      "35-44": 25,
+      "45-54": 17,
       "55-64": 11,
       "65+": 9
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 134.7,
+    "balance_brl": 151.87,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
-    "creative_concentration_over_80",
     "balance_low"
   ]
 }

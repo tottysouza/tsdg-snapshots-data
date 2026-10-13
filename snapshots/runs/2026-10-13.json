@@ -1,0 +1,37 @@
+{
+  "started_at": "2026-10-13T15:32:53.706Z",
+  "duration_ms": 189045,
+  "dates": {
+    "today": "2026-10-13",
+    "current": {
+      "since": "2026-10-06",
+      "until": "2026-10-12",
+      "label_pt": "6 out a 12 out"
+    },
+    "previous": {
+      "since": "2026-09-29",
+      "until": "2026-10-05"
+    }
+  },
+  "total": 19,
+  "ok": 16,
+  "partial": 2,
+  "failed": 1,
+  "failures": [
+    {
+      "id": "act_919673088419931",
+      "name": "BIOMA Silvio Amaral",
+      "reason": "current: timeout 25s"
+    },
+    {
+      "id": "act_166071522",
+      "name": "BIOMA Valéria Alleoni",
+      "reason": "current: timeout 25s"
+    },
+    {
+      "id": "act_431873056620839",
+      "name": "Espaçolaser Campolim",
+      "reason": "previous: timeout 25s"
+    }
+  ]
+}

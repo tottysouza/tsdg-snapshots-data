@@ -4,45 +4,45 @@
     "account_name": "VIRGO Cases",
     "segment": "TECH",
     "template": "VIRGO",
-    "generated_at": "2026-10-12T17:21:41.304Z",
+    "generated_at": "2026-10-13T15:35:08.485Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-05",
-      "until": "2026-10-11",
-      "label_pt": "5 out a 11 out"
+      "since": "2026-10-06",
+      "until": "2026-10-12",
+      "label_pt": "6 out a 12 out"
     },
     "previous": {
-      "since": "2026-09-28",
-      "until": "2026-10-04"
+      "since": "2026-09-29",
+      "until": "2026-10-05"
     }
   },
   "totals": {
     "spend": {
-      "current": 479.65,
+      "current": 552.9,
       "previous": 0,
       "delta_pct": null
     },
     "impressions": {
-      "current": 61938,
+      "current": 74007,
       "previous": 0,
       "delta_pct": null
     },
     "reach": {
-      "current": 37966,
+      "current": 41689,
       "previous": 0,
       "delta_pct": null
     },
     "clicks": {
-      "current": 4318,
+      "current": 5250,
       "previous": 0,
       "delta_pct": null
     },
     "ctr": {
-      "current": 6.97,
+      "current": 7.09,
       "previous": null,
       "delta_pct": null
     },
@@ -52,12 +52,12 @@
       "delta_pct": null
     },
     "thruplay": {
-      "current": 791,
+      "current": 928,
       "previous": 0,
       "delta_pct": null
     },
     "frequency": {
-      "current": 1.63,
+      "current": 1.78,
       "previous": 0,
       "delta_pct": null
     }
@@ -65,17 +65,17 @@
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 1,
+        "current": 2,
         "previous": 0,
         "delta_pct": null
       },
       "cost": {
-        "current": 479.65,
+        "current": 276.45,
         "previous": null,
         "delta_pct": null
       },
       "top_creative": {
-        "name": "A forma",
+        "name": "6",
         "value": 1
       }
     },
@@ -118,62 +118,62 @@
   "top_creatives": [
     {
       "name": "Depois de alguns dias",
-      "impressions": 21982,
-      "reach": 14909,
-      "clicks": 1928,
+      "impressions": 26649,
+      "reach": 16959,
+      "clicks": 2345,
       "messages": 0,
-      "ctr": 8.77,
+      "ctr": 8.8,
       "thruplay": 19
     },
     {
       "name": "6",
-      "impressions": 18757,
-      "reach": 9284,
-      "clicks": 1314,
-      "messages": 0,
-      "ctr": 7.01,
-      "thruplay": 178
+      "impressions": 22418,
+      "reach": 10599,
+      "clicks": 1575,
+      "messages": 1,
+      "ctr": 7.03,
+      "thruplay": 201
     },
     {
       "name": "3",
-      "impressions": 8582,
-      "reach": 4665,
-      "clicks": 582,
+      "impressions": 10444,
+      "reach": 5057,
+      "clicks": 721,
       "messages": 0,
-      "ctr": 6.78,
-      "thruplay": 140
+      "ctr": 6.9,
+      "thruplay": 155
     },
     {
       "name": "10",
-      "impressions": 5618,
-      "reach": 5126,
-      "clicks": 141,
+      "impressions": 6335,
+      "reach": 5654,
+      "clicks": 195,
       "messages": 0,
-      "ctr": 2.51,
-      "thruplay": 51
+      "ctr": 3.08,
+      "thruplay": 52
     },
     {
       "name": "A forma",
-      "impressions": 4824,
-      "reach": 3768,
-      "clicks": 223,
+      "impressions": 5946,
+      "reach": 4582,
+      "clicks": 280,
       "messages": 1,
-      "ctr": 4.62,
-      "thruplay": 395
+      "ctr": 4.71,
+      "thruplay": 493
     },
     {
       "name": "Coleção merece",
-      "impressions": 2162,
-      "reach": 2060,
-      "clicks": 130,
+      "impressions": 2201,
+      "reach": 2091,
+      "clicks": 134,
       "messages": 0,
-      "ctr": 6.01,
+      "ctr": 6.09,
       "thruplay": 7
     },
     {
       "name": "Cada segundo conta",
-      "impressions": 10,
-      "reach": 9,
+      "impressions": 11,
+      "reach": 10,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
@@ -191,26 +191,26 @@
   ],
   "demographics": {
     "gender": {
-      "female_pct": 54,
-      "male_pct": 46,
+      "female_pct": 53,
+      "male_pct": 47,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 36,
+      "25-34": 35,
       "35-44": 36,
       "45-54": 19,
-      "55-64": 7,
+      "55-64": 6,
       "65+": 3
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 507.37,
+    "balance_brl": 103.12,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
-    "creative_concentration_over_80"
+    "balance_low"
   ]
 }
