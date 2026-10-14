@@ -4,79 +4,79 @@
     "account_name": "MORINGA Hair",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-13T15:34:57.671Z",
+    "generated_at": "2026-10-14T13:19:39.027Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-06",
-      "until": "2026-10-12",
-      "label_pt": "6 out a 12 out"
+      "since": "2026-10-07",
+      "until": "2026-10-13",
+      "label_pt": "7 out a 13 out"
     },
     "previous": {
-      "since": "2026-09-29",
-      "until": "2026-10-05"
+      "since": "2026-09-30",
+      "until": "2026-10-06"
     }
   },
   "totals": {
     "spend": {
-      "current": 61.12,
-      "previous": 301.88,
-      "delta_pct": -80
+      "current": 3.15,
+      "previous": 279.35,
+      "delta_pct": -99
     },
     "impressions": {
-      "current": 2485,
-      "previous": 12800,
-      "delta_pct": -81
+      "current": 140,
+      "previous": 12648,
+      "delta_pct": -99
     },
     "reach": {
-      "current": 2157,
-      "previous": 8314,
-      "delta_pct": -74
+      "current": 133,
+      "previous": 8361,
+      "delta_pct": -98
     },
     "clicks": {
-      "current": 152,
-      "previous": 630,
-      "delta_pct": -76
+      "current": 14,
+      "previous": 678,
+      "delta_pct": -98
     },
     "ctr": {
-      "current": 6.12,
-      "previous": 4.92,
-      "delta_pct": 24
+      "current": 10,
+      "previous": 5.36,
+      "delta_pct": 87
     },
     "cpc": {
-      "current": 0.4,
-      "previous": 0.48,
-      "delta_pct": -17
+      "current": 0.23,
+      "previous": 0.41,
+      "delta_pct": -44
     },
     "thruplay": {
-      "current": 214,
-      "previous": 1226,
-      "delta_pct": -83
+      "current": 17,
+      "previous": 1204,
+      "delta_pct": -99
     },
     "frequency": {
-      "current": 1.15,
-      "previous": 1.54,
-      "delta_pct": -25
+      "current": 1.05,
+      "previous": 1.51,
+      "delta_pct": -30
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 6,
-        "previous": 34,
-        "delta_pct": -82
+        "current": 1,
+        "previous": 33,
+        "delta_pct": -97
       },
       "cost": {
-        "current": 10.19,
-        "previous": 8.88,
-        "delta_pct": 15
+        "current": 3.15,
+        "previous": 8.47,
+        "delta_pct": -63
       },
       "top_creative": {
         "name": "Há cabelos",
-        "value": 6
+        "value": 1
       }
     },
     "instagram_visits": {
@@ -98,45 +98,45 @@
   "top_creatives": [
     {
       "name": "Há cabelos",
-      "impressions": 1526,
-      "reach": 1269,
-      "clicks": 81,
-      "messages": 6,
-      "ctr": 5.31,
-      "thruplay": 89
+      "impressions": 71,
+      "reach": 66,
+      "clicks": 6,
+      "messages": 1,
+      "ctr": 8.45,
+      "thruplay": 3
     },
     {
       "name": "Agora sim, Luzia",
-      "impressions": 923,
-      "reach": 875,
-      "clicks": 70,
+      "impressions": 62,
+      "reach": 62,
+      "clicks": 8,
       "messages": 0,
-      "ctr": 7.58,
-      "thruplay": 122
+      "ctr": 12.9,
+      "thruplay": 13
     },
     {
       "name": "O melhor resultado",
-      "impressions": 36,
-      "reach": 30,
-      "clicks": 1,
+      "impressions": 7,
+      "reach": 5,
+      "clicks": 0,
       "messages": 0,
-      "ctr": 2.78,
-      "thruplay": 3
+      "ctr": 0,
+      "thruplay": 1
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 95,
-      "male_pct": 5,
+      "female_pct": 100,
+      "male_pct": 0,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
       "25-34": 7,
       "35-44": 15,
-      "45-54": 28,
-      "55-64": 27,
-      "65+": 22
+      "45-54": 30,
+      "55-64": 25,
+      "65+": 23
     }
   },
   "campaigns_active": [],

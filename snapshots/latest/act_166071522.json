@@ -4,63 +4,64 @@
     "account_name": "BIOMA Valéria Alleoni",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-13T15:34:52.764Z",
-    "fetch_status": "partial",
+    "generated_at": "2026-10-14T13:19:32.406Z",
+    "fetch_status": "failed",
     "fetch_source": "github_actions",
     "notes": [
-      "current: timeout 25s"
+      "current: timeout 25s",
+      "previous: timeout 25s"
     ]
   },
   "period": {
     "current": {
-      "since": "2026-10-06",
-      "until": "2026-10-12",
-      "label_pt": "6 out a 12 out"
+      "since": "2026-10-07",
+      "until": "2026-10-13",
+      "label_pt": "7 out a 13 out"
     },
     "previous": {
-      "since": "2026-09-29",
-      "until": "2026-10-05"
+      "since": "2026-09-30",
+      "until": "2026-10-06"
     }
   },
   "totals": {
     "spend": {
       "current": null,
-      "previous": 899.26,
+      "previous": null,
       "delta_pct": null
     },
     "impressions": {
       "current": null,
-      "previous": 117984,
+      "previous": null,
       "delta_pct": null
     },
     "reach": {
       "current": null,
-      "previous": 59219,
+      "previous": null,
       "delta_pct": null
     },
     "clicks": {
       "current": null,
-      "previous": 2916,
+      "previous": null,
       "delta_pct": null
     },
     "ctr": {
       "current": null,
-      "previous": 2.47,
+      "previous": null,
       "delta_pct": null
     },
     "cpc": {
       "current": null,
-      "previous": 0.31,
+      "previous": null,
       "delta_pct": null
     },
     "thruplay": {
       "current": null,
-      "previous": 9130,
+      "previous": null,
       "delta_pct": null
     },
     "frequency": {
       "current": null,
-      "previous": 1.99,
+      "previous": null,
       "delta_pct": null
     }
   },
@@ -68,12 +69,12 @@
     "whatsapp_messages": {
       "count": {
         "current": null,
-        "previous": 27,
+        "previous": null,
         "delta_pct": null
       },
       "cost": {
         "current": null,
-        "previous": 33.31,
+        "previous": null,
         "delta_pct": null
       }
     },

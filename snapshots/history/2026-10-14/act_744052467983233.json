@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "account_id": "act_744052467983233",
+    "account_name": "BIOMA Sense",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-14T13:18:00.157Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-07",
+      "until": "2026-10-13",
+      "label_pt": "7 out a 13 out"
+    },
+    "previous": {
+      "since": "2026-09-30",
+      "until": "2026-10-06"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 46.54,
+      "previous": 281.57,
+      "delta_pct": -83
+    },
+    "impressions": {
+      "current": 2482,
+      "previous": 15428,
+      "delta_pct": -84
+    },
+    "reach": {
+      "current": 2169,
+      "previous": 9216,
+      "delta_pct": -76
+    },
+    "clicks": {
+      "current": 61,
+      "previous": 297,
+      "delta_pct": -79
+    },
+    "ctr": {
+      "current": 2.46,
+      "previous": 1.93,
+      "delta_pct": 27
+    },
+    "cpc": {
+      "current": 0.76,
+      "previous": 0.95,
+      "delta_pct": -20
+    },
+    "thruplay": {
+      "current": 70,
+      "previous": 421,
+      "delta_pct": -83
+    },
+    "frequency": {
+      "current": 1.14,
+      "previous": 1.67,
+      "delta_pct": -32
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 3,
+        "previous": 10,
+        "delta_pct": -70
+      },
+      "cost": {
+        "current": 15.51,
+        "previous": 28.16,
+        "delta_pct": -45
+      },
+      "top_creative": {
+        "name": "É primavera",
+        "value": 3
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "É primavera",
+      "impressions": 2066,
+      "reach": 1935,
+      "clicks": 58,
+      "messages": 0,
+      "ctr": 2.81,
+      "thruplay": 53
+    },
+    {
+      "name": "É primavera",
+      "impressions": 416,
+      "reach": 220,
+      "clicks": 3,
+      "messages": 3,
+      "ctr": 0.72,
+      "thruplay": 17
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 59,
+      "male_pct": 41,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 19,
+      "35-44": 19,
+      "45-54": 21,
+      "55-64": 23,
+      "65+": 18
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 39.47,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "creative_concentration_over_80"
+  ]
+}

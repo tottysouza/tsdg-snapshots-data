@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "account_id": "act_1377904143357140",
+    "account_name": "LACES Origens",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-14T13:18:48.397Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-07",
+      "until": "2026-10-13",
+      "label_pt": "7 out a 13 out"
+    },
+    "previous": {
+      "since": "2026-09-30",
+      "until": "2026-10-06"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 250.74,
+      "previous": 402.91,
+      "delta_pct": -38
+    },
+    "impressions": {
+      "current": 30267,
+      "previous": 30304,
+      "delta_pct": 0
+    },
+    "reach": {
+      "current": 22545,
+      "previous": 22250,
+      "delta_pct": 1
+    },
+    "clicks": {
+      "current": 584,
+      "previous": 727,
+      "delta_pct": -20
+    },
+    "ctr": {
+      "current": 1.93,
+      "previous": 2.4,
+      "delta_pct": -20
+    },
+    "cpc": {
+      "current": 0.43,
+      "previous": 0.55,
+      "delta_pct": -22
+    },
+    "thruplay": {
+      "current": 4241,
+      "previous": 4078,
+      "delta_pct": 4
+    },
+    "frequency": {
+      "current": 1.34,
+      "previous": 1.36,
+      "delta_pct": -1
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 1,
+        "previous": 5,
+        "delta_pct": -80
+      },
+      "cost": {
+        "current": 250.74,
+        "previous": 80.58,
+        "delta_pct": 211
+      },
+      "top_creative": {
+        "name": "Contei para vocês",
+        "value": 1
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Há rituais",
+      "impressions": 9241,
+      "reach": 7097,
+      "clicks": 52,
+      "messages": 0,
+      "ctr": 0.56,
+      "thruplay": 2749
+    },
+    {
+      "name": "Contei para vocês",
+      "impressions": 8439,
+      "reach": 6299,
+      "clicks": 310,
+      "messages": 1,
+      "ctr": 3.67,
+      "thruplay": 356
+    },
+    {
+      "name": "Nesta quinta",
+      "impressions": 8287,
+      "reach": 6451,
+      "clicks": 192,
+      "messages": 0,
+      "ctr": 2.32,
+      "thruplay": 0
+    },
+    {
+      "name": "Multiprime",
+      "impressions": 3089,
+      "reach": 2720,
+      "clicks": 29,
+      "messages": 0,
+      "ctr": 0.94,
+      "thruplay": 863
+    },
+    {
+      "name": "Nesta quinta",
+      "impressions": 1190,
+      "reach": 1152,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 0.08,
+      "thruplay": 270
+    },
+    {
+      "name": "Multiprime",
+      "impressions": 21,
+      "reach": 19,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 3
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 89,
+      "male_pct": 11,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 25,
+      "35-44": 13,
+      "45-54": 13,
+      "55-64": 18,
+      "65+": 31
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 83.51,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "creative_concentration_over_80",
+    "balance_low"
+  ]
+}

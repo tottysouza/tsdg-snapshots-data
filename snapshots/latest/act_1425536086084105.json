@@ -4,80 +4,77 @@
     "account_name": "BIOMA Paixão",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-13T15:33:05.629Z",
+    "generated_at": "2026-10-14T13:17:43.401Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-06",
-      "until": "2026-10-12",
-      "label_pt": "6 out a 12 out"
+      "since": "2026-10-07",
+      "until": "2026-10-13",
+      "label_pt": "7 out a 13 out"
     },
     "previous": {
-      "since": "2026-09-29",
-      "until": "2026-10-05"
+      "since": "2026-09-30",
+      "until": "2026-10-06"
     }
   },
   "totals": {
     "spend": {
-      "current": 24.9,
-      "previous": 284.94,
-      "delta_pct": -91
+      "current": 0,
+      "previous": 258.4,
+      "delta_pct": -100
     },
     "impressions": {
-      "current": 3495,
-      "previous": 28517,
-      "delta_pct": -88
+      "current": 0,
+      "previous": 29153,
+      "delta_pct": -100
     },
     "reach": {
-      "current": 2417,
-      "previous": 14912,
-      "delta_pct": -84
+      "current": 0,
+      "previous": 14944,
+      "delta_pct": -100
     },
     "clicks": {
-      "current": 89,
-      "previous": 921,
-      "delta_pct": -90
+      "current": 0,
+      "previous": 907,
+      "delta_pct": -100
     },
     "ctr": {
-      "current": 2.55,
-      "previous": 3.23,
-      "delta_pct": -21
+      "current": null,
+      "previous": 3.11,
+      "delta_pct": null
     },
     "cpc": {
-      "current": 0.28,
-      "previous": 0.31,
-      "delta_pct": -10
+      "current": 0,
+      "previous": 0.28,
+      "delta_pct": -100
     },
     "thruplay": {
-      "current": 101,
-      "previous": 1723,
-      "delta_pct": -94
+      "current": 0,
+      "previous": 1505,
+      "delta_pct": -100
     },
     "frequency": {
-      "current": 1.45,
-      "previous": 1.91,
-      "delta_pct": -24
+      "current": 0,
+      "previous": 1.95,
+      "delta_pct": -100
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 2,
-        "previous": 11,
-        "delta_pct": -82
+        "current": 0,
+        "previous": 10,
+        "delta_pct": -100
       },
       "cost": {
-        "current": 12.45,
-        "previous": 25.9,
-        "delta_pct": -52
+        "current": null,
+        "previous": 25.84,
+        "delta_pct": null
       },
-      "top_creative": {
-        "name": "Mês do cliente",
-        "value": 1
-      }
+      "top_creative": null
     },
     "instagram_visits": {
       "count": {
@@ -95,111 +92,20 @@
     "site_visits": null,
     "site_purchases": null
   },
-  "top_creatives": [
-    {
-      "name": "Mês do cliente",
-      "impressions": 2198,
-      "reach": 1428,
-      "clicks": 10,
-      "messages": 1,
-      "ctr": 0.45,
-      "thruplay": 1
-    },
-    {
-      "name": "Mês do cliente",
-      "impressions": 696,
-      "reach": 588,
-      "clicks": 65,
-      "messages": 0,
-      "ctr": 9.34,
-      "thruplay": 0
-    },
-    {
-      "name": "Quando o cuidado",
-      "impressions": 160,
-      "reach": 155,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 54
-    },
-    {
-      "name": "Um dia",
-      "impressions": 157,
-      "reach": 153,
-      "clicks": 6,
-      "messages": 0,
-      "ctr": 3.82,
-      "thruplay": 13
-    },
-    {
-      "name": "Terapias Capilares",
-      "impressions": 151,
-      "reach": 114,
-      "clicks": 7,
-      "messages": 1,
-      "ctr": 4.64,
-      "thruplay": 6
-    },
-    {
-      "name": "Diagnóstico",
-      "impressions": 100,
-      "reach": 97,
-      "clicks": 1,
-      "messages": 0,
-      "ctr": 1,
-      "thruplay": 23
-    },
-    {
-      "name": "Um dia",
-      "impressions": 25,
-      "reach": 25,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 4
-    },
-    {
-      "name": "Quando o cuidado 2",
-      "impressions": 8,
-      "reach": 8,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 0
-    },
-    {
-      "name": "Para celebrar",
-      "impressions": 0,
-      "reach": 0,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 0
-    },
-    {
-      "name": "Diagnóstico",
-      "impressions": 0,
-      "reach": 0,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 0
-    }
-  ],
+  "top_creatives": [],
   "demographics": {
     "gender": {
-      "female_pct": 73,
-      "male_pct": 27,
+      "female_pct": 0,
+      "male_pct": 0,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 53,
-      "35-44": 22,
-      "45-54": 14,
-      "55-64": 7,
-      "65+": 4
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
     }
   },
   "campaigns_active": [],
@@ -209,6 +115,8 @@
     "account_disabled": false
   },
   "auto_flags": [
-    "spend_delta_over_50"
+    "spend_delta_over_50",
+    "zero_conversations_current",
+    "zero_activity_current"
   ]
 }

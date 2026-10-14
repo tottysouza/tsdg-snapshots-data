@@ -4,79 +4,79 @@
     "account_name": "BIOMA Yu Tin Tin",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-13T15:34:06.260Z",
+    "generated_at": "2026-10-14T13:18:48.152Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-06",
-      "until": "2026-10-12",
-      "label_pt": "6 out a 12 out"
+      "since": "2026-10-07",
+      "until": "2026-10-13",
+      "label_pt": "7 out a 13 out"
     },
     "previous": {
-      "since": "2026-09-29",
-      "until": "2026-10-05"
+      "since": "2026-09-30",
+      "until": "2026-10-06"
     }
   },
   "totals": {
     "spend": {
-      "current": 585.44,
-      "previous": 573.3,
-      "delta_pct": 2
+      "current": 566.65,
+      "previous": 581.97,
+      "delta_pct": -3
     },
     "impressions": {
-      "current": 37789,
-      "previous": 40566,
-      "delta_pct": -7
+      "current": 39399,
+      "previous": 37336,
+      "delta_pct": 6
     },
     "reach": {
-      "current": 24278,
-      "previous": 19745,
-      "delta_pct": 23
+      "current": 23998,
+      "previous": 21551,
+      "delta_pct": 11
     },
     "clicks": {
-      "current": 853,
-      "previous": 758,
-      "delta_pct": 13
+      "current": 859,
+      "previous": 764,
+      "delta_pct": 12
     },
     "ctr": {
-      "current": 2.26,
-      "previous": 1.87,
-      "delta_pct": 21
+      "current": 2.18,
+      "previous": 2.05,
+      "delta_pct": 6
     },
     "cpc": {
-      "current": 0.69,
+      "current": 0.66,
       "previous": 0.76,
-      "delta_pct": -9
+      "delta_pct": -13
     },
     "thruplay": {
-      "current": 3288,
-      "previous": 2738,
-      "delta_pct": 20
+      "current": 3260,
+      "previous": 2995,
+      "delta_pct": 9
     },
     "frequency": {
-      "current": 1.56,
-      "previous": 2.05,
-      "delta_pct": -24
+      "current": 1.64,
+      "previous": 1.73,
+      "delta_pct": -5
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 29,
-        "previous": 24,
-        "delta_pct": 21
+        "current": 26,
+        "previous": 22,
+        "delta_pct": 18
       },
       "cost": {
-        "current": 20.19,
-        "previous": 23.89,
-        "delta_pct": -15
+        "current": 21.79,
+        "previous": 26.45,
+        "delta_pct": -18
       },
       "top_creative": {
         "name": "O frizz",
-        "value": 13
+        "value": 10
       }
     },
     "instagram_visits": {
@@ -98,113 +98,113 @@
   "top_creatives": [
     {
       "name": "Bride day",
-      "impressions": 10751,
-      "reach": 9544,
-      "clicks": 176,
+      "impressions": 10065,
+      "reach": 9393,
+      "clicks": 171,
       "messages": 0,
-      "ctr": 1.64,
-      "thruplay": 1937
+      "ctr": 1.7,
+      "thruplay": 1836
     },
     {
       "name": "Muito além",
-      "impressions": 6472,
-      "reach": 5610,
-      "clicks": 227,
+      "impressions": 6187,
+      "reach": 5414,
+      "clicks": 224,
       "messages": 1,
-      "ctr": 3.51,
-      "thruplay": 466
+      "ctr": 3.62,
+      "thruplay": 456
     },
     {
       "name": "Cuidado masculino",
-      "impressions": 4594,
-      "reach": 3784,
-      "clicks": 146,
+      "impressions": 4767,
+      "reach": 3875,
+      "clicks": 147,
       "messages": 0,
-      "ctr": 3.18,
-      "thruplay": 328
-    },
-    {
-      "name": "O frizz",
-      "impressions": 4228,
-      "reach": 2736,
-      "clicks": 77,
-      "messages": 13,
-      "ctr": 1.82,
-      "thruplay": 244
-    },
-    {
-      "name": "Um loiro bonito",
-      "impressions": 2482,
-      "reach": 2141,
-      "clicks": 25,
-      "messages": 4,
-      "ctr": 1.01,
-      "thruplay": 0
-    },
-    {
-      "name": "Noitede velas",
-      "impressions": 2323,
-      "reach": 896,
-      "clicks": 26,
-      "messages": 7,
-      "ctr": 1.12,
-      "thruplay": 74
-    },
-    {
-      "name": "Muito além",
-      "impressions": 2277,
-      "reach": 2093,
-      "clicks": 74,
-      "messages": 1,
-      "ctr": 3.25,
-      "thruplay": 130
-    },
-    {
-      "name": "Bride day",
-      "impressions": 1952,
-      "reach": 1573,
-      "clicks": 57,
-      "messages": 0,
-      "ctr": 2.92,
-      "thruplay": 20
+      "ctr": 3.08,
+      "thruplay": 351
     },
     {
       "name": "Cabelos saudáveis",
-      "impressions": 1724,
-      "reach": 1107,
-      "clicks": 25,
+      "impressions": 3827,
+      "reach": 3209,
+      "clicks": 36,
       "messages": 2,
-      "ctr": 1.45,
-      "thruplay": 56
+      "ctr": 0.94,
+      "thruplay": 117
+    },
+    {
+      "name": "O frizz",
+      "impressions": 3709,
+      "reach": 2412,
+      "clicks": 66,
+      "messages": 10,
+      "ctr": 1.78,
+      "thruplay": 211
+    },
+    {
+      "name": "Um loiro bonito",
+      "impressions": 2512,
+      "reach": 2153,
+      "clicks": 25,
+      "messages": 4,
+      "ctr": 1,
+      "thruplay": 0
+    },
+    {
+      "name": "Muito além",
+      "impressions": 2416,
+      "reach": 2214,
+      "clicks": 82,
+      "messages": 1,
+      "ctr": 3.39,
+      "thruplay": 158
+    },
+    {
+      "name": "Bride day",
+      "impressions": 2193,
+      "reach": 1744,
+      "clicks": 62,
+      "messages": 0,
+      "ctr": 2.83,
+      "thruplay": 25
+    },
+    {
+      "name": "Noitede velas",
+      "impressions": 2192,
+      "reach": 1046,
+      "clicks": 21,
+      "messages": 7,
+      "ctr": 0.96,
+      "thruplay": 75
     },
     {
       "name": "Quando o assunto é queda",
-      "impressions": 741,
-      "reach": 391,
-      "clicks": 15,
+      "impressions": 1298,
+      "reach": 690,
+      "clicks": 22,
       "messages": 1,
-      "ctr": 2.02,
+      "ctr": 1.69,
       "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 76,
-      "male_pct": 22,
-      "unknown_pct": 2
+      "female_pct": 75,
+      "male_pct": 21,
+      "unknown_pct": 4
     },
     "age": {
       "18-24": 0,
       "25-34": 24,
       "35-44": 15,
-      "45-54": 15,
-      "55-64": 16,
-      "65+": 20
+      "45-54": 14,
+      "55-64": 15,
+      "65+": 19
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 18.65,
+    "balance_brl": 36.11,
     "balance_low": false,
     "account_disabled": false
   },
