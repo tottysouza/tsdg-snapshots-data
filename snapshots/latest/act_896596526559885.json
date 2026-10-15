@@ -4,45 +4,45 @@
     "account_name": "VIRGO Cases",
     "segment": "TECH",
     "template": "VIRGO",
-    "generated_at": "2026-10-14T13:19:43.457Z",
+    "generated_at": "2026-10-15T13:05:40.935Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-07",
-      "until": "2026-10-13",
-      "label_pt": "7 out a 13 out"
+      "since": "2026-10-08",
+      "until": "2026-10-14",
+      "label_pt": "8 out a 14 out"
     },
     "previous": {
-      "since": "2026-09-30",
-      "until": "2026-10-06"
+      "since": "2026-10-01",
+      "until": "2026-10-07"
     }
   },
   "totals": {
     "spend": {
-      "current": 618.65,
+      "current": 681.14,
       "previous": 0,
       "delta_pct": null
     },
     "impressions": {
-      "current": 85380,
+      "current": 95037,
       "previous": 0,
       "delta_pct": null
     },
     "reach": {
-      "current": 44941,
+      "current": 47720,
       "previous": 0,
       "delta_pct": null
     },
     "clicks": {
-      "current": 6054,
+      "current": 6786,
       "previous": 0,
       "delta_pct": null
     },
     "ctr": {
-      "current": 7.09,
+      "current": 7.14,
       "previous": null,
       "delta_pct": null
     },
@@ -52,12 +52,12 @@
       "delta_pct": null
     },
     "thruplay": {
-      "current": 1058,
+      "current": 1160,
       "previous": 0,
       "delta_pct": null
     },
     "frequency": {
-      "current": 1.9,
+      "current": 1.99,
       "previous": 0,
       "delta_pct": null
     }
@@ -70,7 +70,7 @@
         "delta_pct": null
       },
       "cost": {
-        "current": 206.22,
+        "current": 227.05,
         "previous": null,
         "delta_pct": null
       },
@@ -118,47 +118,47 @@
   "top_creatives": [
     {
       "name": "6",
-      "impressions": 29700,
-      "reach": 12336,
-      "clicks": 2088,
+      "impressions": 34691,
+      "reach": 13810,
+      "clicks": 2445,
       "messages": 1,
-      "ctr": 7.03,
-      "thruplay": 242
+      "ctr": 7.05,
+      "thruplay": 264
     },
     {
       "name": "Depois de alguns dias",
-      "impressions": 29644,
-      "reach": 18199,
-      "clicks": 2582,
+      "impressions": 32175,
+      "reach": 19071,
+      "clicks": 2816,
       "messages": 0,
-      "ctr": 8.71,
-      "thruplay": 19
+      "ctr": 8.75,
+      "thruplay": 20
     },
     {
       "name": "3",
-      "impressions": 10459,
-      "reach": 5057,
-      "clicks": 721,
+      "impressions": 11638,
+      "reach": 5461,
+      "clicks": 817,
       "messages": 0,
-      "ctr": 6.89,
-      "thruplay": 155
+      "ctr": 7.02,
+      "thruplay": 159
     },
     {
       "name": "A forma",
-      "impressions": 6772,
-      "reach": 5039,
-      "clicks": 320,
+      "impressions": 7632,
+      "reach": 5520,
+      "clicks": 358,
       "messages": 2,
-      "ctr": 4.73,
-      "thruplay": 581
+      "ctr": 4.69,
+      "thruplay": 656
     },
     {
       "name": "10",
-      "impressions": 6586,
-      "reach": 5774,
-      "clicks": 209,
+      "impressions": 6679,
+      "reach": 5863,
+      "clicks": 216,
       "messages": 0,
-      "ctr": 3.17,
+      "ctr": 3.23,
       "thruplay": 53
     },
     {
@@ -172,8 +172,8 @@
     },
     {
       "name": "Cada segundo conta",
-      "impressions": 12,
-      "reach": 11,
+      "impressions": 15,
+      "reach": 14,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
@@ -197,16 +197,16 @@
     },
     "age": {
       "18-24": 0,
-      "25-34": 35,
+      "25-34": 36,
       "35-44": 37,
-      "45-54": 19,
+      "45-54": 18,
       "55-64": 6,
       "65+": 3
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 163.43,
+    "balance_brl": 220.81,
     "balance_low": false,
     "account_disabled": false
   },

@@ -4,79 +4,79 @@
     "account_name": "Espaçolaser Bragança",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-10-14T13:19:39.360Z",
+    "generated_at": "2026-10-15T13:05:36.773Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-07",
-      "until": "2026-10-13",
-      "label_pt": "7 out a 13 out"
+      "since": "2026-10-08",
+      "until": "2026-10-14",
+      "label_pt": "8 out a 14 out"
     },
     "previous": {
-      "since": "2026-09-30",
-      "until": "2026-10-06"
+      "since": "2026-10-01",
+      "until": "2026-10-07"
     }
   },
   "totals": {
     "spend": {
-      "current": 383.41,
-      "previous": 381.24,
-      "delta_pct": 1
+      "current": 410.8,
+      "previous": 350.31,
+      "delta_pct": 17
     },
     "impressions": {
-      "current": 27666,
-      "previous": 36569,
-      "delta_pct": -24
+      "current": 27973,
+      "previous": 35074,
+      "delta_pct": -20
     },
     "reach": {
-      "current": 16910,
-      "previous": 20481,
-      "delta_pct": -17
-    },
-    "clicks": {
-      "current": 360,
-      "previous": 495,
-      "delta_pct": -27
-    },
-    "ctr": {
-      "current": 1.3,
-      "previous": 1.35,
-      "delta_pct": -4
-    },
-    "cpc": {
-      "current": 1.07,
-      "previous": 0.77,
-      "delta_pct": 39
-    },
-    "thruplay": {
-      "current": 2424,
-      "previous": 2818,
+      "current": 16938,
+      "previous": 19729,
       "delta_pct": -14
     },
+    "clicks": {
+      "current": 390,
+      "previous": 469,
+      "delta_pct": -17
+    },
+    "ctr": {
+      "current": 1.39,
+      "previous": 1.34,
+      "delta_pct": 4
+    },
+    "cpc": {
+      "current": 1.05,
+      "previous": 0.75,
+      "delta_pct": 40
+    },
+    "thruplay": {
+      "current": 2519,
+      "previous": 2625,
+      "delta_pct": -4
+    },
     "frequency": {
-      "current": 1.64,
-      "previous": 1.79,
-      "delta_pct": -8
+      "current": 1.65,
+      "previous": 1.78,
+      "delta_pct": -7
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 9,
-        "previous": 22,
-        "delta_pct": -59
+        "current": 10,
+        "previous": 18,
+        "delta_pct": -44
       },
       "cost": {
-        "current": 42.6,
-        "previous": 17.33,
-        "delta_pct": 146
+        "current": 41.08,
+        "previous": 19.46,
+        "delta_pct": 111
       },
       "top_creative": {
         "name": "[80%] Unidade — Cópia — Cópia",
-        "value": 3
+        "value": 5
       }
     },
     "instagram_visits": {
@@ -98,21 +98,21 @@
   "top_creatives": [
     {
       "name": "[80%] Unidade — Cópia — Cópia",
-      "impressions": 6364,
-      "reach": 3776,
-      "clicks": 40,
-      "messages": 3,
-      "ctr": 0.63,
-      "thruplay": 99
+      "impressions": 7573,
+      "reach": 4213,
+      "clicks": 49,
+      "messages": 5,
+      "ctr": 0.65,
+      "thruplay": 122
     },
     {
       "name": "[80%] Carol Leite",
-      "impressions": 6347,
-      "reach": 5261,
-      "clicks": 215,
+      "impressions": 6737,
+      "reach": 5461,
+      "clicks": 229,
       "messages": 0,
-      "ctr": 3.39,
-      "thruplay": 182
+      "ctr": 3.4,
+      "thruplay": 197
     },
     {
       "name": "[80%] Unidade — Cópia — Cópia",
@@ -124,40 +124,40 @@
       "thruplay": 73
     },
     {
-      "name": "[80%] Unidade — Cópia — Cópia",
-      "impressions": 2377,
-      "reach": 1608,
-      "clicks": 12,
-      "messages": 1,
-      "ctr": 0.5,
-      "thruplay": 35
-    },
-    {
       "name": "[80%] Especialista planejamento — Cópia",
-      "impressions": 1710,
-      "reach": 1550,
-      "clicks": 8,
+      "impressions": 2052,
+      "reach": 1801,
+      "clicks": 15,
       "messages": 0,
-      "ctr": 0.47,
-      "thruplay": 1209
-    },
-    {
-      "name": "[80%] Waleska Freitas — Cópia — Cópia",
-      "impressions": 1175,
-      "reach": 707,
-      "clicks": 7,
-      "messages": 2,
-      "ctr": 0.6,
-      "thruplay": 36
+      "ctr": 0.73,
+      "thruplay": 1466
     },
     {
       "name": "[80%] Unidade",
-      "impressions": 1020,
-      "reach": 762,
+      "impressions": 1480,
+      "reach": 1129,
+      "clicks": 9,
+      "messages": 0,
+      "ctr": 0.61,
+      "thruplay": 25
+    },
+    {
+      "name": "[80%] Waleska Freitas — Cópia — Cópia",
+      "impressions": 1201,
+      "reach": 713,
+      "clicks": 7,
+      "messages": 2,
+      "ctr": 0.58,
+      "thruplay": 36
+    },
+    {
+      "name": "Dia dos solteiros",
+      "impressions": 753,
+      "reach": 592,
       "clicks": 5,
       "messages": 0,
-      "ctr": 0.49,
-      "thruplay": 15
+      "ctr": 0.66,
+      "thruplay": 18
     },
     {
       "name": "[80%] Unidade",
@@ -169,42 +169,42 @@
       "thruplay": 10
     },
     {
-      "name": "[80%] Waleska Freitas — Cópia — Cópia",
-      "impressions": 564,
-      "reach": 400,
-      "clicks": 6,
-      "messages": 0,
-      "ctr": 1.06,
-      "thruplay": 16
+      "name": "Pena que nao e meu caso",
+      "impressions": 659,
+      "reach": 576,
+      "clicks": 14,
+      "messages": 1,
+      "ctr": 2.12,
+      "thruplay": 35
     },
     {
       "name": "[80%] Momento outubro off — Cópia",
-      "impressions": 557,
-      "reach": 542,
+      "impressions": 628,
+      "reach": 603,
       "clicks": 1,
       "messages": 0,
-      "ctr": 0.18,
-      "thruplay": 371
+      "ctr": 0.16,
+      "thruplay": 421
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 66,
-      "male_pct": 34,
+      "female_pct": 61,
+      "male_pct": 39,
       "unknown_pct": 0
     },
     "age": {
-      "18-24": 0,
-      "25-34": 31,
+      "18-24": 1,
+      "25-34": 29,
       "35-44": 28,
       "45-54": 18,
       "55-64": 12,
-      "65+": 11
+      "65+": 12
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 21.47,
+    "balance_brl": 14.29,
     "balance_low": false,
     "account_disabled": false
   },
