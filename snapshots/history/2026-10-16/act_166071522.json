@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "account_id": "act_166071522",
+    "account_name": "BIOMA Valéria Alleoni",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-16T13:02:12.925Z",
+    "fetch_status": "partial",
+    "fetch_source": "github_actions",
+    "notes": [
+      "current: timeout 25s"
+    ]
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-09",
+      "until": "2026-10-15",
+      "label_pt": "9 out a 15 out"
+    },
+    "previous": {
+      "since": "2026-10-02",
+      "until": "2026-10-08"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": null,
+      "previous": 945.28,
+      "delta_pct": null
+    },
+    "impressions": {
+      "current": null,
+      "previous": 149336,
+      "delta_pct": null
+    },
+    "reach": {
+      "current": null,
+      "previous": 66317,
+      "delta_pct": null
+    },
+    "clicks": {
+      "current": null,
+      "previous": 3222,
+      "delta_pct": null
+    },
+    "ctr": {
+      "current": null,
+      "previous": 2.16,
+      "delta_pct": null
+    },
+    "cpc": {
+      "current": null,
+      "previous": 0.29,
+      "delta_pct": null
+    },
+    "thruplay": {
+      "current": null,
+      "previous": 10385,
+      "delta_pct": null
+    },
+    "frequency": {
+      "current": null,
+      "previous": 2.25,
+      "delta_pct": null
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": null,
+        "previous": 40,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": 23.63,
+        "delta_pct": null
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      }
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [],
+  "demographics": null,
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": null,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": []
+}

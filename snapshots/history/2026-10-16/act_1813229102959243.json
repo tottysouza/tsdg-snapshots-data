@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "account_id": "act_1813229102959243",
+    "account_name": "MORINGA Hair",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-16T13:02:45.142Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-09",
+      "until": "2026-10-15",
+      "label_pt": "9 out a 15 out"
+    },
+    "previous": {
+      "since": "2026-10-02",
+      "until": "2026-10-08"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 0,
+      "previous": 188.69,
+      "delta_pct": -100
+    },
+    "impressions": {
+      "current": 0,
+      "previous": 9609,
+      "delta_pct": -100
+    },
+    "reach": {
+      "current": 0,
+      "previous": 6861,
+      "delta_pct": -100
+    },
+    "clicks": {
+      "current": 0,
+      "previous": 534,
+      "delta_pct": -100
+    },
+    "ctr": {
+      "current": null,
+      "previous": 5.56,
+      "delta_pct": null
+    },
+    "cpc": {
+      "current": 0,
+      "previous": 0.35,
+      "delta_pct": -100
+    },
+    "thruplay": {
+      "current": 0,
+      "previous": 908,
+      "delta_pct": -100
+    },
+    "frequency": {
+      "current": 0,
+      "previous": 1.4,
+      "delta_pct": -100
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 0,
+        "previous": 22,
+        "delta_pct": -100
+      },
+      "cost": {
+        "current": null,
+        "previous": 8.58,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [],
+  "demographics": {
+    "gender": {
+      "female_pct": 0,
+      "male_pct": 0,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 403.3,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "zero_conversations_current",
+    "zero_activity_current"
+  ]
+}

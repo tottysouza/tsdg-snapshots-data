@@ -4,61 +4,61 @@
     "account_name": "BIOMA Paixão",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-15T13:03:21.432Z",
+    "generated_at": "2026-10-16T13:00:27.914Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-08",
-      "until": "2026-10-14",
-      "label_pt": "8 out a 14 out"
+      "since": "2026-10-09",
+      "until": "2026-10-15",
+      "label_pt": "9 out a 15 out"
     },
     "previous": {
-      "since": "2026-10-01",
-      "until": "2026-10-07"
+      "since": "2026-10-02",
+      "until": "2026-10-08"
     }
   },
   "totals": {
     "spend": {
       "current": 0,
-      "previous": 219.3,
+      "previous": 178.05,
       "delta_pct": -100
     },
     "impressions": {
       "current": 0,
-      "previous": 27237,
+      "previous": 24769,
       "delta_pct": -100
     },
     "reach": {
       "current": 0,
-      "previous": 14199,
+      "previous": 12737,
       "delta_pct": -100
     },
     "clicks": {
       "current": 0,
-      "previous": 821,
+      "previous": 733,
       "delta_pct": -100
     },
     "ctr": {
       "current": null,
-      "previous": 3.01,
+      "previous": 2.96,
       "delta_pct": null
     },
     "cpc": {
       "current": 0,
-      "previous": 0.27,
+      "previous": 0.24,
       "delta_pct": -100
     },
     "thruplay": {
       "current": 0,
-      "previous": 1296,
+      "previous": 967,
       "delta_pct": -100
     },
     "frequency": {
       "current": 0,
-      "previous": 1.92,
+      "previous": 1.94,
       "delta_pct": -100
     }
   },
@@ -71,7 +71,7 @@
       },
       "cost": {
         "current": null,
-        "previous": 24.37,
+        "previous": 19.78,
         "delta_pct": null
       },
       "top_creative": null

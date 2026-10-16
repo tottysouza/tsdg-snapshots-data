@@ -4,75 +4,75 @@
     "account_name": "LACES Origens",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-15T13:04:44.723Z",
+    "generated_at": "2026-10-16T13:01:28.607Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-08",
-      "until": "2026-10-14",
-      "label_pt": "8 out a 14 out"
+      "since": "2026-10-09",
+      "until": "2026-10-15",
+      "label_pt": "9 out a 15 out"
     },
     "previous": {
-      "since": "2026-10-01",
-      "until": "2026-10-07"
+      "since": "2026-10-02",
+      "until": "2026-10-08"
     }
   },
   "totals": {
     "spend": {
-      "current": 252.94,
-      "previous": 285.18,
-      "delta_pct": -11
+      "current": 244.11,
+      "previous": 243.67,
+      "delta_pct": 0
     },
     "impressions": {
-      "current": 29980,
-      "previous": 30107,
-      "delta_pct": 0
+      "current": 27713,
+      "previous": 31287,
+      "delta_pct": -11
     },
     "reach": {
-      "current": 21984,
-      "previous": 21998,
-      "delta_pct": 0
+      "current": 19851,
+      "previous": 22850,
+      "delta_pct": -13
     },
     "clicks": {
-      "current": 594,
-      "previous": 696,
+      "current": 590,
+      "previous": 692,
       "delta_pct": -15
     },
     "ctr": {
-      "current": 1.98,
-      "previous": 2.31,
-      "delta_pct": -14
+      "current": 2.13,
+      "previous": 2.21,
+      "delta_pct": -4
     },
     "cpc": {
-      "current": 0.43,
-      "previous": 0.41,
-      "delta_pct": 5
+      "current": 0.41,
+      "previous": 0.35,
+      "delta_pct": 17
     },
     "thruplay": {
-      "current": 4379,
-      "previous": 4075,
-      "delta_pct": 7
+      "current": 4469,
+      "previous": 3946,
+      "delta_pct": 13
     },
     "frequency": {
-      "current": 1.36,
+      "current": 1.4,
       "previous": 1.37,
-      "delta_pct": -1
+      "delta_pct": 2
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
         "current": 1,
-        "previous": 2,
-        "delta_pct": -50
+        "previous": 0,
+        "delta_pct": null
       },
       "cost": {
-        "current": 252.94,
-        "previous": 142.59,
-        "delta_pct": 77
+        "current": 244.11,
+        "previous": null,
+        "delta_pct": null
       },
       "top_creative": {
         "name": "Contei para vocês",
@@ -98,53 +98,53 @@
   "top_creatives": [
     {
       "name": "Contei para vocês",
-      "impressions": 10159,
-      "reach": 7293,
-      "clicks": 368,
+      "impressions": 11700,
+      "reach": 8106,
+      "clicks": 437,
       "messages": 1,
-      "ctr": 3.62,
-      "thruplay": 469
+      "ctr": 3.74,
+      "thruplay": 568
     },
     {
       "name": "Há rituais",
-      "impressions": 9288,
-      "reach": 6976,
-      "clicks": 52,
+      "impressions": 8593,
+      "reach": 6535,
+      "clicks": 49,
       "messages": 0,
-      "ctr": 0.56,
-      "thruplay": 2789
+      "ctr": 0.57,
+      "thruplay": 2725
+    },
+    {
+      "name": "Multiprime",
+      "impressions": 3945,
+      "reach": 3334,
+      "clicks": 35,
+      "messages": 0,
+      "ctr": 0.89,
+      "thruplay": 1150
     },
     {
       "name": "Nesta quinta",
-      "impressions": 6486,
-      "reach": 5384,
-      "clicks": 144,
+      "impressions": 3324,
+      "reach": 3008,
+      "clicks": 69,
       "messages": 0,
-      "ctr": 2.22,
+      "ctr": 2.08,
       "thruplay": 0
     },
     {
-      "name": "Multiprime",
-      "impressions": 3626,
-      "reach": 3119,
-      "clicks": 30,
-      "messages": 0,
-      "ctr": 0.83,
-      "thruplay": 1022
-    },
-    {
       "name": "Nesta quinta",
-      "impressions": 398,
-      "reach": 385,
+      "impressions": 127,
+      "reach": 124,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
-      "thruplay": 96
+      "thruplay": 23
     },
     {
       "name": "Multiprime",
-      "impressions": 23,
-      "reach": 19,
+      "impressions": 24,
+      "reach": 20,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
@@ -153,22 +153,22 @@
   ],
   "demographics": {
     "gender": {
-      "female_pct": 90,
-      "male_pct": 10,
+      "female_pct": 92,
+      "male_pct": 8,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 27,
+      "25-34": 29,
       "35-44": 13,
       "45-54": 13,
       "55-64": 17,
-      "65+": 29
+      "65+": 28
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 112.87,
+    "balance_brl": 145.27,
     "balance_low": false,
     "account_disabled": false
   },

@@ -4,79 +4,79 @@
     "account_name": "Espaçolaser Caçapava",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-10-15T13:05:45.702Z",
+    "generated_at": "2026-10-16T13:03:07.580Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-08",
-      "until": "2026-10-14",
-      "label_pt": "8 out a 14 out"
+      "since": "2026-10-09",
+      "until": "2026-10-15",
+      "label_pt": "9 out a 15 out"
     },
     "previous": {
-      "since": "2026-10-01",
-      "until": "2026-10-07"
+      "since": "2026-10-02",
+      "until": "2026-10-08"
     }
   },
   "totals": {
     "spend": {
-      "current": 418.59,
-      "previous": 535.62,
-      "delta_pct": -22
+      "current": 418.73,
+      "previous": 505.85,
+      "delta_pct": -17
     },
     "impressions": {
-      "current": 32712,
-      "previous": 60732,
-      "delta_pct": -46
+      "current": 31441,
+      "previous": 60319,
+      "delta_pct": -48
     },
     "reach": {
-      "current": 17143,
-      "previous": 28536,
-      "delta_pct": -40
+      "current": 15975,
+      "previous": 30211,
+      "delta_pct": -47
     },
     "clicks": {
-      "current": 432,
-      "previous": 885,
-      "delta_pct": -51
+      "current": 439,
+      "previous": 826,
+      "delta_pct": -47
     },
     "ctr": {
-      "current": 1.32,
-      "previous": 1.46,
-      "delta_pct": -10
+      "current": 1.4,
+      "previous": 1.37,
+      "delta_pct": 2
     },
     "cpc": {
-      "current": 0.97,
+      "current": 0.95,
       "previous": 0.61,
-      "delta_pct": 59
+      "delta_pct": 56
     },
     "thruplay": {
-      "current": 2596,
-      "previous": 2863,
-      "delta_pct": -9
+      "current": 2523,
+      "previous": 2865,
+      "delta_pct": -12
     },
     "frequency": {
-      "current": 1.91,
-      "previous": 2.13,
-      "delta_pct": -10
+      "current": 1.97,
+      "previous": 2,
+      "delta_pct": -2
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 19,
-        "previous": 40,
-        "delta_pct": -52
+        "current": 17,
+        "previous": 33,
+        "delta_pct": -48
       },
       "cost": {
-        "current": 22.03,
-        "previous": 13.39,
-        "delta_pct": 65
+        "current": 24.63,
+        "previous": 15.33,
+        "delta_pct": 61
       },
       "top_creative": {
         "name": "[80%] Unidade",
-        "value": 7
+        "value": 6
       }
     },
     "instagram_visits": {
@@ -98,113 +98,113 @@
   "top_creatives": [
     {
       "name": "[80%] Carol Leite",
-      "impressions": 8136,
-      "reach": 5303,
-      "clicks": 263,
+      "impressions": 8008,
+      "reach": 5278,
+      "clicks": 276,
       "messages": 0,
-      "ctr": 3.23,
+      "ctr": 3.45,
       "thruplay": 232
     },
     {
       "name": "[80%] Unidade",
-      "impressions": 6219,
-      "reach": 3173,
-      "clicks": 43,
-      "messages": 7,
-      "ctr": 0.69,
-      "thruplay": 183
+      "impressions": 6145,
+      "reach": 3167,
+      "clicks": 42,
+      "messages": 6,
+      "ctr": 0.68,
+      "thruplay": 182
     },
     {
       "name": "3 sessões 2",
-      "impressions": 4742,
-      "reach": 2827,
-      "clicks": 21,
-      "messages": 4,
-      "ctr": 0.44,
-      "thruplay": 91
+      "impressions": 4719,
+      "reach": 3166,
+      "clicks": 34,
+      "messages": 3,
+      "ctr": 0.72,
+      "thruplay": 100
+    },
+    {
+      "name": "3 sessões 2",
+      "impressions": 4022,
+      "reach": 2423,
+      "clicks": 19,
+      "messages": 3,
+      "ctr": 0.47,
+      "thruplay": 81
     },
     {
       "name": "Em casa",
-      "impressions": 4102,
-      "reach": 2561,
-      "clicks": 21,
+      "impressions": 1961,
+      "reach": 1326,
+      "clicks": 11,
       "messages": 0,
-      "ctr": 0.51,
-      "thruplay": 112
-    },
-    {
-      "name": "3 sessões 2",
-      "impressions": 2010,
-      "reach": 1446,
-      "clicks": 19,
-      "messages": 3,
-      "ctr": 0.95,
-      "thruplay": 49
+      "ctr": 0.56,
+      "thruplay": 67
     },
     {
       "name": "[80%] Momento outubro",
-      "impressions": 1744,
-      "reach": 1516,
+      "impressions": 1774,
+      "reach": 1493,
       "clicks": 15,
       "messages": 0,
-      "ctr": 0.86,
-      "thruplay": 1222
+      "ctr": 0.85,
+      "thruplay": 1237
     },
     {
       "name": "Segredos",
-      "impressions": 1390,
-      "reach": 928,
-      "clicks": 13,
+      "impressions": 1463,
+      "reach": 966,
+      "clicks": 15,
       "messages": 1,
-      "ctr": 0.94,
-      "thruplay": 41
-    },
-    {
-      "name": "Ja pensou",
-      "impressions": 1156,
-      "reach": 979,
-      "clicks": 13,
-      "messages": 3,
-      "ctr": 1.12,
-      "thruplay": 31
+      "ctr": 1.03,
+      "thruplay": 42
     },
     {
       "name": "[80%] Especialista planejamento",
-      "impressions": 806,
-      "reach": 744,
-      "clicks": 6,
+      "impressions": 699,
+      "reach": 657,
+      "clicks": 5,
       "messages": 0,
-      "ctr": 0.74,
-      "thruplay": 563
+      "ctr": 0.72,
+      "thruplay": 495
     },
     {
       "name": "[80%] Waleska Freitas — Cópia",
-      "impressions": 594,
-      "reach": 449,
-      "clicks": 4,
+      "impressions": 529,
+      "reach": 385,
+      "clicks": 6,
       "messages": 0,
-      "ctr": 0.67,
-      "thruplay": 21
+      "ctr": 1.13,
+      "thruplay": 18
+    },
+    {
+      "name": "Mensagem do dia",
+      "impressions": 438,
+      "reach": 359,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 0.46,
+      "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 58,
-      "male_pct": 42,
+      "female_pct": 62,
+      "male_pct": 38,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 31,
-      "35-44": 28,
-      "45-54": 18,
-      "55-64": 11,
-      "65+": 12
+      "25-34": 29,
+      "35-44": 27,
+      "45-54": 19,
+      "55-64": 12,
+      "65+": 13
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 7.7,
+    "balance_brl": 19.31,
     "balance_low": false,
     "account_disabled": false
   },
