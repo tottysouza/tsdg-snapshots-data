@@ -4,61 +4,61 @@
     "account_name": "MORINGA Hair",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-16T13:02:45.142Z",
+    "generated_at": "2026-10-17T11:58:56.730Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-09",
-      "until": "2026-10-15",
-      "label_pt": "9 out a 15 out"
+      "since": "2026-10-10",
+      "until": "2026-10-16",
+      "label_pt": "10 out a 16 out"
     },
     "previous": {
-      "since": "2026-10-02",
-      "until": "2026-10-08"
+      "since": "2026-10-03",
+      "until": "2026-10-09"
     }
   },
   "totals": {
     "spend": {
       "current": 0,
-      "previous": 188.69,
+      "previous": 159.19,
       "delta_pct": -100
     },
     "impressions": {
       "current": 0,
-      "previous": 9609,
+      "previous": 8118,
       "delta_pct": -100
     },
     "reach": {
       "current": 0,
-      "previous": 6861,
+      "previous": 6155,
       "delta_pct": -100
     },
     "clicks": {
       "current": 0,
-      "previous": 534,
+      "previous": 446,
       "delta_pct": -100
     },
     "ctr": {
       "current": null,
-      "previous": 5.56,
+      "previous": 5.49,
       "delta_pct": null
     },
     "cpc": {
       "current": 0,
-      "previous": 0.35,
+      "previous": 0.36,
       "delta_pct": -100
     },
     "thruplay": {
       "current": 0,
-      "previous": 908,
+      "previous": 744,
       "delta_pct": -100
     },
     "frequency": {
       "current": 0,
-      "previous": 1.4,
+      "previous": 1.32,
       "delta_pct": -100
     }
   },
@@ -66,12 +66,12 @@
     "whatsapp_messages": {
       "count": {
         "current": 0,
-        "previous": 22,
+        "previous": 17,
         "delta_pct": -100
       },
       "cost": {
         "current": null,
-        "previous": 8.58,
+        "previous": 9.36,
         "delta_pct": null
       },
       "top_creative": null

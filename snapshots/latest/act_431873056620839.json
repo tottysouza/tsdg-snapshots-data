@@ -4,62 +4,62 @@
     "account_name": "Espaçolaser Campolim",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-10-16T13:03:08.522Z",
+    "generated_at": "2026-10-17T11:59:34.479Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-09",
-      "until": "2026-10-15",
-      "label_pt": "9 out a 15 out"
+      "since": "2026-10-10",
+      "until": "2026-10-16",
+      "label_pt": "10 out a 16 out"
     },
     "previous": {
-      "since": "2026-10-02",
-      "until": "2026-10-08"
+      "since": "2026-10-03",
+      "until": "2026-10-09"
     }
   },
   "totals": {
     "spend": {
-      "current": 348.2,
-      "previous": 334.35,
-      "delta_pct": 4
+      "current": 343.73,
+      "previous": 332.25,
+      "delta_pct": 3
     },
     "impressions": {
-      "current": 31413,
-      "previous": 48382,
-      "delta_pct": -35
+      "current": 31049,
+      "previous": 43980,
+      "delta_pct": -29
     },
     "reach": {
-      "current": 14725,
-      "previous": 24814,
-      "delta_pct": -41
+      "current": 14031,
+      "previous": 23266,
+      "delta_pct": -40
     },
     "clicks": {
-      "current": 527,
-      "previous": 646,
-      "delta_pct": -18
+      "current": 533,
+      "previous": 595,
+      "delta_pct": -10
     },
     "ctr": {
-      "current": 1.68,
-      "previous": 1.34,
-      "delta_pct": 25
-    },
-    "cpc": {
-      "current": 0.66,
-      "previous": 0.52,
+      "current": 1.72,
+      "previous": 1.35,
       "delta_pct": 27
     },
+    "cpc": {
+      "current": 0.64,
+      "previous": 0.56,
+      "delta_pct": 14
+    },
     "thruplay": {
-      "current": 3969,
-      "previous": 4191,
-      "delta_pct": -5
+      "current": 4006,
+      "previous": 3925,
+      "delta_pct": 2
     },
     "frequency": {
-      "current": 2.13,
-      "previous": 1.95,
-      "delta_pct": 9
+      "current": 2.21,
+      "previous": 1.89,
+      "delta_pct": 17
     }
   },
   "conversions": {
@@ -70,13 +70,13 @@
         "delta_pct": -17
       },
       "cost": {
-        "current": 17.41,
-        "previous": 13.93,
-        "delta_pct": 25
+        "current": 17.19,
+        "previous": 13.84,
+        "delta_pct": 24
       },
       "top_creative": {
         "name": "[80%] Unidade — Cópia",
-        "value": 11
+        "value": 10
       }
     },
     "instagram_visits": {
@@ -98,71 +98,71 @@
   "top_creatives": [
     {
       "name": "[80%] Unidade — Cópia",
-      "impressions": 10820,
-      "reach": 10582,
-      "clicks": 79,
+      "impressions": 10998,
+      "reach": 10663,
+      "clicks": 80,
       "messages": 6,
       "ctr": 0.73,
-      "thruplay": 294
+      "thruplay": 298
     },
     {
       "name": "Pele lisinha",
-      "impressions": 8491,
-      "reach": 7289,
-      "clicks": 338,
+      "impressions": 8836,
+      "reach": 7335,
+      "clicks": 347,
       "messages": 0,
-      "ctr": 3.98,
-      "thruplay": 1802
+      "ctr": 3.93,
+      "thruplay": 1839
     },
     {
       "name": "[80%] Unidade — Cópia",
-      "impressions": 7849,
-      "reach": 4424,
-      "clicks": 66,
-      "messages": 11,
-      "ctr": 0.84,
-      "thruplay": 167
+      "impressions": 6945,
+      "reach": 3792,
+      "clicks": 63,
+      "messages": 10,
+      "ctr": 0.91,
+      "thruplay": 160
     },
     {
       "name": "[80%] Especialista planejamento",
-      "impressions": 2416,
-      "reach": 2316,
+      "impressions": 2382,
+      "reach": 2331,
       "clicks": 8,
       "messages": 0,
-      "ctr": 0.33,
-      "thruplay": 1595
+      "ctr": 0.34,
+      "thruplay": 1598
     },
     {
       "name": "[80%] Carol Leite",
-      "impressions": 858,
-      "reach": 730,
-      "clicks": 27,
+      "impressions": 758,
+      "reach": 654,
+      "clicks": 22,
       "messages": 0,
-      "ctr": 3.15,
-      "thruplay": 39
+      "ctr": 2.9,
+      "thruplay": 33
     },
     {
       "name": "3 sessões",
-      "impressions": 409,
-      "reach": 214,
-      "clicks": 3,
-      "messages": 1,
-      "ctr": 0.73,
-      "thruplay": 6
-    },
-    {
-      "name": "Resgate",
-      "impressions": 285,
-      "reach": 273,
-      "clicks": 4,
+      "impressions": 481,
+      "reach": 256,
+      "clicks": 7,
       "messages": 2,
-      "ctr": 1.4,
+      "ctr": 1.46,
       "thruplay": 7
     },
     {
+      "name": "Resgate",
+      "impressions": 351,
+      "reach": 320,
+      "clicks": 4,
+      "messages": 2,
+      "ctr": 1.14,
+      "thruplay": 10
+    },
+    {
       "name": "[80%] Waleska Freitas — Cópia",
-      "impressions": 132,
-      "reach": 103,
+      "impressions": 133,
+      "reach": 104,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
@@ -170,33 +170,33 @@
     },
     {
       "name": "[80%] Momento outubro",
-      "impressions": 75,
-      "reach": 75,
+      "impressions": 76,
+      "reach": 76,
       "clicks": 1,
       "messages": 0,
-      "ctr": 1.33,
-      "thruplay": 49
+      "ctr": 1.32,
+      "thruplay": 52
     },
     {
       "name": "[80%] Felipe Pezzon",
-      "impressions": 35,
-      "reach": 33,
+      "impressions": 37,
+      "reach": 35,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
-      "thruplay": 3
+      "thruplay": 2
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 51,
-      "male_pct": 36,
+      "female_pct": 52,
+      "male_pct": 35,
       "unknown_pct": 13
     },
     "age": {
       "18-24": 0,
       "25-34": 18,
-      "35-44": 15,
+      "35-44": 14,
       "45-54": 11,
       "55-64": 11,
       "65+": 15
@@ -204,7 +204,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 8.8,
+    "balance_brl": 7.18,
     "balance_low": false,
     "account_disabled": false
   },

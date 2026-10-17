@@ -4,79 +4,79 @@
     "account_name": "BIOMA Jackeline",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-16T13:00:19.651Z",
+    "generated_at": "2026-10-17T11:57:38.174Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-09",
-      "until": "2026-10-15",
-      "label_pt": "9 out a 15 out"
+      "since": "2026-10-10",
+      "until": "2026-10-16",
+      "label_pt": "10 out a 16 out"
     },
     "previous": {
-      "since": "2026-10-02",
-      "until": "2026-10-08"
+      "since": "2026-10-03",
+      "until": "2026-10-09"
     }
   },
   "totals": {
     "spend": {
-      "current": 559.45,
-      "previous": 697.16,
-      "delta_pct": -20
+      "current": 469.88,
+      "previous": 682.41,
+      "delta_pct": -31
     },
     "impressions": {
-      "current": 44616,
-      "previous": 73870,
+      "current": 40164,
+      "previous": 67243,
       "delta_pct": -40
     },
     "reach": {
-      "current": 35662,
-      "previous": 55997,
-      "delta_pct": -36
+      "current": 33034,
+      "previous": 52096,
+      "delta_pct": -37
     },
     "clicks": {
-      "current": 1407,
-      "previous": 1727,
-      "delta_pct": -19
+      "current": 1213,
+      "previous": 1650,
+      "delta_pct": -26
     },
     "ctr": {
-      "current": 3.15,
-      "previous": 2.34,
-      "delta_pct": 35
+      "current": 3.02,
+      "previous": 2.45,
+      "delta_pct": 23
     },
     "cpc": {
-      "current": 0.4,
-      "previous": 0.4,
-      "delta_pct": 0
+      "current": 0.39,
+      "previous": 0.41,
+      "delta_pct": -5
     },
     "thruplay": {
-      "current": 4292,
-      "previous": 5142,
-      "delta_pct": -17
+      "current": 3697,
+      "previous": 5016,
+      "delta_pct": -26
     },
     "frequency": {
-      "current": 1.25,
-      "previous": 1.32,
+      "current": 1.22,
+      "previous": 1.29,
       "delta_pct": -5
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 24,
-        "previous": 33,
-        "delta_pct": -27
+        "current": 20,
+        "previous": 30,
+        "delta_pct": -33
       },
       "cost": {
-        "current": 23.31,
-        "previous": 21.13,
-        "delta_pct": 10
+        "current": 23.49,
+        "previous": 22.75,
+        "delta_pct": 3
       },
       "top_creative": {
         "name": "Tem dias que o corpo — Cópia",
-        "value": 13
+        "value": 12
       }
     },
     "instagram_visits": {
@@ -97,22 +97,13 @@
   },
   "top_creatives": [
     {
-      "name": "Tem dias que o corpo",
-      "impressions": 12450,
-      "reach": 10115,
-      "clicks": 770,
-      "messages": 0,
-      "ctr": 6.18,
-      "thruplay": 365
-    },
-    {
       "name": "Seu cabelo - reconhecimento",
-      "impressions": 11060,
-      "reach": 9811,
-      "clicks": 163,
+      "impressions": 10650,
+      "reach": 9474,
+      "clicks": 159,
       "messages": 0,
-      "ctr": 1.47,
-      "thruplay": 2031
+      "ctr": 1.49,
+      "thruplay": 1984
     },
     {
       "name": "Quem vive",
@@ -124,39 +115,48 @@
       "thruplay": 0
     },
     {
+      "name": "Tem dias que o corpo",
+      "impressions": 10162,
+      "reach": 8476,
+      "clicks": 619,
+      "messages": 0,
+      "ctr": 6.09,
+      "thruplay": 298
+    },
+    {
       "name": "Tem dias que o corpo — Cópia",
-      "impressions": 4333,
-      "reach": 2824,
-      "clicks": 144,
-      "messages": 13,
-      "ctr": 3.32,
-      "thruplay": 226
+      "impressions": 3650,
+      "reach": 2454,
+      "clicks": 120,
+      "messages": 12,
+      "ctr": 3.29,
+      "thruplay": 190
     },
     {
       "name": "Tem dias que o corpo",
-      "impressions": 4166,
-      "reach": 2970,
-      "clicks": 73,
-      "messages": 11,
-      "ctr": 1.75,
-      "thruplay": 145
+      "impressions": 3577,
+      "reach": 2630,
+      "clicks": 59,
+      "messages": 8,
+      "ctr": 1.65,
+      "thruplay": 127
     },
     {
       "name": "Beleza à brasileira",
-      "impressions": 1661,
-      "reach": 599,
-      "clicks": 3,
+      "impressions": 1200,
+      "reach": 485,
+      "clicks": 2,
       "messages": 0,
-      "ctr": 0.18,
-      "thruplay": 1515
+      "ctr": 0.17,
+      "thruplay": 1088
     },
     {
       "name": "Corte",
-      "impressions": 393,
-      "reach": 319,
+      "impressions": 376,
+      "reach": 308,
       "clicks": 11,
       "messages": 0,
-      "ctr": 2.8,
+      "ctr": 2.93,
       "thruplay": 10
     },
     {
@@ -179,8 +179,8 @@
     },
     {
       "name": "Semana",
-      "impressions": 7,
-      "reach": 7,
+      "impressions": 5,
+      "reach": 5,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
@@ -189,14 +189,14 @@
   ],
   "demographics": {
     "gender": {
-      "female_pct": 59,
-      "male_pct": 41,
+      "female_pct": 62,
+      "male_pct": 38,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
       "25-34": 34,
-      "35-44": 21,
+      "35-44": 20,
       "45-54": 14,
       "55-64": 16,
       "65+": 15

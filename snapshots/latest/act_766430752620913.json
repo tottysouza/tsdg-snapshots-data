@@ -4,61 +4,61 @@
     "account_name": "MORINGA Barber",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-16T13:02:16.284Z",
+    "generated_at": "2026-10-17T11:58:55.786Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-09",
-      "until": "2026-10-15",
-      "label_pt": "9 out a 15 out"
+      "since": "2026-10-10",
+      "until": "2026-10-16",
+      "label_pt": "10 out a 16 out"
     },
     "previous": {
-      "since": "2026-10-02",
-      "until": "2026-10-08"
+      "since": "2026-10-03",
+      "until": "2026-10-09"
     }
   },
   "totals": {
     "spend": {
       "current": 0,
-      "previous": 107.64,
+      "previous": 80.28,
       "delta_pct": -100
     },
     "impressions": {
       "current": 0,
-      "previous": 29063,
+      "previous": 23219,
       "delta_pct": -100
     },
     "reach": {
       "current": 0,
-      "previous": 23374,
+      "previous": 19358,
       "delta_pct": -100
     },
     "clicks": {
       "current": 0,
-      "previous": 339,
+      "previous": 262,
       "delta_pct": -100
     },
     "ctr": {
       "current": null,
-      "previous": 1.17,
+      "previous": 1.13,
       "delta_pct": null
     },
     "cpc": {
       "current": 0,
-      "previous": 0.32,
+      "previous": 0.31,
       "delta_pct": -100
     },
     "thruplay": {
       "current": 0,
-      "previous": 650,
+      "previous": 500,
       "delta_pct": -100
     },
     "frequency": {
       "current": 0,
-      "previous": 1.24,
+      "previous": 1.2,
       "delta_pct": -100
     }
   },

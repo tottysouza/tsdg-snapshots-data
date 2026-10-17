@@ -1,0 +1,194 @@
+{
+  "current": {
+    "accountId": "act_766430752620913",
+    "saldo": 452.68,
+    "periodo": "custom",
+    "dateRange": {
+      "since": "2026-10-10",
+      "until": "2026-10-16"
+    },
+    "timestamp": "2026-10-17T11:58:54.045Z",
+    "kpis": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    },
+    "ads": [],
+    "genero": {
+      "F": 0,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    },
+    "prev": {
+      "investimento": 80.28,
+      "impressoes": 23219,
+      "alcance": 19358,
+      "cliques": 262,
+      "cpc": 0.31,
+      "cpm": 3.46,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 500,
+      "frequencia": 1.2
+    }
+  },
+  "previous": {
+    "accountId": "act_766430752620913",
+    "saldo": 452.68,
+    "dateRange": {
+      "since": "2026-10-03",
+      "until": "2026-10-09"
+    },
+    "kpis": {
+      "investimento": 80.28,
+      "impressoes": 23219,
+      "alcance": 19358,
+      "cliques": 262,
+      "cpc": 0.31,
+      "cpm": 3.46,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 500,
+      "frequencia": 1.2
+    },
+    "ads": [
+      {
+        "id": "52625925496271",
+        "nome": "CORTE & BARBA ITALIANO — Lettering",
+        "status": "ACTIVE",
+        "legenda": "📅 Agende Agora 2026-08-18-a44e6058878ce57bb4a718a264cd28bc",
+        "campId": "52623458274271",
+        "campanha": "01. TOPO | Reconhecimento TP",
+        "adsetId": "52623458274671",
+        "adset": "Aberto",
+        "thumbnail": "https://scontent-dfw5-2.xx.fbcdn.net/v/t15.5256-10/774165321_1339088608296992_3689025165775402250_n.jpg?_nc_cat=100&ccb=1-7&_nc_eui2=AeGmligj3_6PVIEJvEk7kR7hptBRSjDFVdOm0FFKMMVV0_yF7wGG5iZvOQFiWbTIzIPmP3nGD-JdoCHutSwiSOxn&_nc_ohc=PQfqzOM4dwwQ7kNvwElydfQ&_nc_oc=AdquVTGgWuqIdNCvqIwatV7lTp3l4qk_UZsmPm_JdUGMavPhLhEz2C0RXyFye5MRLRQ&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=HRG6QmRC0_8CHwViNIwxBQ&_nc_tpa=Q5bMBQI--QcuZmtAD7NF9PxykJgBAGKljq7bZG6sg9ssfXB54rxK4kuem7NzRDy5LNE3Zz9dXE8XFwu5GA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQMGywOjGxT-Hfr19VQZBYvb2PuYrF8NkBAQSBAGX_z_vw&oe=6AD93FE3",
+        "impressoes": 9229,
+        "alcance": 8408,
+        "cliques": 20,
+        "mensagens": 0,
+        "thruplay": 58,
+        "investimento": 12.81,
+        "cpc": 0.64,
+        "ctr": 0.22
+      },
+      {
+        "id": "52627010845471",
+        "nome": "Afial",
+        "status": "ACTIVE",
+        "legenda": "🇮🇹 Afinal, qual é a diferença do corte e da barba italiana?\n\nMais do que seguir uma tendência, o es 2026-08-20-f6b02fafed8650ccea792b01898f1871",
+        "campId": "52623458274271",
+        "campanha": "01. TOPO | Reconhecimento TP",
+        "adsetId": "52623458274671",
+        "adset": "Aberto",
+        "thumbnail": "https://scontent-dfw5-1.xx.fbcdn.net/v/t15.5256-10/780419085_1597814968685336_6490376371346996967_n.jpg?_nc_cat=106&ccb=1-7&_nc_eui2=AeGmwLlzmnYqq1N9imENo6O3RoE3hYuulnJGgTeFi66WcmTQG-d9MfuH02E_RITnn_3UzjQHGyXAFzQ3PmxmLCPu&_nc_ohc=Wd_VJx1XWB4Q7kNvwESr1Ha&_nc_oc=Adq-GbPfqlNw3GyrDOHrbTkro3A97_wKY3x_gLmR2sjHjIk1BwtkzAecnL1HYhQYHwk&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=HRG6QmRC0_8CHwViNIwxBQ&_nc_tpa=Q5bMBQJESQn1_vqi0j-XgZeuVm44ycCHSMI7hSiNUPBbXPkFtL75jR7IwtOaoINYgILXZO_uEn92A8_J2A&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQNkozCr5pfSjLEK6L3I3ZY0r1ktou843rTnXibaM_lKZQ&oe=6AD94D0F",
+        "impressoes": 6700,
+        "alcance": 6431,
+        "cliques": 8,
+        "mensagens": 0,
+        "thruplay": 46,
+        "investimento": 8.28,
+        "cpc": 1.03,
+        "ctr": 0.12
+      },
+      {
+        "id": "52630364895071",
+        "nome": "Fazer barba",
+        "status": "ACTIVE",
+        "legenda": "FAZER BARBA É TUDO IGUAL? 💈\n\nDefinitivamente, não.\n\nCada barba exige uma leitura diferente. Direção 2026-09-22-4d580da51b00fd8c28d17b799476035a",
+        "campId": "52618687400471",
+        "campanha": "02. MEIO |  Tráfego Instagram",
+        "adsetId": "52618687400671",
+        "adset": "VV + INSTA + LL",
+        "thumbnail": "https://scontent-dfw6-2.xx.fbcdn.net/v/t15.5256-10/820246207_1415160170570213_175100686634399908_n.jpg?_nc_cat=110&ccb=1-7&_nc_eui2=AeEPJsfmOi1no9tuXjfX9TrIAXF4S9pqUw8BcXhL2mpTD3TrEWJjTtX05dQaFygwLZgKLLwnhkLEGcqTtqwk1Ifu&_nc_ohc=DrIBownOmXwQ7kNvwERFIC6&_nc_oc=AdrPOpx78YuqbMNP6yIEf3P1t0MWu60fyX7_d29Gg7c3JemDRCOj6I9Z0GiphGNj-q8&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=HRG6QmRC0_8CHwViNIwxBQ&_nc_tpa=Q5bMBQLo9-XeaNKFy7mgPf4pcQIW-RNt6ItYsMvW4hyMZs-DgQl5FYJpp03OctN3EtuFILq_Bjkj_3fcHw&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQN9GCIVKCw1WQ1RPmrzT5kBFVjVbypFRDDPjUkpoiZwsw&oe=6AD9456F",
+        "impressoes": 5742,
+        "alcance": 5076,
+        "cliques": 213,
+        "mensagens": 0,
+        "thruplay": 359,
+        "investimento": 50.66,
+        "cpc": 0.24,
+        "ctr": 3.71
+      },
+      {
+        "id": "52635296545471",
+        "nome": "Barboterapia",
+        "status": "ACTIVE",
+        "legenda": "BARBOTERAPIA: muito além de fazer a barba. 🧔🏻‍♂️✨\n\nUma verdadeira experiência de spa criada especia 2026-09-22-1653c0a2342b461b82f966a1fc26a58e",
+        "campId": "52618687400471",
+        "campanha": "02. MEIO |  Tráfego Instagram",
+        "adsetId": "52618687400671",
+        "adset": "VV + INSTA + LL",
+        "thumbnail": "https://scontent-dfw6-2.xx.fbcdn.net/v/t15.5256-10/819942757_1118148947233712_7628513232020011826_n.jpg?_nc_cat=108&ccb=1-7&_nc_eui2=AeFSUYL08hR9IL1mpagGs4K_duQMmSowRPt25AyZKjBE-6hCUOgOpl_-AJBJkbKguf4FLOFCAgeN8coaVWFDvlpL&_nc_ohc=wUsuYrLosCMQ7kNvwHiCVaB&_nc_oc=Adrql7sj4hVaUp-_IOahQqJMRtXD2MbJnmZfYPIRmdLpT0Qc2BomO87mUxpwjwxDvz8&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=HRG6QmRC0_8CHwViNIwxBQ&_nc_tpa=Q5bMBQKlbleGHFo2JiC1ox3wHThWbHhsz6kPwPS3PWk7f3zpsn9ryKILiLz6QFx3oIIcxN0sSS11JJY8Yg&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQOmvm_V5IrBQXz6m2SDzVuTu7igqhPZ_GoYzavRk-vFsA&oe=6AD92F48",
+        "impressoes": 1532,
+        "alcance": 1299,
+        "cliques": 21,
+        "mensagens": 0,
+        "thruplay": 37,
+        "investimento": 8.36,
+        "cpc": 0.4,
+        "ctr": 1.37
+      },
+      {
+        "id": "52635302004471",
+        "nome": "Método Vero",
+        "status": "ACTIVE",
+        "legenda": "MÉTODO VERO — A primeira transformação | Parte 1\n\nTudo começou como uma brincadeira: usamos uma fot 2026-09-22-584e09f2d707a956f0096bf815f6a206",
+        "campId": "52618687400471",
+        "campanha": "02. MEIO |  Tráfego Instagram",
+        "adsetId": "52618687400671",
+        "adset": "VV + INSTA + LL",
+        "thumbnail": "https://scontent-dfw5-2.xx.fbcdn.net/v/t15.5256-10/820506817_1663644828793681_6300211421994518182_n.jpg?_nc_cat=100&ccb=1-7&_nc_eui2=AeHopNJQmH18HRqGQl1fAUTY3yHLOn60kNjfIcs6frSQ2D_tKHZyIVCGPUqH3gsp-Sr9UnIuKUG3QfhGoC5KYatY&_nc_ohc=Cn7XiqRM1AsQ7kNvwHDk_Eo&_nc_oc=AdrC6ZtYVPqmpSi-KM3UI36ORySoMQL2IdLLQtvFKmDCUO3uhEn2lNgPfCcqazPXzyo&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=HRG6QmRC0_8CHwViNIwxBQ&_nc_tpa=Q5bMBQLrlG2gfFzIDUEHcmpkpt6a8h2bVQwVi0MZRzNpXFjyRQKcplBxxCfz_rHEii5svd5Daqeq0rjNmg&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQPxBmk853sXlAudWsw5urOMmceFCtsPEXAQZ5AL_NNkHA&oe=6AD92478",
+        "impressoes": 16,
+        "alcance": 16,
+        "cliques": 0,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 0.17,
+        "cpc": 0,
+        "ctr": 0
+      }
+    ],
+    "genero": {
+      "F": 45,
+      "M": 55,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 41,
+      "35-44": 21,
+      "45-54": 15,
+      "55-64": 12,
+      "65+": 11
+    },
+    "periodo": "custom",
+    "timestamp": "2026-10-17T11:58:55.772Z",
+    "prev": {
+      "investimento": 250.22,
+      "impressoes": 39550,
+      "alcance": 29415,
+      "cliques": 595,
+      "cpc": 0.42,
+      "cpm": 6.33,
+      "mensagens": 2,
+      "cpa": 125.11,
+      "thruplay": 1193,
+      "frequencia": 1.34
+    }
+  }
+}

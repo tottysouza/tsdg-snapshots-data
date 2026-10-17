@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "account_id": "act_2353518435060586",
+    "account_name": "BIOMA Elizete Corrêa",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-17T11:57:39.969Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-10",
+      "until": "2026-10-16",
+      "label_pt": "10 out a 16 out"
+    },
+    "previous": {
+      "since": "2026-10-03",
+      "until": "2026-10-09"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 468.87,
+      "previous": 459.79,
+      "delta_pct": 2
+    },
+    "impressions": {
+      "current": 29125,
+      "previous": 29844,
+      "delta_pct": -2
+    },
+    "reach": {
+      "current": 22451,
+      "previous": 22981,
+      "delta_pct": -2
+    },
+    "clicks": {
+      "current": 999,
+      "previous": 836,
+      "delta_pct": 19
+    },
+    "ctr": {
+      "current": 3.43,
+      "previous": 2.8,
+      "delta_pct": 23
+    },
+    "cpc": {
+      "current": 0.47,
+      "previous": 0.55,
+      "delta_pct": -15
+    },
+    "thruplay": {
+      "current": 5355,
+      "previous": 5549,
+      "delta_pct": -3
+    },
+    "frequency": {
+      "current": 1.3,
+      "previous": 1.3,
+      "delta_pct": 0
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 25,
+        "previous": 29,
+        "delta_pct": -14
+      },
+      "cost": {
+        "current": 18.75,
+        "previous": 15.85,
+        "delta_pct": 18
+      },
+      "top_creative": {
+        "name": "Foi executada",
+        "value": 19
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Corte de cabelo",
+      "impressions": 10810,
+      "reach": 10529,
+      "clicks": 168,
+      "messages": 0,
+      "ctr": 1.55,
+      "thruplay": 2845
+    },
+    {
+      "name": "Foi executada",
+      "impressions": 7647,
+      "reach": 4103,
+      "clicks": 421,
+      "messages": 19,
+      "ctr": 5.51,
+      "thruplay": 652
+    },
+    {
+      "name": "Sua transição 2",
+      "impressions": 5755,
+      "reach": 4895,
+      "clicks": 300,
+      "messages": 0,
+      "ctr": 5.21,
+      "thruplay": 974
+    },
+    {
+      "name": "Corte de cabelo",
+      "impressions": 2814,
+      "reach": 2772,
+      "clicks": 51,
+      "messages": 0,
+      "ctr": 1.81,
+      "thruplay": 717
+    },
+    {
+      "name": "Nossa coloração",
+      "impressions": 1130,
+      "reach": 763,
+      "clicks": 37,
+      "messages": 5,
+      "ctr": 3.27,
+      "thruplay": 107
+    },
+    {
+      "name": "Vela video",
+      "impressions": 524,
+      "reach": 275,
+      "clicks": 10,
+      "messages": 0,
+      "ctr": 1.91,
+      "thruplay": 22
+    },
+    {
+      "name": "Morena iluminada",
+      "impressions": 248,
+      "reach": 111,
+      "clicks": 8,
+      "messages": 0,
+      "ctr": 3.23,
+      "thruplay": 19
+    },
+    {
+      "name": "As vezes",
+      "impressions": 156,
+      "reach": 64,
+      "clicks": 4,
+      "messages": 1,
+      "ctr": 2.56,
+      "thruplay": 10
+    },
+    {
+      "name": "Cuidado",
+      "impressions": 27,
+      "reach": 25,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 7
+    },
+    {
+      "name": "Isso aqui",
+      "impressions": 7,
+      "reach": 7,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 1
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 97,
+      "male_pct": 3,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 4,
+      "35-44": 9,
+      "45-54": 20,
+      "55-64": 32,
+      "65+": 35
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 338.33,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": []
+}

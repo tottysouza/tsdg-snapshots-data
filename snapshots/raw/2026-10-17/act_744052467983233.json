@@ -1,0 +1,137 @@
+{
+  "current": {
+    "accountId": "act_744052467983233",
+    "saldo": 39.47,
+    "periodo": "custom",
+    "dateRange": {
+      "since": "2026-10-10",
+      "until": "2026-10-16"
+    },
+    "timestamp": "2026-10-17T11:57:40.901Z",
+    "kpis": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    },
+    "ads": [],
+    "genero": {
+      "F": 0,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    },
+    "prev": {
+      "investimento": 200.52,
+      "impressoes": 12742,
+      "alcance": 7679,
+      "cliques": 249,
+      "cpc": 0.81,
+      "cpm": 15.74,
+      "mensagens": 10,
+      "cpa": 20.05,
+      "thruplay": 363,
+      "frequencia": 1.66
+    }
+  },
+  "previous": {
+    "accountId": "act_744052467983233",
+    "saldo": 39.47,
+    "dateRange": {
+      "since": "2026-10-03",
+      "until": "2026-10-09"
+    },
+    "kpis": {
+      "investimento": 200.52,
+      "impressoes": 12742,
+      "alcance": 7679,
+      "cliques": 249,
+      "cpc": 0.81,
+      "cpm": 15.74,
+      "mensagens": 10,
+      "cpa": 20.05,
+      "thruplay": 363,
+      "frequencia": 1.66
+    },
+    "ads": [
+      {
+        "id": "120252915299880508",
+        "nome": "É primavera",
+        "status": "ACTIVE",
+        "legenda": "É Primavera… cores e formas dão o tom da estação! 2026-09-22-41d65513ca11aa9fd62c8c640fe46b03",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-dfw6-2.xx.fbcdn.net/v/t15.5256-10/820953477_1409275107227944_5383555540034751894_n.jpg?_nc_cat=109&ccb=1-7&_nc_eui2=AeHczHhVLTVboi_gX3mO5vvHxYDh3dhNWLnFgOHd2E1YuU_qi5Xnm0WmnOJSWZw4I6Ov0dop5BNfwCsSCe2hqRxP&_nc_ohc=o-W-POm-Wg0Q7kNvwGtPrb-&_nc_oc=AdpGJjkPwLHNNHy6AzJT-zGoNJNmkdKrIRhuQww2XrEQLCs7q8PJ9m030RY_jMzPGMM&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=mLOIJTRW9PGvKZR_eNXNDA&_nc_tpa=Q5bMBQIZ7Zs_Zw53KGaaWIKYviL0IVWTD0z_jpPBxOs82RL97QT3s53bdt7cI7NT2pZrr1T9-c7Scj77gw&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQNmp1UaSiv2KjThnd1-KNgiVqAQnkZ-7qg_g5tG4pZudA&oe=6AD94CBD",
+        "impressoes": 10012,
+        "alcance": 6773,
+        "cliques": 227,
+        "mensagens": 0,
+        "thruplay": 285,
+        "investimento": 68.88,
+        "cpc": 0.3,
+        "ctr": 2.27
+      },
+      {
+        "id": "120252915319500508",
+        "nome": "É primavera",
+        "status": "ACTIVE",
+        "legenda": "É Primavera… cores e formas dão o tom da estação! 2026-09-22-412065c96e2669a494b743f1476ad940",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-dfw5-1.xx.fbcdn.net/v/t15.5256-10/820483729_1096724479748538_2488657461989756073_n.jpg?_nc_cat=111&ccb=1-7&_nc_eui2=AeEj22ZnKxhRu85RIJalrTrVj63ldCL_F6uPreV0Iv8Xq6cgqFGkDdTazwG0OV3MJTG1OsGbCXyp4ug2gzgYP3Mm&_nc_ohc=C3QLkChPsRQQ7kNvwE7JdBJ&_nc_oc=Adp-pnStEIBOACqo1sxPyrJa5mWVuSQRDGGYFAHnFG_DgltOVk_ph6c938_H_ngzTYc&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=mLOIJTRW9PGvKZR_eNXNDA&_nc_tpa=Q5bMBQKA7bK0pHZDzJbC9ViR5hGh9m5oMHbvXYdmZfflOxmQJSpflcoCK1aotLGeXNzBYoKQE_92DSGzMQ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQO9A8CI76rWIXcXpAnBXCybGGTD-_KoPbIAYgMCiTNyKg&oe=6AD92024",
+        "impressoes": 2730,
+        "alcance": 886,
+        "cliques": 22,
+        "mensagens": 10,
+        "thruplay": 78,
+        "investimento": 131.64,
+        "cpc": 5.98,
+        "ctr": 0.81
+      }
+    ],
+    "genero": {
+      "F": 66,
+      "M": 34,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 20,
+      "35-44": 19,
+      "45-54": 21,
+      "55-64": 22,
+      "65+": 18
+    },
+    "periodo": "custom",
+    "timestamp": "2026-10-17T11:57:46.037Z",
+    "prev": {
+      "investimento": 275.96,
+      "impressoes": 10559,
+      "alcance": 7224,
+      "cliques": 222,
+      "cpc": 1.24,
+      "cpm": 26.14,
+      "mensagens": 11,
+      "cpa": 25.09,
+      "thruplay": 382,
+      "frequencia": 1.46
+    }
+  }
+}

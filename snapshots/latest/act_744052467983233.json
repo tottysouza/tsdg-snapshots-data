@@ -4,61 +4,61 @@
     "account_name": "BIOMA Sense",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-16T13:00:33.173Z",
+    "generated_at": "2026-10-17T11:57:46.050Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-09",
-      "until": "2026-10-15",
-      "label_pt": "9 out a 15 out"
+      "since": "2026-10-10",
+      "until": "2026-10-16",
+      "label_pt": "10 out a 16 out"
     },
     "previous": {
-      "since": "2026-10-02",
-      "until": "2026-10-08"
+      "since": "2026-10-03",
+      "until": "2026-10-09"
     }
   },
   "totals": {
     "spend": {
       "current": 0,
-      "previous": 235.5,
+      "previous": 200.52,
       "delta_pct": -100
     },
     "impressions": {
       "current": 0,
-      "previous": 14552,
+      "previous": 12742,
       "delta_pct": -100
     },
     "reach": {
       "current": 0,
-      "previous": 8724,
+      "previous": 7679,
       "delta_pct": -100
     },
     "clicks": {
       "current": 0,
-      "previous": 298,
+      "previous": 249,
       "delta_pct": -100
     },
     "ctr": {
       "current": null,
-      "previous": 2.05,
+      "previous": 1.95,
       "delta_pct": null
     },
     "cpc": {
       "current": 0,
-      "previous": 0.79,
+      "previous": 0.81,
       "delta_pct": -100
     },
     "thruplay": {
       "current": 0,
-      "previous": 423,
+      "previous": 363,
       "delta_pct": -100
     },
     "frequency": {
       "current": 0,
-      "previous": 1.67,
+      "previous": 1.66,
       "delta_pct": -100
     }
   },
@@ -71,7 +71,7 @@
       },
       "cost": {
         "current": null,
-        "previous": 23.55,
+        "previous": 20.05,
         "delta_pct": null
       },
       "top_creative": null

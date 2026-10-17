@@ -4,79 +4,79 @@
     "account_name": "BIOMA Casa Fio",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-16T12:59:59.007Z",
+    "generated_at": "2026-10-17T11:57:33.181Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-09",
-      "until": "2026-10-15",
-      "label_pt": "9 out a 15 out"
+      "since": "2026-10-10",
+      "until": "2026-10-16",
+      "label_pt": "10 out a 16 out"
     },
     "previous": {
-      "since": "2026-10-02",
-      "until": "2026-10-08"
+      "since": "2026-10-03",
+      "until": "2026-10-09"
     }
   },
   "totals": {
     "spend": {
-      "current": 496.77,
-      "previous": 470.58,
-      "delta_pct": 6
+      "current": 511.61,
+      "previous": 471.91,
+      "delta_pct": 8
     },
     "impressions": {
-      "current": 32306,
-      "previous": 25195,
-      "delta_pct": 28
+      "current": 35688,
+      "previous": 25665,
+      "delta_pct": 39
     },
     "reach": {
-      "current": 16389,
-      "previous": 13884,
-      "delta_pct": 18
+      "current": 17157,
+      "previous": 14978,
+      "delta_pct": 15
     },
     "clicks": {
-      "current": 939,
-      "previous": 914,
-      "delta_pct": 3
+      "current": 963,
+      "previous": 954,
+      "delta_pct": 1
     },
     "ctr": {
-      "current": 2.91,
-      "previous": 3.63,
-      "delta_pct": -20
+      "current": 2.7,
+      "previous": 3.72,
+      "delta_pct": -27
     },
     "cpc": {
       "current": 0.53,
-      "previous": 0.51,
-      "delta_pct": 4
+      "previous": 0.49,
+      "delta_pct": 8
     },
     "thruplay": {
-      "current": 3748,
-      "previous": 3261,
+      "current": 3770,
+      "previous": 3271,
       "delta_pct": 15
     },
     "frequency": {
-      "current": 1.97,
-      "previous": 1.81,
-      "delta_pct": 9
+      "current": 2.08,
+      "previous": 1.71,
+      "delta_pct": 22
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 36,
-        "previous": 38,
-        "delta_pct": -5
+        "current": 41,
+        "previous": 35,
+        "delta_pct": 17
       },
       "cost": {
-        "current": 13.8,
-        "previous": 12.38,
-        "delta_pct": 11
+        "current": 12.48,
+        "previous": 13.48,
+        "delta_pct": -7
       },
       "top_creative": {
         "name": "Terra fértil — Cópia",
-        "value": 26
+        "value": 27
       }
     },
     "instagram_visits": {
@@ -98,113 +98,113 @@
   "top_creatives": [
     {
       "name": "Voce faz escova",
-      "impressions": 9909,
-      "reach": 8493,
-      "clicks": 186,
+      "impressions": 12921,
+      "reach": 11121,
+      "clicks": 228,
       "messages": 0,
-      "ctr": 1.88,
-      "thruplay": 6
+      "ctr": 1.76,
+      "thruplay": 12
     },
     {
       "name": "Nutrição também",
-      "impressions": 9340,
-      "reach": 6973,
-      "clicks": 397,
+      "impressions": 9180,
+      "reach": 7129,
+      "clicks": 357,
       "messages": 0,
-      "ctr": 4.25,
-      "thruplay": 385
+      "ctr": 3.89,
+      "thruplay": 380
     },
     {
       "name": "Terra fértil — Cópia",
-      "impressions": 5747,
-      "reach": 3788,
-      "clicks": 197,
-      "messages": 26,
-      "ctr": 3.43,
-      "thruplay": 442
+      "impressions": 5963,
+      "reach": 3997,
+      "clicks": 207,
+      "messages": 27,
+      "ctr": 3.47,
+      "thruplay": 467
     },
     {
       "name": "Todo cuidado",
-      "impressions": 3140,
-      "reach": 1763,
-      "clicks": 16,
+      "impressions": 3125,
+      "reach": 1778,
+      "clicks": 15,
       "messages": 0,
-      "ctr": 0.51,
-      "thruplay": 2657
+      "ctr": 0.48,
+      "thruplay": 2618
     },
     {
       "name": "Se você mora em Salvador",
-      "impressions": 2152,
-      "reach": 1971,
-      "clicks": 81,
+      "impressions": 2339,
+      "reach": 2104,
+      "clicks": 85,
       "messages": 0,
-      "ctr": 3.76,
-      "thruplay": 78
+      "ctr": 3.63,
+      "thruplay": 82
     },
     {
       "name": "Lavar o cabelo",
-      "impressions": 622,
-      "reach": 411,
-      "clicks": 20,
-      "messages": 1,
-      "ctr": 3.22,
-      "thruplay": 83
+      "impressions": 718,
+      "reach": 444,
+      "clicks": 26,
+      "messages": 2,
+      "ctr": 3.62,
+      "thruplay": 97
     },
     {
       "name": "Terra fértil",
-      "impressions": 536,
-      "reach": 446,
-      "clicks": 14,
+      "impressions": 468,
+      "reach": 385,
+      "clicks": 13,
       "messages": 5,
-      "ctr": 2.61,
-      "thruplay": 32
+      "ctr": 2.78,
+      "thruplay": 28
     },
     {
       "name": "Equilibrio",
-      "impressions": 414,
-      "reach": 267,
-      "clicks": 16,
-      "messages": 3,
-      "ctr": 3.86,
-      "thruplay": 37
+      "impressions": 457,
+      "reach": 293,
+      "clicks": 19,
+      "messages": 6,
+      "ctr": 4.16,
+      "thruplay": 41
     },
     {
       "name": "Pacote Escova",
-      "impressions": 238,
-      "reach": 148,
-      "clicks": 8,
+      "impressions": 303,
+      "reach": 164,
+      "clicks": 9,
       "messages": 1,
-      "ctr": 3.36,
+      "ctr": 2.97,
       "thruplay": 2
     },
     {
       "name": "Scalp Therapy",
-      "impressions": 64,
-      "reach": 45,
+      "impressions": 70,
+      "reach": 48,
       "clicks": 1,
       "messages": 0,
-      "ctr": 1.56,
+      "ctr": 1.43,
       "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 56,
-      "male_pct": 40,
-      "unknown_pct": 4
+      "female_pct": 58,
+      "male_pct": 37,
+      "unknown_pct": 5
     },
     "age": {
       "18-24": 0,
-      "25-34": 7,
-      "35-44": 10,
+      "25-34": 6,
+      "35-44": 9,
       "45-54": 14,
-      "55-64": 22,
-      "65+": 27
+      "55-64": 21,
+      "65+": 25
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 12.04,
+    "balance_brl": 7.07,
     "balance_low": false,
     "account_disabled": false
   },
