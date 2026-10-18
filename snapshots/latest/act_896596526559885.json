@@ -4,62 +4,62 @@
     "account_name": "VIRGO Cases",
     "segment": "TECH",
     "template": "VIRGO",
-    "generated_at": "2026-10-17T11:59:14.630Z",
+    "generated_at": "2026-10-18T12:27:51.706Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-10",
-      "until": "2026-10-16",
-      "label_pt": "10 out a 16 out"
+      "since": "2026-10-11",
+      "until": "2026-10-17",
+      "label_pt": "11 out a 17 out"
     },
     "previous": {
-      "since": "2026-10-03",
-      "until": "2026-10-09"
+      "since": "2026-10-04",
+      "until": "2026-10-10"
     }
   },
   "totals": {
     "spend": {
-      "current": 590.22,
-      "previous": 254.44,
-      "delta_pct": 132
+      "current": 522.31,
+      "previous": 382.44,
+      "delta_pct": 37
     },
     "impressions": {
-      "current": 90653,
-      "previous": 30184,
-      "delta_pct": 200
+      "current": 82189,
+      "previous": 48456,
+      "delta_pct": 70
     },
     "reach": {
-      "current": 38998,
-      "previous": 22704,
-      "delta_pct": 72
+      "current": 34608,
+      "previous": 32063,
+      "delta_pct": 8
     },
     "clicks": {
-      "current": 6939,
-      "previous": 1791,
-      "delta_pct": 287
+      "current": 6385,
+      "previous": 3121,
+      "delta_pct": 105
     },
     "ctr": {
-      "current": 7.65,
-      "previous": 5.93,
-      "delta_pct": 29
+      "current": 7.77,
+      "previous": 6.44,
+      "delta_pct": 21
     },
     "cpc": {
-      "current": 0.09,
-      "previous": 0.14,
-      "delta_pct": -36
+      "current": 0.08,
+      "previous": 0.12,
+      "delta_pct": -33
     },
     "thruplay": {
-      "current": 958,
-      "previous": 453,
-      "delta_pct": 111
+      "current": 834,
+      "previous": 658,
+      "delta_pct": 27
     },
     "frequency": {
-      "current": 2.32,
-      "previous": 1.33,
-      "delta_pct": 74
+      "current": 2.37,
+      "previous": 1.51,
+      "delta_pct": 57
     }
   },
   "conversions": {
@@ -70,9 +70,9 @@
         "delta_pct": 100
       },
       "cost": {
-        "current": 295.11,
-        "previous": 254.44,
-        "delta_pct": 16
+        "current": 261.15,
+        "previous": 382.44,
+        "delta_pct": -32
       },
       "top_creative": {
         "name": "6",
@@ -118,62 +118,62 @@
   "top_creatives": [
     {
       "name": "6",
-      "impressions": 44151,
-      "reach": 15494,
-      "clicks": 3270,
+      "impressions": 41539,
+      "reach": 14213,
+      "clicks": 3132,
       "messages": 1,
-      "ctr": 7.41,
-      "thruplay": 319
+      "ctr": 7.54,
+      "thruplay": 264
     },
     {
       "name": "Depois de alguns dias",
-      "impressions": 28679,
-      "reach": 15835,
-      "clicks": 2473,
+      "impressions": 21931,
+      "reach": 12547,
+      "clicks": 1937,
       "messages": 0,
-      "ctr": 8.62,
-      "thruplay": 7
-    },
-    {
-      "name": "3",
-      "impressions": 7651,
-      "reach": 2997,
-      "clicks": 584,
-      "messages": 0,
-      "ctr": 7.63,
-      "thruplay": 58
-    },
-    {
-      "name": "A forma",
-      "impressions": 6513,
-      "reach": 4904,
-      "clicks": 318,
-      "messages": 1,
-      "ctr": 4.88,
-      "thruplay": 572
+      "ctr": 8.83,
+      "thruplay": 5
     },
     {
       "name": "Coleção merece",
-      "impressions": 2511,
-      "reach": 2106,
-      "clicks": 215,
+      "impressions": 6467,
+      "reach": 4803,
+      "clicks": 532,
       "messages": 0,
-      "ctr": 8.56,
+      "ctr": 8.23,
       "thruplay": 0
     },
     {
+      "name": "A forma",
+      "impressions": 5856,
+      "reach": 4592,
+      "clicks": 300,
+      "messages": 1,
+      "ctr": 5.12,
+      "thruplay": 535
+    },
+    {
+      "name": "3",
+      "impressions": 5243,
+      "reach": 2137,
+      "clicks": 405,
+      "messages": 0,
+      "ctr": 7.72,
+      "thruplay": 28
+    },
+    {
       "name": "10",
-      "impressions": 1137,
-      "reach": 759,
+      "impressions": 1140,
+      "reach": 763,
       "clicks": 79,
       "messages": 0,
-      "ctr": 6.95,
+      "ctr": 6.93,
       "thruplay": 2
     },
     {
       "name": "Cada segundo conta",
-      "impressions": 10,
-      "reach": 9,
+      "impressions": 12,
+      "reach": 10,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
@@ -191,8 +191,8 @@
   ],
   "demographics": {
     "gender": {
-      "female_pct": 52,
-      "male_pct": 48,
+      "female_pct": 51,
+      "male_pct": 49,
       "unknown_pct": 0
     },
     "age": {
@@ -200,17 +200,15 @@
       "25-34": 36,
       "35-44": 38,
       "45-54": 18,
-      "55-64": 6,
+      "55-64": 5,
       "65+": 2
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 386.38,
+    "balance_brl": 449.85,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": [
-    "spend_delta_over_50"
-  ]
+  "auto_flags": []
 }

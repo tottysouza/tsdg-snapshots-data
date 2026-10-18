@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "account_id": "act_166071522",
+    "account_name": "BIOMA Valéria Alleoni",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-18T12:27:40.926Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-11",
+      "until": "2026-10-17",
+      "label_pt": "11 out a 17 out"
+    },
+    "previous": {
+      "since": "2026-10-04",
+      "until": "2026-10-10"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 954.62,
+      "previous": 930.77,
+      "delta_pct": 3
+    },
+    "impressions": {
+      "current": 131860,
+      "previous": 143651,
+      "delta_pct": -8
+    },
+    "reach": {
+      "current": 56962,
+      "previous": 63471,
+      "delta_pct": -10
+    },
+    "clicks": {
+      "current": 2665,
+      "previous": 2836,
+      "delta_pct": -6
+    },
+    "ctr": {
+      "current": 2.02,
+      "previous": 1.97,
+      "delta_pct": 3
+    },
+    "cpc": {
+      "current": 0.36,
+      "previous": 0.33,
+      "delta_pct": 9
+    },
+    "thruplay": {
+      "current": 10719,
+      "previous": 9691,
+      "delta_pct": 11
+    },
+    "frequency": {
+      "current": 2.31,
+      "previous": 2.26,
+      "delta_pct": 2
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 33,
+        "previous": 44,
+        "delta_pct": -25
+      },
+      "cost": {
+        "current": 28.93,
+        "previous": 21.15,
+        "delta_pct": 37
+      },
+      "top_creative": {
+        "name": "O Meu Corte Saudável",
+        "value": 17
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Moreno iluminado",
+      "impressions": 61442,
+      "reach": 33153,
+      "clicks": 1488,
+      "messages": 1,
+      "ctr": 2.42,
+      "thruplay": 1299
+    },
+    {
+      "name": "O Meu Corte Saudável",
+      "impressions": 20692,
+      "reach": 16720,
+      "clicks": 298,
+      "messages": 17,
+      "ctr": 1.44,
+      "thruplay": 1354
+    },
+    {
+      "name": "Moreno iluminado",
+      "impressions": 16186,
+      "reach": 13041,
+      "clicks": 168,
+      "messages": 11,
+      "ctr": 1.04,
+      "thruplay": 988
+    },
+    {
+      "name": "Quase 50 anos",
+      "impressions": 12070,
+      "reach": 9404,
+      "clicks": 316,
+      "messages": 1,
+      "ctr": 2.62,
+      "thruplay": 4626
+    },
+    {
+      "name": "De Paris ao Rio",
+      "impressions": 8328,
+      "reach": 7362,
+      "clicks": 134,
+      "messages": 0,
+      "ctr": 1.61,
+      "thruplay": 1387
+    },
+    {
+      "name": "Ontem",
+      "impressions": 5726,
+      "reach": 4927,
+      "clicks": 163,
+      "messages": 0,
+      "ctr": 2.85,
+      "thruplay": 930
+    },
+    {
+      "name": "Detox day",
+      "impressions": 3737,
+      "reach": 3100,
+      "clicks": 31,
+      "messages": 3,
+      "ctr": 0.83,
+      "thruplay": 118
+    },
+    {
+      "name": "Outubro",
+      "impressions": 3569,
+      "reach": 2442,
+      "clicks": 66,
+      "messages": 0,
+      "ctr": 1.85,
+      "thruplay": 10
+    },
+    {
+      "name": "De Paris ao Rio",
+      "impressions": 110,
+      "reach": 100,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 0.91,
+      "thruplay": 7
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 71,
+      "male_pct": 22,
+      "unknown_pct": 7
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 8,
+      "35-44": 10,
+      "45-54": 14,
+      "55-64": 22,
+      "65+": 27
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 401.68,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

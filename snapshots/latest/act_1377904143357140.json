@@ -4,62 +4,62 @@
     "account_name": "LACES Origens",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-17T11:58:39.988Z",
+    "generated_at": "2026-10-18T12:27:02.860Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-10",
-      "until": "2026-10-16",
-      "label_pt": "10 out a 16 out"
+      "since": "2026-10-11",
+      "until": "2026-10-17",
+      "label_pt": "11 out a 17 out"
     },
     "previous": {
-      "since": "2026-10-03",
-      "until": "2026-10-09"
+      "since": "2026-10-04",
+      "until": "2026-10-10"
     }
   },
   "totals": {
     "spend": {
-      "current": 245.81,
-      "previous": 236.85,
-      "delta_pct": 4
+      "current": 244.27,
+      "previous": 243.64,
+      "delta_pct": 0
     },
     "impressions": {
-      "current": 26697,
-      "previous": 32259,
-      "delta_pct": -17
+      "current": 26621,
+      "previous": 32668,
+      "delta_pct": -19
     },
     "reach": {
-      "current": 18998,
-      "previous": 23666,
+      "current": 19048,
+      "previous": 23855,
       "delta_pct": -20
     },
     "clicks": {
-      "current": 624,
-      "previous": 641,
-      "delta_pct": -3
+      "current": 682,
+      "previous": 599,
+      "delta_pct": 14
     },
     "ctr": {
-      "current": 2.34,
-      "previous": 1.99,
-      "delta_pct": 18
+      "current": 2.56,
+      "previous": 1.83,
+      "delta_pct": 40
     },
     "cpc": {
-      "current": 0.39,
-      "previous": 0.37,
-      "delta_pct": 5
+      "current": 0.36,
+      "previous": 0.41,
+      "delta_pct": -12
     },
     "thruplay": {
-      "current": 4607,
-      "previous": 3898,
-      "delta_pct": 18
+      "current": 4596,
+      "previous": 3990,
+      "delta_pct": 15
     },
     "frequency": {
-      "current": 1.41,
-      "previous": 1.36,
-      "delta_pct": 4
+      "current": 1.4,
+      "previous": 1.37,
+      "delta_pct": 2
     }
   },
   "conversions": {
@@ -70,7 +70,7 @@
         "delta_pct": null
       },
       "cost": {
-        "current": 245.81,
+        "current": 244.27,
         "previous": null,
         "delta_pct": null
       },
@@ -98,66 +98,57 @@
   "top_creatives": [
     {
       "name": "Contei para vocês",
-      "impressions": 12188,
-      "reach": 8354,
-      "clicks": 451,
+      "impressions": 11428,
+      "reach": 7950,
+      "clicks": 421,
       "messages": 1,
-      "ctr": 3.7,
-      "thruplay": 603
+      "ctr": 3.68,
+      "thruplay": 559
     },
     {
       "name": "Há rituais",
-      "impressions": 7655,
-      "reach": 6038,
-      "clicks": 46,
+      "impressions": 7202,
+      "reach": 5674,
+      "clicks": 43,
       "messages": 0,
       "ctr": 0.6,
-      "thruplay": 2639
+      "thruplay": 2457
     },
     {
       "name": "Multiprime",
-      "impressions": 4062,
-      "reach": 3427,
-      "clicks": 35,
+      "impressions": 4372,
+      "reach": 3665,
+      "clicks": 36,
       "messages": 0,
-      "ctr": 0.86,
-      "thruplay": 1196
-    },
-    {
-      "name": "Nesta quinta",
-      "impressions": 1057,
-      "reach": 1013,
-      "clicks": 18,
-      "messages": 0,
-      "ctr": 1.7,
-      "thruplay": 0
+      "ctr": 0.82,
+      "thruplay": 1288
     },
     {
       "name": "Terapias capilares",
-      "impressions": 840,
-      "reach": 716,
-      "clicks": 70,
+      "impressions": 2125,
+      "reach": 1630,
+      "clicks": 169,
       "messages": 0,
-      "ctr": 8.33,
+      "ctr": 7.95,
       "thruplay": 1
     },
     {
       "name": "Massagens",
-      "impressions": 818,
-      "reach": 786,
-      "clicks": 4,
+      "impressions": 1339,
+      "reach": 1269,
+      "clicks": 8,
       "messages": 0,
-      "ctr": 0.49,
-      "thruplay": 152
+      "ctr": 0.6,
+      "thruplay": 284
     },
     {
       "name": "Nesta quinta",
-      "impressions": 53,
-      "reach": 52,
-      "clicks": 0,
+      "impressions": 116,
+      "reach": 115,
+      "clicks": 5,
       "messages": 0,
-      "ctr": 0,
-      "thruplay": 13
+      "ctr": 4.31,
+      "thruplay": 0
     },
     {
       "name": "Multiprime",
@@ -167,12 +158,21 @@
       "messages": 0,
       "ctr": 0,
       "thruplay": 3
+    },
+    {
+      "name": "Nesta quinta",
+      "impressions": 15,
+      "reach": 15,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 4
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 87,
-      "male_pct": 13,
+      "female_pct": 81,
+      "male_pct": 19,
       "unknown_pct": 0
     },
     "age": {
@@ -181,12 +181,12 @@
       "35-44": 14,
       "45-54": 13,
       "55-64": 16,
-      "65+": 26
+      "65+": 25
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 179.28,
+    "balance_brl": 213.89,
     "balance_low": false,
     "account_disabled": false
   },

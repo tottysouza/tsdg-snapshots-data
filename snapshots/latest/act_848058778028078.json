@@ -4,79 +4,79 @@
     "account_name": "BIOMA Casa Fio",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-17T11:57:33.181Z",
+    "generated_at": "2026-10-18T12:25:47.011Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-10",
-      "until": "2026-10-16",
-      "label_pt": "10 out a 16 out"
+      "since": "2026-10-11",
+      "until": "2026-10-17",
+      "label_pt": "11 out a 17 out"
     },
     "previous": {
-      "since": "2026-10-03",
-      "until": "2026-10-09"
+      "since": "2026-10-04",
+      "until": "2026-10-10"
     }
   },
   "totals": {
     "spend": {
-      "current": 511.61,
-      "previous": 471.91,
-      "delta_pct": 8
+      "current": 514.43,
+      "previous": 474.1,
+      "delta_pct": 9
     },
     "impressions": {
-      "current": 35688,
-      "previous": 25665,
+      "current": 35644,
+      "previous": 25713,
       "delta_pct": 39
     },
     "reach": {
-      "current": 17157,
-      "previous": 14978,
-      "delta_pct": 15
+      "current": 16906,
+      "previous": 15291,
+      "delta_pct": 11
     },
     "clicks": {
-      "current": 963,
-      "previous": 954,
-      "delta_pct": 1
+      "current": 966,
+      "previous": 935,
+      "delta_pct": 3
     },
     "ctr": {
-      "current": 2.7,
-      "previous": 3.72,
-      "delta_pct": -27
+      "current": 2.71,
+      "previous": 3.64,
+      "delta_pct": -26
     },
     "cpc": {
       "current": 0.53,
-      "previous": 0.49,
-      "delta_pct": 8
+      "previous": 0.51,
+      "delta_pct": 4
     },
     "thruplay": {
-      "current": 3770,
-      "previous": 3271,
+      "current": 3792,
+      "previous": 3303,
       "delta_pct": 15
     },
     "frequency": {
-      "current": 2.08,
-      "previous": 1.71,
-      "delta_pct": 22
+      "current": 2.11,
+      "previous": 1.68,
+      "delta_pct": 26
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 41,
-        "previous": 35,
-        "delta_pct": 17
+        "current": 37,
+        "previous": 36,
+        "delta_pct": 3
       },
       "cost": {
-        "current": 12.48,
-        "previous": 13.48,
-        "delta_pct": -7
+        "current": 13.9,
+        "previous": 13.17,
+        "delta_pct": 6
       },
       "top_creative": {
         "name": "Terra fértil — Cópia",
-        "value": 27
+        "value": 24
       }
     },
     "instagram_visits": {
@@ -98,7 +98,7 @@
   "top_creatives": [
     {
       "name": "Voce faz escova",
-      "impressions": 12921,
+      "impressions": 12924,
       "reach": 11121,
       "clicks": 228,
       "messages": 0,
@@ -107,104 +107,104 @@
     },
     {
       "name": "Nutrição também",
-      "impressions": 9180,
-      "reach": 7129,
-      "clicks": 357,
+      "impressions": 8400,
+      "reach": 6710,
+      "clicks": 330,
       "messages": 0,
-      "ctr": 3.89,
-      "thruplay": 380
+      "ctr": 3.93,
+      "thruplay": 320
     },
     {
       "name": "Terra fértil — Cópia",
-      "impressions": 5963,
-      "reach": 3997,
-      "clicks": 207,
-      "messages": 27,
-      "ctr": 3.47,
-      "thruplay": 467
+      "impressions": 6094,
+      "reach": 4131,
+      "clicks": 214,
+      "messages": 24,
+      "ctr": 3.51,
+      "thruplay": 486
     },
     {
       "name": "Todo cuidado",
-      "impressions": 3125,
-      "reach": 1778,
-      "clicks": 15,
+      "impressions": 3168,
+      "reach": 1826,
+      "clicks": 16,
       "messages": 0,
-      "ctr": 0.48,
-      "thruplay": 2618
+      "ctr": 0.51,
+      "thruplay": 2627
     },
     {
       "name": "Se você mora em Salvador",
-      "impressions": 2339,
-      "reach": 2104,
-      "clicks": 85,
+      "impressions": 2737,
+      "reach": 2450,
+      "clicks": 102,
       "messages": 0,
-      "ctr": 3.63,
-      "thruplay": 82
-    },
-    {
-      "name": "Lavar o cabelo",
-      "impressions": 718,
-      "reach": 444,
-      "clicks": 26,
-      "messages": 2,
-      "ctr": 3.62,
+      "ctr": 3.73,
       "thruplay": 97
     },
     {
+      "name": "Lavar o cabelo",
+      "impressions": 817,
+      "reach": 498,
+      "clicks": 28,
+      "messages": 3,
+      "ctr": 3.43,
+      "thruplay": 111
+    },
+    {
       "name": "Terra fértil",
-      "impressions": 468,
-      "reach": 385,
-      "clicks": 13,
-      "messages": 5,
-      "ctr": 2.78,
-      "thruplay": 28
+      "impressions": 452,
+      "reach": 374,
+      "clicks": 14,
+      "messages": 3,
+      "ctr": 3.1,
+      "thruplay": 30
     },
     {
       "name": "Equilibrio",
-      "impressions": 457,
-      "reach": 293,
-      "clicks": 19,
+      "impressions": 429,
+      "reach": 284,
+      "clicks": 20,
       "messages": 6,
-      "ctr": 4.16,
-      "thruplay": 41
+      "ctr": 4.66,
+      "thruplay": 40
     },
     {
       "name": "Pacote Escova",
-      "impressions": 303,
-      "reach": 164,
-      "clicks": 9,
+      "impressions": 370,
+      "reach": 183,
+      "clicks": 10,
       "messages": 1,
-      "ctr": 2.97,
+      "ctr": 2.7,
       "thruplay": 2
     },
     {
       "name": "Scalp Therapy",
-      "impressions": 70,
-      "reach": 48,
+      "impressions": 73,
+      "reach": 50,
       "clicks": 1,
       "messages": 0,
-      "ctr": 1.43,
+      "ctr": 1.37,
       "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 58,
-      "male_pct": 37,
+      "female_pct": 60,
+      "male_pct": 35,
       "unknown_pct": 5
     },
     "age": {
       "18-24": 0,
-      "25-34": 6,
+      "25-34": 7,
       "35-44": 9,
       "45-54": 14,
-      "55-64": 21,
-      "65+": 25
+      "55-64": 20,
+      "65+": 24
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 7.07,
+    "balance_brl": 13.86,
     "balance_low": false,
     "account_disabled": false
   },

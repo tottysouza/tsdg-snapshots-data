@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_1761413471046706",
+    "account_name": "BIOMA Uberaba",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-18T12:26:08.493Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-11",
+      "until": "2026-10-17",
+      "label_pt": "11 out a 17 out"
+    },
+    "previous": {
+      "since": "2026-10-04",
+      "until": "2026-10-10"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 921.19,
+      "previous": 949.87,
+      "delta_pct": -3
+    },
+    "impressions": {
+      "current": 82484,
+      "previous": 88885,
+      "delta_pct": -7
+    },
+    "reach": {
+      "current": 53414,
+      "previous": 55478,
+      "delta_pct": -4
+    },
+    "clicks": {
+      "current": 1014,
+      "previous": 997,
+      "delta_pct": 2
+    },
+    "ctr": {
+      "current": 1.23,
+      "previous": 1.12,
+      "delta_pct": 10
+    },
+    "cpc": {
+      "current": 0.91,
+      "previous": 0.95,
+      "delta_pct": -4
+    },
+    "thruplay": {
+      "current": 18748,
+      "previous": 19789,
+      "delta_pct": -5
+    },
+    "frequency": {
+      "current": 1.54,
+      "previous": 1.6,
+      "delta_pct": -4
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 73,
+        "previous": 68,
+        "delta_pct": 7
+      },
+      "cost": {
+        "current": 12.62,
+        "previous": 13.97,
+        "delta_pct": -10
+      },
+      "top_creative": {
+        "name": "Rozana",
+        "value": 19
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Tem cuidados",
+      "impressions": 33461,
+      "reach": 28661,
+      "clicks": 25,
+      "messages": 0,
+      "ctr": 0.07,
+      "thruplay": 13882
+    },
+    {
+      "name": "Rozana",
+      "impressions": 7159,
+      "reach": 4658,
+      "clicks": 145,
+      "messages": 19,
+      "ctr": 2.03,
+      "thruplay": 738
+    },
+    {
+      "name": "Monalisa",
+      "impressions": 6663,
+      "reach": 5532,
+      "clicks": 292,
+      "messages": 1,
+      "ctr": 4.38,
+      "thruplay": 302
+    },
+    {
+      "name": "Tem cuidados — Cópia",
+      "impressions": 5368,
+      "reach": 4787,
+      "clicks": 3,
+      "messages": 0,
+      "ctr": 0.06,
+      "thruplay": 2110
+    },
+    {
+      "name": "MelPlus",
+      "impressions": 5209,
+      "reach": 3447,
+      "clicks": 80,
+      "messages": 12,
+      "ctr": 1.54,
+      "thruplay": 363
+    },
+    {
+      "name": "Autoconhecimento",
+      "impressions": 4525,
+      "reach": 3750,
+      "clicks": 127,
+      "messages": 0,
+      "ctr": 2.81,
+      "thruplay": 190
+    },
+    {
+      "name": "Livre, leve e solto",
+      "impressions": 3805,
+      "reach": 2680,
+      "clicks": 40,
+      "messages": 4,
+      "ctr": 1.05,
+      "thruplay": 154
+    },
+    {
+      "name": "Você sabia que em Uberaba",
+      "impressions": 3488,
+      "reach": 2310,
+      "clicks": 43,
+      "messages": 7,
+      "ctr": 1.23,
+      "thruplay": 324
+    },
+    {
+      "name": "Mais comprimento",
+      "impressions": 3299,
+      "reach": 2359,
+      "clicks": 45,
+      "messages": 3,
+      "ctr": 1.36,
+      "thruplay": 0
+    },
+    {
+      "name": "Seja bem-vindo",
+      "impressions": 2516,
+      "reach": 2231,
+      "clicks": 86,
+      "messages": 0,
+      "ctr": 3.42,
+      "thruplay": 148
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 66,
+      "male_pct": 32,
+      "unknown_pct": 2
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 27,
+      "35-44": 23,
+      "45-54": 20,
+      "55-64": 15,
+      "65+": 11
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 77.27,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

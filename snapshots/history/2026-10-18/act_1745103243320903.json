@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "account_id": "act_1745103243320903",
+    "account_name": "BIOMA Casa 631",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-18T12:25:59.058Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-11",
+      "until": "2026-10-17",
+      "label_pt": "11 out a 17 out"
+    },
+    "previous": {
+      "since": "2026-10-04",
+      "until": "2026-10-10"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 106.38,
+      "previous": 391.28,
+      "delta_pct": -73
+    },
+    "impressions": {
+      "current": 7644,
+      "previous": 30924,
+      "delta_pct": -75
+    },
+    "reach": {
+      "current": 5707,
+      "previous": 15546,
+      "delta_pct": -63
+    },
+    "clicks": {
+      "current": 362,
+      "previous": 1296,
+      "delta_pct": -72
+    },
+    "ctr": {
+      "current": 4.74,
+      "previous": 4.19,
+      "delta_pct": 13
+    },
+    "cpc": {
+      "current": 0.29,
+      "previous": 0.3,
+      "delta_pct": -3
+    },
+    "thruplay": {
+      "current": 694,
+      "previous": 2511,
+      "delta_pct": -72
+    },
+    "frequency": {
+      "current": 1.34,
+      "previous": 1.99,
+      "delta_pct": -33
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 5,
+        "previous": 14,
+        "delta_pct": -64
+      },
+      "cost": {
+        "current": 21.28,
+        "previous": 27.95,
+        "delta_pct": -24
+      },
+      "top_creative": {
+        "name": "Cuidado",
+        "value": 4
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Seu cabelo",
+      "impressions": 2868,
+      "reach": 2330,
+      "clicks": 296,
+      "messages": 0,
+      "ctr": 10.32,
+      "thruplay": 0
+    },
+    {
+      "name": "Cuidado",
+      "impressions": 2088,
+      "reach": 1580,
+      "clicks": 29,
+      "messages": 4,
+      "ctr": 1.39,
+      "thruplay": 140
+    },
+    {
+      "name": "Seu cabelo",
+      "impressions": 1282,
+      "reach": 849,
+      "clicks": 16,
+      "messages": 1,
+      "ctr": 1.25,
+      "thruplay": 11
+    },
+    {
+      "name": "Alguns lugares — Cópia",
+      "impressions": 1260,
+      "reach": 1143,
+      "clicks": 11,
+      "messages": 0,
+      "ctr": 0.87,
+      "thruplay": 541
+    },
+    {
+      "name": "Um novo conceito",
+      "impressions": 143,
+      "reach": 138,
+      "clicks": 10,
+      "messages": 0,
+      "ctr": 6.99,
+      "thruplay": 0
+    },
+    {
+      "name": "Comunidade",
+      "impressions": 3,
+      "reach": 3,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 2
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 44,
+      "male_pct": 56,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 39,
+      "35-44": 24,
+      "45-54": 17,
+      "55-64": 12,
+      "65+": 9
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 132.89,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50"
+  ]
+}

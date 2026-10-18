@@ -4,79 +4,79 @@
     "account_name": "Espaçolaser Bragança",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-10-17T11:59:09.427Z",
+    "generated_at": "2026-10-18T12:27:47.806Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-10",
-      "until": "2026-10-16",
-      "label_pt": "10 out a 16 out"
+      "since": "2026-10-11",
+      "until": "2026-10-17",
+      "label_pt": "11 out a 17 out"
     },
     "previous": {
-      "since": "2026-10-03",
-      "until": "2026-10-09"
+      "since": "2026-10-04",
+      "until": "2026-10-10"
     }
   },
   "totals": {
     "spend": {
-      "current": 411.48,
-      "previous": 366.42,
-      "delta_pct": 12
+      "current": 414.36,
+      "previous": 390.35,
+      "delta_pct": 6
     },
     "impressions": {
-      "current": 29317,
-      "previous": 35969,
-      "delta_pct": -18
+      "current": 29885,
+      "previous": 36202,
+      "delta_pct": -17
     },
     "reach": {
-      "current": 17233,
-      "previous": 20416,
-      "delta_pct": -16
+      "current": 16872,
+      "previous": 21121,
+      "delta_pct": -20
     },
     "clicks": {
-      "current": 434,
-      "previous": 445,
+      "current": 438,
+      "previous": 446,
       "delta_pct": -2
     },
     "ctr": {
-      "current": 1.48,
-      "previous": 1.24,
-      "delta_pct": 19
+      "current": 1.47,
+      "previous": 1.23,
+      "delta_pct": 20
     },
     "cpc": {
       "current": 0.95,
-      "previous": 0.82,
-      "delta_pct": 16
+      "previous": 0.88,
+      "delta_pct": 8
     },
     "thruplay": {
-      "current": 2601,
-      "previous": 2568,
-      "delta_pct": 1
+      "current": 2649,
+      "previous": 2575,
+      "delta_pct": 3
     },
     "frequency": {
-      "current": 1.7,
-      "previous": 1.76,
-      "delta_pct": -3
+      "current": 1.77,
+      "previous": 1.71,
+      "delta_pct": 4
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 12,
-        "previous": 15,
-        "delta_pct": -20
+        "current": 13,
+        "previous": 16,
+        "delta_pct": -19
       },
       "cost": {
-        "current": 34.29,
-        "previous": 24.43,
-        "delta_pct": 40
+        "current": 31.87,
+        "previous": 24.4,
+        "delta_pct": 31
       },
       "top_creative": {
         "name": "[80%] Unidade — Cópia — Cópia",
-        "value": 7
+        "value": 6
       }
     },
     "instagram_visits": {
@@ -98,48 +98,66 @@
   "top_creatives": [
     {
       "name": "[80%] Carol Leite",
-      "impressions": 5973,
-      "reach": 4833,
-      "clicks": 196,
+      "impressions": 5610,
+      "reach": 4454,
+      "clicks": 177,
       "messages": 0,
-      "ctr": 3.28,
-      "thruplay": 173
+      "ctr": 3.16,
+      "thruplay": 162
     },
     {
       "name": "[80%] Unidade — Cópia — Cópia",
-      "impressions": 5743,
-      "reach": 3321,
-      "clicks": 43,
-      "messages": 7,
-      "ctr": 0.75,
-      "thruplay": 91
-    },
-    {
-      "name": "[80%] Unidade — Cópia — Cópia",
-      "impressions": 3286,
-      "reach": 2755,
-      "clicks": 23,
-      "messages": 0,
-      "ctr": 0.7,
-      "thruplay": 58
+      "impressions": 4657,
+      "reach": 2824,
+      "clicks": 31,
+      "messages": 6,
+      "ctr": 0.67,
+      "thruplay": 79
     },
     {
       "name": "[80%] Unidade - Parcelinha",
-      "impressions": 2465,
-      "reach": 1562,
+      "impressions": 3483,
+      "reach": 2084,
+      "clicks": 28,
+      "messages": 4,
+      "ctr": 0.8,
+      "thruplay": 79
+    },
+    {
+      "name": "[80%] Unidade — Parcelinha",
+      "impressions": 2818,
+      "reach": 1787,
       "clicks": 22,
-      "messages": 2,
-      "ctr": 0.89,
-      "thruplay": 58
+      "messages": 0,
+      "ctr": 0.78,
+      "thruplay": 93
     },
     {
       "name": "[80%] Especialista planejamento — Cópia",
-      "impressions": 2120,
-      "reach": 1957,
-      "clicks": 13,
+      "impressions": 2141,
+      "reach": 1977,
+      "clicks": 11,
       "messages": 0,
-      "ctr": 0.61,
-      "thruplay": 1558
+      "ctr": 0.51,
+      "thruplay": 1566
+    },
+    {
+      "name": "[80%] Unidade — Cópia — Cópia",
+      "impressions": 2099,
+      "reach": 1794,
+      "clicks": 19,
+      "messages": 0,
+      "ctr": 0.91,
+      "thruplay": 37
+    },
+    {
+      "name": "[80%] Theo",
+      "impressions": 1712,
+      "reach": 1512,
+      "clicks": 72,
+      "messages": 0,
+      "ctr": 4.21,
+      "thruplay": 65
     },
     {
       "name": "[80%] Unidade",
@@ -151,51 +169,33 @@
       "thruplay": 29
     },
     {
-      "name": "[80%] Unidade — Parcelinha",
-      "impressions": 1463,
-      "reach": 948,
-      "clicks": 11,
-      "messages": 0,
-      "ctr": 0.75,
-      "thruplay": 38
-    },
-    {
       "name": "Pena que nao e meu caso",
-      "impressions": 1364,
-      "reach": 1096,
+      "impressions": 1438,
+      "reach": 1152,
       "clicks": 23,
       "messages": 2,
-      "ctr": 1.69,
-      "thruplay": 74
+      "ctr": 1.6,
+      "thruplay": 76
     },
     {
-      "name": "[80%] Theo",
-      "impressions": 1302,
-      "reach": 1173,
-      "clicks": 51,
+      "name": "[80%] Waleska Freitas",
+      "impressions": 1122,
+      "reach": 764,
+      "clicks": 16,
       "messages": 0,
-      "ctr": 3.92,
-      "thruplay": 46
-    },
-    {
-      "name": "Dia dos solteiros",
-      "impressions": 1023,
-      "reach": 741,
-      "clicks": 7,
-      "messages": 0,
-      "ctr": 0.68,
-      "thruplay": 22
+      "ctr": 1.43,
+      "thruplay": 41
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 64,
-      "male_pct": 36,
+      "female_pct": 65,
+      "male_pct": 35,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 2,
-      "25-34": 30,
+      "25-34": 31,
       "35-44": 27,
       "45-54": 19,
       "55-64": 11,
@@ -204,7 +204,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 9.75,
+    "balance_brl": 12.32,
     "balance_low": false,
     "account_disabled": false
   },
