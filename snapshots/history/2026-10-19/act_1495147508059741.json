@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_1495147508059741",
+    "account_name": "Espaçolaser Caçapava",
+    "segment": "LASER",
+    "template": "LASER",
+    "generated_at": "2026-10-19T15:18:15.057Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-12",
+      "until": "2026-10-18",
+      "label_pt": "12 out a 18 out"
+    },
+    "previous": {
+      "since": "2026-10-05",
+      "until": "2026-10-11"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 419.58,
+      "previous": 470.47,
+      "delta_pct": -11
+    },
+    "impressions": {
+      "current": 32825,
+      "previous": 41879,
+      "delta_pct": -22
+    },
+    "reach": {
+      "current": 16460,
+      "previous": 21815,
+      "delta_pct": -25
+    },
+    "clicks": {
+      "current": 495,
+      "previous": 582,
+      "delta_pct": -15
+    },
+    "ctr": {
+      "current": 1.51,
+      "previous": 1.39,
+      "delta_pct": 9
+    },
+    "cpc": {
+      "current": 0.85,
+      "previous": 0.81,
+      "delta_pct": 5
+    },
+    "thruplay": {
+      "current": 2432,
+      "previous": 2712,
+      "delta_pct": -10
+    },
+    "frequency": {
+      "current": 1.99,
+      "previous": 1.92,
+      "delta_pct": 4
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 19,
+        "previous": 23,
+        "delta_pct": -17
+      },
+      "cost": {
+        "current": 22.08,
+        "previous": 20.46,
+        "delta_pct": 8
+      },
+      "top_creative": {
+        "name": "3 sessões 2",
+        "value": 12
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "3 sessões 2",
+      "impressions": 13356,
+      "reach": 7150,
+      "clicks": 108,
+      "messages": 12,
+      "ctr": 0.81,
+      "thruplay": 279
+    },
+    {
+      "name": "[80%] Carol Leite",
+      "impressions": 8268,
+      "reach": 5391,
+      "clicks": 294,
+      "messages": 0,
+      "ctr": 3.56,
+      "thruplay": 217
+    },
+    {
+      "name": "[80%] Unidade",
+      "impressions": 2699,
+      "reach": 1840,
+      "clicks": 20,
+      "messages": 2,
+      "ctr": 0.74,
+      "thruplay": 74
+    },
+    {
+      "name": "[80%] Momento outubro",
+      "impressions": 1726,
+      "reach": 1535,
+      "clicks": 13,
+      "messages": 0,
+      "ctr": 0.75,
+      "thruplay": 1237
+    },
+    {
+      "name": "3 sessões 2",
+      "impressions": 1609,
+      "reach": 1152,
+      "clicks": 6,
+      "messages": 2,
+      "ctr": 0.37,
+      "thruplay": 25
+    },
+    {
+      "name": "Segredos",
+      "impressions": 1463,
+      "reach": 966,
+      "clicks": 15,
+      "messages": 1,
+      "ctr": 1.03,
+      "thruplay": 42
+    },
+    {
+      "name": "[80%] Waleska Freitas — Cópia",
+      "impressions": 691,
+      "reach": 446,
+      "clicks": 12,
+      "messages": 0,
+      "ctr": 1.74,
+      "thruplay": 22
+    },
+    {
+      "name": "[80%] Especialista planejamento",
+      "impressions": 623,
+      "reach": 597,
+      "clicks": 6,
+      "messages": 0,
+      "ctr": 0.96,
+      "thruplay": 451
+    },
+    {
+      "name": "Mensagem do dia",
+      "impressions": 438,
+      "reach": 359,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 0.46,
+      "thruplay": 0
+    },
+    {
+      "name": "[80%] Unidade - Parcelinha",
+      "impressions": 435,
+      "reach": 301,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 0.23,
+      "thruplay": 16
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 67,
+      "male_pct": 33,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 28,
+      "35-44": 27,
+      "45-54": 21,
+      "55-64": 13,
+      "65+": 12
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 112.79,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

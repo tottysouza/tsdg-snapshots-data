@@ -1,0 +1,176 @@
+{
+  "current": {
+    "accountId": "act_744052467983233",
+    "saldo": 53.28,
+    "dateRange": {
+      "since": "2026-10-12",
+      "until": "2026-10-18"
+    },
+    "kpis": {
+      "investimento": 7.5,
+      "impressoes": 1188,
+      "alcance": 1119,
+      "cliques": 10,
+      "cpc": 0.75,
+      "cpm": 6.31,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 15,
+      "frequencia": 1.06
+    },
+    "ads": [
+      {
+        "id": "120252915299880508",
+        "nome": "É primavera",
+        "status": "PAUSED",
+        "legenda": "É Primavera… cores e formas dão o tom da estação! 2026-09-22-41d65513ca11aa9fd62c8c640fe46b03",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-det1-1.xx.fbcdn.net/v/t15.5256-10/820953477_1409275107227944_5383555540034751894_n.jpg?_nc_cat=109&ccb=1-7&_nc_eui2=AeHczHhVLTVboi_gX3mO5vvHxYDh3dhNWLnFgOHd2E1YuU_qi5Xnm0WmnOJSWZw4I6Ov0dop5BNfwCsSCe2hqRxP&_nc_ohc=o-W-POm-Wg0Q7kNvwGpwpXv&_nc_oc=AdrLjaq1PggfFH0m_yGwfB9Ex71WGXfA5bcY1P5HCwu-D3trByWfjLwE8jokrs6EgvQ&_nc_zt=23&_nc_ht=scontent-det1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=Xng9aZtcCy4mEAuv-rya_g&_nc_tpa=Q5bMBQKXwyb9W8nu_IgOxLq99p40aM2jpieHXLs83QSLXWJ_LRqvicP3pygv0DyXuHvATRfoIhFAs7Gn0Q&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQNVnfKw4021mYFDaCXETypJfHOA4AiRxT8XhY-px4MTYg&oe=6ADBEFBD",
+        "impressoes": 1173,
+        "alcance": 1107,
+        "cliques": 10,
+        "mensagens": 0,
+        "thruplay": 15,
+        "investimento": 7.35,
+        "cpc": 0.74,
+        "ctr": 0.85
+      },
+      {
+        "id": "120252915319500508",
+        "nome": "É primavera",
+        "status": "PAUSED",
+        "legenda": "É Primavera… cores e formas dão o tom da estação! 2026-09-22-412065c96e2669a494b743f1476ad940",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-det1-1.xx.fbcdn.net/v/t15.5256-10/820483729_1096724479748538_2488657461989756073_n.jpg?_nc_cat=111&ccb=1-7&_nc_eui2=AeEj22ZnKxhRu85RIJalrTrVj63ldCL_F6uPreV0Iv8Xq6cgqFGkDdTazwG0OV3MJTG1OsGbCXyp4ug2gzgYP3Mm&_nc_ohc=2VEdLJKyWSoQ7kNvwGvCkis&_nc_oc=AdomxvsQ1unKcT7zB1sSgxORgPuIn_TCg5rVXCqMnwgFDrBC4j0eNZh-AszMqd1wG18&_nc_zt=23&_nc_ht=scontent-det1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=Xng9aZtcCy4mEAuv-rya_g&_nc_tpa=Q5bMBQLJxC17Kdnh4uGXcSwkSYfFFnbUmrTN_vgET5Ag1d_slndn3EMbCvPfSVQWgCSAliGMxyDwdmBUyw&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQN3llbr3QsFD0cc6Q5mL0ppHH6gFxkh2G_f35sOb056mA&oe=6ADBFB64",
+        "impressoes": 15,
+        "alcance": 13,
+        "cliques": 0,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 0.15,
+        "cpc": 0,
+        "ctr": 0
+      }
+    ],
+    "genero": {
+      "F": 70,
+      "M": 30,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 43,
+      "35-44": 25,
+      "45-54": 15,
+      "55-64": 10,
+      "65+": 7
+    },
+    "periodo": "custom",
+    "timestamp": "2026-10-19T15:16:03.382Z",
+    "prev": {
+      "investimento": 134.5,
+      "impressoes": 7164,
+      "alcance": 4870,
+      "cliques": 146,
+      "cpc": 0.92,
+      "cpm": 18.77,
+      "mensagens": 6,
+      "cpa": 22.42,
+      "thruplay": 205,
+      "frequencia": 1.47
+    }
+  },
+  "previous": {
+    "accountId": "act_744052467983233",
+    "saldo": 54.29,
+    "dateRange": {
+      "since": "2026-10-05",
+      "until": "2026-10-11"
+    },
+    "kpis": {
+      "investimento": 134.5,
+      "impressoes": 7164,
+      "alcance": 4870,
+      "cliques": 146,
+      "cpc": 0.92,
+      "cpm": 18.77,
+      "mensagens": 6,
+      "cpa": 22.42,
+      "thruplay": 205,
+      "frequencia": 1.47
+    },
+    "ads": [
+      {
+        "id": "120252915299880508",
+        "nome": "É primavera",
+        "status": "PAUSED",
+        "legenda": "É Primavera… cores e formas dão o tom da estação! 2026-09-22-41d65513ca11aa9fd62c8c640fe46b03",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-hou1-1.xx.fbcdn.net/v/t15.5256-10/820953477_1409275107227944_5383555540034751894_n.jpg?_nc_cat=109&ccb=1-7&_nc_eui2=AeHczHhVLTVboi_gX3mO5vvHxYDh3dhNWLnFgOHd2E1YuU_qi5Xnm0WmnOJSWZw4I6Ov0dop5BNfwCsSCe2hqRxP&_nc_ohc=o-W-POm-Wg0Q7kNvwEewbl6&_nc_oc=AdrOOC4m9SL-2BvpPxbwADQSdRFnOMsUlbOZV6M-WFkI-3WvMCH0yefFJiJlxL6iwI8&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=yTrx-P4f4lCQDGdpbqSUXQ&_nc_tpa=Q5bMBQJ6yd0WHLnUc8ajcx9Eq-5QWWbI7qSyoZPXW7MgKTZq2eWlj_rQcH9jdT4P_2veombx6iMOIF8ENA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQMGH7P1kziug1PzwhEoqZwqlWJOJ4vxeEMeAUPjA3SGkg&oe=6ADBEFBD",
+        "impressoes": 5462,
+        "alcance": 4175,
+        "cliques": 131,
+        "mensagens": 0,
+        "thruplay": 154,
+        "investimento": 38.15,
+        "cpc": 0.29,
+        "ctr": 2.4
+      },
+      {
+        "id": "120252915319500508",
+        "nome": "É primavera",
+        "status": "PAUSED",
+        "legenda": "É Primavera… cores e formas dão o tom da estação! 2026-09-22-412065c96e2669a494b743f1476ad940",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-hou1-1.xx.fbcdn.net/v/t15.5256-10/820483729_1096724479748538_2488657461989756073_n.jpg?_nc_cat=111&ccb=1-7&_nc_eui2=AeEj22ZnKxhRu85RIJalrTrVj63ldCL_F6uPreV0Iv8Xq6cgqFGkDdTazwG0OV3MJTG1OsGbCXyp4ug2gzgYP3Mm&_nc_ohc=2VEdLJKyWSoQ7kNvwGHSrPq&_nc_oc=AdrzX0VVPNEbndmIU_JdYkvfKVqNZ8PXQcJP8ZfqrKlfd0_wEmnVRDcVrsaES4J6GOk&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=yTrx-P4f4lCQDGdpbqSUXQ&_nc_tpa=Q5bMBQLxvqP2w8_y6ftmawtKHth5zkmTaNvIc_XGxACO43iRLzerehe6vgoJd2DT1pqQf7H1rodwn6IGaA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQNSr1ut5NwEsdiSD9bUYzqQrSpkjh7sRwiranB7XIHO9A&oe=6ADBFB64",
+        "impressoes": 1702,
+        "alcance": 624,
+        "cliques": 15,
+        "mensagens": 6,
+        "thruplay": 51,
+        "investimento": 96.35,
+        "cpc": 6.42,
+        "ctr": 0.88
+      }
+    ],
+    "genero": {
+      "F": 66,
+      "M": 34,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 15,
+      "35-44": 19,
+      "45-54": 21,
+      "55-64": 25,
+      "65+": 19
+    },
+    "periodo": "custom",
+    "timestamp": "2026-10-19T15:16:03.823Z",
+    "prev": {
+      "investimento": 283.47,
+      "impressoes": 13415,
+      "alcance": 8669,
+      "cliques": 262,
+      "cpc": 1.08,
+      "cpm": 21.13,
+      "mensagens": 11,
+      "cpa": 25.77,
+      "thruplay": 405,
+      "frequencia": 1.55
+    }
+  }
+}
