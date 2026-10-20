@@ -4,62 +4,62 @@
     "account_name": "LACES Origens",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-19T15:16:59.531Z",
+    "generated_at": "2026-10-20T13:19:24.498Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-12",
-      "until": "2026-10-18",
-      "label_pt": "12 out a 18 out"
+      "since": "2026-10-13",
+      "until": "2026-10-19",
+      "label_pt": "13 out a 19 out"
     },
     "previous": {
-      "since": "2026-10-05",
-      "until": "2026-10-11"
+      "since": "2026-10-06",
+      "until": "2026-10-12"
     }
   },
   "totals": {
     "spend": {
-      "current": 241.76,
-      "previous": 241.44,
-      "delta_pct": 0
+      "current": 231.07,
+      "previous": 248.89,
+      "delta_pct": -7
     },
     "impressions": {
-      "current": 26111,
-      "previous": 30487,
-      "delta_pct": -14
+      "current": 24343,
+      "previous": 30435,
+      "delta_pct": -20
     },
     "reach": {
-      "current": 19212,
-      "previous": 22591,
-      "delta_pct": -15
+      "current": 18292,
+      "previous": 22830,
+      "delta_pct": -20
     },
     "clicks": {
-      "current": 705,
-      "previous": 569,
-      "delta_pct": 24
+      "current": 701,
+      "previous": 573,
+      "delta_pct": 22
     },
     "ctr": {
-      "current": 2.7,
-      "previous": 1.87,
-      "delta_pct": 44
+      "current": 2.88,
+      "previous": 1.88,
+      "delta_pct": 53
     },
     "cpc": {
-      "current": 0.34,
-      "previous": 0.42,
-      "delta_pct": -19
+      "current": 0.33,
+      "previous": 0.43,
+      "delta_pct": -23
     },
     "thruplay": {
-      "current": 4410,
-      "previous": 3964,
-      "delta_pct": 11
+      "current": 4248,
+      "previous": 4075,
+      "delta_pct": 4
     },
     "frequency": {
-      "current": 1.36,
-      "previous": 1.35,
-      "delta_pct": 1
+      "current": 1.33,
+      "previous": 1.33,
+      "delta_pct": 0
     }
   },
   "conversions": {
@@ -71,11 +71,11 @@
       },
       "cost": {
         "current": null,
-        "previous": 241.44,
+        "previous": 248.89,
         "delta_pct": null
       },
       "top_creative": {
-        "name": "Contei para vocês",
+        "name": "Há rituais",
         "value": 0
       }
     },
@@ -97,78 +97,87 @@
   },
   "top_creatives": [
     {
-      "name": "Contei para vocês",
-      "impressions": 9465,
-      "reach": 7034,
-      "clicks": 335,
+      "name": "Há rituais",
+      "impressions": 6626,
+      "reach": 5434,
+      "clicks": 31,
       "messages": 0,
-      "ctr": 3.54,
-      "thruplay": 484
+      "ctr": 0.47,
+      "thruplay": 2102
     },
     {
-      "name": "Há rituais",
-      "impressions": 6544,
-      "reach": 5346,
-      "clicks": 35,
+      "name": "Contei para vocês",
+      "impressions": 6521,
+      "reach": 5203,
+      "clicks": 266,
       "messages": 0,
-      "ctr": 0.53,
-      "thruplay": 2200
+      "ctr": 4.08,
+      "thruplay": 409
     },
     {
       "name": "Multiprime",
-      "impressions": 4585,
-      "reach": 3893,
-      "clicks": 36,
+      "impressions": 4504,
+      "reach": 3888,
+      "clicks": 39,
       "messages": 0,
-      "ctr": 0.79,
-      "thruplay": 1293
+      "ctr": 0.87,
+      "thruplay": 1157
     },
     {
       "name": "Terapias capilares",
-      "impressions": 3523,
-      "reach": 2477,
-      "clicks": 287,
+      "impressions": 4122,
+      "reach": 2771,
+      "clicks": 347,
       "messages": 0,
-      "ctr": 8.15,
+      "ctr": 8.42,
       "thruplay": 1
     },
     {
       "name": "Massagens",
-      "impressions": 1980,
-      "reach": 1784,
-      "clicks": 12,
+      "impressions": 2547,
+      "reach": 2288,
+      "clicks": 18,
       "messages": 0,
-      "ctr": 0.61,
-      "thruplay": 431
+      "ctr": 0.71,
+      "thruplay": 579
     },
     {
-      "name": "Multiprime",
-      "impressions": 14,
-      "reach": 11,
+      "name": "Lua out",
+      "impressions": 17,
+      "reach": 16,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
-      "thruplay": 1
+      "thruplay": 0
+    },
+    {
+      "name": "Multiprime",
+      "impressions": 6,
+      "reach": 5,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 75,
-      "male_pct": 25,
+      "female_pct": 71,
+      "male_pct": 29,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 30,
-      "35-44": 15,
-      "45-54": 14,
-      "55-64": 16,
-      "65+": 25
+      "25-34": 25,
+      "35-44": 16,
+      "45-54": 15,
+      "55-64": 18,
+      "65+": 26
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 255.61,
+    "balance_brl": 283.29,
     "balance_low": false,
     "account_disabled": false
   },

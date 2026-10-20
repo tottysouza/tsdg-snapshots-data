@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "account_id": "act_896596526559885",
+    "account_name": "VIRGO Cases",
+    "segment": "TECH",
+    "template": "VIRGO",
+    "generated_at": "2026-10-20T13:20:05.159Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-13",
+      "until": "2026-10-19",
+      "label_pt": "13 out a 19 out"
+    },
+    "previous": {
+      "since": "2026-10-06",
+      "until": "2026-10-12"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 489.61,
+      "previous": 552.9,
+      "delta_pct": -11
+    },
+    "impressions": {
+      "current": 78400,
+      "previous": 74007,
+      "delta_pct": 6
+    },
+    "reach": {
+      "current": 33544,
+      "previous": 41689,
+      "delta_pct": -20
+    },
+    "clicks": {
+      "current": 5994,
+      "previous": 5250,
+      "delta_pct": 14
+    },
+    "ctr": {
+      "current": 7.65,
+      "previous": 7.09,
+      "delta_pct": 8
+    },
+    "cpc": {
+      "current": 0.08,
+      "previous": 0.11,
+      "delta_pct": -27
+    },
+    "thruplay": {
+      "current": 792,
+      "previous": 928,
+      "delta_pct": -15
+    },
+    "frequency": {
+      "current": 2.34,
+      "previous": 1.78,
+      "delta_pct": 31
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 1,
+        "previous": 2,
+        "delta_pct": -50
+      },
+      "cost": {
+        "current": 489.61,
+        "previous": 276.45,
+        "delta_pct": 77
+      },
+      "top_creative": {
+        "name": "A forma",
+        "value": 1
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_purchases": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "revenue": null,
+      "roi": null
+    }
+  },
+  "top_creatives": [
+    {
+      "name": "6",
+      "impressions": 43512,
+      "reach": 14073,
+      "clicks": 3351,
+      "messages": 0,
+      "ctr": 7.7,
+      "thruplay": 239
+    },
+    {
+      "name": "Depois de alguns dias",
+      "impressions": 16314,
+      "reach": 10754,
+      "clicks": 1315,
+      "messages": 0,
+      "ctr": 8.06,
+      "thruplay": 5
+    },
+    {
+      "name": "Coleção merece",
+      "impressions": 9713,
+      "reach": 6731,
+      "clicks": 815,
+      "messages": 0,
+      "ctr": 8.39,
+      "thruplay": 0
+    },
+    {
+      "name": "A forma",
+      "impressions": 5661,
+      "reach": 4359,
+      "clicks": 286,
+      "messages": 1,
+      "ctr": 5.05,
+      "thruplay": 538
+    },
+    {
+      "name": "3",
+      "impressions": 2558,
+      "reach": 1480,
+      "clicks": 186,
+      "messages": 0,
+      "ctr": 7.27,
+      "thruplay": 8
+    },
+    {
+      "name": "10",
+      "impressions": 627,
+      "reach": 451,
+      "clicks": 41,
+      "messages": 0,
+      "ctr": 6.54,
+      "thruplay": 1
+    },
+    {
+      "name": "Cada segundo conta",
+      "impressions": 14,
+      "reach": 12,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 1
+    },
+    {
+      "name": "Elegância que acompanha",
+      "impressions": 1,
+      "reach": 1,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 50,
+      "male_pct": 50,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 38,
+      "35-44": 38,
+      "45-54": 17,
+      "55-64": 5,
+      "65+": 2
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 1.72,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "creative_concentration_over_80",
+    "balance_low"
+  ]
+}

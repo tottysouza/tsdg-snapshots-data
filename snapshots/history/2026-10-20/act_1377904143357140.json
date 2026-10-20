@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "account_id": "act_1377904143357140",
+    "account_name": "LACES Origens",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-20T13:19:24.498Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-13",
+      "until": "2026-10-19",
+      "label_pt": "13 out a 19 out"
+    },
+    "previous": {
+      "since": "2026-10-06",
+      "until": "2026-10-12"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 231.07,
+      "previous": 248.89,
+      "delta_pct": -7
+    },
+    "impressions": {
+      "current": 24343,
+      "previous": 30435,
+      "delta_pct": -20
+    },
+    "reach": {
+      "current": 18292,
+      "previous": 22830,
+      "delta_pct": -20
+    },
+    "clicks": {
+      "current": 701,
+      "previous": 573,
+      "delta_pct": 22
+    },
+    "ctr": {
+      "current": 2.88,
+      "previous": 1.88,
+      "delta_pct": 53
+    },
+    "cpc": {
+      "current": 0.33,
+      "previous": 0.43,
+      "delta_pct": -23
+    },
+    "thruplay": {
+      "current": 4248,
+      "previous": 4075,
+      "delta_pct": 4
+    },
+    "frequency": {
+      "current": 1.33,
+      "previous": 1.33,
+      "delta_pct": 0
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 0,
+        "previous": 1,
+        "delta_pct": -100
+      },
+      "cost": {
+        "current": null,
+        "previous": 248.89,
+        "delta_pct": null
+      },
+      "top_creative": {
+        "name": "Há rituais",
+        "value": 0
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Há rituais",
+      "impressions": 6626,
+      "reach": 5434,
+      "clicks": 31,
+      "messages": 0,
+      "ctr": 0.47,
+      "thruplay": 2102
+    },
+    {
+      "name": "Contei para vocês",
+      "impressions": 6521,
+      "reach": 5203,
+      "clicks": 266,
+      "messages": 0,
+      "ctr": 4.08,
+      "thruplay": 409
+    },
+    {
+      "name": "Multiprime",
+      "impressions": 4504,
+      "reach": 3888,
+      "clicks": 39,
+      "messages": 0,
+      "ctr": 0.87,
+      "thruplay": 1157
+    },
+    {
+      "name": "Terapias capilares",
+      "impressions": 4122,
+      "reach": 2771,
+      "clicks": 347,
+      "messages": 0,
+      "ctr": 8.42,
+      "thruplay": 1
+    },
+    {
+      "name": "Massagens",
+      "impressions": 2547,
+      "reach": 2288,
+      "clicks": 18,
+      "messages": 0,
+      "ctr": 0.71,
+      "thruplay": 579
+    },
+    {
+      "name": "Lua out",
+      "impressions": 17,
+      "reach": 16,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    },
+    {
+      "name": "Multiprime",
+      "impressions": 6,
+      "reach": 5,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 71,
+      "male_pct": 29,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 25,
+      "35-44": 16,
+      "45-54": 15,
+      "55-64": 18,
+      "65+": 26
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 283.29,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "zero_conversations_current"
+  ]
+}

@@ -4,61 +4,61 @@
     "account_name": "BIOMA Paixão",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-19T15:15:40.049Z",
+    "generated_at": "2026-10-20T13:18:18.051Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-12",
-      "until": "2026-10-18",
-      "label_pt": "12 out a 18 out"
+      "since": "2026-10-13",
+      "until": "2026-10-19",
+      "label_pt": "13 out a 19 out"
     },
     "previous": {
-      "since": "2026-10-05",
-      "until": "2026-10-11"
+      "since": "2026-10-06",
+      "until": "2026-10-12"
     }
   },
   "totals": {
     "spend": {
       "current": 0,
-      "previous": 55.88,
+      "previous": 24.9,
       "delta_pct": -100
     },
     "impressions": {
       "current": 0,
-      "previous": 9172,
+      "previous": 3495,
       "delta_pct": -100
     },
     "reach": {
       "current": 0,
-      "previous": 5386,
+      "previous": 2417,
       "delta_pct": -100
     },
     "clicks": {
       "current": 0,
-      "previous": 205,
+      "previous": 89,
       "delta_pct": -100
     },
     "ctr": {
       "current": null,
-      "previous": 2.24,
+      "previous": 2.55,
       "delta_pct": null
     },
     "cpc": {
       "current": 0,
-      "previous": 0.27,
+      "previous": 0.28,
       "delta_pct": -100
     },
     "thruplay": {
       "current": 0,
-      "previous": 326,
+      "previous": 101,
       "delta_pct": -100
     },
     "frequency": {
       "current": 0,
-      "previous": 1.7,
+      "previous": 1.45,
       "delta_pct": -100
     }
   },
@@ -66,12 +66,12 @@
     "whatsapp_messages": {
       "count": {
         "current": 0,
-        "previous": 3,
+        "previous": 2,
         "delta_pct": -100
       },
       "cost": {
         "current": null,
-        "previous": 18.63,
+        "previous": 12.45,
         "delta_pct": null
       },
       "top_creative": null

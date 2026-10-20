@@ -4,79 +4,79 @@
     "account_name": "BIOMA Sense",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-19T15:16:03.835Z",
+    "generated_at": "2026-10-20T13:18:29.007Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-12",
-      "until": "2026-10-18",
-      "label_pt": "12 out a 18 out"
+      "since": "2026-10-13",
+      "until": "2026-10-19",
+      "label_pt": "13 out a 19 out"
     },
     "previous": {
-      "since": "2026-10-05",
-      "until": "2026-10-11"
+      "since": "2026-10-06",
+      "until": "2026-10-12"
     }
   },
   "totals": {
     "spend": {
-      "current": 7.5,
-      "previous": 134.5,
-      "delta_pct": -94
+      "current": 71.98,
+      "previous": 89.48,
+      "delta_pct": -20
     },
     "impressions": {
-      "current": 1188,
-      "previous": 7164,
-      "delta_pct": -83
+      "current": 4695,
+      "previous": 4827,
+      "delta_pct": -3
     },
     "reach": {
-      "current": 1119,
-      "previous": 4870,
-      "delta_pct": -77
+      "current": 4072,
+      "previous": 3741,
+      "delta_pct": 9
     },
     "clicks": {
-      "current": 10,
-      "previous": 146,
-      "delta_pct": -93
+      "current": 81,
+      "previous": 109,
+      "delta_pct": -26
     },
     "ctr": {
-      "current": 0.84,
-      "previous": 2.04,
-      "delta_pct": -59
+      "current": 1.73,
+      "previous": 2.26,
+      "delta_pct": -23
     },
     "cpc": {
-      "current": 0.75,
-      "previous": 0.92,
-      "delta_pct": -18
+      "current": 0.89,
+      "previous": 0.82,
+      "delta_pct": 9
     },
     "thruplay": {
-      "current": 15,
-      "previous": 205,
-      "delta_pct": -93
+      "current": 210,
+      "previous": 143,
+      "delta_pct": 47
     },
     "frequency": {
-      "current": 1.06,
-      "previous": 1.47,
-      "delta_pct": -28
+      "current": 1.15,
+      "previous": 1.29,
+      "delta_pct": -11
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 0,
-        "previous": 6,
-        "delta_pct": -100
+        "current": 3,
+        "previous": 4,
+        "delta_pct": -25
       },
       "cost": {
-        "current": null,
-        "previous": 22.42,
-        "delta_pct": null
+        "current": 23.99,
+        "previous": 22.37,
+        "delta_pct": 7
       },
       "top_creative": {
         "name": "É primavera",
-        "value": 0
+        "value": 2
       }
     },
     "instagram_visits": {
@@ -98,46 +98,61 @@
   "top_creatives": [
     {
       "name": "É primavera",
-      "impressions": 1173,
-      "reach": 1107,
-      "clicks": 10,
+      "impressions": 2684,
+      "reach": 2459,
+      "clicks": 39,
       "messages": 0,
-      "ctr": 0.85,
-      "thruplay": 15
+      "ctr": 1.45,
+      "thruplay": 55
+    },
+    {
+      "name": "Tonalização Layer",
+      "impressions": 1122,
+      "reach": 1049,
+      "clicks": 33,
+      "messages": 0,
+      "ctr": 2.94,
+      "thruplay": 94
     },
     {
       "name": "É primavera",
-      "impressions": 15,
-      "reach": 13,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 0
+      "impressions": 529,
+      "reach": 395,
+      "clicks": 5,
+      "messages": 2,
+      "ctr": 0.95,
+      "thruplay": 20
+    },
+    {
+      "name": "Tonalização Layer",
+      "impressions": 360,
+      "reach": 310,
+      "clicks": 4,
+      "messages": 1,
+      "ctr": 1.11,
+      "thruplay": 41
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 70,
-      "male_pct": 30,
+      "female_pct": 75,
+      "male_pct": 25,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 43,
-      "35-44": 25,
-      "45-54": 15,
-      "55-64": 10,
-      "65+": 7
+      "25-34": 27,
+      "35-44": 20,
+      "45-54": 20,
+      "55-64": 19,
+      "65+": 14
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 53.28,
+    "balance_brl": 97.43,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": [
-    "spend_delta_over_50",
-    "zero_conversations_current"
-  ]
+  "auto_flags": []
 }

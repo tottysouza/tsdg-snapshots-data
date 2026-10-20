@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "account_id": "act_166071522",
+    "account_name": "BIOMA Valéria Alleoni",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-20T13:19:35.837Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-13",
+      "until": "2026-10-19",
+      "label_pt": "13 out a 19 out"
+    },
+    "previous": {
+      "since": "2026-10-06",
+      "until": "2026-10-12"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 1014.65,
+      "previous": 906.03,
+      "delta_pct": 12
+    },
+    "impressions": {
+      "current": 129125,
+      "previous": 139791,
+      "delta_pct": -8
+    },
+    "reach": {
+      "current": 63648,
+      "previous": 54107,
+      "delta_pct": 18
+    },
+    "clicks": {
+      "current": 2850,
+      "previous": 2665,
+      "delta_pct": 7
+    },
+    "ctr": {
+      "current": 2.21,
+      "previous": 1.91,
+      "delta_pct": 16
+    },
+    "cpc": {
+      "current": 0.36,
+      "previous": 0.34,
+      "delta_pct": 6
+    },
+    "thruplay": {
+      "current": 10898,
+      "previous": 9506,
+      "delta_pct": 15
+    },
+    "frequency": {
+      "current": 2.03,
+      "previous": 2.58,
+      "delta_pct": -21
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 33,
+        "previous": 48,
+        "delta_pct": -31
+      },
+      "cost": {
+        "current": 30.75,
+        "previous": 18.88,
+        "delta_pct": 63
+      },
+      "top_creative": null
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [],
+  "demographics": {
+    "gender": {
+      "female_pct": 75,
+      "male_pct": 21,
+      "unknown_pct": 4
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 11,
+      "35-44": 11,
+      "45-54": 15,
+      "55-64": 24,
+      "65+": 28
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 695.82,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": []
+}

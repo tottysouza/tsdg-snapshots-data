@@ -4,62 +4,62 @@
     "account_name": "MIMO Live Sales",
     "segment": "TECH",
     "template": "MIMO",
-    "generated_at": "2026-10-19T15:18:19.099Z",
+    "generated_at": "2026-10-20T13:20:11.854Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-12",
-      "until": "2026-10-18",
-      "label_pt": "12 out a 18 out"
+      "since": "2026-10-13",
+      "until": "2026-10-19",
+      "label_pt": "13 out a 19 out"
     },
     "previous": {
-      "since": "2026-10-05",
-      "until": "2026-10-11"
+      "since": "2026-10-06",
+      "until": "2026-10-12"
     }
   },
   "totals": {
     "spend": {
-      "current": 283.72,
-      "previous": 277.91,
-      "delta_pct": 2
+      "current": 0,
+      "previous": 279.77,
+      "delta_pct": -100
     },
     "impressions": {
-      "current": 34713,
-      "previous": 27760,
-      "delta_pct": 25
+      "current": 0,
+      "previous": 27634,
+      "delta_pct": -100
     },
     "reach": {
-      "current": 25130,
-      "previous": 21447,
-      "delta_pct": 17
+      "current": 0,
+      "previous": 20563,
+      "delta_pct": -100
     },
     "clicks": {
-      "current": 1698,
-      "previous": 1467,
-      "delta_pct": 16
+      "current": 0,
+      "previous": 1487,
+      "delta_pct": -100
     },
     "ctr": {
-      "current": 4.89,
-      "previous": 5.28,
-      "delta_pct": -7
+      "current": null,
+      "previous": 5.38,
+      "delta_pct": null
     },
     "cpc": {
-      "current": 0.17,
+      "current": 0,
       "previous": 0.19,
-      "delta_pct": -11
+      "delta_pct": -100
     },
     "thruplay": {
-      "current": 541,
-      "previous": 414,
-      "delta_pct": 31
+      "current": 0,
+      "previous": 423,
+      "delta_pct": -100
     },
     "frequency": {
-      "current": 1.38,
-      "previous": 1.29,
-      "delta_pct": 7
+      "current": 0,
+      "previous": 1.34,
+      "delta_pct": -100
     }
   },
   "conversions": {
@@ -74,10 +74,7 @@
         "previous": null,
         "delta_pct": null
       },
-      "top_creative": {
-        "name": "ANÚNCIO CALENDÁRIO",
-        "value": 0
-      }
+      "top_creative": null
     },
     "instagram_visits": {
       "count": {
@@ -95,84 +92,31 @@
     "site_visits": null,
     "site_purchases": null
   },
-  "top_creatives": [
-    {
-      "name": "ANÚNCIO CALENDÁRIO",
-      "impressions": 16865,
-      "reach": 13367,
-      "clicks": 883,
-      "messages": 0,
-      "ctr": 5.24,
-      "thruplay": 322
-    },
-    {
-      "name": "ANÚNCIO BLACK",
-      "impressions": 14045,
-      "reach": 11735,
-      "clicks": 420,
-      "messages": 0,
-      "ctr": 2.99,
-      "thruplay": 219
-    },
-    {
-      "name": "Sua BF ja comecou?",
-      "impressions": 3363,
-      "reach": 1610,
-      "clicks": 353,
-      "messages": 0,
-      "ctr": 10.5,
-      "thruplay": 0
-    },
-    {
-      "name": "O calendário",
-      "impressions": 392,
-      "reach": 354,
-      "clicks": 41,
-      "messages": 0,
-      "ctr": 10.46,
-      "thruplay": 0
-    },
-    {
-      "name": "O último trimestre",
-      "impressions": 33,
-      "reach": 33,
-      "clicks": 1,
-      "messages": 0,
-      "ctr": 3.03,
-      "thruplay": 0
-    },
-    {
-      "name": "A BF ainda está",
-      "impressions": 15,
-      "reach": 15,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 0
-    }
-  ],
+  "top_creatives": [],
   "demographics": {
     "gender": {
-      "female_pct": 23,
-      "male_pct": 77,
+      "female_pct": 0,
+      "male_pct": 0,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 7,
-      "35-44": 5,
-      "45-54": 10,
-      "55-64": 24,
-      "65+": 54
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 298.55,
+    "balance_brl": 336.52,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
-    "zero_conversations_current"
+    "spend_delta_over_50",
+    "zero_conversations_current",
+    "zero_activity_current"
   ]
 }

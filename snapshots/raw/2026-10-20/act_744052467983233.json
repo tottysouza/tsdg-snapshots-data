@@ -1,0 +1,214 @@
+{
+  "current": {
+    "accountId": "act_744052467983233",
+    "saldo": 97.43,
+    "dateRange": {
+      "since": "2026-10-13",
+      "until": "2026-10-19"
+    },
+    "kpis": {
+      "investimento": 71.98,
+      "impressoes": 4695,
+      "alcance": 4072,
+      "cliques": 81,
+      "cpc": 0.89,
+      "cpm": 15.33,
+      "mensagens": 3,
+      "cpa": 23.99,
+      "thruplay": 210,
+      "frequencia": 1.15
+    },
+    "ads": [
+      {
+        "id": "120252915299880508",
+        "nome": "É primavera",
+        "status": "PAUSED",
+        "legenda": "É Primavera… cores e formas dão o tom da estação! 2026-09-22-41d65513ca11aa9fd62c8c640fe46b03",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/820953477_1409275107227944_5383555540034751894_n.jpg?_nc_cat=109&ccb=1-7&_nc_eui2=AeHczHhVLTVboi_gX3mO5vvHxYDh3dhNWLnFgOHd2E1YuU_qi5Xnm0WmnOJSWZw4I6Ov0dop5BNfwCsSCe2hqRxP&_nc_ohc=vbafBxCBd5cQ7kNvwEzlK36&_nc_oc=AdpBDlMUWV5tCUT_G35dIPOIJOW_Mo_DaLcfyh-VAC2SOVbVSlhJWpSYHp67PlVjESQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=N23kWlpVr5SiUScUyvjL-w&_nc_tpa=Q5bMBQLhGDcca041WtMpoQg0LwUaI5eocQ7Wwqa1KGpWjYTX35uqJIyNpfVNem6ujKRXv1JkKnJbb-pE4A&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQMxYm6FvlM7b5GQpYsbK9WajA7NiWCN0EIAAHenS1MtRQ&oe=6ADD413D",
+        "impressoes": 2684,
+        "alcance": 2459,
+        "cliques": 39,
+        "mensagens": 0,
+        "thruplay": 55,
+        "investimento": 16.61,
+        "cpc": 0.43,
+        "ctr": 1.45
+      },
+      {
+        "id": "120253416737450508",
+        "nome": "Tonalização Layer",
+        "status": "ACTIVE",
+        "legenda": "Tonalização Layer - exclusivo no Bioma Sense em Ribeirão Preto - técnica com produtos naturais que  2026-10-19-1af03ca9b5af85e67f79c4739d428dcc",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/854673146_2363400554495085_8932343230619208939_n.jpg?_nc_cat=103&ccb=1-7&_nc_eui2=AeHlG2iutTe2bPmhKrOqE4ZgvTPH8hpxeDi9M8fyGnF4OHXag3kibpY9-lZkuTRGMouIezDQSZZLwQFhMXMw5TfY&_nc_ohc=eeVv9d35vp8Q7kNvwFFuX2a&_nc_oc=Adpjz3C6qMalFv2BN4LhvXKKEayj-ZTlJGMcou5MkV7c2x_F7RBbsgYEJFH1WFKywUU&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=N23kWlpVr5SiUScUyvjL-w&_nc_tpa=Q5bMBQKl8zANHPQfvDm36HxjNCMpYvnD5sEITKdWS22NBmZoaSuiWv3c5lcvaKlQeSioEOBVAs8zMLmy3Q&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQPY2ny61ufNNey9pbidM83HiUkpv9EUJt4ij1Oee-2zsg&oe=6ADD4409",
+        "impressoes": 1122,
+        "alcance": 1049,
+        "cliques": 33,
+        "mensagens": 0,
+        "thruplay": 94,
+        "investimento": 12.08,
+        "cpc": 0.37,
+        "ctr": 2.94
+      },
+      {
+        "id": "120252915319500508",
+        "nome": "É primavera",
+        "status": "PAUSED",
+        "legenda": "É Primavera… cores e formas dão o tom da estação! 2026-09-22-412065c96e2669a494b743f1476ad940",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/820483729_1096724479748538_2488657461989756073_n.jpg?_nc_cat=111&ccb=1-7&_nc_eui2=AeEj22ZnKxhRu85RIJalrTrVj63ldCL_F6uPreV0Iv8Xq6cgqFGkDdTazwG0OV3MJTG1OsGbCXyp4ug2gzgYP3Mm&_nc_ohc=2VEdLJKyWSoQ7kNvwEFUeX0&_nc_oc=AdpMXNDnBtPW0MAZNfFET-w104ICACmdoBNBA8FCpbbrSXUiaFdfONMIQxZGsaX3Udo&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=N23kWlpVr5SiUScUyvjL-w&_nc_tpa=Q5bMBQLSoMnkBIPpD30MPq2zIxO0j24E2FpATam9k8IN92sKmkG4jlxeXpYppkq--2zoTbGJPGU37_l9fA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQOII_k0pPG3Sv1T-Sab4mewpSsPx0Wy5ARaaXvqFbr3gQ&oe=6ADD4CE4",
+        "impressoes": 529,
+        "alcance": 395,
+        "cliques": 5,
+        "mensagens": 2,
+        "thruplay": 20,
+        "investimento": 26.46,
+        "cpc": 5.29,
+        "ctr": 0.95
+      },
+      {
+        "id": "120253416704570508",
+        "nome": "Tonalização Layer",
+        "status": "ACTIVE",
+        "legenda": "Tonalização Layer - exclusivo no Bioma Sense em Ribeirão Preto - técnica com produtos naturais que  2026-10-19-1326a4b3ad6f074657cdf5a309a08bb0",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/857344844_1110432831918738_8884921046836595831_n.jpg?_nc_cat=101&ccb=1-7&_nc_eui2=AeG_5YyuxZdM-KKldSa1he1wcLPlsIkG271ws-WwiQbbvZttxJkvJ9pTbC4eZ1XXwno-svnHaWlVhcDxZm0B5umn&_nc_ohc=_Svud0gFWsMQ7kNvwFj6lPJ&_nc_oc=AdqhZiI8AbpZyjPjfOX8cFn3LpueHhwkIGsGHD45WN_KuQHgEXTRI0M743H1KBNJV64&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=N23kWlpVr5SiUScUyvjL-w&_nc_tpa=Q5bMBQKp8WB37aJ6wCkvVmMsVE37Z3F2ReHTHBoGWcqg2Z3ykv0jh-mqj9eIC3TZlHsQehhKbcMg9WnFjA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQOQjNnrTdOmVwGBLQ47dHEkvrS_Tyt9apx_Y0zOkDYQWA&oe=6ADD4AA4",
+        "impressoes": 360,
+        "alcance": 310,
+        "cliques": 4,
+        "mensagens": 1,
+        "thruplay": 41,
+        "investimento": 16.83,
+        "cpc": 4.21,
+        "ctr": 1.11
+      }
+    ],
+    "genero": {
+      "F": 75,
+      "M": 25,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 27,
+      "35-44": 20,
+      "45-54": 20,
+      "55-64": 19,
+      "65+": 14
+    },
+    "periodo": "custom",
+    "timestamp": "2026-10-20T13:18:29.002Z",
+    "prev": {
+      "investimento": 89.48,
+      "impressoes": 4827,
+      "alcance": 3741,
+      "cliques": 109,
+      "cpc": 0.82,
+      "cpm": 18.54,
+      "mensagens": 4,
+      "cpa": 22.37,
+      "thruplay": 143,
+      "frequencia": 1.29
+    }
+  },
+  "previous": {
+    "accountId": "act_744052467983233",
+    "saldo": 97.43,
+    "dateRange": {
+      "since": "2026-10-06",
+      "until": "2026-10-12"
+    },
+    "kpis": {
+      "investimento": 89.48,
+      "impressoes": 4827,
+      "alcance": 3741,
+      "cliques": 109,
+      "cpc": 0.82,
+      "cpm": 18.54,
+      "mensagens": 4,
+      "cpa": 22.37,
+      "thruplay": 143,
+      "frequencia": 1.29
+    },
+    "ads": [
+      {
+        "id": "120252915299880508",
+        "nome": "É primavera",
+        "status": "PAUSED",
+        "legenda": "É Primavera… cores e formas dão o tom da estação! 2026-09-22-41d65513ca11aa9fd62c8c640fe46b03",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent.xx.fbcdn.net/v/t15.5256-10/820953477_1409275107227944_5383555540034751894_n.jpg?_nc_cat=109&ccb=1-7&_nc_eui2=AeHczHhVLTVboi_gX3mO5vvHxYDh3dhNWLnFgOHd2E1YuU_qi5Xnm0WmnOJSWZw4I6Ov0dop5BNfwCsSCe2hqRxP&_nc_ohc=vbafBxCBd5cQ7kNvwHI5ZEo&_nc_oc=AdoaCzQ9kURpfwVNPO9dGZsaYr78W-Wetae1-rCxi7Qk1iEJHP-pTOv9ecnVJ8O5550&_nc_zt=23&_nc_ht=scontent.xx&edm=AOgd6ZUEAAAA&_nc_gid=fjJpIAHCa4ohO6wJlHVIUA&_nc_tpa=Q5bMBQJ19R3i9f0qPppAlk8CoxpSWG5zwxmGb2xDkRSYB8jZWaw-_L4yq9JiVIuxs5fIspKyH9qJAWA3_Q&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQME0Aclxbdt4LqAuhT6LGNxUrufnSJRkDlJeMJ1WbuuQg&oe=6ADD413D",
+        "impressoes": 3810,
+        "alcance": 3241,
+        "cliques": 101,
+        "mensagens": 0,
+        "thruplay": 112,
+        "investimento": 28.45,
+        "cpc": 0.28,
+        "ctr": 2.65
+      },
+      {
+        "id": "120252915319500508",
+        "nome": "É primavera",
+        "status": "PAUSED",
+        "legenda": "É Primavera… cores e formas dão o tom da estação! 2026-09-22-412065c96e2669a494b743f1476ad940",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent.xx.fbcdn.net/v/t15.5256-10/820483729_1096724479748538_2488657461989756073_n.jpg?_nc_cat=111&ccb=1-7&_nc_eui2=AeEj22ZnKxhRu85RIJalrTrVj63ldCL_F6uPreV0Iv8Xq6cgqFGkDdTazwG0OV3MJTG1OsGbCXyp4ug2gzgYP3Mm&_nc_ohc=2VEdLJKyWSoQ7kNvwHcDkHa&_nc_oc=Adq5y1x_9sjJ38Z_4AWb_XhsK97PKsdrMLWNeLRh72XP3gAV4DKjc6v0B3yb837cKv8&_nc_zt=23&_nc_ht=scontent.xx&edm=AOgd6ZUEAAAA&_nc_gid=fjJpIAHCa4ohO6wJlHVIUA&_nc_tpa=Q5bMBQLag09ULsg52GSvhV28gMhOW8nbiVW0jPL0CpcTB12X7IUqV33spfNd5roa9LTZyNebH7EncZquSQ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQPdIazWHtDZrulgzHSbhXsACN08Qc8ALTzB_1fBBfIM0w&oe=6ADD4CE4",
+        "impressoes": 1017,
+        "alcance": 451,
+        "cliques": 8,
+        "mensagens": 4,
+        "thruplay": 31,
+        "investimento": 61.03,
+        "cpc": 7.63,
+        "ctr": 0.79
+      }
+    ],
+    "genero": {
+      "F": 65,
+      "M": 35,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 16,
+      "35-44": 19,
+      "45-54": 20,
+      "55-64": 25,
+      "65+": 20
+    },
+    "periodo": "custom",
+    "timestamp": "2026-10-20T13:18:27.833Z",
+    "prev": {
+      "investimento": 281.13,
+      "impressoes": 14079,
+      "alcance": 8598,
+      "cliques": 265,
+      "cpc": 1.06,
+      "cpm": 19.97,
+      "mensagens": 11,
+      "cpa": 25.56,
+      "thruplay": 383,
+      "frequencia": 1.64
+    }
+  }
+}
