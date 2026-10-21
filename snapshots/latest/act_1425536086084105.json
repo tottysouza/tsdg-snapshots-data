@@ -4,74 +4,74 @@
     "account_name": "BIOMA Paixão",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-20T13:18:18.051Z",
+    "generated_at": "2026-10-21T13:24:14.459Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-13",
-      "until": "2026-10-19",
-      "label_pt": "13 out a 19 out"
+      "since": "2026-10-14",
+      "until": "2026-10-20",
+      "label_pt": "14 out a 20 out"
     },
     "previous": {
-      "since": "2026-10-06",
-      "until": "2026-10-12"
+      "since": "2026-10-07",
+      "until": "2026-10-13"
     }
   },
   "totals": {
     "spend": {
       "current": 0,
-      "previous": 24.9,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "impressions": {
       "current": 0,
-      "previous": 3495,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "reach": {
       "current": 0,
-      "previous": 2417,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "clicks": {
       "current": 0,
-      "previous": 89,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "ctr": {
       "current": null,
-      "previous": 2.55,
+      "previous": null,
       "delta_pct": null
     },
     "cpc": {
       "current": 0,
-      "previous": 0.28,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "thruplay": {
       "current": 0,
-      "previous": 101,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "frequency": {
       "current": 0,
-      "previous": 1.45,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
         "current": 0,
-        "previous": 2,
-        "delta_pct": -100
+        "previous": 0,
+        "delta_pct": 0
       },
       "cost": {
         "current": null,
-        "previous": 12.45,
+        "previous": null,
         "delta_pct": null
       },
       "top_creative": null
@@ -115,7 +115,6 @@
     "account_disabled": false
   },
   "auto_flags": [
-    "spend_delta_over_50",
     "zero_conversations_current",
     "zero_activity_current"
   ]

@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_806895401401781",
+    "account_name": "Espaçolaser Bragança",
+    "segment": "LASER",
+    "template": "LASER",
+    "generated_at": "2026-10-21T13:25:43.613Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-14",
+      "until": "2026-10-20",
+      "label_pt": "14 out a 20 out"
+    },
+    "previous": {
+      "since": "2026-10-07",
+      "until": "2026-10-13"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 301.56,
+      "previous": 383.41,
+      "delta_pct": -21
+    },
+    "impressions": {
+      "current": 22412,
+      "previous": 27669,
+      "delta_pct": -19
+    },
+    "reach": {
+      "current": 12270,
+      "previous": 16910,
+      "delta_pct": -27
+    },
+    "clicks": {
+      "current": 338,
+      "previous": 360,
+      "delta_pct": -6
+    },
+    "ctr": {
+      "current": 1.51,
+      "previous": 1.3,
+      "delta_pct": 16
+    },
+    "cpc": {
+      "current": 0.89,
+      "previous": 1.07,
+      "delta_pct": -17
+    },
+    "thruplay": {
+      "current": 1897,
+      "previous": 2424,
+      "delta_pct": -22
+    },
+    "frequency": {
+      "current": 1.83,
+      "previous": 1.64,
+      "delta_pct": 12
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 9,
+        "previous": 9,
+        "delta_pct": 0
+      },
+      "cost": {
+        "current": 33.51,
+        "previous": 42.6,
+        "delta_pct": -21
+      },
+      "top_creative": {
+        "name": "[80%] Unidade - Parcelinha",
+        "value": 4
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "[80%] Unidade — Parcelinha",
+      "impressions": 5235,
+      "reach": 2974,
+      "clicks": 30,
+      "messages": 0,
+      "ctr": 0.57,
+      "thruplay": 170
+    },
+    {
+      "name": "[80%] Unidade - Parcelinha",
+      "impressions": 3483,
+      "reach": 2084,
+      "clicks": 28,
+      "messages": 4,
+      "ctr": 0.8,
+      "thruplay": 79
+    },
+    {
+      "name": "[80%] Carol Leite",
+      "impressions": 2605,
+      "reach": 2324,
+      "clicks": 93,
+      "messages": 0,
+      "ctr": 3.57,
+      "thruplay": 71
+    },
+    {
+      "name": "[80%] Theo",
+      "impressions": 2539,
+      "reach": 2185,
+      "clicks": 101,
+      "messages": 0,
+      "ctr": 3.98,
+      "thruplay": 94
+    },
+    {
+      "name": "[80%] Unidade — Cópia — Cópia",
+      "impressions": 1477,
+      "reach": 1054,
+      "clicks": 12,
+      "messages": 4,
+      "ctr": 0.81,
+      "thruplay": 30
+    },
+    {
+      "name": "[80%] Especialista planejamento — Cópia",
+      "impressions": 1381,
+      "reach": 1295,
+      "clicks": 11,
+      "messages": 0,
+      "ctr": 0.8,
+      "thruplay": 1022
+    },
+    {
+      "name": "Pena que nao e meu caso",
+      "impressions": 1371,
+      "reach": 1107,
+      "clicks": 24,
+      "messages": 1,
+      "ctr": 1.75,
+      "thruplay": 75
+    },
+    {
+      "name": "[80%] Unidade",
+      "impressions": 1362,
+      "reach": 1013,
+      "clicks": 13,
+      "messages": 0,
+      "ctr": 0.95,
+      "thruplay": 25
+    },
+    {
+      "name": "[80%] Waleska Freitas",
+      "impressions": 1324,
+      "reach": 870,
+      "clicks": 17,
+      "messages": 0,
+      "ctr": 1.28,
+      "thruplay": 45
+    },
+    {
+      "name": "Dia dos solteiros",
+      "impressions": 696,
+      "reach": 515,
+      "clicks": 5,
+      "messages": 0,
+      "ctr": 0.72,
+      "thruplay": 14
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 66,
+      "male_pct": 34,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 2,
+      "25-34": 34,
+      "35-44": 27,
+      "45-54": 18,
+      "55-64": 9,
+      "65+": 9
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 1.02,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_1073344743202770",
+    "account_name": "BIOMA Yu Tin Tin",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-21T13:25:18.396Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-14",
+      "until": "2026-10-20",
+      "label_pt": "14 out a 20 out"
+    },
+    "previous": {
+      "since": "2026-10-07",
+      "until": "2026-10-13"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 291.48,
+      "previous": 566.68,
+      "delta_pct": -49
+    },
+    "impressions": {
+      "current": 17628,
+      "previous": 39406,
+      "delta_pct": -55
+    },
+    "reach": {
+      "current": 12827,
+      "previous": 23998,
+      "delta_pct": -47
+    },
+    "clicks": {
+      "current": 406,
+      "previous": 859,
+      "delta_pct": -53
+    },
+    "ctr": {
+      "current": 2.3,
+      "previous": 2.18,
+      "delta_pct": 6
+    },
+    "cpc": {
+      "current": 0.72,
+      "previous": 0.66,
+      "delta_pct": 9
+    },
+    "thruplay": {
+      "current": 1442,
+      "previous": 3261,
+      "delta_pct": -56
+    },
+    "frequency": {
+      "current": 1.37,
+      "previous": 1.64,
+      "delta_pct": -16
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 16,
+        "previous": 26,
+        "delta_pct": -38
+      },
+      "cost": {
+        "current": 18.22,
+        "previous": 21.8,
+        "delta_pct": -16
+      },
+      "top_creative": {
+        "name": "O frizz",
+        "value": 7
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Bride day",
+      "impressions": 3587,
+      "reach": 3372,
+      "clicks": 36,
+      "messages": 0,
+      "ctr": 1,
+      "thruplay": 709
+    },
+    {
+      "name": "Muito além",
+      "impressions": 2729,
+      "reach": 2507,
+      "clicks": 104,
+      "messages": 0,
+      "ctr": 3.81,
+      "thruplay": 202
+    },
+    {
+      "name": "O frizz",
+      "impressions": 2581,
+      "reach": 1561,
+      "clicks": 40,
+      "messages": 7,
+      "ctr": 1.55,
+      "thruplay": 135
+    },
+    {
+      "name": "Muito além",
+      "impressions": 2046,
+      "reach": 1909,
+      "clicks": 69,
+      "messages": 0,
+      "ctr": 3.37,
+      "thruplay": 123
+    },
+    {
+      "name": "Cuidado masculino",
+      "impressions": 1993,
+      "reach": 1787,
+      "clicks": 66,
+      "messages": 0,
+      "ctr": 3.31,
+      "thruplay": 158
+    },
+    {
+      "name": "Noitede velas",
+      "impressions": 1551,
+      "reach": 866,
+      "clicks": 27,
+      "messages": 7,
+      "ctr": 1.74,
+      "thruplay": 54
+    },
+    {
+      "name": "Bride day",
+      "impressions": 1014,
+      "reach": 906,
+      "clicks": 32,
+      "messages": 1,
+      "ctr": 3.16,
+      "thruplay": 13
+    },
+    {
+      "name": "A sensação",
+      "impressions": 644,
+      "reach": 408,
+      "clicks": 11,
+      "messages": 0,
+      "ctr": 1.71,
+      "thruplay": 0
+    },
+    {
+      "name": "Um loiro bonito",
+      "impressions": 492,
+      "reach": 475,
+      "clicks": 5,
+      "messages": 0,
+      "ctr": 1.02,
+      "thruplay": 0
+    },
+    {
+      "name": "Noite de velas",
+      "impressions": 369,
+      "reach": 368,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 0.54,
+      "thruplay": 43
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 74,
+      "male_pct": 24,
+      "unknown_pct": 2
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 28,
+      "35-44": 19,
+      "45-54": 17,
+      "55-64": 16,
+      "65+": 18
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 54.53,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

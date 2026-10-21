@@ -4,79 +4,79 @@
     "account_name": "BIOMA Uberaba",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-20T13:18:31.105Z",
+    "generated_at": "2026-10-21T13:24:24.555Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-13",
-      "until": "2026-10-19",
-      "label_pt": "13 out a 19 out"
+      "since": "2026-10-14",
+      "until": "2026-10-20",
+      "label_pt": "14 out a 20 out"
     },
     "previous": {
-      "since": "2026-10-06",
-      "until": "2026-10-12"
+      "since": "2026-10-07",
+      "until": "2026-10-13"
     }
   },
   "totals": {
     "spend": {
-      "current": 858.33,
-      "previous": 1000.07,
-      "delta_pct": -14
+      "current": 866.02,
+      "previous": 970.67,
+      "delta_pct": -11
     },
     "impressions": {
-      "current": 74302,
-      "previous": 89795,
-      "delta_pct": -17
+      "current": 73555,
+      "previous": 89264,
+      "delta_pct": -18
     },
     "reach": {
-      "current": 48595,
-      "previous": 56100,
+      "current": 48392,
+      "previous": 55646,
       "delta_pct": -13
     },
     "clicks": {
-      "current": 955,
-      "previous": 1041,
-      "delta_pct": -8
+      "current": 981,
+      "previous": 1038,
+      "delta_pct": -5
     },
     "ctr": {
-      "current": 1.29,
+      "current": 1.33,
       "previous": 1.16,
-      "delta_pct": 11
+      "delta_pct": 15
     },
     "cpc": {
-      "current": 0.9,
-      "previous": 0.96,
+      "current": 0.88,
+      "previous": 0.94,
       "delta_pct": -6
     },
     "thruplay": {
-      "current": 16993,
-      "previous": 19410,
-      "delta_pct": -12
+      "current": 15587,
+      "previous": 19232,
+      "delta_pct": -19
     },
     "frequency": {
-      "current": 1.53,
+      "current": 1.52,
       "previous": 1.6,
-      "delta_pct": -4
+      "delta_pct": -5
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 68,
-        "previous": 69,
-        "delta_pct": -1
+        "current": 65,
+        "previous": 73,
+        "delta_pct": -11
       },
       "cost": {
-        "current": 12.62,
-        "previous": 14.49,
-        "delta_pct": -13
+        "current": 13.32,
+        "previous": 13.3,
+        "delta_pct": 0
       },
       "top_creative": {
         "name": "Rozana",
-        "value": 17
+        "value": 13
       }
     },
     "instagram_visits": {
@@ -98,93 +98,93 @@
   "top_creatives": [
     {
       "name": "Tem cuidados",
-      "impressions": 29618,
-      "reach": 25354,
-      "clicks": 18,
+      "impressions": 28304,
+      "reach": 25090,
+      "clicks": 28,
       "messages": 0,
-      "ctr": 0.06,
-      "thruplay": 12549
-    },
-    {
-      "name": "Rozana",
-      "impressions": 6523,
-      "reach": 4337,
-      "clicks": 132,
-      "messages": 17,
-      "ctr": 2.02,
-      "thruplay": 660
+      "ctr": 0.1,
+      "thruplay": 11326
     },
     {
       "name": "Monalisa",
-      "impressions": 6193,
-      "reach": 5308,
-      "clicks": 272,
+      "impressions": 5882,
+      "reach": 4939,
+      "clicks": 269,
       "messages": 0,
-      "ctr": 4.39,
-      "thruplay": 269
+      "ctr": 4.57,
+      "thruplay": 254
     },
     {
       "name": "MelPlus",
-      "impressions": 5409,
-      "reach": 3589,
-      "clicks": 74,
-      "messages": 11,
-      "ctr": 1.37,
-      "thruplay": 359
+      "impressions": 5003,
+      "reach": 3224,
+      "clicks": 68,
+      "messages": 9,
+      "ctr": 1.36,
+      "thruplay": 324
+    },
+    {
+      "name": "Rozana",
+      "impressions": 4893,
+      "reach": 3411,
+      "clicks": 92,
+      "messages": 13,
+      "ctr": 1.88,
+      "thruplay": 502
     },
     {
       "name": "Tem cuidados — Cópia",
-      "impressions": 4535,
-      "reach": 3996,
+      "impressions": 4133,
+      "reach": 3688,
       "clicks": 1,
       "messages": 0,
       "ctr": 0.02,
-      "thruplay": 1800
+      "thruplay": 1621
     },
     {
       "name": "Autoconhecimento",
-      "impressions": 4366,
-      "reach": 3664,
-      "clicks": 113,
+      "impressions": 3993,
+      "reach": 3375,
+      "clicks": 110,
       "messages": 0,
-      "ctr": 2.59,
-      "thruplay": 154
+      "ctr": 2.75,
+      "thruplay": 145
     },
     {
-      "name": "Você sabia que em Uberaba",
-      "impressions": 2942,
-      "reach": 1845,
-      "clicks": 36,
-      "messages": 4,
-      "ctr": 1.22,
-      "thruplay": 243
+      "name": "Mais comprimento",
+      "impressions": 2859,
+      "reach": 2038,
+      "clicks": 44,
+      "messages": 6,
+      "ctr": 1.54,
+      "thruplay": 1
     },
     {
       "name": "Escova terapêutica",
-      "impressions": 2788,
-      "reach": 1632,
+      "impressions": 2802,
+      "reach": 1634,
       "clicks": 53,
       "messages": 7,
-      "ctr": 1.9,
-      "thruplay": 274
+      "ctr": 1.89,
+      "thruplay": 275
+    },
+    {
+      "name": "Você sabia que em Uberaba",
+      "impressions": 2636,
+      "reach": 1580,
+      "clicks": 30,
+      "messages": 2,
+      "ctr": 1.14,
+      "thruplay": 205
     },
     {
       "name": "Seja bem-vindo",
-      "impressions": 2156,
-      "reach": 1901,
-      "clicks": 96,
+      "impressions": 2574,
+      "reach": 2156,
+      "clicks": 126,
       "messages": 0,
-      "ctr": 4.45,
-      "thruplay": 156
-    },
-    {
-      "name": "Frizz em excesso",
-      "impressions": 2150,
-      "reach": 1184,
-      "clicks": 29,
-      "messages": 9,
-      "ctr": 1.35,
-      "thruplay": 137
+      "ctr": 4.9,
+      "thruplay": 218
     }
   ],
   "demographics": {
@@ -195,16 +195,16 @@
     },
     "age": {
       "18-24": 0,
-      "25-34": 27,
+      "25-34": 26,
       "35-44": 24,
       "45-54": 21,
-      "55-64": 16,
-      "65+": 11
+      "55-64": 17,
+      "65+": 12
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 70.42,
+    "balance_brl": 61.72,
     "balance_low": false,
     "account_disabled": false
   },

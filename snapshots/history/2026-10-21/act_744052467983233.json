@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "account_id": "act_744052467983233",
+    "account_name": "BIOMA Sense",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-21T13:24:24.511Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-14",
+      "until": "2026-10-20",
+      "label_pt": "14 out a 20 out"
+    },
+    "previous": {
+      "since": "2026-10-07",
+      "until": "2026-10-13"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 130.3,
+      "previous": 46.54,
+      "delta_pct": 180
+    },
+    "impressions": {
+      "current": 6577,
+      "previous": 2482,
+      "delta_pct": 165
+    },
+    "reach": {
+      "current": 5276,
+      "previous": 2169,
+      "delta_pct": 143
+    },
+    "clicks": {
+      "current": 131,
+      "previous": 61,
+      "delta_pct": 115
+    },
+    "ctr": {
+      "current": 1.99,
+      "previous": 2.46,
+      "delta_pct": -19
+    },
+    "cpc": {
+      "current": 0.99,
+      "previous": 0.76,
+      "delta_pct": 30
+    },
+    "thruplay": {
+      "current": 407,
+      "previous": 70,
+      "delta_pct": 481
+    },
+    "frequency": {
+      "current": 1.25,
+      "previous": 1.14,
+      "delta_pct": 10
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 12,
+        "previous": 3,
+        "delta_pct": 300
+      },
+      "cost": {
+        "current": 10.86,
+        "previous": 15.51,
+        "delta_pct": -30
+      },
+      "top_creative": {
+        "name": "Tonalização Layer",
+        "value": 10
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "É primavera",
+      "impressions": 2684,
+      "reach": 2459,
+      "clicks": 39,
+      "messages": 0,
+      "ctr": 1.45,
+      "thruplay": 55
+    },
+    {
+      "name": "Tonalização Layer",
+      "impressions": 2289,
+      "reach": 2000,
+      "clicks": 63,
+      "messages": 0,
+      "ctr": 2.75,
+      "thruplay": 199
+    },
+    {
+      "name": "Tonalização Layer",
+      "impressions": 1075,
+      "reach": 760,
+      "clicks": 24,
+      "messages": 10,
+      "ctr": 2.23,
+      "thruplay": 133
+    },
+    {
+      "name": "É primavera",
+      "impressions": 529,
+      "reach": 395,
+      "clicks": 5,
+      "messages": 2,
+      "ctr": 0.95,
+      "thruplay": 20
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 81,
+      "male_pct": 19,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 22,
+      "35-44": 18,
+      "45-54": 22,
+      "55-64": 21,
+      "65+": 16
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 56.2,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "creative_concentration_over_80"
+  ]
+}

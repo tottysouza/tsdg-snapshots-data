@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "account_id": "act_1778995386836575",
+    "account_name": "BIOMA Jackeline",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-21T13:24:18.371Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-14",
+      "until": "2026-10-20",
+      "label_pt": "14 out a 20 out"
+    },
+    "previous": {
+      "since": "2026-10-07",
+      "until": "2026-10-13"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 101.01,
+      "previous": 680.44,
+      "delta_pct": -85
+    },
+    "impressions": {
+      "current": 5165,
+      "previous": 53405,
+      "delta_pct": -90
+    },
+    "reach": {
+      "current": 4358,
+      "previous": 41400,
+      "delta_pct": -89
+    },
+    "clicks": {
+      "current": 238,
+      "previous": 1659,
+      "delta_pct": -86
+    },
+    "ctr": {
+      "current": 4.61,
+      "previous": 3.11,
+      "delta_pct": 48
+    },
+    "cpc": {
+      "current": 0.42,
+      "previous": 0.41,
+      "delta_pct": 2
+    },
+    "thruplay": {
+      "current": 607,
+      "previous": 5152,
+      "delta_pct": -88
+    },
+    "frequency": {
+      "current": 1.19,
+      "previous": 1.29,
+      "delta_pct": -8
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 6,
+        "previous": 31,
+        "delta_pct": -81
+      },
+      "cost": {
+        "current": 16.84,
+        "previous": 21.95,
+        "delta_pct": -23
+      },
+      "top_creative": {
+        "name": "Tem dias que o corpo — Cópia",
+        "value": 3
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Tem dias que o corpo",
+      "impressions": 2421,
+      "reach": 2212,
+      "clicks": 180,
+      "messages": 0,
+      "ctr": 7.43,
+      "thruplay": 87
+    },
+    {
+      "name": "Tem dias que o corpo — Cópia",
+      "impressions": 1165,
+      "reach": 953,
+      "clicks": 35,
+      "messages": 3,
+      "ctr": 3,
+      "thruplay": 62
+    },
+    {
+      "name": "Tem dias que o corpo",
+      "impressions": 732,
+      "reach": 654,
+      "clicks": 13,
+      "messages": 3,
+      "ctr": 1.78,
+      "thruplay": 19
+    },
+    {
+      "name": "Beleza à brasileira",
+      "impressions": 430,
+      "reach": 164,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 0.23,
+      "thruplay": 406
+    },
+    {
+      "name": "Corte",
+      "impressions": 179,
+      "reach": 155,
+      "clicks": 4,
+      "messages": 0,
+      "ctr": 2.23,
+      "thruplay": 5
+    },
+    {
+      "name": "Seu cabelo - reconhecimento",
+      "impressions": 153,
+      "reach": 151,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 1.31,
+      "thruplay": 28
+    },
+    {
+      "name": "Quem vive",
+      "impressions": 83,
+      "reach": 83,
+      "clicks": 3,
+      "messages": 0,
+      "ctr": 3.61,
+      "thruplay": 0
+    },
+    {
+      "name": "Semana",
+      "impressions": 1,
+      "reach": 1,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    },
+    {
+      "name": "Semana",
+      "impressions": 1,
+      "reach": 1,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 36,
+      "male_pct": 64,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 40,
+      "35-44": 27,
+      "45-54": 15,
+      "55-64": 11,
+      "65+": 7
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 2138.84,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50"
+  ]
+}

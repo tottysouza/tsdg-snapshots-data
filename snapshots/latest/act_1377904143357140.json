@@ -4,79 +4,79 @@
     "account_name": "LACES Origens",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-20T13:19:24.498Z",
+    "generated_at": "2026-10-21T13:25:18.650Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-13",
-      "until": "2026-10-19",
-      "label_pt": "13 out a 19 out"
+      "since": "2026-10-14",
+      "until": "2026-10-20",
+      "label_pt": "14 out a 20 out"
     },
     "previous": {
-      "since": "2026-10-06",
-      "until": "2026-10-12"
+      "since": "2026-10-07",
+      "until": "2026-10-13"
     }
   },
   "totals": {
     "spend": {
-      "current": 231.07,
-      "previous": 248.89,
-      "delta_pct": -7
+      "current": 291.88,
+      "previous": 250.81,
+      "delta_pct": 16
     },
     "impressions": {
-      "current": 24343,
-      "previous": 30435,
-      "delta_pct": -20
+      "current": 25132,
+      "previous": 30273,
+      "delta_pct": -17
     },
     "reach": {
-      "current": 18292,
-      "previous": 22830,
-      "delta_pct": -20
+      "current": 18922,
+      "previous": 22619,
+      "delta_pct": -16
     },
     "clicks": {
-      "current": 701,
-      "previous": 573,
-      "delta_pct": 22
+      "current": 732,
+      "previous": 584,
+      "delta_pct": 25
     },
     "ctr": {
-      "current": 2.88,
-      "previous": 1.88,
-      "delta_pct": 53
+      "current": 2.91,
+      "previous": 1.93,
+      "delta_pct": 51
     },
     "cpc": {
-      "current": 0.33,
+      "current": 0.4,
       "previous": 0.43,
-      "delta_pct": -23
+      "delta_pct": -7
     },
     "thruplay": {
-      "current": 4248,
-      "previous": 4075,
-      "delta_pct": 4
+      "current": 4129,
+      "previous": 4244,
+      "delta_pct": -3
     },
     "frequency": {
       "current": 1.33,
-      "previous": 1.33,
-      "delta_pct": 0
+      "previous": 1.34,
+      "delta_pct": -1
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 0,
+        "current": 6,
         "previous": 1,
-        "delta_pct": -100
+        "delta_pct": 500
       },
       "cost": {
-        "current": null,
-        "previous": 248.89,
-        "delta_pct": null
+        "current": 48.65,
+        "previous": 250.81,
+        "delta_pct": -81
       },
       "top_creative": {
-        "name": "Há rituais",
-        "value": 0
+        "name": "Encanto da Lua (estático)",
+        "value": 2
       }
     },
     "instagram_visits": {
@@ -98,90 +98,115 @@
   "top_creatives": [
     {
       "name": "Há rituais",
-      "impressions": 6626,
-      "reach": 5434,
+      "impressions": 6612,
+      "reach": 5399,
       "clicks": 31,
       "messages": 0,
       "ctr": 0.47,
-      "thruplay": 2102
+      "thruplay": 2031
     },
     {
       "name": "Contei para vocês",
-      "impressions": 6521,
-      "reach": 5203,
-      "clicks": 266,
+      "impressions": 5860,
+      "reach": 4757,
+      "clicks": 236,
       "messages": 0,
-      "ctr": 4.08,
-      "thruplay": 409
-    },
-    {
-      "name": "Multiprime",
-      "impressions": 4504,
-      "reach": 3888,
-      "clicks": 39,
-      "messages": 0,
-      "ctr": 0.87,
-      "thruplay": 1157
+      "ctr": 4.03,
+      "thruplay": 400
     },
     {
       "name": "Terapias capilares",
-      "impressions": 4122,
-      "reach": 2771,
-      "clicks": 347,
+      "impressions": 4388,
+      "reach": 2862,
+      "clicks": 373,
       "messages": 0,
-      "ctr": 8.42,
+      "ctr": 8.5,
       "thruplay": 1
     },
     {
-      "name": "Massagens",
-      "impressions": 2547,
-      "reach": 2288,
-      "clicks": 18,
-      "messages": 0,
-      "ctr": 0.71,
-      "thruplay": 579
-    },
-    {
-      "name": "Lua out",
-      "impressions": 17,
-      "reach": 16,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 0
-    },
-    {
       "name": "Multiprime",
-      "impressions": 6,
-      "reach": 5,
-      "clicks": 0,
+      "impressions": 4208,
+      "reach": 3671,
+      "clicks": 39,
       "messages": 0,
-      "ctr": 0,
+      "ctr": 0.93,
+      "thruplay": 990
+    },
+    {
+      "name": "Massagens",
+      "impressions": 2941,
+      "reach": 2514,
+      "clicks": 22,
+      "messages": 0,
+      "ctr": 0.75,
+      "thruplay": 684
+    },
+    {
+      "name": "Encanto da Lua (estático)",
+      "impressions": 255,
+      "reach": 216,
+      "clicks": 6,
+      "messages": 2,
+      "ctr": 2.35,
       "thruplay": 0
+    },
+    {
+      "name": "Terapias capilares R$690 (estático)",
+      "impressions": 214,
+      "reach": 179,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 0.47,
+      "thruplay": 0
+    },
+    {
+      "name": "Encanto da Lua (estático)",
+      "impressions": 154,
+      "reach": 127,
+      "clicks": 6,
+      "messages": 1,
+      "ctr": 3.9,
+      "thruplay": 0
+    },
+    {
+      "name": "Contei para vocês",
+      "impressions": 128,
+      "reach": 123,
+      "clicks": 6,
+      "messages": 1,
+      "ctr": 4.69,
+      "thruplay": 11
+    },
+    {
+      "name": "Encanto da Lua (carrossel vídeo) — Cópia",
+      "impressions": 115,
+      "reach": 97,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 1.74,
+      "thruplay": 3
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 71,
-      "male_pct": 29,
+      "female_pct": 70,
+      "male_pct": 30,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 25,
-      "35-44": 16,
-      "45-54": 15,
+      "25-34": 24,
+      "35-44": 17,
+      "45-54": 16,
       "55-64": 18,
       "65+": 26
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 283.29,
+    "balance_brl": 398.1,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": [
-    "zero_conversations_current"
-  ]
+  "auto_flags": []
 }

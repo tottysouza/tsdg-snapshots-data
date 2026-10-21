@@ -1,0 +1,156 @@
+{
+  "current": {
+    "accountId": "act_1813229102959243",
+    "saldo": 403.3,
+    "periodo": "custom",
+    "dateRange": {
+      "since": "2026-10-14",
+      "until": "2026-10-20"
+    },
+    "timestamp": "2026-10-21T13:25:36.499Z",
+    "kpis": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    },
+    "ads": [],
+    "genero": {
+      "F": 0,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    },
+    "prev": {
+      "investimento": 3.15,
+      "impressoes": 140,
+      "alcance": 133,
+      "cliques": 14,
+      "cpc": 0.23,
+      "cpm": 22.5,
+      "mensagens": 1,
+      "cpa": 3.15,
+      "thruplay": 17,
+      "frequencia": 1.05
+    }
+  },
+  "previous": {
+    "accountId": "act_1813229102959243",
+    "saldo": 403.3,
+    "dateRange": {
+      "since": "2026-10-07",
+      "until": "2026-10-13"
+    },
+    "kpis": {
+      "investimento": 3.15,
+      "impressoes": 140,
+      "alcance": 133,
+      "cliques": 14,
+      "cpc": 0.23,
+      "cpm": 22.5,
+      "mensagens": 1,
+      "cpa": 3.15,
+      "thruplay": 17,
+      "frequencia": 1.05
+    },
+    "ads": [
+      {
+        "id": "120252626968170723",
+        "nome": "Há cabelos",
+        "status": "ACTIVE",
+        "legenda": "Há cabelos que pedem uma legenda.\n\nOutros falam por si.\n\nSobre este, eu não preciso dizer mais nada 2026-09-22-8784c2e1881f93b38a603d10577a8383",
+        "campId": "120241786556810723",
+        "campanha": "02. MEIO | Engajamento WhatsApp | Naturalissima",
+        "adsetId": "120241786556820723",
+        "adset": "VV + INSTA + LL1%",
+        "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/820506831_2367829063989661_8082150871726570786_n.jpg?_nc_cat=102&ccb=1-7&_nc_eui2=AeEW_InNdMcqDsJxulR0H_CiZxm-FOBtgddnGb4U4G2B18czdNBFEqTak8vp1jQdTBgUtksFZMjjGfp6dakeIETA&_nc_ohc=z8K7C_20VjQQ7kNvwHePcyG&_nc_oc=AdqNFShliFDDTrl3bLdmRmDgVagC8Pzcf-5nvC8_0jPuIubaseMGQAEnU3JmM5u9QBE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=mPC9G5aUlQb8k7oK5o0OzQ&_nc_tpa=Q5bMBQIiC8TQz8TSMskyyx68VPXKo-gNt6GduKPa7OflbwFSQzFalQNe9X3O3ia1wAnULf2DUzvKWAS0NA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQPZF4ReKNXGx-Z0CLcahvQA7SqP-6lDn2Kc2lJAtvDkbg&oe=6ADE8ABE",
+        "impressoes": 71,
+        "alcance": 66,
+        "cliques": 6,
+        "mensagens": 1,
+        "thruplay": 3,
+        "investimento": 1.62,
+        "cpc": 0.27,
+        "ctr": 8.45
+      },
+      {
+        "id": "120252318788640723",
+        "nome": "Agora sim, Luzia",
+        "status": "ACTIVE",
+        "legenda": "🎬 Agora sim Luzia! — Episódio 3\n\nHoje, Luzia voltou para a segunda sessão do nosso protocolo de tra 2026-09-03-7d541e37f1287779922ffa8a26542e2c",
+        "campId": "120239617335830723",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120239617335840723",
+        "adset": "Clientes + LL + INSTA",
+        "thumbnail": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/793719943_1370743595172298_4058769261526544614_n.jpg?_nc_cat=105&ccb=1-7&_nc_eui2=AeFlJcYPGpIfZH8hWMilSUUqSs2R6A4fKwVKzZHoDh8rBbIxhJvwmRGS1kDl0qSzFxO5-zHLJYO-diXLxoreJHoR&_nc_ohc=KJrkCOGFUwIQ7kNvwFj0Yyo&_nc_oc=AdrjRpTPszcx7BCKKZl_7gTPKTZsTY44ZN8LwNNZSJVUEB_RoiQ5ifG23o7sDezI5P0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=mPC9G5aUlQb8k7oK5o0OzQ&_nc_tpa=Q5bMBQLPc6ZLfLa-zr9lXjWbQmXWdaaUUvG4LLPQzr0wfw_EQ9LN2MT0y9pBlEjBJ_Zitfhnbdu9qHS_Jg&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQPB4JROc8u40lpI5WW6DLapG8PiPForzOI316UAUmZTvA&oe=6ADEA6BB",
+        "impressoes": 62,
+        "alcance": 62,
+        "cliques": 8,
+        "mensagens": 0,
+        "thruplay": 13,
+        "investimento": 1.21,
+        "cpc": 0.15,
+        "ctr": 12.9
+      },
+      {
+        "id": "120252524011790723",
+        "nome": "O melhor resultado",
+        "status": "ACTIVE",
+        "legenda": "Converse conosco 2026-09-16-71d992a15a2b00da8ab03da20cbf9100",
+        "campId": "120241786556810723",
+        "campanha": "02. MEIO | Engajamento WhatsApp | Naturalissima",
+        "adsetId": "120241786556820723",
+        "adset": "VV + INSTA + LL1%",
+        "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/802561244_1307486351349167_4092999929140494876_n.jpg?_nc_cat=106&ccb=1-7&_nc_eui2=AeHDO8Qddzt9DuO3BEtFWa-s6a8ReO3dkFnprxF47d2QWSFBUguFEYFH0H24rZOOPq8ub5OFmWWKIjasUhC_b7yO&_nc_ohc=Sr02v63TpvQQ7kNvwEggaQk&_nc_oc=Adpeeqg45kTqYo7Ve_XUS3rE3xPdUZF1xWH4HEj1ylpSiysLLLjns2uW2b0-o0dtxRk&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=mPC9G5aUlQb8k7oK5o0OzQ&_nc_tpa=Q5bMBQLKUpOyotumXxYBDhiKVX5V1tBSCRNx9r6iWIDWp_yxhozQZvqYil_GbcvIMuRYIGq6534k0CqJxQ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQNj-fdFnvJoJsHA9Lw34R4y6Ik5nlnR6t7QxPk1iloJvw&oe=6ADE8E9D",
+        "impressoes": 7,
+        "alcance": 5,
+        "cliques": 0,
+        "mensagens": 0,
+        "thruplay": 1,
+        "investimento": 0.32,
+        "cpc": 0,
+        "ctr": 0
+      }
+    ],
+    "genero": {
+      "F": 100,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 7,
+      "35-44": 15,
+      "45-54": 30,
+      "55-64": 25,
+      "65+": 23
+    },
+    "periodo": "custom",
+    "timestamp": "2026-10-21T13:25:40.610Z",
+    "prev": {
+      "investimento": 279.35,
+      "impressoes": 12648,
+      "alcance": 8361,
+      "cliques": 678,
+      "cpc": 0.41,
+      "cpm": 22.09,
+      "mensagens": 33,
+      "cpa": 8.47,
+      "thruplay": 1204,
+      "frequencia": 1.51
+    }
+  }
+}

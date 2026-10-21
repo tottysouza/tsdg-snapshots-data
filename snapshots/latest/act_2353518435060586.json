@@ -4,79 +4,79 @@
     "account_name": "BIOMA Elizete Corrêa",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-20T13:18:20.517Z",
+    "generated_at": "2026-10-21T13:24:17.538Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-13",
-      "until": "2026-10-19",
-      "label_pt": "13 out a 19 out"
+      "since": "2026-10-14",
+      "until": "2026-10-20",
+      "label_pt": "14 out a 20 out"
     },
     "previous": {
-      "since": "2026-10-06",
-      "until": "2026-10-12"
+      "since": "2026-10-07",
+      "until": "2026-10-13"
     }
   },
   "totals": {
     "spend": {
-      "current": 462.97,
-      "previous": 475.35,
-      "delta_pct": -3
+      "current": 466.05,
+      "previous": 476.05,
+      "delta_pct": -2
     },
     "impressions": {
-      "current": 30435,
-      "previous": 28807,
-      "delta_pct": 6
+      "current": 31746,
+      "previous": 28406,
+      "delta_pct": 12
     },
     "reach": {
-      "current": 24520,
-      "previous": 22217,
-      "delta_pct": 10
+      "current": 25627,
+      "previous": 21685,
+      "delta_pct": 18
     },
     "clicks": {
-      "current": 1051,
-      "previous": 926,
+      "current": 1089,
+      "previous": 968,
       "delta_pct": 13
     },
     "ctr": {
-      "current": 3.45,
-      "previous": 3.21,
-      "delta_pct": 7
+      "current": 3.43,
+      "previous": 3.41,
+      "delta_pct": 1
     },
     "cpc": {
-      "current": 0.44,
-      "previous": 0.51,
-      "delta_pct": -14
+      "current": 0.43,
+      "previous": 0.49,
+      "delta_pct": -12
     },
     "thruplay": {
-      "current": 6236,
-      "previous": 5464,
-      "delta_pct": 14
+      "current": 7147,
+      "previous": 5307,
+      "delta_pct": 35
     },
     "frequency": {
       "current": 1.24,
-      "previous": 1.3,
+      "previous": 1.31,
       "delta_pct": -5
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 37,
-        "previous": 26,
-        "delta_pct": 42
+        "current": 42,
+        "previous": 25,
+        "delta_pct": 68
       },
       "cost": {
-        "current": 12.51,
-        "previous": 18.28,
-        "delta_pct": -32
+        "current": 11.1,
+        "previous": 19.04,
+        "delta_pct": -42
       },
       "top_creative": {
         "name": "Foi executada",
-        "value": 29
+        "value": 34
       }
     },
     "instagram_visits": {
@@ -97,94 +97,94 @@
   },
   "top_creatives": [
     {
-      "name": "Corte de cabelo",
-      "impressions": 9385,
-      "reach": 8950,
-      "clicks": 140,
-      "messages": 0,
-      "ctr": 1.49,
-      "thruplay": 2499
-    },
-    {
       "name": "Foi executada",
-      "impressions": 8401,
-      "reach": 5154,
-      "clicks": 519,
-      "messages": 29,
-      "ctr": 6.18,
-      "thruplay": 698
+      "impressions": 8942,
+      "reach": 5598,
+      "clicks": 554,
+      "messages": 34,
+      "ctr": 6.2,
+      "thruplay": 743
     },
     {
-      "name": "Sua transição 2",
-      "impressions": 5008,
-      "reach": 4194,
-      "clicks": 266,
+      "name": "Corte de cabelo",
+      "impressions": 7825,
+      "reach": 7420,
+      "clicks": 118,
       "messages": 0,
-      "ctr": 5.31,
-      "thruplay": 851
+      "ctr": 1.51,
+      "thruplay": 2120
     },
     {
       "name": "Sobre curtinho",
-      "impressions": 3583,
-      "reach": 3583,
-      "clicks": 20,
+      "impressions": 6540,
+      "reach": 6429,
+      "clicks": 38,
       "messages": 0,
-      "ctr": 0.56,
-      "thruplay": 1474
+      "ctr": 0.58,
+      "thruplay": 2779
+    },
+    {
+      "name": "Sua transição 2",
+      "impressions": 4480,
+      "reach": 3784,
+      "clicks": 249,
+      "messages": 0,
+      "ctr": 5.56,
+      "thruplay": 783
     },
     {
       "name": "Corte de cabelo",
-      "impressions": 1887,
-      "reach": 1840,
-      "clicks": 23,
+      "impressions": 1602,
+      "reach": 1575,
+      "clicks": 18,
       "messages": 0,
-      "ctr": 1.22,
-      "thruplay": 516
+      "ctr": 1.12,
+      "thruplay": 441
     },
     {
       "name": "Nossa coloração",
-      "impressions": 1115,
-      "reach": 794,
+      "impressions": 941,
+      "reach": 683,
       "clicks": 32,
       "messages": 3,
-      "ctr": 2.87,
-      "thruplay": 91
-    },
-    {
-      "name": "Vela video",
-      "impressions": 307,
-      "reach": 184,
-      "clicks": 5,
-      "messages": 0,
-      "ctr": 1.63,
-      "thruplay": 13
+      "ctr": 3.4,
+      "thruplay": 81
     },
     {
       "name": "Sua transição",
-      "impressions": 242,
-      "reach": 226,
-      "clicks": 25,
+      "impressions": 709,
+      "reach": 661,
+      "clicks": 52,
       "messages": 1,
-      "ctr": 10.33,
-      "thruplay": 55
+      "ctr": 7.33,
+      "thruplay": 148
+    },
+    {
+      "name": "Vela video",
+      "impressions": 218,
+      "reach": 131,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 0.92,
+      "thruplay": 9
     },
     {
       "name": "As vezes",
-      "impressions": 176,
-      "reach": 94,
-      "clicks": 10,
+      "impressions": 164,
+      "reach": 83,
+      "clicks": 14,
       "messages": 2,
-      "ctr": 5.68,
-      "thruplay": 11
+      "ctr": 8.54,
+      "thruplay": 14
     },
     {
       "name": "Morena iluminada",
-      "impressions": 147,
-      "reach": 82,
+      "impressions": 120,
+      "reach": 69,
       "clicks": 9,
       "messages": 2,
-      "ctr": 6.12,
-      "thruplay": 11
+      "ctr": 7.5,
+      "thruplay": 10
     }
   ],
   "demographics": {
@@ -197,16 +197,18 @@
       "18-24": 0,
       "25-34": 4,
       "35-44": 9,
-      "45-54": 21,
-      "55-64": 32,
+      "45-54": 20,
+      "55-64": 33,
       "65+": 34
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 549.93,
+    "balance_brl": 621.22,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": []
+  "auto_flags": [
+    "creative_concentration_over_80"
+  ]
 }
