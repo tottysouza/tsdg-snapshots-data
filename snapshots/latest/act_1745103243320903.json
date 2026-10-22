@@ -4,79 +4,79 @@
     "account_name": "BIOMA Casa 631",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-21T13:24:11.871Z",
+    "generated_at": "2026-10-22T13:25:13.012Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-14",
-      "until": "2026-10-20",
-      "label_pt": "14 out a 20 out"
+      "since": "2026-10-15",
+      "until": "2026-10-21",
+      "label_pt": "15 out a 21 out"
     },
     "previous": {
-      "since": "2026-10-07",
-      "until": "2026-10-13"
+      "since": "2026-10-08",
+      "until": "2026-10-14"
     }
   },
   "totals": {
     "spend": {
-      "current": 85.69,
-      "previous": 315.18,
-      "delta_pct": -73
+      "current": 178.36,
+      "previous": 258.62,
+      "delta_pct": -31
     },
     "impressions": {
-      "current": 5679,
-      "previous": 21485,
-      "delta_pct": -74
+      "current": 10864,
+      "previous": 17760,
+      "delta_pct": -39
     },
     "reach": {
-      "current": 4542,
-      "previous": 11911,
-      "delta_pct": -62
+      "current": 7644,
+      "previous": 10593,
+      "delta_pct": -28
     },
     "clicks": {
-      "current": 216,
-      "previous": 988,
-      "delta_pct": -78
+      "current": 399,
+      "previous": 857,
+      "delta_pct": -53
     },
     "ctr": {
-      "current": 3.8,
-      "previous": 4.6,
-      "delta_pct": -17
+      "current": 3.67,
+      "previous": 4.83,
+      "delta_pct": -24
     },
     "cpc": {
-      "current": 0.4,
-      "previous": 0.32,
-      "delta_pct": 25
+      "current": 0.45,
+      "previous": 0.3,
+      "delta_pct": 50
     },
     "thruplay": {
-      "current": 323,
-      "previous": 1947,
-      "delta_pct": -83
+      "current": 843,
+      "previous": 1578,
+      "delta_pct": -47
     },
     "frequency": {
-      "current": 1.25,
-      "previous": 1.8,
-      "delta_pct": -31
+      "current": 1.42,
+      "previous": 1.68,
+      "delta_pct": -15
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 2,
-        "previous": 15,
-        "delta_pct": -87
+        "current": 5,
+        "previous": 11,
+        "delta_pct": -55
       },
       "cost": {
-        "current": 42.84,
-        "previous": 21.01,
-        "delta_pct": 104
+        "current": 35.67,
+        "previous": 23.51,
+        "delta_pct": 52
       },
       "top_creative": {
         "name": "Cuidado",
-        "value": 2
+        "value": 3
       }
     },
     "instagram_visits": {
@@ -97,65 +97,80 @@
   },
   "top_creatives": [
     {
+      "name": "Cuidado",
+      "impressions": 3381,
+      "reach": 2465,
+      "clicks": 65,
+      "messages": 3,
+      "ctr": 1.92,
+      "thruplay": 281
+    },
+    {
       "name": "Seu cabelo",
-      "impressions": 2210,
-      "reach": 1908,
-      "clicks": 170,
+      "impressions": 3294,
+      "reach": 2575,
+      "clicks": 271,
       "messages": 0,
-      "ctr": 7.69,
+      "ctr": 8.23,
       "thruplay": 1
     },
     {
       "name": "Seu cabelo",
-      "impressions": 1609,
-      "reach": 1299,
-      "clicks": 16,
-      "messages": 0,
-      "ctr": 0.99,
-      "thruplay": 15
-    },
-    {
-      "name": "Cuidado",
-      "impressions": 1263,
-      "reach": 1021,
-      "clicks": 25,
+      "impressions": 2349,
+      "reach": 1648,
+      "clicks": 24,
       "messages": 2,
-      "ctr": 1.98,
-      "thruplay": 85
+      "ctr": 1.02,
+      "thruplay": 21
     },
     {
       "name": "Comunidade",
-      "impressions": 597,
-      "reach": 575,
-      "clicks": 5,
+      "impressions": 1137,
+      "reach": 1069,
+      "clicks": 13,
       "messages": 0,
-      "ctr": 0.84,
-      "thruplay": 222
+      "ctr": 1.14,
+      "thruplay": 416
+    },
+    {
+      "name": "Um novo conceito",
+      "impressions": 423,
+      "reach": 402,
+      "clicks": 23,
+      "messages": 0,
+      "ctr": 5.44,
+      "thruplay": 0
+    },
+    {
+      "name": "Alguns lugares — Cópia",
+      "impressions": 280,
+      "reach": 271,
+      "clicks": 3,
+      "messages": 0,
+      "ctr": 1.07,
+      "thruplay": 124
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 57,
-      "male_pct": 43,
+      "female_pct": 59,
+      "male_pct": 41,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 39,
+      "25-34": 38,
       "35-44": 25,
-      "45-54": 16,
-      "55-64": 11,
-      "65+": 9
+      "45-54": 17,
+      "55-64": 12,
+      "65+": 10
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 137.3,
+    "balance_brl": 216.81,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": [
-    "spend_delta_over_50",
-    "creative_concentration_over_80"
-  ]
+  "auto_flags": []
 }

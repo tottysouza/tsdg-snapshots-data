@@ -4,20 +4,20 @@
     "account_name": "BIOMA Paixão",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-21T13:24:14.459Z",
+    "generated_at": "2026-10-22T13:25:14.570Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-14",
-      "until": "2026-10-20",
-      "label_pt": "14 out a 20 out"
+      "since": "2026-10-15",
+      "until": "2026-10-21",
+      "label_pt": "15 out a 21 out"
     },
     "previous": {
-      "since": "2026-10-07",
-      "until": "2026-10-13"
+      "since": "2026-10-08",
+      "until": "2026-10-14"
     }
   },
   "totals": {

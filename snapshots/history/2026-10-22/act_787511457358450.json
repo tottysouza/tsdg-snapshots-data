@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "account_id": "act_787511457358450",
+    "account_name": "BIOMA Brisa",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-22T13:25:07.287Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-15",
+      "until": "2026-10-21",
+      "label_pt": "15 out a 21 out"
+    },
+    "previous": {
+      "since": "2026-10-08",
+      "until": "2026-10-14"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 0,
+      "previous": 0,
+      "delta_pct": 0
+    },
+    "impressions": {
+      "current": 0,
+      "previous": 0,
+      "delta_pct": 0
+    },
+    "reach": {
+      "current": 0,
+      "previous": 0,
+      "delta_pct": 0
+    },
+    "clicks": {
+      "current": 0,
+      "previous": 0,
+      "delta_pct": 0
+    },
+    "ctr": {
+      "current": null,
+      "previous": null,
+      "delta_pct": null
+    },
+    "cpc": {
+      "current": 0,
+      "previous": 0,
+      "delta_pct": 0
+    },
+    "thruplay": {
+      "current": 0,
+      "previous": 0,
+      "delta_pct": 0
+    },
+    "frequency": {
+      "current": 0,
+      "previous": 0,
+      "delta_pct": 0
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 0,
+        "previous": 0,
+        "delta_pct": 0
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [],
+  "demographics": {
+    "gender": {
+      "female_pct": 0,
+      "male_pct": 0,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 0,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "zero_conversations_current",
+    "zero_activity_current"
+  ]
+}
