@@ -4,80 +4,77 @@
     "account_name": "BIOMA Jackeline",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-22T13:25:17.349Z",
+    "generated_at": "2026-10-23T13:03:45.590Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-15",
-      "until": "2026-10-21",
-      "label_pt": "15 out a 21 out"
+      "since": "2026-10-16",
+      "until": "2026-10-22",
+      "label_pt": "16 out a 22 out"
     },
     "previous": {
-      "since": "2026-10-08",
-      "until": "2026-10-14"
+      "since": "2026-10-09",
+      "until": "2026-10-15"
     }
   },
   "totals": {
     "spend": {
-      "current": 0.46,
-      "previous": 655.7,
+      "current": 0,
+      "previous": 559.45,
       "delta_pct": -100
     },
     "impressions": {
-      "current": 38,
-      "previous": 49452,
+      "current": 0,
+      "previous": 44616,
       "delta_pct": -100
     },
     "reach": {
-      "current": 38,
-      "previous": 38828,
+      "current": 0,
+      "previous": 35662,
       "delta_pct": -100
     },
     "clicks": {
-      "current": 3,
-      "previous": 1612,
+      "current": 0,
+      "previous": 1407,
       "delta_pct": -100
     },
     "ctr": {
-      "current": 7.89,
-      "previous": 3.26,
-      "delta_pct": 142
+      "current": null,
+      "previous": 3.15,
+      "delta_pct": null
     },
     "cpc": {
-      "current": 0.15,
-      "previous": 0.41,
-      "delta_pct": -63
+      "current": 0,
+      "previous": 0.4,
+      "delta_pct": -100
     },
     "thruplay": {
-      "current": 3,
-      "previous": 4996,
+      "current": 0,
+      "previous": 4292,
       "delta_pct": -100
     },
     "frequency": {
-      "current": 1,
-      "previous": 1.27,
-      "delta_pct": -21
+      "current": 0,
+      "previous": 1.25,
+      "delta_pct": -100
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 1,
-        "previous": 30,
-        "delta_pct": -97
+        "current": 0,
+        "previous": 24,
+        "delta_pct": -100
       },
       "cost": {
-        "current": 0.46,
-        "previous": 21.86,
-        "delta_pct": -98
+        "current": null,
+        "previous": 23.31,
+        "delta_pct": null
       },
-      "top_creative": {
-        "name": "Tem dias que o corpo",
-        "value": 1
-      }
+      "top_creative": null
     },
     "instagram_visits": {
       "count": {
@@ -95,57 +92,20 @@
     "site_visits": null,
     "site_purchases": null
   },
-  "top_creatives": [
-    {
-      "name": "Tem dias que o corpo",
-      "impressions": 30,
-      "reach": 30,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 0
-    },
-    {
-      "name": "Tem dias que o corpo — Cópia",
-      "impressions": 4,
-      "reach": 4,
-      "clicks": 1,
-      "messages": 0,
-      "ctr": 25,
-      "thruplay": 1
-    },
-    {
-      "name": "Tem dias que o corpo",
-      "impressions": 3,
-      "reach": 3,
-      "clicks": 2,
-      "messages": 1,
-      "ctr": 66.67,
-      "thruplay": 1
-    },
-    {
-      "name": "Beleza à brasileira",
-      "impressions": 1,
-      "reach": 1,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 1
-    }
-  ],
+  "top_creatives": [],
   "demographics": {
     "gender": {
-      "female_pct": 67,
-      "male_pct": 33,
+      "female_pct": 0,
+      "male_pct": 0,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 45,
-      "35-44": 26,
-      "45-54": 18,
-      "55-64": 8,
-      "65+": 3
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
     }
   },
   "campaigns_active": [],
@@ -156,6 +116,7 @@
   },
   "auto_flags": [
     "spend_delta_over_50",
-    "creative_concentration_over_80"
+    "zero_conversations_current",
+    "zero_activity_current"
   ]
 }

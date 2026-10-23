@@ -4,20 +4,20 @@
     "account_name": "MORINGA Hair",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-22T13:27:04.897Z",
+    "generated_at": "2026-10-23T13:05:33.315Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-15",
-      "until": "2026-10-21",
-      "label_pt": "15 out a 21 out"
+      "since": "2026-10-16",
+      "until": "2026-10-22",
+      "label_pt": "16 out a 22 out"
     },
     "previous": {
-      "since": "2026-10-08",
-      "until": "2026-10-14"
+      "since": "2026-10-09",
+      "until": "2026-10-15"
     }
   },
   "totals": {

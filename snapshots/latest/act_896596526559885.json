@@ -4,79 +4,79 @@
     "account_name": "VIRGO Cases",
     "segment": "TECH",
     "template": "VIRGO",
-    "generated_at": "2026-10-22T13:27:18.400Z",
+    "generated_at": "2026-10-23T13:05:46.181Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-15",
-      "until": "2026-10-21",
-      "label_pt": "15 out a 21 out"
+      "since": "2026-10-16",
+      "until": "2026-10-22",
+      "label_pt": "16 out a 22 out"
     },
     "previous": {
-      "since": "2026-10-08",
-      "until": "2026-10-14"
+      "since": "2026-10-09",
+      "until": "2026-10-15"
     }
   },
   "totals": {
     "spend": {
-      "current": 375.48,
-      "previous": 681.14,
-      "delta_pct": -45
+      "current": 334.79,
+      "previous": 630.12,
+      "delta_pct": -47
     },
     "impressions": {
-      "current": 59449,
-      "previous": 95037,
-      "delta_pct": -37
+      "current": 49183,
+      "previous": 93080,
+      "delta_pct": -47
     },
     "reach": {
-      "current": 28923,
-      "previous": 47720,
-      "delta_pct": -39
+      "current": 25221,
+      "previous": 42023,
+      "delta_pct": -40
     },
     "clicks": {
-      "current": 4593,
-      "previous": 6786,
-      "delta_pct": -32
+      "current": 3772,
+      "previous": 7040,
+      "delta_pct": -46
     },
     "ctr": {
-      "current": 7.73,
-      "previous": 7.14,
-      "delta_pct": 8
+      "current": 7.67,
+      "previous": 7.56,
+      "delta_pct": 1
     },
     "cpc": {
-      "current": 0.08,
-      "previous": 0.1,
-      "delta_pct": -20
+      "current": 0.09,
+      "previous": 0.09,
+      "delta_pct": 0
     },
     "thruplay": {
-      "current": 584,
-      "previous": 1160,
-      "delta_pct": -50
+      "current": 561,
+      "previous": 1063,
+      "delta_pct": -47
     },
     "frequency": {
-      "current": 2.06,
-      "previous": 1.99,
-      "delta_pct": 4
+      "current": 1.95,
+      "previous": 2.21,
+      "delta_pct": -12
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 0,
-        "previous": 3,
-        "delta_pct": -100
+        "current": 2,
+        "previous": 2,
+        "delta_pct": 0
       },
       "cost": {
-        "current": null,
-        "previous": 227.05,
-        "delta_pct": null
+        "current": 167.4,
+        "previous": 315.06,
+        "delta_pct": -47
       },
       "top_creative": {
-        "name": "6",
-        "value": 0
+        "name": "RMKT · \"10\" Coleção/tempo",
+        "value": 2
       }
     },
     "instagram_visits": {
@@ -118,48 +118,66 @@
   "top_creatives": [
     {
       "name": "6",
-      "impressions": 31303,
-      "reach": 11265,
-      "clicks": 2482,
+      "impressions": 25764,
+      "reach": 9945,
+      "clicks": 2069,
       "messages": 0,
-      "ctr": 7.93,
-      "thruplay": 176
-    },
-    {
-      "name": "Depois de alguns dias",
-      "impressions": 11375,
-      "reach": 8442,
-      "clicks": 889,
-      "messages": 0,
-      "ctr": 7.82,
-      "thruplay": 4
+      "ctr": 8.03,
+      "thruplay": 137
     },
     {
       "name": "Coleção merece",
-      "impressions": 10022,
-      "reach": 6921,
-      "clicks": 831,
+      "impressions": 9820,
+      "reach": 6768,
+      "clicks": 814,
       "messages": 0,
       "ctr": 8.29,
       "thruplay": 0
     },
     {
-      "name": "A forma",
-      "impressions": 4131,
-      "reach": 3318,
-      "clicks": 214,
+      "name": "Depois de alguns dias",
+      "impressions": 6368,
+      "reach": 5346,
+      "clicks": 470,
       "messages": 0,
-      "ctr": 5.18,
-      "thruplay": 388
+      "ctr": 7.38,
+      "thruplay": 3
+    },
+    {
+      "name": "A forma",
+      "impressions": 3352,
+      "reach": 2725,
+      "clicks": 169,
+      "messages": 0,
+      "ctr": 5.04,
+      "thruplay": 318
     },
     {
       "name": "3",
-      "impressions": 2324,
-      "reach": 1428,
-      "clicks": 157,
+      "impressions": 1889,
+      "reach": 1171,
+      "clicks": 126,
       "messages": 0,
-      "ctr": 6.76,
-      "thruplay": 15
+      "ctr": 6.67,
+      "thruplay": 14
+    },
+    {
+      "name": "AQ · \"A forma\" vídeo (post IG) v3",
+      "impressions": 635,
+      "reach": 580,
+      "clicks": 49,
+      "messages": 0,
+      "ctr": 7.72,
+      "thruplay": 45
+    },
+    {
+      "name": "TOPO · \"A forma\" vídeo (post IG) v2",
+      "impressions": 287,
+      "reach": 273,
+      "clicks": 6,
+      "messages": 0,
+      "ctr": 2.09,
+      "thruplay": 17
     },
     {
       "name": "10",
@@ -171,28 +189,28 @@
       "thruplay": 0
     },
     {
-      "name": "Cada segundo conta",
-      "impressions": 10,
-      "reach": 9,
-      "clicks": 0,
+      "name": "RMKT · \"Coleção merece\" 3/6/10",
+      "impressions": 214,
+      "reach": 179,
+      "clicks": 9,
       "messages": 0,
-      "ctr": 0,
-      "thruplay": 1
+      "ctr": 4.21,
+      "thruplay": 13
     },
     {
-      "name": "Elegância que acompanha",
-      "impressions": 1,
-      "reach": 1,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 0
+      "name": "RMKT · \"10\" Coleção/tempo",
+      "impressions": 213,
+      "reach": 162,
+      "clicks": 20,
+      "messages": 2,
+      "ctr": 9.39,
+      "thruplay": 4
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 50,
-      "male_pct": 50,
+      "female_pct": 48,
+      "male_pct": 52,
       "unknown_pct": 0
     },
     "age": {
@@ -206,12 +224,12 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 2,
+    "balance_brl": 51.4,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
-    "zero_conversations_current",
+    "creative_concentration_over_80",
     "balance_low"
   ]
 }
