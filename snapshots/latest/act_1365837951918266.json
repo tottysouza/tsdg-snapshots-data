@@ -4,47 +4,47 @@
     "account_name": "MIMO Live Sales",
     "segment": "TECH",
     "template": "MIMO",
-    "generated_at": "2026-10-23T13:05:54.371Z",
+    "generated_at": "2026-10-24T12:27:48.894Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-16",
-      "until": "2026-10-22",
-      "label_pt": "16 out a 22 out"
+      "since": "2026-10-17",
+      "until": "2026-10-23",
+      "label_pt": "17 out a 23 out"
     },
     "previous": {
-      "since": "2026-10-09",
-      "until": "2026-10-15"
+      "since": "2026-10-10",
+      "until": "2026-10-16"
     }
   },
   "totals": {
     "spend": {
-      "current": 285.69,
-      "previous": 274.94,
-      "delta_pct": 4
+      "current": 284.5,
+      "previous": 284.97,
+      "delta_pct": 0
     },
     "impressions": {
-      "current": 29944,
-      "previous": 31176,
-      "delta_pct": -4
+      "current": 29768,
+      "previous": 33418,
+      "delta_pct": -11
     },
     "reach": {
-      "current": 20748,
-      "previous": 23163,
-      "delta_pct": -10
+      "current": 20551,
+      "previous": 25199,
+      "delta_pct": -18
     },
     "clicks": {
-      "current": 1669,
-      "previous": 1588,
+      "current": 1722,
+      "previous": 1642,
       "delta_pct": 5
     },
     "ctr": {
-      "current": 5.57,
-      "previous": 5.09,
-      "delta_pct": 9
+      "current": 5.78,
+      "previous": 4.91,
+      "delta_pct": 18
     },
     "cpc": {
       "current": 0.17,
@@ -52,14 +52,14 @@
       "delta_pct": 0
     },
     "thruplay": {
-      "current": 511,
-      "previous": 468,
-      "delta_pct": 9
+      "current": 546,
+      "previous": 481,
+      "delta_pct": 14
     },
     "frequency": {
-      "current": 1.44,
-      "previous": 1.35,
-      "delta_pct": 7
+      "current": 1.45,
+      "previous": 1.33,
+      "delta_pct": 9
     }
   },
   "conversions": {
@@ -98,53 +98,53 @@
   "top_creatives": [
     {
       "name": "ANÚNCIO CALENDÁRIO",
-      "impressions": 16285,
-      "reach": 12017,
-      "clicks": 898,
+      "impressions": 15836,
+      "reach": 11959,
+      "clicks": 925,
       "messages": 0,
-      "ctr": 5.51,
+      "ctr": 5.84,
       "thruplay": 323
     },
     {
       "name": "ANÚNCIO BLACK",
-      "impressions": 10470,
-      "reach": 8186,
-      "clicks": 397,
+      "impressions": 11414,
+      "reach": 8651,
+      "clicks": 484,
       "messages": 0,
-      "ctr": 3.79,
-      "thruplay": 188
+      "ctr": 4.24,
+      "thruplay": 223
     },
     {
       "name": "Sua BF ja comecou?",
-      "impressions": 2860,
-      "reach": 1312,
-      "clicks": 335,
+      "impressions": 2233,
+      "reach": 1152,
+      "clicks": 275,
       "messages": 0,
-      "ctr": 11.71,
+      "ctr": 12.32,
       "thruplay": 0
     },
     {
       "name": "O calendário",
-      "impressions": 285,
-      "reach": 250,
-      "clicks": 39,
+      "impressions": 256,
+      "reach": 230,
+      "clicks": 38,
       "messages": 0,
-      "ctr": 13.68,
+      "ctr": 14.84,
       "thruplay": 0
     },
     {
-      "name": "A BF ainda está",
-      "impressions": 25,
-      "reach": 25,
+      "name": "O último trimestre",
+      "impressions": 18,
+      "reach": 18,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
       "thruplay": 0
     },
     {
-      "name": "O último trimestre",
-      "impressions": 19,
-      "reach": 19,
+      "name": "A BF ainda está",
+      "impressions": 11,
+      "reach": 11,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
@@ -153,22 +153,22 @@
   ],
   "demographics": {
     "gender": {
-      "female_pct": 21,
-      "male_pct": 79,
+      "female_pct": 20,
+      "male_pct": 80,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 7,
-      "35-44": 5,
-      "45-54": 9,
+      "25-34": 6,
+      "35-44": 4,
+      "45-54": 8,
       "55-64": 23,
-      "65+": 57
+      "65+": 59
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 450.08,
+    "balance_brl": 494.61,
     "balance_low": false,
     "account_disabled": false
   },
