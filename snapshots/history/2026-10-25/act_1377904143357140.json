@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_1377904143357140",
+    "account_name": "LACES Origens",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-25T12:56:51.553Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-18",
+      "until": "2026-10-24",
+      "label_pt": "18 out a 24 out"
+    },
+    "previous": {
+      "since": "2026-10-11",
+      "until": "2026-10-17"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 556.66,
+      "previous": 244.27,
+      "delta_pct": 128
+    },
+    "impressions": {
+      "current": 31292,
+      "previous": 26625,
+      "delta_pct": 18
+    },
+    "reach": {
+      "current": 23176,
+      "previous": 19048,
+      "delta_pct": 22
+    },
+    "clicks": {
+      "current": 1162,
+      "previous": 682,
+      "delta_pct": 70
+    },
+    "ctr": {
+      "current": 3.71,
+      "previous": 2.56,
+      "delta_pct": 45
+    },
+    "cpc": {
+      "current": 0.48,
+      "previous": 0.36,
+      "delta_pct": 33
+    },
+    "thruplay": {
+      "current": 3881,
+      "previous": 4596,
+      "delta_pct": -16
+    },
+    "frequency": {
+      "current": 1.35,
+      "previous": 1.4,
+      "delta_pct": -4
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 26,
+        "previous": 1,
+        "delta_pct": 2500
+      },
+      "cost": {
+        "current": 21.41,
+        "previous": 244.27,
+        "delta_pct": -91
+      },
+      "top_creative": {
+        "name": "Encanto da Lua (carrossel vídeo) — Cópia",
+        "value": 8
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Contei para vocês",
+      "impressions": 6615,
+      "reach": 5296,
+      "clicks": 251,
+      "messages": 1,
+      "ctr": 3.79,
+      "thruplay": 475
+    },
+    {
+      "name": "Multiprime",
+      "impressions": 5233,
+      "reach": 4462,
+      "clicks": 61,
+      "messages": 0,
+      "ctr": 1.17,
+      "thruplay": 1169
+    },
+    {
+      "name": "Há rituais",
+      "impressions": 4348,
+      "reach": 3800,
+      "clicks": 35,
+      "messages": 0,
+      "ctr": 0.8,
+      "thruplay": 1220
+    },
+    {
+      "name": "V2 PAS | Feed+Story",
+      "impressions": 3364,
+      "reach": 2274,
+      "clicks": 352,
+      "messages": 0,
+      "ctr": 10.46,
+      "thruplay": 0
+    },
+    {
+      "name": "Massagens",
+      "impressions": 2444,
+      "reach": 2008,
+      "clicks": 19,
+      "messages": 0,
+      "ctr": 0.78,
+      "thruplay": 650
+    },
+    {
+      "name": "Terapias capilares",
+      "impressions": 2263,
+      "reach": 1723,
+      "clicks": 204,
+      "messages": 0,
+      "ctr": 9.01,
+      "thruplay": 0
+    },
+    {
+      "name": "Encanto da Lua (carrossel vídeo) — Cópia",
+      "impressions": 2040,
+      "reach": 1275,
+      "clicks": 45,
+      "messages": 8,
+      "ctr": 2.21,
+      "thruplay": 137
+    },
+    {
+      "name": "Contei para vocês",
+      "impressions": 1053,
+      "reach": 820,
+      "clicks": 39,
+      "messages": 5,
+      "ctr": 3.7,
+      "thruplay": 111
+    },
+    {
+      "name": "Encanto da Lua (carrossel vídeo)",
+      "impressions": 919,
+      "reach": 707,
+      "clicks": 23,
+      "messages": 3,
+      "ctr": 2.5,
+      "thruplay": 64
+    },
+    {
+      "name": "V1 AIDA | Feed+Story",
+      "impressions": 714,
+      "reach": 348,
+      "clicks": 57,
+      "messages": 0,
+      "ctr": 7.98,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 87,
+      "male_pct": 13,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 3,
+      "25-34": 21,
+      "35-44": 18,
+      "45-54": 18,
+      "55-64": 18,
+      "65+": 22
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 281.14,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50"
+  ]
+}

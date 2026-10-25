@@ -4,82 +4,77 @@
     "account_name": "BIOMA Silvio Amaral",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-24T12:27:07.429Z",
-    "fetch_status": "partial",
+    "generated_at": "2026-10-25T12:56:40.494Z",
+    "fetch_status": "ok",
     "fetch_source": "github_actions",
-    "notes": [
-      "previous: timeout 25s"
-    ]
+    "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-17",
-      "until": "2026-10-23",
-      "label_pt": "17 out a 23 out"
+      "since": "2026-10-18",
+      "until": "2026-10-24",
+      "label_pt": "18 out a 24 out"
     },
     "previous": {
-      "since": "2026-10-10",
-      "until": "2026-10-16"
+      "since": "2026-10-11",
+      "until": "2026-10-17"
     }
   },
   "totals": {
     "spend": {
-      "current": 970.15,
-      "previous": null,
-      "delta_pct": null
+      "current": 995.25,
+      "previous": 675.51,
+      "delta_pct": 47
     },
     "impressions": {
-      "current": 40654,
-      "previous": null,
-      "delta_pct": null
+      "current": 42514,
+      "previous": 33884,
+      "delta_pct": 25
     },
     "reach": {
-      "current": 26004,
-      "previous": null,
-      "delta_pct": null
+      "current": 26736,
+      "previous": 23544,
+      "delta_pct": 14
     },
     "clicks": {
-      "current": 1077,
-      "previous": null,
-      "delta_pct": null
+      "current": 1147,
+      "previous": 944,
+      "delta_pct": 22
     },
     "ctr": {
-      "current": 2.65,
-      "previous": null,
-      "delta_pct": null
+      "current": 2.7,
+      "previous": 2.79,
+      "delta_pct": -3
     },
     "cpc": {
-      "current": 0.9,
-      "previous": null,
-      "delta_pct": null
+      "current": 0.87,
+      "previous": 0.72,
+      "delta_pct": 21
     },
     "thruplay": {
-      "current": 4549,
-      "previous": null,
-      "delta_pct": null
+      "current": 4657,
+      "previous": 4734,
+      "delta_pct": -2
     },
     "frequency": {
-      "current": 1.56,
-      "previous": null,
-      "delta_pct": null
+      "current": 1.59,
+      "previous": 1.44,
+      "delta_pct": 10
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 43,
-        "previous": null,
-        "delta_pct": null
+        "current": 44,
+        "previous": 23,
+        "delta_pct": 91
       },
       "cost": {
-        "current": 22.56,
-        "previous": null,
-        "delta_pct": null
+        "current": 22.62,
+        "previous": 29.37,
+        "delta_pct": -23
       },
-      "top_creative": {
-        "name": "Bem-vinda",
-        "value": 10
-      }
+      "top_creative": null
     },
     "instagram_visits": {
       "count": {
@@ -97,98 +92,7 @@
     "site_visits": null,
     "site_purchases": null
   },
-  "top_creatives": [
-    {
-      "name": "Bem-vinda",
-      "impressions": 6210,
-      "reach": 5637,
-      "clicks": 244,
-      "messages": 0,
-      "ctr": 3.93,
-      "thruplay": 649
-    },
-    {
-      "name": "Mechas bonitas",
-      "impressions": 6028,
-      "reach": 4680,
-      "clicks": 82,
-      "messages": 0,
-      "ctr": 1.36,
-      "thruplay": 2133
-    },
-    {
-      "name": "Bem-vinda",
-      "impressions": 4571,
-      "reach": 3074,
-      "clicks": 113,
-      "messages": 10,
-      "ctr": 2.47,
-      "thruplay": 295
-    },
-    {
-      "name": "Compilado loiros",
-      "impressions": 3129,
-      "reach": 1808,
-      "clicks": 62,
-      "messages": 6,
-      "ctr": 1.98,
-      "thruplay": 71
-    },
-    {
-      "name": "Mechas bonitas",
-      "impressions": 2851,
-      "reach": 2475,
-      "clicks": 102,
-      "messages": 0,
-      "ctr": 3.58,
-      "thruplay": 119
-    },
-    {
-      "name": "Eu acredito",
-      "impressions": 2730,
-      "reach": 2144,
-      "clicks": 71,
-      "messages": 2,
-      "ctr": 2.6,
-      "thruplay": 107
-    },
-    {
-      "name": "Seu cabelo SOS Ssoro",
-      "impressions": 2177,
-      "reach": 1462,
-      "clicks": 41,
-      "messages": 8,
-      "ctr": 1.88,
-      "thruplay": 112
-    },
-    {
-      "name": "Bem-vinda",
-      "impressions": 2147,
-      "reach": 1921,
-      "clicks": 65,
-      "messages": 0,
-      "ctr": 3.03,
-      "thruplay": 416
-    },
-    {
-      "name": "Bem-vinda",
-      "impressions": 1768,
-      "reach": 958,
-      "clicks": 47,
-      "messages": 2,
-      "ctr": 2.66,
-      "thruplay": 162
-    },
-    {
-      "name": "Eu acredito",
-      "impressions": 1645,
-      "reach": 1400,
-      "clicks": 55,
-      "messages": 4,
-      "ctr": 3.34,
-      "thruplay": 78
-    }
-  ],
+  "top_creatives": [],
   "demographics": {
     "gender": {
       "female_pct": 90,
@@ -206,9 +110,11 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 1451.86,
+    "balance_brl": 0,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": []
+  "auto_flags": [
+    "balance_low"
+  ]
 }

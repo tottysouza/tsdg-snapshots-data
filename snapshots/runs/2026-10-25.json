@@ -1,0 +1,21 @@
+{
+  "started_at": "2026-10-25T12:56:15.501Z",
+  "duration_ms": 91363,
+  "dates": {
+    "today": "2026-10-25",
+    "current": {
+      "since": "2026-10-18",
+      "until": "2026-10-24",
+      "label_pt": "18 out a 24 out"
+    },
+    "previous": {
+      "since": "2026-10-11",
+      "until": "2026-10-17"
+    }
+  },
+  "total": 19,
+  "ok": 19,
+  "partial": 0,
+  "failed": 0,
+  "failures": []
+}
