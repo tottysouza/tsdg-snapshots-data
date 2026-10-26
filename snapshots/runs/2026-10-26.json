@@ -1,0 +1,27 @@
+{
+  "started_at": "2026-10-26T14:49:27.437Z",
+  "duration_ms": 103654,
+  "dates": {
+    "today": "2026-10-26",
+    "current": {
+      "since": "2026-10-19",
+      "until": "2026-10-25",
+      "label_pt": "19 out a 25 out"
+    },
+    "previous": {
+      "since": "2026-10-12",
+      "until": "2026-10-18"
+    }
+  },
+  "total": 19,
+  "ok": 18,
+  "partial": 0,
+  "failed": 1,
+  "failures": [
+    {
+      "id": "act_919673088419931",
+      "name": "BIOMA Silvio Amaral",
+      "reason": "current: timeout 25s"
+    }
+  ]
+}

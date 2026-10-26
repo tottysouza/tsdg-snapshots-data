@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "account_id": "act_896596526559885",
+    "account_name": "VIRGO Cases",
+    "segment": "TECH",
+    "template": "VIRGO",
+    "generated_at": "2026-10-26T14:51:03.576Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-19",
+      "until": "2026-10-25",
+      "label_pt": "19 out a 25 out"
+    },
+    "previous": {
+      "since": "2026-10-12",
+      "until": "2026-10-18"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 252.31,
+      "previous": 517.66,
+      "delta_pct": -51
+    },
+    "impressions": {
+      "current": 17331,
+      "previous": 83845,
+      "delta_pct": -79
+    },
+    "reach": {
+      "current": 10523,
+      "previous": 35488,
+      "delta_pct": -70
+    },
+    "clicks": {
+      "current": 1069,
+      "previous": 6454,
+      "delta_pct": -83
+    },
+    "ctr": {
+      "current": 6.17,
+      "previous": 7.7,
+      "delta_pct": -20
+    },
+    "cpc": {
+      "current": 0.24,
+      "previous": 0.08,
+      "delta_pct": 200
+    },
+    "thruplay": {
+      "current": 643,
+      "previous": 828,
+      "delta_pct": -22
+    },
+    "frequency": {
+      "current": 1.65,
+      "previous": 2.36,
+      "delta_pct": -30
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 3,
+        "previous": 2,
+        "delta_pct": 50
+      },
+      "cost": {
+        "current": 84.1,
+        "previous": 258.83,
+        "delta_pct": -68
+      },
+      "top_creative": {
+        "name": "RMKT · \"10\" Coleção/tempo",
+        "value": 2
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_purchases": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "revenue": null,
+      "roi": null
+    }
+  },
+  "top_creatives": [
+    {
+      "name": "AQ · \"A forma\" vídeo (post IG) v3",
+      "impressions": 3293,
+      "reach": 2062,
+      "clicks": 202,
+      "messages": 0,
+      "ctr": 6.13,
+      "thruplay": 235
+    },
+    {
+      "name": "6",
+      "impressions": 2880,
+      "reach": 2034,
+      "clicks": 220,
+      "messages": 0,
+      "ctr": 7.64,
+      "thruplay": 12
+    },
+    {
+      "name": "Depois de alguns dias",
+      "impressions": 2267,
+      "reach": 2042,
+      "clicks": 161,
+      "messages": 0,
+      "ctr": 7.1,
+      "thruplay": 1
+    },
+    {
+      "name": "TOPO · \"A forma\" vídeo (post IG) v2",
+      "impressions": 1913,
+      "reach": 1575,
+      "clicks": 56,
+      "messages": 0,
+      "ctr": 2.93,
+      "thruplay": 133
+    },
+    {
+      "name": "3",
+      "impressions": 1831,
+      "reach": 1141,
+      "clicks": 124,
+      "messages": 0,
+      "ctr": 6.77,
+      "thruplay": 14
+    },
+    {
+      "name": "RMKT · Felipe Watches + cupom",
+      "impressions": 1507,
+      "reach": 723,
+      "clicks": 109,
+      "messages": 1,
+      "ctr": 7.23,
+      "thruplay": 75
+    },
+    {
+      "name": "A forma",
+      "impressions": 1036,
+      "reach": 928,
+      "clicks": 52,
+      "messages": 0,
+      "ctr": 5.02,
+      "thruplay": 97
+    },
+    {
+      "name": "RMKT · \"Coleção merece\" 3/6/10",
+      "impressions": 621,
+      "reach": 411,
+      "clicks": 30,
+      "messages": 0,
+      "ctr": 4.83,
+      "thruplay": 30
+    },
+    {
+      "name": "Coleção merece",
+      "impressions": 484,
+      "reach": 448,
+      "clicks": 34,
+      "messages": 0,
+      "ctr": 7.02,
+      "thruplay": 0
+    },
+    {
+      "name": "TOPO · \"Elegância que acompanha\" (post IG) v2",
+      "impressions": 433,
+      "reach": 346,
+      "clicks": 16,
+      "messages": 0,
+      "ctr": 3.7,
+      "thruplay": 8
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 22,
+      "male_pct": 78,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 35,
+      "35-44": 37,
+      "45-54": 19,
+      "55-64": 6,
+      "65+": 3
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 27.84,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "balance_low"
+  ]
+}

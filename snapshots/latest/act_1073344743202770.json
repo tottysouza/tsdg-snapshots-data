@@ -4,79 +4,79 @@
     "account_name": "BIOMA Yu Tin Tin",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-25T12:56:59.712Z",
+    "generated_at": "2026-10-26T14:50:35.541Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-18",
-      "until": "2026-10-24",
-      "label_pt": "18 out a 24 out"
+      "since": "2026-10-19",
+      "until": "2026-10-25",
+      "label_pt": "19 out a 25 out"
     },
     "previous": {
-      "since": "2026-10-11",
-      "until": "2026-10-17"
+      "since": "2026-10-12",
+      "until": "2026-10-18"
     }
   },
   "totals": {
     "spend": {
-      "current": 577.72,
-      "previous": 517.08,
-      "delta_pct": 12
+      "current": 658.4,
+      "previous": 416.35,
+      "delta_pct": 58
     },
     "impressions": {
-      "current": 34635,
-      "previous": 36680,
-      "delta_pct": -6
+      "current": 43830,
+      "previous": 29577,
+      "delta_pct": 48
     },
     "reach": {
-      "current": 22484,
-      "previous": 22590,
-      "delta_pct": 0
+      "current": 27869,
+      "previous": 18202,
+      "delta_pct": 53
     },
     "clicks": {
-      "current": 756,
-      "previous": 792,
-      "delta_pct": -5
+      "current": 902,
+      "previous": 626,
+      "delta_pct": 44
     },
     "ctr": {
-      "current": 2.18,
-      "previous": 2.16,
-      "delta_pct": 1
+      "current": 2.06,
+      "previous": 2.12,
+      "delta_pct": -3
     },
     "cpc": {
-      "current": 0.76,
-      "previous": 0.65,
-      "delta_pct": 17
+      "current": 0.73,
+      "previous": 0.67,
+      "delta_pct": 9
     },
     "thruplay": {
-      "current": 2553,
-      "previous": 3071,
-      "delta_pct": -17
+      "current": 3092,
+      "previous": 2413,
+      "delta_pct": 28
     },
     "frequency": {
-      "current": 1.54,
+      "current": 1.57,
       "previous": 1.62,
-      "delta_pct": -5
+      "delta_pct": -3
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 23,
-        "previous": 22,
-        "delta_pct": 5
+        "current": 24,
+        "previous": 19,
+        "delta_pct": 26
       },
       "cost": {
-        "current": 25.12,
-        "previous": 23.5,
-        "delta_pct": 7
+        "current": 27.43,
+        "previous": 21.91,
+        "delta_pct": 25
       },
       "top_creative": {
         "name": "Antes de escolher",
-        "value": 8
+        "value": 9
       }
     },
     "instagram_visits": {
@@ -98,66 +98,66 @@
   "top_creatives": [
     {
       "name": "Bride day",
-      "impressions": 6421,
-      "reach": 5900,
-      "clicks": 129,
+      "impressions": 9346,
+      "reach": 8165,
+      "clicks": 169,
       "messages": 0,
-      "ctr": 2.01,
-      "thruplay": 1130
+      "ctr": 1.81,
+      "thruplay": 1506
+    },
+    {
+      "name": "Bride day",
+      "impressions": 5635,
+      "reach": 3972,
+      "clicks": 131,
+      "messages": 1,
+      "ctr": 2.32,
+      "thruplay": 80
     },
     {
       "name": "Antes de escolher",
-      "impressions": 4401,
-      "reach": 2029,
-      "clicks": 46,
-      "messages": 8,
+      "impressions": 5515,
+      "reach": 2362,
+      "clicks": 58,
+      "messages": 9,
       "ctr": 1.05,
       "thruplay": 1
     },
     {
-      "name": "Bride day",
-      "impressions": 4260,
-      "reach": 3116,
-      "clicks": 105,
-      "messages": 1,
-      "ctr": 2.46,
-      "thruplay": 68
-    },
-    {
-      "name": "O frizz",
-      "impressions": 3920,
-      "reach": 2313,
-      "clicks": 73,
-      "messages": 8,
-      "ctr": 1.86,
-      "thruplay": 234
+      "name": "Muito além",
+      "impressions": 4874,
+      "reach": 4297,
+      "clicks": 151,
+      "messages": 0,
+      "ctr": 3.1,
+      "thruplay": 343
     },
     {
       "name": "Muito além",
-      "impressions": 3884,
-      "reach": 3485,
-      "clicks": 121,
+      "impressions": 4718,
+      "reach": 4141,
+      "clicks": 138,
       "messages": 0,
-      "ctr": 3.12,
-      "thruplay": 190
-    },
-    {
-      "name": "Muito além",
-      "impressions": 3700,
-      "reach": 3337,
-      "clicks": 123,
-      "messages": 0,
-      "ctr": 3.32,
-      "thruplay": 280
+      "ctr": 2.92,
+      "thruplay": 216
     },
     {
       "name": "Cuidado masculino",
-      "impressions": 3470,
-      "reach": 3018,
-      "clicks": 98,
+      "impressions": 4540,
+      "reach": 3918,
+      "clicks": 113,
       "messages": 0,
-      "ctr": 2.82,
-      "thruplay": 219
+      "ctr": 2.49,
+      "thruplay": 257
+    },
+    {
+      "name": "O frizz",
+      "impressions": 4310,
+      "reach": 2469,
+      "clicks": 79,
+      "messages": 8,
+      "ctr": 1.83,
+      "thruplay": 251
     },
     {
       "name": "Noite de velas",
@@ -170,12 +170,12 @@
     },
     {
       "name": "Alerta de loiro",
-      "impressions": 813,
-      "reach": 343,
-      "clicks": 11,
+      "impressions": 1080,
+      "reach": 403,
+      "clicks": 13,
       "messages": 0,
-      "ctr": 1.35,
-      "thruplay": 22
+      "ctr": 1.2,
+      "thruplay": 29
     },
     {
       "name": "A sensação",
@@ -189,26 +189,27 @@
   ],
   "demographics": {
     "gender": {
-      "female_pct": 77,
-      "male_pct": 22,
+      "female_pct": 78,
+      "male_pct": 21,
       "unknown_pct": 1
     },
     "age": {
       "18-24": 0,
       "25-34": 33,
-      "35-44": 19,
+      "35-44": 18,
       "45-54": 16,
-      "55-64": 15,
+      "55-64": 16,
       "65+": 16
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 15.27,
+    "balance_brl": 17.4,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
+    "spend_delta_over_50",
     "balance_low"
   ]
 }

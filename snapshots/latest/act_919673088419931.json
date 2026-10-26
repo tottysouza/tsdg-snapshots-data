@@ -4,77 +4,79 @@
     "account_name": "BIOMA Silvio Amaral",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-25T12:56:40.494Z",
-    "fetch_status": "ok",
+    "generated_at": "2026-10-26T14:50:29.885Z",
+    "fetch_status": "failed",
     "fetch_source": "github_actions",
-    "notes": []
+    "notes": [
+      "current: timeout 25s",
+      "previous: timeout 25s"
+    ]
   },
   "period": {
     "current": {
-      "since": "2026-10-18",
-      "until": "2026-10-24",
-      "label_pt": "18 out a 24 out"
+      "since": "2026-10-19",
+      "until": "2026-10-25",
+      "label_pt": "19 out a 25 out"
     },
     "previous": {
-      "since": "2026-10-11",
-      "until": "2026-10-17"
+      "since": "2026-10-12",
+      "until": "2026-10-18"
     }
   },
   "totals": {
     "spend": {
-      "current": 995.25,
-      "previous": 675.51,
-      "delta_pct": 47
+      "current": null,
+      "previous": null,
+      "delta_pct": null
     },
     "impressions": {
-      "current": 42514,
-      "previous": 33884,
-      "delta_pct": 25
+      "current": null,
+      "previous": null,
+      "delta_pct": null
     },
     "reach": {
-      "current": 26736,
-      "previous": 23544,
-      "delta_pct": 14
+      "current": null,
+      "previous": null,
+      "delta_pct": null
     },
     "clicks": {
-      "current": 1147,
-      "previous": 944,
-      "delta_pct": 22
+      "current": null,
+      "previous": null,
+      "delta_pct": null
     },
     "ctr": {
-      "current": 2.7,
-      "previous": 2.79,
-      "delta_pct": -3
+      "current": null,
+      "previous": null,
+      "delta_pct": null
     },
     "cpc": {
-      "current": 0.87,
-      "previous": 0.72,
-      "delta_pct": 21
+      "current": null,
+      "previous": null,
+      "delta_pct": null
     },
     "thruplay": {
-      "current": 4657,
-      "previous": 4734,
-      "delta_pct": -2
+      "current": null,
+      "previous": null,
+      "delta_pct": null
     },
     "frequency": {
-      "current": 1.59,
-      "previous": 1.44,
-      "delta_pct": 10
+      "current": null,
+      "previous": null,
+      "delta_pct": null
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 44,
-        "previous": 23,
-        "delta_pct": 91
+        "current": null,
+        "previous": null,
+        "delta_pct": null
       },
       "cost": {
-        "current": 22.62,
-        "previous": 29.37,
-        "delta_pct": -23
-      },
-      "top_creative": null
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      }
     },
     "instagram_visits": {
       "count": {
@@ -86,35 +88,18 @@
         "current": null,
         "previous": null,
         "delta_pct": null
-      },
-      "top_creative": null
+      }
     },
     "site_visits": null,
     "site_purchases": null
   },
   "top_creatives": [],
-  "demographics": {
-    "gender": {
-      "female_pct": 90,
-      "male_pct": 10,
-      "unknown_pct": 0
-    },
-    "age": {
-      "18-24": 1,
-      "25-34": 24,
-      "35-44": 21,
-      "45-54": 21,
-      "55-64": 18,
-      "65+": 16
-    }
-  },
+  "demographics": null,
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 0,
+    "balance_brl": null,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": [
-    "balance_low"
-  ]
+  "auto_flags": []
 }

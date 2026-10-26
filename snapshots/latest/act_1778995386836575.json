@@ -4,46 +4,46 @@
     "account_name": "BIOMA Jackeline",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-25T12:56:30.127Z",
+    "generated_at": "2026-10-26T14:49:37.379Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-18",
-      "until": "2026-10-24",
-      "label_pt": "18 out a 24 out"
+      "since": "2026-10-19",
+      "until": "2026-10-25",
+      "label_pt": "19 out a 25 out"
     },
     "previous": {
-      "since": "2026-10-11",
-      "until": "2026-10-17"
+      "since": "2026-10-12",
+      "until": "2026-10-18"
     }
   },
   "totals": {
     "spend": {
       "current": 0,
-      "previous": 382.98,
+      "previous": 278.05,
       "delta_pct": -100
     },
     "impressions": {
       "current": 0,
-      "previous": 35181,
+      "previous": 25871,
       "delta_pct": -100
     },
     "reach": {
       "current": 0,
-      "previous": 29628,
+      "previous": 22147,
       "delta_pct": -100
     },
     "clicks": {
       "current": 0,
-      "previous": 1010,
+      "previous": 735,
       "delta_pct": -100
     },
     "ctr": {
       "current": null,
-      "previous": 2.87,
+      "previous": 2.84,
       "delta_pct": null
     },
     "cpc": {
@@ -53,12 +53,12 @@
     },
     "thruplay": {
       "current": 0,
-      "previous": 2945,
+      "previous": 2027,
       "delta_pct": -100
     },
     "frequency": {
       "current": 0,
-      "previous": 1.19,
+      "previous": 1.17,
       "delta_pct": -100
     }
   },
@@ -66,12 +66,12 @@
     "whatsapp_messages": {
       "count": {
         "current": 0,
-        "previous": 16,
+        "previous": 11,
         "delta_pct": -100
       },
       "cost": {
         "current": null,
-        "previous": 23.94,
+        "previous": 25.28,
         "delta_pct": null
       },
       "top_creative": null
