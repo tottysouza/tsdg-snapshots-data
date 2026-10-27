@@ -4,75 +4,75 @@
     "account_name": "BIOMA Casa 631",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-26T14:49:31.345Z",
+    "generated_at": "2026-10-27T13:55:43.466Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-19",
-      "until": "2026-10-25",
-      "label_pt": "19 out a 25 out"
+      "since": "2026-10-20",
+      "until": "2026-10-26",
+      "label_pt": "20 out a 26 out"
     },
     "previous": {
-      "since": "2026-10-12",
-      "until": "2026-10-18"
+      "since": "2026-10-13",
+      "until": "2026-10-19"
     }
   },
   "totals": {
     "spend": {
-      "current": 459.97,
-      "previous": 49.88,
-      "delta_pct": 822
+      "current": 523.12,
+      "previous": 2.55,
+      "delta_pct": 20415
     },
     "impressions": {
-      "current": 44582,
-      "previous": 3384,
-      "delta_pct": 1217
+      "current": 53341,
+      "previous": 92,
+      "delta_pct": 57879
     },
     "reach": {
-      "current": 25537,
-      "previous": 2774,
-      "delta_pct": 821
+      "current": 29659,
+      "previous": 89,
+      "delta_pct": 33225
     },
     "clicks": {
-      "current": 1287,
-      "previous": 157,
-      "delta_pct": 720
+      "current": 1537,
+      "previous": 3,
+      "delta_pct": 51133
     },
     "ctr": {
-      "current": 2.89,
-      "previous": 4.64,
-      "delta_pct": -38
+      "current": 2.88,
+      "previous": 3.26,
+      "delta_pct": -12
     },
     "cpc": {
-      "current": 0.36,
-      "previous": 0.32,
-      "delta_pct": 12
+      "current": 0.34,
+      "previous": 0.85,
+      "delta_pct": -60
     },
     "thruplay": {
-      "current": 2702,
-      "previous": 303,
-      "delta_pct": 792
+      "current": 3015,
+      "previous": 8,
+      "delta_pct": 37588
     },
     "frequency": {
-      "current": 1.75,
-      "previous": 1.22,
-      "delta_pct": 43
+      "current": 1.8,
+      "previous": 1.03,
+      "delta_pct": 75
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
         "current": 15,
-        "previous": 2,
-        "delta_pct": 650
+        "previous": 1,
+        "delta_pct": 1400
       },
       "cost": {
-        "current": 30.66,
-        "previous": 24.94,
-        "delta_pct": 23
+        "current": 34.87,
+        "previous": 2.55,
+        "delta_pct": 1267
       },
       "top_creative": {
         "name": "Cuidado",
@@ -98,57 +98,66 @@
   "top_creatives": [
     {
       "name": "A · Vídeo 1 (9s)",
-      "impressions": 11430,
-      "reach": 7228,
-      "clicks": 233,
+      "impressions": 13218,
+      "reach": 8208,
+      "clicks": 259,
       "messages": 0,
-      "ctr": 2.04,
-      "thruplay": 360
+      "ctr": 1.96,
+      "thruplay": 419
     },
     {
       "name": "Cuidado",
-      "impressions": 6805,
-      "reach": 4069,
-      "clicks": 146,
+      "impressions": 7488,
+      "reach": 4320,
+      "clicks": 156,
       "messages": 8,
-      "ctr": 2.15,
-      "thruplay": 533
+      "ctr": 2.08,
+      "thruplay": 568
     },
     {
       "name": "A · Vídeo 2 (11s)",
-      "impressions": 5950,
-      "reach": 4281,
-      "clicks": 156,
+      "impressions": 7008,
+      "reach": 4968,
+      "clicks": 172,
       "messages": 0,
-      "ctr": 2.62,
-      "thruplay": 232
+      "ctr": 2.45,
+      "thruplay": 272
     },
     {
       "name": "Seu cabelo",
-      "impressions": 5321,
-      "reach": 2610,
-      "clicks": 55,
+      "impressions": 6110,
+      "reach": 2776,
+      "clicks": 67,
       "messages": 5,
-      "ctr": 1.03,
-      "thruplay": 39
+      "ctr": 1.1,
+      "thruplay": 49
     },
     {
       "name": "Seu cabelo",
-      "impressions": 3630,
-      "reach": 2780,
-      "clicks": 313,
+      "impressions": 4646,
+      "reach": 3376,
+      "clicks": 419,
       "messages": 0,
-      "ctr": 8.62,
+      "ctr": 9.02,
       "thruplay": 1
     },
     {
       "name": "Comunidade",
-      "impressions": 3374,
-      "reach": 2719,
-      "clicks": 34,
+      "impressions": 3778,
+      "reach": 3004,
+      "clicks": 40,
       "messages": 1,
-      "ctr": 1.01,
-      "thruplay": 816
+      "ctr": 1.06,
+      "thruplay": 880
+    },
+    {
+      "name": "A · Carrossel 6 artes",
+      "impressions": 3719,
+      "reach": 3113,
+      "clicks": 96,
+      "messages": 0,
+      "ctr": 2.58,
+      "thruplay": 0
     },
     {
       "name": "Um novo conceito",
@@ -161,50 +170,41 @@
     },
     {
       "name": "Alguns lugares — Cópia",
-      "impressions": 2101,
-      "reach": 1874,
-      "clicks": 31,
+      "impressions": 2394,
+      "reach": 2105,
+      "clicks": 38,
       "messages": 0,
-      "ctr": 1.48,
-      "thruplay": 708
-    },
-    {
-      "name": "A · Carrossel 6 artes",
-      "impressions": 1481,
-      "reach": 1418,
-      "clicks": 34,
-      "messages": 0,
-      "ctr": 2.3,
-      "thruplay": 0
+      "ctr": 1.59,
+      "thruplay": 804
     },
     {
       "name": "B · Carrossel 6 artes · WA",
-      "impressions": 1244,
-      "reach": 743,
-      "clicks": 17,
+      "impressions": 1582,
+      "reach": 883,
+      "clicks": 18,
       "messages": 0,
-      "ctr": 1.37,
+      "ctr": 1.14,
       "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 74,
-      "male_pct": 26,
+      "female_pct": 73,
+      "male_pct": 27,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 18,
+      "25-34": 17,
       "35-44": 19,
       "45-54": 17,
-      "55-64": 21,
+      "55-64": 22,
       "65+": 25
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 87.58,
+    "balance_brl": 144.39,
     "balance_low": false,
     "account_disabled": false
   },

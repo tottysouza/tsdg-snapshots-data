@@ -1,0 +1,118 @@
+{
+  "current": {
+    "accountId": "act_1813229102959243",
+    "saldo": 10.31,
+    "dateRange": {
+      "since": "2026-10-20",
+      "until": "2026-10-26"
+    },
+    "kpis": {
+      "investimento": 15.44,
+      "impressoes": 905,
+      "alcance": 778,
+      "cliques": 42,
+      "cpc": 0.37,
+      "cpm": 17.06,
+      "mensagens": 1,
+      "cpa": 15.44,
+      "thruplay": 62,
+      "frequencia": 1.16
+    },
+    "ads": [
+      {
+        "id": "120252626968170723",
+        "nome": "Há cabelos",
+        "status": "ACTIVE",
+        "legenda": "Há cabelos que pedem uma legenda.\n\nOutros falam por si.\n\nSobre este, eu não preciso dizer mais nada 2026-09-22-8784c2e1881f93b38a603d10577a8383",
+        "campId": "120241786556810723",
+        "campanha": "02. MEIO | Engajamento WhatsApp | Naturalissima",
+        "adsetId": "120241786556820723",
+        "adset": "VV + INSTA + LL1%",
+        "thumbnail": "https://scontent-lax3-1.xx.fbcdn.net/v/t15.5256-10/820506831_2367829063989661_8082150871726570786_n.jpg?_nc_cat=102&ccb=1-7&_nc_eui2=AeEW_InNdMcqDsJxulR0H_CiZxm-FOBtgddnGb4U4G2B18czdNBFEqTak8vp1jQdTBgUtksFZMjjGfp6dakeIETA&_nc_ohc=xqieQ7T0w_wQ7kNvwHLvgy8&_nc_oc=Adqmv9UOlHZOmJXoGZxvyPnEZs_NwCKTHSWKINdAB_VoI_4HL0umCj3w3P_Q5Ju2qQY&_nc_zt=23&_nc_ht=scontent-lax3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=jJmAFSqyfTKwHelk_qUNlw&_nc_tpa=Q5bMBQLaUSBNO7VxK4gBrSLrGhZbKJO55zlkgDI4A2y9ATnB6ns2aIn4l-iN9U36n2wwJ5soHDrWdqRt0Q&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQOmpG7OGw4FqH022YrXc3C2QfEbz4hOdtZ5FvKsBkDEGw&oe=6AE673BE",
+        "impressoes": 905,
+        "alcance": 778,
+        "cliques": 42,
+        "mensagens": 1,
+        "thruplay": 62,
+        "investimento": 15.44,
+        "cpc": 0.37,
+        "ctr": 4.64
+      }
+    ],
+    "genero": {
+      "F": 98,
+      "M": 2,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 9,
+      "35-44": 21,
+      "45-54": 32,
+      "55-64": 25,
+      "65+": 13
+    },
+    "periodo": "custom",
+    "timestamp": "2026-10-27T13:57:02.433Z",
+    "prev": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    }
+  },
+  "previous": {
+    "accountId": "act_1813229102959243",
+    "saldo": 10.31,
+    "periodo": "custom",
+    "dateRange": {
+      "since": "2026-10-13",
+      "until": "2026-10-19"
+    },
+    "timestamp": "2026-10-27T13:56:59.095Z",
+    "kpis": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    },
+    "ads": [],
+    "genero": {
+      "F": 0,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    },
+    "prev": {
+      "investimento": 61.12,
+      "impressoes": 2485,
+      "alcance": 2157,
+      "cliques": 152,
+      "cpc": 0.4,
+      "cpm": 24.6,
+      "mensagens": 6,
+      "cpa": 10.19,
+      "thruplay": 214,
+      "frequencia": 1.15
+    }
+  }
+}

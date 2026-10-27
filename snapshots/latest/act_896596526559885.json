@@ -4,75 +4,75 @@
     "account_name": "VIRGO Cases",
     "segment": "TECH",
     "template": "VIRGO",
-    "generated_at": "2026-10-26T14:51:03.576Z",
+    "generated_at": "2026-10-27T13:57:06.329Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-19",
-      "until": "2026-10-25",
-      "label_pt": "19 out a 25 out"
+      "since": "2026-10-20",
+      "until": "2026-10-26",
+      "label_pt": "20 out a 26 out"
     },
     "previous": {
-      "since": "2026-10-12",
-      "until": "2026-10-18"
+      "since": "2026-10-13",
+      "until": "2026-10-19"
     }
   },
   "totals": {
     "spend": {
-      "current": 252.31,
-      "previous": 517.66,
-      "delta_pct": -51
+      "current": 232.81,
+      "previous": 489.61,
+      "delta_pct": -52
     },
     "impressions": {
-      "current": 17331,
-      "previous": 83845,
-      "delta_pct": -79
+      "current": 12360,
+      "previous": 78400,
+      "delta_pct": -84
     },
     "reach": {
-      "current": 10523,
-      "previous": 35488,
-      "delta_pct": -70
+      "current": 7181,
+      "previous": 33544,
+      "delta_pct": -79
     },
     "clicks": {
-      "current": 1069,
-      "previous": 6454,
-      "delta_pct": -83
+      "current": 653,
+      "previous": 5994,
+      "delta_pct": -89
     },
     "ctr": {
-      "current": 6.17,
-      "previous": 7.7,
-      "delta_pct": -20
+      "current": 5.28,
+      "previous": 7.65,
+      "delta_pct": -31
     },
     "cpc": {
-      "current": 0.24,
+      "current": 0.36,
       "previous": 0.08,
-      "delta_pct": 200
+      "delta_pct": 350
     },
     "thruplay": {
-      "current": 643,
-      "previous": 828,
-      "delta_pct": -22
+      "current": 597,
+      "previous": 792,
+      "delta_pct": -25
     },
     "frequency": {
-      "current": 1.65,
-      "previous": 2.36,
-      "delta_pct": -30
+      "current": 1.72,
+      "previous": 2.34,
+      "delta_pct": -26
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
         "current": 3,
-        "previous": 2,
-        "delta_pct": 50
+        "previous": 1,
+        "delta_pct": 200
       },
       "cost": {
-        "current": 84.1,
-        "previous": 258.83,
-        "delta_pct": -68
+        "current": 77.6,
+        "previous": 489.61,
+        "delta_pct": -84
       },
       "top_creative": {
         "name": "RMKT · \"10\" Coleção/tempo",
@@ -118,66 +118,39 @@
   "top_creatives": [
     {
       "name": "AQ · \"A forma\" vídeo (post IG) v3",
-      "impressions": 3293,
-      "reach": 2062,
-      "clicks": 202,
+      "impressions": 3588,
+      "reach": 2176,
+      "clicks": 213,
       "messages": 0,
-      "ctr": 6.13,
-      "thruplay": 235
-    },
-    {
-      "name": "6",
-      "impressions": 2880,
-      "reach": 2034,
-      "clicks": 220,
-      "messages": 0,
-      "ctr": 7.64,
-      "thruplay": 12
-    },
-    {
-      "name": "Depois de alguns dias",
-      "impressions": 2267,
-      "reach": 2042,
-      "clicks": 161,
-      "messages": 0,
-      "ctr": 7.1,
-      "thruplay": 1
+      "ctr": 5.94,
+      "thruplay": 251
     },
     {
       "name": "TOPO · \"A forma\" vídeo (post IG) v2",
-      "impressions": 1913,
-      "reach": 1575,
-      "clicks": 56,
+      "impressions": 2638,
+      "reach": 2146,
+      "clicks": 72,
       "messages": 0,
-      "ctr": 2.93,
-      "thruplay": 133
-    },
-    {
-      "name": "3",
-      "impressions": 1831,
-      "reach": 1141,
-      "clicks": 124,
-      "messages": 0,
-      "ctr": 6.77,
-      "thruplay": 14
+      "ctr": 2.73,
+      "thruplay": 162
     },
     {
       "name": "RMKT · Felipe Watches + cupom",
-      "impressions": 1507,
-      "reach": 723,
-      "clicks": 109,
+      "impressions": 1975,
+      "reach": 834,
+      "clicks": 135,
       "messages": 1,
-      "ctr": 7.23,
-      "thruplay": 75
+      "ctr": 6.84,
+      "thruplay": 83
     },
     {
-      "name": "A forma",
-      "impressions": 1036,
-      "reach": 928,
-      "clicks": 52,
+      "name": "3",
+      "impressions": 960,
+      "reach": 711,
+      "clicks": 67,
       "messages": 0,
-      "ctr": 5.02,
-      "thruplay": 97
+      "ctr": 6.98,
+      "thruplay": 11
     },
     {
       "name": "RMKT · \"Coleção merece\" 3/6/10",
@@ -189,42 +162,69 @@
       "thruplay": 30
     },
     {
-      "name": "Coleção merece",
-      "impressions": 484,
-      "reach": 448,
-      "clicks": 34,
+      "name": "Depois de alguns dias",
+      "impressions": 587,
+      "reach": 539,
+      "clicks": 45,
       "messages": 0,
-      "ctr": 7.02,
+      "ctr": 7.67,
       "thruplay": 0
     },
     {
       "name": "TOPO · \"Elegância que acompanha\" (post IG) v2",
-      "impressions": 433,
-      "reach": 346,
+      "impressions": 559,
+      "reach": 448,
+      "clicks": 18,
+      "messages": 0,
+      "ctr": 3.22,
+      "thruplay": 9
+    },
+    {
+      "name": "AQ · \"Coleção merece\" 3/6/10",
+      "impressions": 447,
+      "reach": 350,
+      "clicks": 18,
+      "messages": 0,
+      "ctr": 4.03,
+      "thruplay": 17
+    },
+    {
+      "name": "Coleção merece",
+      "impressions": 312,
+      "reach": 294,
       "clicks": 16,
       "messages": 0,
-      "ctr": 3.7,
-      "thruplay": 8
+      "ctr": 5.13,
+      "thruplay": 0
+    },
+    {
+      "name": "RMKT · \"10\" Coleção/tempo",
+      "impressions": 235,
+      "reach": 171,
+      "clicks": 21,
+      "messages": 2,
+      "ctr": 8.94,
+      "thruplay": 4
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 22,
-      "male_pct": 78,
+      "female_pct": 11,
+      "male_pct": 89,
       "unknown_pct": 0
     },
     "age": {
-      "18-24": 0,
-      "25-34": 35,
-      "35-44": 37,
-      "45-54": 19,
-      "55-64": 6,
+      "18-24": 1,
+      "25-34": 31,
+      "35-44": 36,
+      "45-54": 21,
+      "55-64": 8,
       "65+": 3
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 27.84,
+    "balance_brl": 60.05,
     "balance_low": false,
     "account_disabled": false
   },

@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "account_id": "act_896596526559885",
+    "account_name": "VIRGO Cases",
+    "segment": "TECH",
+    "template": "VIRGO",
+    "generated_at": "2026-10-27T13:57:06.329Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-20",
+      "until": "2026-10-26",
+      "label_pt": "20 out a 26 out"
+    },
+    "previous": {
+      "since": "2026-10-13",
+      "until": "2026-10-19"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 232.81,
+      "previous": 489.61,
+      "delta_pct": -52
+    },
+    "impressions": {
+      "current": 12360,
+      "previous": 78400,
+      "delta_pct": -84
+    },
+    "reach": {
+      "current": 7181,
+      "previous": 33544,
+      "delta_pct": -79
+    },
+    "clicks": {
+      "current": 653,
+      "previous": 5994,
+      "delta_pct": -89
+    },
+    "ctr": {
+      "current": 5.28,
+      "previous": 7.65,
+      "delta_pct": -31
+    },
+    "cpc": {
+      "current": 0.36,
+      "previous": 0.08,
+      "delta_pct": 350
+    },
+    "thruplay": {
+      "current": 597,
+      "previous": 792,
+      "delta_pct": -25
+    },
+    "frequency": {
+      "current": 1.72,
+      "previous": 2.34,
+      "delta_pct": -26
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 3,
+        "previous": 1,
+        "delta_pct": 200
+      },
+      "cost": {
+        "current": 77.6,
+        "previous": 489.61,
+        "delta_pct": -84
+      },
+      "top_creative": {
+        "name": "RMKT · \"10\" Coleção/tempo",
+        "value": 2
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_purchases": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "revenue": null,
+      "roi": null
+    }
+  },
+  "top_creatives": [
+    {
+      "name": "AQ · \"A forma\" vídeo (post IG) v3",
+      "impressions": 3588,
+      "reach": 2176,
+      "clicks": 213,
+      "messages": 0,
+      "ctr": 5.94,
+      "thruplay": 251
+    },
+    {
+      "name": "TOPO · \"A forma\" vídeo (post IG) v2",
+      "impressions": 2638,
+      "reach": 2146,
+      "clicks": 72,
+      "messages": 0,
+      "ctr": 2.73,
+      "thruplay": 162
+    },
+    {
+      "name": "RMKT · Felipe Watches + cupom",
+      "impressions": 1975,
+      "reach": 834,
+      "clicks": 135,
+      "messages": 1,
+      "ctr": 6.84,
+      "thruplay": 83
+    },
+    {
+      "name": "3",
+      "impressions": 960,
+      "reach": 711,
+      "clicks": 67,
+      "messages": 0,
+      "ctr": 6.98,
+      "thruplay": 11
+    },
+    {
+      "name": "RMKT · \"Coleção merece\" 3/6/10",
+      "impressions": 621,
+      "reach": 411,
+      "clicks": 30,
+      "messages": 0,
+      "ctr": 4.83,
+      "thruplay": 30
+    },
+    {
+      "name": "Depois de alguns dias",
+      "impressions": 587,
+      "reach": 539,
+      "clicks": 45,
+      "messages": 0,
+      "ctr": 7.67,
+      "thruplay": 0
+    },
+    {
+      "name": "TOPO · \"Elegância que acompanha\" (post IG) v2",
+      "impressions": 559,
+      "reach": 448,
+      "clicks": 18,
+      "messages": 0,
+      "ctr": 3.22,
+      "thruplay": 9
+    },
+    {
+      "name": "AQ · \"Coleção merece\" 3/6/10",
+      "impressions": 447,
+      "reach": 350,
+      "clicks": 18,
+      "messages": 0,
+      "ctr": 4.03,
+      "thruplay": 17
+    },
+    {
+      "name": "Coleção merece",
+      "impressions": 312,
+      "reach": 294,
+      "clicks": 16,
+      "messages": 0,
+      "ctr": 5.13,
+      "thruplay": 0
+    },
+    {
+      "name": "RMKT · \"10\" Coleção/tempo",
+      "impressions": 235,
+      "reach": 171,
+      "clicks": 21,
+      "messages": 2,
+      "ctr": 8.94,
+      "thruplay": 4
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 11,
+      "male_pct": 89,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 1,
+      "25-34": 31,
+      "35-44": 36,
+      "45-54": 21,
+      "55-64": 8,
+      "65+": 3
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 60.05,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "balance_low"
+  ]
+}

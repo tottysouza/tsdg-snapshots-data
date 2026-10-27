@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "account_id": "act_1813229102959243",
+    "account_name": "MORINGA Hair",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-27T13:57:02.453Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-20",
+      "until": "2026-10-26",
+      "label_pt": "20 out a 26 out"
+    },
+    "previous": {
+      "since": "2026-10-13",
+      "until": "2026-10-19"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 15.44,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "impressions": {
+      "current": 905,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "reach": {
+      "current": 778,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "clicks": {
+      "current": 42,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "ctr": {
+      "current": 4.64,
+      "previous": null,
+      "delta_pct": null
+    },
+    "cpc": {
+      "current": 0.37,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "thruplay": {
+      "current": 62,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "frequency": {
+      "current": 1.16,
+      "previous": 0,
+      "delta_pct": null
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 1,
+        "previous": 0,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": 15.44,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": {
+        "name": "Há cabelos",
+        "value": 1
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Há cabelos",
+      "impressions": 905,
+      "reach": 778,
+      "clicks": 42,
+      "messages": 1,
+      "ctr": 4.64,
+      "thruplay": 62
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 98,
+      "male_pct": 2,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 9,
+      "35-44": 21,
+      "45-54": 32,
+      "55-64": 25,
+      "65+": 13
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 10.31,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "creative_concentration_over_80"
+  ]
+}

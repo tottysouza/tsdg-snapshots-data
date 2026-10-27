@@ -4,79 +4,79 @@
     "account_name": "BIOMA Sense",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-26T14:49:43.665Z",
+    "generated_at": "2026-10-27T13:55:53.539Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-19",
-      "until": "2026-10-25",
-      "label_pt": "19 out a 25 out"
+      "since": "2026-10-20",
+      "until": "2026-10-26",
+      "label_pt": "20 out a 26 out"
     },
     "previous": {
-      "since": "2026-10-12",
-      "until": "2026-10-18"
+      "since": "2026-10-13",
+      "until": "2026-10-19"
     }
   },
   "totals": {
     "spend": {
-      "current": 320.13,
-      "previous": 7.5,
-      "delta_pct": 4168
+      "current": 276.92,
+      "previous": 71.98,
+      "delta_pct": 285
     },
     "impressions": {
-      "current": 15094,
-      "previous": 1188,
-      "delta_pct": 1171
+      "current": 13170,
+      "previous": 4695,
+      "delta_pct": 181
     },
     "reach": {
-      "current": 9972,
-      "previous": 1119,
-      "delta_pct": 791
+      "current": 8817,
+      "previous": 4072,
+      "delta_pct": 117
     },
     "clicks": {
-      "current": 392,
-      "previous": 10,
-      "delta_pct": 3820
+      "current": 353,
+      "previous": 81,
+      "delta_pct": 336
     },
     "ctr": {
-      "current": 2.6,
-      "previous": 0.84,
-      "delta_pct": 210
+      "current": 2.68,
+      "previous": 1.73,
+      "delta_pct": 55
     },
     "cpc": {
-      "current": 0.82,
-      "previous": 0.75,
-      "delta_pct": 9
+      "current": 0.78,
+      "previous": 0.89,
+      "delta_pct": -12
     },
     "thruplay": {
-      "current": 1139,
-      "previous": 15,
-      "delta_pct": 7493
+      "current": 1042,
+      "previous": 210,
+      "delta_pct": 396
     },
     "frequency": {
-      "current": 1.51,
-      "previous": 1.06,
-      "delta_pct": 42
+      "current": 1.49,
+      "previous": 1.15,
+      "delta_pct": 30
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
         "current": 19,
-        "previous": 0,
-        "delta_pct": null
+        "previous": 3,
+        "delta_pct": 533
       },
       "cost": {
-        "current": 16.85,
-        "previous": null,
-        "delta_pct": null
+        "current": 14.57,
+        "previous": 23.99,
+        "delta_pct": -39
       },
       "top_creative": {
         "name": "Tonalização Layer",
-        "value": 16
+        "value": 18
       }
     },
     "instagram_visits": {
@@ -98,45 +98,36 @@
   "top_creatives": [
     {
       "name": "Tonalização Layer",
-      "impressions": 9988,
-      "reach": 7106,
-      "clicks": 293,
+      "impressions": 10253,
+      "reach": 7422,
+      "clicks": 291,
       "messages": 1,
-      "ctr": 2.93,
-      "thruplay": 742
+      "ctr": 2.84,
+      "thruplay": 739
     },
     {
       "name": "Tonalização Layer",
-      "impressions": 3081,
-      "reach": 1648,
-      "clicks": 65,
-      "messages": 16,
-      "ctr": 2.11,
-      "thruplay": 337
+      "impressions": 2887,
+      "reach": 1466,
+      "clicks": 62,
+      "messages": 18,
+      "ctr": 2.15,
+      "thruplay": 301
     },
     {
-      "name": "É primavera",
-      "impressions": 1511,
-      "reach": 1402,
-      "clicks": 29,
+      "name": "2026-10-26_MEIO_REEL_Queda capilar v3",
+      "impressions": 30,
+      "reach": 28,
+      "clicks": 0,
       "messages": 0,
-      "ctr": 1.92,
-      "thruplay": 40
-    },
-    {
-      "name": "É primavera",
-      "impressions": 514,
-      "reach": 389,
-      "clicks": 5,
-      "messages": 2,
-      "ctr": 0.97,
-      "thruplay": 20
+      "ctr": 0,
+      "thruplay": 2
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 87,
-      "male_pct": 13,
+      "female_pct": 89,
+      "male_pct": 11,
       "unknown_pct": 0
     },
     "age": {
@@ -150,7 +141,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 35.14,
+    "balance_brl": 65.35,
     "balance_low": false,
     "account_disabled": false
   },

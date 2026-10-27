@@ -4,62 +4,62 @@
     "account_name": "Espaçolaser Bragança",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-10-26T14:51:00.146Z",
+    "generated_at": "2026-10-27T13:57:03.123Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-19",
-      "until": "2026-10-25",
-      "label_pt": "19 out a 25 out"
+      "since": "2026-10-20",
+      "until": "2026-10-26",
+      "label_pt": "20 out a 26 out"
     },
     "previous": {
-      "since": "2026-10-12",
-      "until": "2026-10-18"
+      "since": "2026-10-13",
+      "until": "2026-10-19"
     }
   },
   "totals": {
     "spend": {
-      "current": 0.97,
-      "previous": 412.85,
+      "current": 0,
+      "previous": 374.34,
       "delta_pct": -100
     },
     "impressions": {
-      "current": 96,
-      "previous": 30221,
+      "current": 0,
+      "previous": 27438,
       "delta_pct": -100
     },
     "reach": {
-      "current": 93,
-      "previous": 16434,
-      "delta_pct": -99
+      "current": 0,
+      "previous": 14644,
+      "delta_pct": -100
     },
     "clicks": {
-      "current": 3,
-      "previous": 459,
-      "delta_pct": -99
+      "current": 0,
+      "previous": 403,
+      "delta_pct": -100
     },
     "ctr": {
-      "current": 3.13,
-      "previous": 1.52,
-      "delta_pct": 106
+      "current": null,
+      "previous": 1.47,
+      "delta_pct": null
     },
     "cpc": {
-      "current": 0.32,
-      "previous": 0.9,
-      "delta_pct": -64
+      "current": 0,
+      "previous": 0.93,
+      "delta_pct": -100
     },
     "thruplay": {
-      "current": 12,
-      "previous": 2663,
+      "current": 0,
+      "previous": 2277,
       "delta_pct": -100
     },
     "frequency": {
-      "current": 1.03,
-      "previous": 1.84,
-      "delta_pct": -44
+      "current": 0,
+      "previous": 1.87,
+      "delta_pct": -100
     }
   },
   "conversions": {
@@ -71,13 +71,10 @@
       },
       "cost": {
         "current": null,
-        "previous": 34.4,
+        "previous": 31.19,
         "delta_pct": null
       },
-      "top_creative": {
-        "name": "[80%] Theo",
-        "value": 0
-      }
+      "top_creative": null
     },
     "instagram_visits": {
       "count": {
@@ -95,102 +92,20 @@
     "site_visits": null,
     "site_purchases": null
   },
-  "top_creatives": [
-    {
-      "name": "[80%] Theo",
-      "impressions": 37,
-      "reach": 37,
-      "clicks": 2,
-      "messages": 0,
-      "ctr": 5.41,
-      "thruplay": 1
-    },
-    {
-      "name": "[80%] Unidade — Parcelinha",
-      "impressions": 23,
-      "reach": 22,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 0
-    },
-    {
-      "name": "[80%] Carol Leite",
-      "impressions": 9,
-      "reach": 9,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 0
-    },
-    {
-      "name": "[80%] Especialista planejamento — Cópia",
-      "impressions": 9,
-      "reach": 8,
-      "clicks": 1,
-      "messages": 0,
-      "ctr": 11.11,
-      "thruplay": 8
-    },
-    {
-      "name": "[80%] Waleska Freitas",
-      "impressions": 7,
-      "reach": 7,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 0
-    },
-    {
-      "name": "[80%] Momento outubro off — Cópia",
-      "impressions": 6,
-      "reach": 6,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 3
-    },
-    {
-      "name": "Pena que nao e meu caso",
-      "impressions": 3,
-      "reach": 3,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 0
-    },
-    {
-      "name": "Dia dos solteiros",
-      "impressions": 2,
-      "reach": 2,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 0
-    },
-    {
-      "name": "[80%] Unidade — Cópia — Cópia",
-      "impressions": 0,
-      "reach": 0,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 0
-    }
-  ],
+  "top_creatives": [],
   "demographics": {
     "gender": {
-      "female_pct": 33,
-      "male_pct": 67,
+      "female_pct": 0,
+      "male_pct": 0,
       "unknown_pct": 0
     },
     "age": {
-      "18-24": 1,
-      "25-34": 34,
-      "35-44": 26,
-      "45-54": 10,
-      "55-64": 10,
-      "65+": 18
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
     }
   },
   "campaigns_active": [],
@@ -201,6 +116,7 @@
   },
   "auto_flags": [
     "spend_delta_over_50",
-    "zero_conversations_current"
+    "zero_conversations_current",
+    "zero_activity_current"
   ]
 }
