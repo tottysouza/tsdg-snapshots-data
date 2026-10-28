@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "account_id": "act_1778995386836575",
+    "account_name": "BIOMA Jackeline",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-28T14:49:50.505Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-21",
+      "until": "2026-10-27",
+      "label_pt": "21 out a 27 out"
+    },
+    "previous": {
+      "since": "2026-10-14",
+      "until": "2026-10-20"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 0,
+      "previous": 101.01,
+      "delta_pct": -100
+    },
+    "impressions": {
+      "current": 0,
+      "previous": 5165,
+      "delta_pct": -100
+    },
+    "reach": {
+      "current": 0,
+      "previous": 4358,
+      "delta_pct": -100
+    },
+    "clicks": {
+      "current": 0,
+      "previous": 238,
+      "delta_pct": -100
+    },
+    "ctr": {
+      "current": null,
+      "previous": 4.61,
+      "delta_pct": null
+    },
+    "cpc": {
+      "current": 0,
+      "previous": 0.42,
+      "delta_pct": -100
+    },
+    "thruplay": {
+      "current": 0,
+      "previous": 607,
+      "delta_pct": -100
+    },
+    "frequency": {
+      "current": 0,
+      "previous": 1.19,
+      "delta_pct": -100
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 0,
+        "previous": 6,
+        "delta_pct": -100
+      },
+      "cost": {
+        "current": null,
+        "previous": 16.84,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [],
+  "demographics": {
+    "gender": {
+      "female_pct": 0,
+      "male_pct": 0,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 2138.84,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "zero_conversations_current",
+    "zero_activity_current"
+  ]
+}

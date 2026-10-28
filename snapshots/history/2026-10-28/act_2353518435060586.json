@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_2353518435060586",
+    "account_name": "BIOMA Elizete Corrêa",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-28T14:49:51.936Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-21",
+      "until": "2026-10-27",
+      "label_pt": "21 out a 27 out"
+    },
+    "previous": {
+      "since": "2026-10-14",
+      "until": "2026-10-20"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 476.64,
+      "previous": 466.15,
+      "delta_pct": 2
+    },
+    "impressions": {
+      "current": 38583,
+      "previous": 31760,
+      "delta_pct": 21
+    },
+    "reach": {
+      "current": 29496,
+      "previous": 25628,
+      "delta_pct": 15
+    },
+    "clicks": {
+      "current": 966,
+      "previous": 1089,
+      "delta_pct": -11
+    },
+    "ctr": {
+      "current": 2.5,
+      "previous": 3.43,
+      "delta_pct": -27
+    },
+    "cpc": {
+      "current": 0.49,
+      "previous": 0.43,
+      "delta_pct": 14
+    },
+    "thruplay": {
+      "current": 8360,
+      "previous": 7149,
+      "delta_pct": 17
+    },
+    "frequency": {
+      "current": 1.31,
+      "previous": 1.24,
+      "delta_pct": 6
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 36,
+        "previous": 42,
+        "delta_pct": -14
+      },
+      "cost": {
+        "current": 13.24,
+        "previous": 11.1,
+        "delta_pct": 19
+      },
+      "top_creative": {
+        "name": "Foi executada",
+        "value": 10
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Sobre curtinho",
+      "impressions": 12666,
+      "reach": 11107,
+      "clicks": 89,
+      "messages": 0,
+      "ctr": 0.7,
+      "thruplay": 4458
+    },
+    {
+      "name": "Sobre curtinho",
+      "impressions": 5406,
+      "reach": 5180,
+      "clicks": 35,
+      "messages": 1,
+      "ctr": 0.65,
+      "thruplay": 2306
+    },
+    {
+      "name": "Foi executada",
+      "impressions": 4362,
+      "reach": 3495,
+      "clicks": 246,
+      "messages": 10,
+      "ctr": 5.64,
+      "thruplay": 304
+    },
+    {
+      "name": "Protocolo terra fértil",
+      "impressions": 4229,
+      "reach": 3031,
+      "clicks": 64,
+      "messages": 0,
+      "ctr": 1.51,
+      "thruplay": 79
+    },
+    {
+      "name": "Foi executada",
+      "impressions": 2883,
+      "reach": 2441,
+      "clicks": 151,
+      "messages": 9,
+      "ctr": 5.24,
+      "thruplay": 201
+    },
+    {
+      "name": "Começamos com",
+      "impressions": 2501,
+      "reach": 1869,
+      "clicks": 131,
+      "messages": 8,
+      "ctr": 5.24,
+      "thruplay": 313
+    },
+    {
+      "name": "Sua transição",
+      "impressions": 2269,
+      "reach": 1464,
+      "clicks": 38,
+      "messages": 1,
+      "ctr": 1.67,
+      "thruplay": 115
+    },
+    {
+      "name": "Sua transição",
+      "impressions": 1087,
+      "reach": 1061,
+      "clicks": 64,
+      "messages": 0,
+      "ctr": 5.89,
+      "thruplay": 204
+    },
+    {
+      "name": "Foi executada",
+      "impressions": 883,
+      "reach": 798,
+      "clicks": 40,
+      "messages": 2,
+      "ctr": 4.53,
+      "thruplay": 52
+    },
+    {
+      "name": "Nossa coloração",
+      "impressions": 680,
+      "reach": 527,
+      "clicks": 32,
+      "messages": 1,
+      "ctr": 4.71,
+      "thruplay": 68
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 94,
+      "male_pct": 6,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 9,
+      "35-44": 14,
+      "45-54": 21,
+      "55-64": 28,
+      "65+": 27
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 11.56,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

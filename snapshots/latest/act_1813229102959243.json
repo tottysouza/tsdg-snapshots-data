@@ -4,60 +4,60 @@
     "account_name": "MORINGA Hair",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-27T13:57:02.453Z",
+    "generated_at": "2026-10-28T14:51:42.526Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-20",
-      "until": "2026-10-26",
-      "label_pt": "20 out a 26 out"
+      "since": "2026-10-21",
+      "until": "2026-10-27",
+      "label_pt": "21 out a 27 out"
     },
     "previous": {
-      "since": "2026-10-13",
-      "until": "2026-10-19"
+      "since": "2026-10-14",
+      "until": "2026-10-20"
     }
   },
   "totals": {
     "spend": {
-      "current": 15.44,
+      "current": 20.07,
       "previous": 0,
       "delta_pct": null
     },
     "impressions": {
-      "current": 905,
+      "current": 1073,
       "previous": 0,
       "delta_pct": null
     },
     "reach": {
-      "current": 778,
+      "current": 904,
       "previous": 0,
       "delta_pct": null
     },
     "clicks": {
-      "current": 42,
+      "current": 53,
       "previous": 0,
       "delta_pct": null
     },
     "ctr": {
-      "current": 4.64,
+      "current": 4.94,
       "previous": null,
       "delta_pct": null
     },
     "cpc": {
-      "current": 0.37,
+      "current": 0.38,
       "previous": 0,
       "delta_pct": null
     },
     "thruplay": {
-      "current": 62,
+      "current": 77,
       "previous": 0,
       "delta_pct": null
     },
     "frequency": {
-      "current": 1.16,
+      "current": 1.19,
       "previous": 0,
       "delta_pct": null
     }
@@ -65,12 +65,12 @@
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 1,
+        "current": 2,
         "previous": 0,
         "delta_pct": null
       },
       "cost": {
-        "current": 15.44,
+        "current": 10.04,
         "previous": null,
         "delta_pct": null
       },
@@ -98,12 +98,21 @@
   "top_creatives": [
     {
       "name": "Há cabelos",
-      "impressions": 905,
-      "reach": 778,
-      "clicks": 42,
+      "impressions": 1015,
+      "reach": 870,
+      "clicks": 49,
       "messages": 1,
-      "ctr": 4.64,
-      "thruplay": 62
+      "ctr": 4.83,
+      "thruplay": 71
+    },
+    {
+      "name": "O melhor resultado",
+      "impressions": 58,
+      "reach": 55,
+      "clicks": 4,
+      "messages": 1,
+      "ctr": 6.9,
+      "thruplay": 6
     }
   ],
   "demographics": {
@@ -115,7 +124,7 @@
     "age": {
       "18-24": 0,
       "25-34": 9,
-      "35-44": 21,
+      "35-44": 20,
       "45-54": 32,
       "55-64": 25,
       "65+": 13
@@ -123,11 +132,11 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 10.31,
+    "balance_brl": 0.23,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
-    "creative_concentration_over_80"
+    "balance_low"
   ]
 }

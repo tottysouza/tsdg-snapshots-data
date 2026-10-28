@@ -4,20 +4,20 @@
     "account_name": "BIOMA Brisa",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-27T13:55:40.093Z",
+    "generated_at": "2026-10-28T14:49:42.917Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-20",
-      "until": "2026-10-26",
-      "label_pt": "20 out a 26 out"
+      "since": "2026-10-21",
+      "until": "2026-10-27",
+      "label_pt": "21 out a 27 out"
     },
     "previous": {
-      "since": "2026-10-13",
-      "until": "2026-10-19"
+      "since": "2026-10-14",
+      "until": "2026-10-20"
     }
   },
   "totals": {
