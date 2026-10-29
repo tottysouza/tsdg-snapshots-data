@@ -4,61 +4,61 @@
     "account_name": "Espaçolaser Caçapava",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-10-28T14:51:57.590Z",
+    "generated_at": "2026-10-29T14:57:22.588Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-21",
-      "until": "2026-10-27",
-      "label_pt": "21 out a 27 out"
+      "since": "2026-10-22",
+      "until": "2026-10-28",
+      "label_pt": "22 out a 28 out"
     },
     "previous": {
-      "since": "2026-10-14",
-      "until": "2026-10-20"
+      "since": "2026-10-15",
+      "until": "2026-10-21"
     }
   },
   "totals": {
     "spend": {
       "current": 0,
-      "previous": 351.48,
+      "previous": 277.05,
       "delta_pct": -100
     },
     "impressions": {
       "current": 0,
-      "previous": 28033,
+      "previous": 22504,
       "delta_pct": -100
     },
     "reach": {
       "current": 0,
-      "previous": 14743,
+      "previous": 12875,
       "delta_pct": -100
     },
     "clicks": {
       "current": 0,
-      "previous": 412,
+      "previous": 334,
       "delta_pct": -100
     },
     "ctr": {
       "current": null,
-      "previous": 1.47,
+      "previous": 1.48,
       "delta_pct": null
     },
     "cpc": {
       "current": 0,
-      "previous": 0.85,
+      "previous": 0.83,
       "delta_pct": -100
     },
     "thruplay": {
       "current": 0,
-      "previous": 1929,
+      "previous": 1512,
       "delta_pct": -100
     },
     "frequency": {
       "current": 0,
-      "previous": 1.9,
+      "previous": 1.75,
       "delta_pct": -100
     }
   },
@@ -66,12 +66,12 @@
     "whatsapp_messages": {
       "count": {
         "current": 0,
-        "previous": 16,
+        "previous": 12,
         "delta_pct": -100
       },
       "cost": {
         "current": null,
-        "previous": 21.97,
+        "previous": 23.09,
         "delta_pct": null
       },
       "top_creative": null

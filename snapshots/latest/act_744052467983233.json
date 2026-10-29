@@ -4,79 +4,79 @@
     "account_name": "BIOMA Sense",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-28T14:49:58.820Z",
+    "generated_at": "2026-10-29T14:55:56.542Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-21",
-      "until": "2026-10-27",
-      "label_pt": "21 out a 27 out"
+      "since": "2026-10-22",
+      "until": "2026-10-28",
+      "label_pt": "22 out a 28 out"
     },
     "previous": {
-      "since": "2026-10-14",
-      "until": "2026-10-20"
+      "since": "2026-10-15",
+      "until": "2026-10-21"
     }
   },
   "totals": {
     "spend": {
-      "current": 274.92,
-      "previous": 130.3,
-      "delta_pct": 111
+      "current": 271.05,
+      "previous": 184.17,
+      "delta_pct": 47
     },
     "impressions": {
-      "current": 13385,
-      "previous": 6577,
-      "delta_pct": 104
+      "current": 13477,
+      "previous": 8408,
+      "delta_pct": 60
     },
     "reach": {
-      "current": 8831,
-      "previous": 5276,
-      "delta_pct": 67
+      "current": 8993,
+      "previous": 6335,
+      "delta_pct": 42
     },
     "clicks": {
-      "current": 362,
-      "previous": 131,
-      "delta_pct": 176
+      "current": 348,
+      "previous": 192,
+      "delta_pct": 81
     },
     "ctr": {
-      "current": 2.7,
-      "previous": 1.99,
-      "delta_pct": 36
+      "current": 2.58,
+      "previous": 2.28,
+      "delta_pct": 13
     },
     "cpc": {
-      "current": 0.76,
-      "previous": 0.99,
-      "delta_pct": -23
+      "current": 0.78,
+      "previous": 0.96,
+      "delta_pct": -19
     },
     "thruplay": {
-      "current": 1023,
-      "previous": 407,
-      "delta_pct": 151
+      "current": 971,
+      "previous": 609,
+      "delta_pct": 59
     },
     "frequency": {
-      "current": 1.52,
-      "previous": 1.25,
-      "delta_pct": 22
+      "current": 1.5,
+      "previous": 1.33,
+      "delta_pct": 13
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 13,
-        "previous": 12,
-        "delta_pct": 8
+        "current": 18,
+        "previous": 13,
+        "delta_pct": 38
       },
       "cost": {
-        "current": 21.15,
-        "previous": 10.86,
-        "delta_pct": 95
+        "current": 15.06,
+        "previous": 14.17,
+        "delta_pct": 6
       },
       "top_creative": {
         "name": "Tonalização Layer",
-        "value": 12
+        "value": 17
       }
     },
     "instagram_visits": {
@@ -98,21 +98,21 @@
   "top_creatives": [
     {
       "name": "Tonalização Layer",
-      "impressions": 10583,
-      "reach": 7509,
-      "clicks": 304,
+      "impressions": 10691,
+      "reach": 7678,
+      "clicks": 289,
       "messages": 1,
-      "ctr": 2.87,
-      "thruplay": 748
+      "ctr": 2.7,
+      "thruplay": 716
     },
     {
       "name": "Tonalização Layer",
-      "impressions": 2772,
-      "reach": 1370,
-      "clicks": 58,
-      "messages": 12,
-      "ctr": 2.09,
-      "thruplay": 273
+      "impressions": 2756,
+      "reach": 1360,
+      "clicks": 59,
+      "messages": 17,
+      "ctr": 2.14,
+      "thruplay": 253
     },
     {
       "name": "2026-10-26_MEIO_REEL_Queda capilar v3",
@@ -141,12 +141,11 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 25.03,
+    "balance_brl": 73.08,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
-    "spend_delta_over_50",
     "creative_concentration_over_80",
     "balance_low"
   ]

@@ -1,0 +1,175 @@
+{
+  "current": {
+    "accountId": "act_1778995386836575",
+    "saldo": 2138.84,
+    "periodo": "custom",
+    "dateRange": {
+      "since": "2026-10-22",
+      "until": "2026-10-28"
+    },
+    "timestamp": "2026-10-29T14:55:45.256Z",
+    "kpis": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    },
+    "ads": [],
+    "genero": {
+      "F": 0,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    },
+    "prev": {
+      "investimento": 0.46,
+      "impressoes": 38,
+      "alcance": 38,
+      "cliques": 3,
+      "cpc": 0.15,
+      "cpm": 12.11,
+      "mensagens": 1,
+      "cpa": 0.46,
+      "thruplay": 3,
+      "frequencia": 1
+    }
+  },
+  "previous": {
+    "accountId": "act_1778995386836575",
+    "saldo": 2138.84,
+    "dateRange": {
+      "since": "2026-10-15",
+      "until": "2026-10-21"
+    },
+    "kpis": {
+      "investimento": 0.46,
+      "impressoes": 38,
+      "alcance": 38,
+      "cliques": 3,
+      "cpc": 0.15,
+      "cpm": 12.11,
+      "mensagens": 1,
+      "cpa": 0.46,
+      "thruplay": 3,
+      "frequencia": 1
+    },
+    "ads": [
+      {
+        "id": "120250314595320159",
+        "nome": "Tem dias que o corpo",
+        "status": "ACTIVE",
+        "legenda": "Tem dias em que o corpo pede pausa.\nE a mente também 🌿\n\nNossas massagens são um convite para desace 2026-09-29-3ab5e5e8ce57c91195dc85f76c2e2766",
+        "campId": "120248084816650159",
+        "campanha": "02. MEIO | Tráfego Instagram",
+        "adsetId": "120248084816640159",
+        "adset": "LL + INT",
+        "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/829453989_1100295162723467_7824043718688235452_n.jpg?_nc_cat=107&ccb=1-7&_nc_eui2=AeEqmrTun9aRcBqS4w6UhSU5e6SfyEgRjL57pJ_ISBGMvmwikfyhwRbx7SV1X9KdvQ8QAJnyrcU4Eal-CSDFgT_R&_nc_ohc=r6GTdWmg8kgQ7kNvwF42SQ5&_nc_oc=AdpgcYL29UgnyISL7uVq9Idg1dS6fYCI4PMVXXIS1dojganv3ceYPnZlJdnffQUZzqU&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=2jCEh_KKtvzs2xc2OgD4Qg&_nc_tpa=Q5bMBQKYPmF3DB7yaycA5zfKC39bVj-6hlpJqb54YruvSmghf0RHjvB8pmB7XUQScrmW_lQpTvJP2v3gOg&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQRnJly6HDeoTGu088Vk76Qg3-L9uE391soEmd0IPacGSw&oe=6AE947C0",
+        "impressoes": 30,
+        "alcance": 30,
+        "cliques": 0,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 0.31,
+        "cpc": 0,
+        "ctr": 0
+      },
+      {
+        "id": "120256094641210159",
+        "nome": "Tem dias que o corpo — Cópia",
+        "status": "ACTIVE",
+        "legenda": "Tem dias em que o corpo pede pausa.\nE a mente também 🌿\n\nNossas massagens são um convite para desace 2026-09-29-7c351ba8bf003c7894d70176216efbec",
+        "campId": "120239797784940159",
+        "campanha": "03. FUNDO | Engajamento WhatsApp",
+        "adsetId": "120251199685770159",
+        "adset": "LL 1%",
+        "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/827947310_1786610902544805_4304728478753324086_n.jpg?_nc_cat=103&ccb=1-7&_nc_eui2=AeF-C2gpnHSfQvGt6YMAAWFBlhrzn2BmNBmWGvOfYGY0Gc6XXkn9UfXxsWZA7VPgXyN7UDGAWlHgYLdNM798cyrT&_nc_ohc=S572DZrGYlsQ7kNvwHpuOjU&_nc_oc=AdoiPoefx-5rCvaSFlSbijTfZuQBB8TpOrinyXKQjYZx9g0G-jmJzIo7_h3RE3SLwqw&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=2jCEh_KKtvzs2xc2OgD4Qg&_nc_tpa=Q5bMBQLi7wy70f2Wevq-dJ4CPrrk0dUwDSw1umiyJtZ_p2cavEHNz74y5vVj9mwMqlxnx_keODnruMNaFA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQSUSoIMA9tiLzsHbYmGQipsdBkiUE_Ao4SE_RKIKl20qg&oe=6AE93B6E",
+        "impressoes": 4,
+        "alcance": 4,
+        "cliques": 1,
+        "mensagens": 0,
+        "thruplay": 1,
+        "investimento": 0.07,
+        "cpc": 0.07,
+        "ctr": 25
+      },
+      {
+        "id": "120256094595940159",
+        "nome": "Tem dias que o corpo",
+        "status": "ACTIVE",
+        "legenda": "Tem dias em que o corpo pede pausa.\nE a mente também 🌿\n\nNossas massagens são um convite para desace 2026-09-29-fdc81318705eded138f0d502d96b04ff",
+        "campId": "120239797784940159",
+        "campanha": "03. FUNDO | Engajamento WhatsApp",
+        "adsetId": "120242427445080159",
+        "adset": "Clientes + INSTA + VV",
+        "thumbnail": "https://scontent-atl3-2.xx.fbcdn.net/v/t15.5256-10/830153113_1121315406927412_4947051745059677882_n.jpg?_nc_cat=111&ccb=1-7&_nc_eui2=AeFaQl8vrjLKDHz6WhUhyXjKseEuPnUtIqax4S4-dS0ipjAtCgD3koa-3HHv_K_YWsMYC3BWps6huFmWiCXeiIqQ&_nc_ohc=Hb4oAklUKGkQ7kNvwGK2KJQ&_nc_oc=AdrYJgaBqeRi_FuNOQpu7Zaf6BEwiKYqJMBpMaX3Qy89zn3NBFY6k6D-PDOmW3hC_sM&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=ACTJxZ4EAAAA&_nc_gid=2jCEh_KKtvzs2xc2OgD4Qg&_nc_tpa=Q5bMBQJjdA2HLsFVQUQmE5wMj9ZJyzYcCznre59XdEVilzmfy0Wh-kMwCdQdhdOby7VQsNRByh1wVYBF_w&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQR6yF2c2SxyiSCgyxRUXnBDWL4LGw3i1dVVVyPjDiuq1w&oe=6AE9269B",
+        "impressoes": 3,
+        "alcance": 3,
+        "cliques": 2,
+        "mensagens": 1,
+        "thruplay": 1,
+        "investimento": 0.06,
+        "cpc": 0.03,
+        "ctr": 66.67
+      },
+      {
+        "id": "120255950832380159",
+        "nome": "Beleza à brasileira",
+        "status": "ACTIVE",
+        "legenda": "Beleza à Brasileira. 🇧🇷\n\nUma maquiagem pensada para valorizar o que já existe: a nossa diversidade, 2026-09-21-3ebd146d9bb8856a46084967863002bd",
+        "campId": "120250694200740159",
+        "campanha": "01. TOPO | Reconhecimento TP",
+        "adsetId": "120250694200750159",
+        "adset": "TDs",
+        "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/820189891_1071554519087841_8050858796517692025_n.jpg?_nc_cat=103&ccb=1-7&_nc_eui2=AeHOSOKHJVa9xPXt1v_O83R-TnWyOcnnl-NOdbI5yeeX495YofcAlBtSle1MO8dCTHKBiTmDLyr0KFjwSQFOqwt7&_nc_ohc=tEVOz1EXiIUQ7kNvwGeTSrl&_nc_oc=AdrNN1WKZooZ-PupotOgDQrYosUQlNSSCYD2vgSmnlr4fv8nk_gmfNrkXJDmpYbSi68&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=2jCEh_KKtvzs2xc2OgD4Qg&_nc_tpa=Q5bMBQL39Ft38wPg-AUtFvaG3gOdjAXjQxJq78FoGAiGjs1DHfxRgsarTBoS7upFxO2jJWmC3XEaBbvPuw&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQTqewgUmIjrUZMQbWuN2RX6LUbMHcrsvnmAVVRGnW69Xg&oe=6AE92157",
+        "impressoes": 1,
+        "alcance": 1,
+        "cliques": 0,
+        "mensagens": 0,
+        "thruplay": 1,
+        "investimento": 0.02,
+        "cpc": 0,
+        "ctr": 0
+      }
+    ],
+    "genero": {
+      "F": 67,
+      "M": 33,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 45,
+      "35-44": 26,
+      "45-54": 18,
+      "55-64": 8,
+      "65+": 3
+    },
+    "periodo": "custom",
+    "timestamp": "2026-10-29T14:55:49.763Z",
+    "prev": {
+      "investimento": 655.7,
+      "impressoes": 49452,
+      "alcance": 38828,
+      "cliques": 1612,
+      "cpc": 0.41,
+      "cpm": 13.26,
+      "mensagens": 30,
+      "cpa": 21.86,
+      "thruplay": 4996,
+      "frequencia": 1.27
+    }
+  }
+}
