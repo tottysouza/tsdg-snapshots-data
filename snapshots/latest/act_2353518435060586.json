@@ -4,79 +4,79 @@
     "account_name": "BIOMA Elizete Corrêa",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-29T14:55:48.820Z",
+    "generated_at": "2026-10-30T14:48:11.562Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-22",
-      "until": "2026-10-28",
-      "label_pt": "22 out a 28 out"
+      "since": "2026-10-23",
+      "until": "2026-10-29",
+      "label_pt": "23 out a 29 out"
     },
     "previous": {
-      "since": "2026-10-15",
-      "until": "2026-10-21"
+      "since": "2026-10-16",
+      "until": "2026-10-22"
     }
   },
   "totals": {
     "spend": {
-      "current": 456.07,
-      "previous": 479.4,
-      "delta_pct": -5
-    },
-    "impressions": {
-      "current": 36606,
-      "previous": 32606,
-      "delta_pct": 12
-    },
-    "reach": {
-      "current": 27088,
-      "previous": 26452,
+      "current": 485.09,
+      "previous": 475.19,
       "delta_pct": 2
     },
+    "impressions": {
+      "current": 38793,
+      "previous": 32742,
+      "delta_pct": 18
+    },
+    "reach": {
+      "current": 28222,
+      "previous": 27338,
+      "delta_pct": 3
+    },
     "clicks": {
-      "current": 875,
-      "previous": 1152,
-      "delta_pct": -24
+      "current": 964,
+      "previous": 1117,
+      "delta_pct": -14
     },
     "ctr": {
-      "current": 2.39,
-      "previous": 3.53,
-      "delta_pct": -32
+      "current": 2.48,
+      "previous": 3.41,
+      "delta_pct": -27
     },
     "cpc": {
-      "current": 0.52,
-      "previous": 0.42,
-      "delta_pct": 24
+      "current": 0.5,
+      "previous": 0.43,
+      "delta_pct": 16
     },
     "thruplay": {
-      "current": 7466,
-      "previous": 7637,
+      "current": 7806,
+      "previous": 7997,
       "delta_pct": -2
     },
     "frequency": {
-      "current": 1.35,
-      "previous": 1.23,
-      "delta_pct": 10
+      "current": 1.37,
+      "previous": 1.2,
+      "delta_pct": 14
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 36,
+        "current": 42,
         "previous": 44,
-        "delta_pct": -18
+        "delta_pct": -5
       },
       "cost": {
-        "current": 12.67,
-        "previous": 10.9,
-        "delta_pct": 16
+        "current": 11.55,
+        "previous": 10.8,
+        "delta_pct": 7
       },
       "top_creative": {
         "name": "Foi executada",
-        "value": 9
+        "value": 10
       }
     },
     "instagram_visits": {
@@ -98,99 +98,99 @@
   "top_creatives": [
     {
       "name": "Sobre curtinho",
-      "impressions": 13571,
-      "reach": 11834,
-      "clicks": 91,
+      "impressions": 16064,
+      "reach": 14067,
+      "clicks": 114,
       "messages": 0,
-      "ctr": 0.67,
-      "thruplay": 4806
+      "ctr": 0.71,
+      "thruplay": 5801
     },
     {
       "name": "Protocolo terra fértil",
-      "impressions": 4892,
-      "reach": 3350,
-      "clicks": 82,
+      "impressions": 5348,
+      "reach": 3628,
+      "clicks": 106,
       "messages": 0,
-      "ctr": 1.68,
-      "thruplay": 94
+      "ctr": 1.98,
+      "thruplay": 108
     },
     {
       "name": "Foi executada",
-      "impressions": 3394,
-      "reach": 2784,
-      "clicks": 169,
-      "messages": 9,
-      "ctr": 4.98,
-      "thruplay": 227
-    },
-    {
-      "name": "Sobre curtinho",
-      "impressions": 2924,
-      "reach": 2924,
-      "clicks": 18,
-      "messages": 1,
-      "ctr": 0.62,
-      "thruplay": 1222
+      "impressions": 3844,
+      "reach": 3094,
+      "clicks": 197,
+      "messages": 10,
+      "ctr": 5.12,
+      "thruplay": 258
     },
     {
       "name": "Começamos com",
-      "impressions": 2799,
-      "reach": 2041,
-      "clicks": 148,
-      "messages": 9,
-      "ctr": 5.29,
-      "thruplay": 356
+      "impressions": 3201,
+      "reach": 2273,
+      "clicks": 169,
+      "messages": 10,
+      "ctr": 5.28,
+      "thruplay": 414
     },
     {
       "name": "Sua transição",
-      "impressions": 2638,
-      "reach": 1652,
-      "clicks": 51,
+      "impressions": 3016,
+      "reach": 1936,
+      "clicks": 61,
       "messages": 1,
-      "ctr": 1.93,
-      "thruplay": 152
+      "ctr": 2.02,
+      "thruplay": 195
     },
     {
       "name": "Foi executada",
-      "impressions": 2394,
-      "reach": 2071,
-      "clicks": 126,
-      "messages": 3,
-      "ctr": 5.26,
-      "thruplay": 165
+      "impressions": 1423,
+      "reach": 1232,
+      "clicks": 80,
+      "messages": 8,
+      "ctr": 5.62,
+      "thruplay": 92
     },
     {
       "name": "Foi executada",
-      "impressions": 1112,
-      "reach": 995,
-      "clicks": 59,
-      "messages": 6,
-      "ctr": 5.31,
-      "thruplay": 67
+      "impressions": 1365,
+      "reach": 1238,
+      "clicks": 67,
+      "messages": 1,
+      "ctr": 4.91,
+      "thruplay": 87
     },
     {
-      "name": "Nossa coloração",
-      "impressions": 875,
-      "reach": 638,
-      "clicks": 44,
-      "messages": 1,
-      "ctr": 5.03,
-      "thruplay": 89
+      "name": "Sobre curtinho",
+      "impressions": 1222,
+      "reach": 1222,
+      "clicks": 7,
+      "messages": 0,
+      "ctr": 0.57,
+      "thruplay": 476
     },
     {
       "name": "Morena iluminada",
-      "impressions": 604,
-      "reach": 374,
-      "clicks": 38,
+      "impressions": 1179,
+      "reach": 754,
+      "clicks": 71,
+      "messages": 5,
+      "ctr": 6.02,
+      "thruplay": 73
+    },
+    {
+      "name": "Nossa coloração",
+      "impressions": 1069,
+      "reach": 759,
+      "clicks": 58,
       "messages": 3,
-      "ctr": 6.29,
-      "thruplay": 40
+      "ctr": 5.43,
+      "thruplay": 110
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 94,
-      "male_pct": 6,
+      "female_pct": 92,
+      "male_pct": 8,
       "unknown_pct": 0
     },
     "age": {
@@ -204,7 +204,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 78.19,
+    "balance_brl": 144.21,
     "balance_low": false,
     "account_disabled": false
   },

@@ -4,74 +4,74 @@
     "account_name": "BIOMA Jackeline",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-29T14:55:49.777Z",
+    "generated_at": "2026-10-30T14:48:07.595Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-22",
-      "until": "2026-10-28",
-      "label_pt": "22 out a 28 out"
+      "since": "2026-10-23",
+      "until": "2026-10-29",
+      "label_pt": "23 out a 29 out"
     },
     "previous": {
-      "since": "2026-10-15",
-      "until": "2026-10-21"
+      "since": "2026-10-16",
+      "until": "2026-10-22"
     }
   },
   "totals": {
     "spend": {
       "current": 0,
-      "previous": 0.46,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "impressions": {
       "current": 0,
-      "previous": 38,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "reach": {
       "current": 0,
-      "previous": 38,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "clicks": {
       "current": 0,
-      "previous": 3,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "ctr": {
       "current": null,
-      "previous": 7.89,
+      "previous": null,
       "delta_pct": null
     },
     "cpc": {
       "current": 0,
-      "previous": 0.15,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "thruplay": {
       "current": 0,
-      "previous": 3,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "frequency": {
       "current": 0,
-      "previous": 1,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
         "current": 0,
-        "previous": 1,
-        "delta_pct": -100
+        "previous": 0,
+        "delta_pct": 0
       },
       "cost": {
         "current": null,
-        "previous": 0.46,
+        "previous": null,
         "delta_pct": null
       },
       "top_creative": null
@@ -115,7 +115,6 @@
     "account_disabled": false
   },
   "auto_flags": [
-    "spend_delta_over_50",
     "zero_conversations_current",
     "zero_activity_current"
   ]
