@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "account_id": "act_896596526559885",
+    "account_name": "VIRGO Cases",
+    "segment": "TECH",
+    "template": "VIRGO",
+    "generated_at": "2026-10-31T14:17:37.308Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-24",
+      "until": "2026-10-30",
+      "label_pt": "24 out a 30 out"
+    },
+    "previous": {
+      "since": "2026-10-17",
+      "until": "2026-10-23"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 479.26,
+      "previous": 297.19,
+      "delta_pct": 61
+    },
+    "impressions": {
+      "current": 32725,
+      "previous": 37462,
+      "delta_pct": -13
+    },
+    "reach": {
+      "current": 21564,
+      "previous": 20284,
+      "delta_pct": 6
+    },
+    "clicks": {
+      "current": 1616,
+      "previous": 2875,
+      "delta_pct": -44
+    },
+    "ctr": {
+      "current": 4.94,
+      "previous": 7.67,
+      "delta_pct": -36
+    },
+    "cpc": {
+      "current": 0.3,
+      "previous": 0.1,
+      "delta_pct": 200
+    },
+    "thruplay": {
+      "current": 630,
+      "previous": 574,
+      "delta_pct": 10
+    },
+    "frequency": {
+      "current": 1.52,
+      "previous": 1.85,
+      "delta_pct": -18
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 1,
+        "previous": 2,
+        "delta_pct": -50
+      },
+      "cost": {
+        "current": 479.26,
+        "previous": 148.59,
+        "delta_pct": 223
+      },
+      "top_creative": {
+        "name": "RMKT · Felipe Watches + cupom",
+        "value": 1
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_purchases": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "revenue": null,
+      "roi": null
+    }
+  },
+  "top_creatives": [
+    {
+      "name": "Depois de alguns dias",
+      "impressions": 10186,
+      "reach": 7427,
+      "clicks": 761,
+      "messages": 0,
+      "ctr": 7.47,
+      "thruplay": 11
+    },
+    {
+      "name": "TRÁFEGO · \"Cada peça\" (post IG) · out/26",
+      "impressions": 3639,
+      "reach": 3582,
+      "clicks": 176,
+      "messages": 0,
+      "ctr": 4.84,
+      "thruplay": 0
+    },
+    {
+      "name": "TOPO · \"A forma\" vídeo (post IG) v2",
+      "impressions": 3454,
+      "reach": 2925,
+      "clicks": 81,
+      "messages": 0,
+      "ctr": 2.35,
+      "thruplay": 179
+    },
+    {
+      "name": "AQ · \"10\" Coleção/tempo (estático campeão)",
+      "impressions": 2431,
+      "reach": 1541,
+      "clicks": 71,
+      "messages": 0,
+      "ctr": 2.92,
+      "thruplay": 8
+    },
+    {
+      "name": "AQ · \"A forma\" vídeo (post IG) v3",
+      "impressions": 2267,
+      "reach": 1460,
+      "clicks": 112,
+      "messages": 0,
+      "ctr": 4.94,
+      "thruplay": 144
+    },
+    {
+      "name": "Coleção merece",
+      "impressions": 2232,
+      "reach": 1956,
+      "clicks": 74,
+      "messages": 0,
+      "ctr": 3.32,
+      "thruplay": 15
+    },
+    {
+      "name": "RMKT · \"Coleção merece\" 3/6/10",
+      "impressions": 2061,
+      "reach": 1016,
+      "clicks": 66,
+      "messages": 0,
+      "ctr": 3.2,
+      "thruplay": 57
+    },
+    {
+      "name": "RMKT · \"10\" Coleção/tempo",
+      "impressions": 1898,
+      "reach": 1090,
+      "clicks": 55,
+      "messages": 0,
+      "ctr": 2.9,
+      "thruplay": 36
+    },
+    {
+      "name": "RMKT · Felipe Watches + cupom",
+      "impressions": 1859,
+      "reach": 776,
+      "clicks": 121,
+      "messages": 1,
+      "ctr": 6.51,
+      "thruplay": 70
+    },
+    {
+      "name": "AQ · \"Coleção merece\" 3/6/10",
+      "impressions": 1430,
+      "reach": 1024,
+      "clicks": 52,
+      "messages": 0,
+      "ctr": 3.64,
+      "thruplay": 62
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 39,
+      "male_pct": 61,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 1,
+      "25-34": 30,
+      "35-44": 33,
+      "45-54": 20,
+      "55-64": 10,
+      "65+": 7
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 424.98,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "creative_concentration_over_80"
+  ]
+}

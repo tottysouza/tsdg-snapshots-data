@@ -4,79 +4,79 @@
     "account_name": "Espaçolaser Campolim",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-10-30T14:49:33.992Z",
+    "generated_at": "2026-10-31T14:17:40.160Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-23",
-      "until": "2026-10-29",
-      "label_pt": "23 out a 29 out"
+      "since": "2026-10-24",
+      "until": "2026-10-30",
+      "label_pt": "24 out a 30 out"
     },
     "previous": {
-      "since": "2026-10-16",
-      "until": "2026-10-22"
+      "since": "2026-10-17",
+      "until": "2026-10-23"
     }
   },
   "totals": {
     "spend": {
-      "current": 331.9,
-      "previous": 360.02,
-      "delta_pct": -8
+      "current": 346.18,
+      "previous": 370.39,
+      "delta_pct": -7
     },
     "impressions": {
-      "current": 31906,
-      "previous": 25715,
-      "delta_pct": 24
+      "current": 33024,
+      "previous": 26951,
+      "delta_pct": 23
     },
     "reach": {
-      "current": 21778,
-      "previous": 15667,
-      "delta_pct": 39
+      "current": 22567,
+      "previous": 16418,
+      "delta_pct": 37
     },
     "clicks": {
-      "current": 731,
-      "previous": 679,
-      "delta_pct": 8
+      "current": 749,
+      "previous": 717,
+      "delta_pct": 4
     },
     "ctr": {
-      "current": 2.29,
-      "previous": 2.64,
-      "delta_pct": -13
-    },
-    "cpc": {
-      "current": 0.45,
-      "previous": 0.53,
+      "current": 2.27,
+      "previous": 2.66,
       "delta_pct": -15
     },
+    "cpc": {
+      "current": 0.46,
+      "previous": 0.52,
+      "delta_pct": -12
+    },
     "thruplay": {
-      "current": 2572,
-      "previous": 2858,
-      "delta_pct": -10
+      "current": 2685,
+      "previous": 2712,
+      "delta_pct": -1
     },
     "frequency": {
-      "current": 1.47,
+      "current": 1.46,
       "previous": 1.64,
-      "delta_pct": -10
+      "delta_pct": -11
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 29,
-        "previous": 21,
-        "delta_pct": 38
+        "current": 30,
+        "previous": 22,
+        "delta_pct": 36
       },
       "cost": {
-        "current": 11.44,
-        "previous": 17.14,
-        "delta_pct": -33
+        "current": 11.54,
+        "previous": 16.84,
+        "delta_pct": -31
       },
       "top_creative": {
         "name": "Pena que nao e meu caso",
-        "value": 12
+        "value": 14
       }
     },
     "instagram_visits": {
@@ -98,84 +98,84 @@
   "top_creatives": [
     {
       "name": "De perto",
-      "impressions": 10727,
-      "reach": 8596,
-      "clicks": 40,
+      "impressions": 11016,
+      "reach": 8927,
+      "clicks": 39,
       "messages": 0,
-      "ctr": 0.37,
-      "thruplay": 1789
+      "ctr": 0.35,
+      "thruplay": 1831
     },
     {
       "name": "Pena que nao e meu caso",
-      "impressions": 7308,
-      "reach": 5717,
-      "clicks": 221,
-      "messages": 12,
-      "ctr": 3.02,
-      "thruplay": 240
+      "impressions": 7419,
+      "reach": 5807,
+      "clicks": 220,
+      "messages": 14,
+      "ctr": 2.97,
+      "thruplay": 238
     },
     {
       "name": "Resgate",
-      "impressions": 5537,
-      "reach": 3153,
-      "clicks": 41,
+      "impressions": 5571,
+      "reach": 3208,
+      "clicks": 43,
       "messages": 10,
-      "ctr": 0.74,
-      "thruplay": 107
+      "ctr": 0.77,
+      "thruplay": 108
     },
     {
       "name": "[80%] Estaticos",
-      "impressions": 2513,
-      "reach": 1664,
-      "clicks": 321,
+      "impressions": 2610,
+      "reach": 1784,
+      "clicks": 333,
       "messages": 0,
-      "ctr": 12.77,
-      "thruplay": 0
+      "ctr": 12.76,
+      "thruplay": 1
     },
     {
       "name": "Segredos",
-      "impressions": 2264,
-      "reach": 1512,
-      "clicks": 33,
-      "messages": 4,
-      "ctr": 1.46,
-      "thruplay": 63
+      "impressions": 2328,
+      "reach": 1555,
+      "clicks": 30,
+      "messages": 3,
+      "ctr": 1.29,
+      "thruplay": 69
     },
     {
       "name": "Pele lisinha",
-      "impressions": 1841,
-      "reach": 1707,
-      "clicks": 63,
+      "impressions": 2136,
+      "reach": 1997,
+      "clicks": 71,
       "messages": 0,
-      "ctr": 3.42,
-      "thruplay": 306
+      "ctr": 3.32,
+      "thruplay": 363
     },
     {
       "name": "[80%] Parcelinha",
-      "impressions": 1079,
-      "reach": 730,
-      "clicks": 8,
+      "impressions": 1185,
+      "reach": 800,
+      "clicks": 9,
       "messages": 3,
-      "ctr": 0.74,
-      "thruplay": 38
+      "ctr": 0.76,
+      "thruplay": 39
     },
     {
       "name": "[80%] Parcelinha — Cópia",
-      "impressions": 415,
-      "reach": 312,
+      "impressions": 532,
+      "reach": 378,
       "clicks": 3,
       "messages": 0,
-      "ctr": 0.72,
-      "thruplay": 19
+      "ctr": 0.56,
+      "thruplay": 27
     },
     {
       "name": "[80%] Parcelinha",
-      "impressions": 217,
-      "reach": 179,
+      "impressions": 222,
+      "reach": 173,
       "clicks": 1,
       "messages": 0,
-      "ctr": 0.46,
-      "thruplay": 6
+      "ctr": 0.45,
+      "thruplay": 5
     },
     {
       "name": "[80%] Especialista planejamento",
@@ -195,16 +195,16 @@
     },
     "age": {
       "18-24": 0,
-      "25-34": 32,
+      "25-34": 33,
       "35-44": 25,
       "45-54": 17,
-      "55-64": 13,
+      "55-64": 12,
       "65+": 12
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 14.98,
+    "balance_brl": 16.27,
     "balance_low": false,
     "account_disabled": false
   },

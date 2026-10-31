@@ -4,61 +4,61 @@
     "account_name": "Espaçolaser Bragança",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-10-30T14:49:28.508Z",
+    "generated_at": "2026-10-31T14:17:32.949Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-23",
-      "until": "2026-10-29",
-      "label_pt": "23 out a 29 out"
+      "since": "2026-10-24",
+      "until": "2026-10-30",
+      "label_pt": "24 out a 30 out"
     },
     "previous": {
-      "since": "2026-10-16",
-      "until": "2026-10-22"
+      "since": "2026-10-17",
+      "until": "2026-10-23"
     }
   },
   "totals": {
     "spend": {
       "current": 0,
-      "previous": 176.47,
+      "previous": 118.97,
       "delta_pct": -100
     },
     "impressions": {
       "current": 0,
-      "previous": 12995,
+      "previous": 8815,
       "delta_pct": -100
     },
     "reach": {
       "current": 0,
-      "previous": 8069,
+      "previous": 6246,
       "delta_pct": -100
     },
     "clicks": {
       "current": 0,
-      "previous": 200,
+      "previous": 131,
       "delta_pct": -100
     },
     "ctr": {
       "current": null,
-      "previous": 1.54,
+      "previous": 1.49,
       "delta_pct": null
     },
     "cpc": {
       "current": 0,
-      "previous": 0.88,
+      "previous": 0.91,
       "delta_pct": -100
     },
     "thruplay": {
       "current": 0,
-      "previous": 1155,
+      "previous": 762,
       "delta_pct": -100
     },
     "frequency": {
       "current": 0,
-      "previous": 1.61,
+      "previous": 1.41,
       "delta_pct": -100
     }
   },
@@ -66,12 +66,12 @@
     "whatsapp_messages": {
       "count": {
         "current": 0,
-        "previous": 5,
+        "previous": 2,
         "delta_pct": -100
       },
       "cost": {
         "current": null,
-        "previous": 35.29,
+        "previous": 59.48,
         "delta_pct": null
       },
       "top_creative": null

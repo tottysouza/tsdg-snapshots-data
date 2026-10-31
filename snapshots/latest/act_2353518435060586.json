@@ -4,47 +4,47 @@
     "account_name": "BIOMA Elizete Corrêa",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-30T14:48:11.562Z",
+    "generated_at": "2026-10-31T14:16:14.162Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-23",
-      "until": "2026-10-29",
-      "label_pt": "23 out a 29 out"
+      "since": "2026-10-24",
+      "until": "2026-10-30",
+      "label_pt": "24 out a 30 out"
     },
     "previous": {
-      "since": "2026-10-16",
-      "until": "2026-10-22"
+      "since": "2026-10-17",
+      "until": "2026-10-23"
     }
   },
   "totals": {
     "spend": {
-      "current": 485.09,
-      "previous": 475.19,
-      "delta_pct": 2
+      "current": 480.86,
+      "previous": 475.43,
+      "delta_pct": 1
     },
     "impressions": {
-      "current": 38793,
-      "previous": 32742,
+      "current": 38660,
+      "previous": 32810,
       "delta_pct": 18
     },
     "reach": {
-      "current": 28222,
-      "previous": 27338,
-      "delta_pct": 3
+      "current": 27932,
+      "previous": 27645,
+      "delta_pct": 1
     },
     "clicks": {
-      "current": 964,
-      "previous": 1117,
-      "delta_pct": -14
+      "current": 966,
+      "previous": 1110,
+      "delta_pct": -13
     },
     "ctr": {
-      "current": 2.48,
-      "previous": 3.41,
-      "delta_pct": -27
+      "current": 2.5,
+      "previous": 3.38,
+      "delta_pct": -26
     },
     "cpc": {
       "current": 0.5,
@@ -52,30 +52,30 @@
       "delta_pct": 16
     },
     "thruplay": {
-      "current": 7806,
-      "previous": 7997,
+      "current": 7877,
+      "previous": 8073,
       "delta_pct": -2
     },
     "frequency": {
-      "current": 1.37,
-      "previous": 1.2,
-      "delta_pct": 14
+      "current": 1.38,
+      "previous": 1.19,
+      "delta_pct": 16
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
         "current": 42,
-        "previous": 44,
-        "delta_pct": -5
+        "previous": 43,
+        "delta_pct": -2
       },
       "cost": {
-        "current": 11.55,
-        "previous": 10.8,
-        "delta_pct": 7
+        "current": 11.45,
+        "previous": 11.06,
+        "delta_pct": 4
       },
       "top_creative": {
-        "name": "Foi executada",
+        "name": "Começamos com",
         "value": 10
       }
     },
@@ -98,93 +98,93 @@
   "top_creatives": [
     {
       "name": "Sobre curtinho",
-      "impressions": 16064,
-      "reach": 14067,
-      "clicks": 114,
+      "impressions": 17392,
+      "reach": 14861,
+      "clicks": 121,
       "messages": 0,
-      "ctr": 0.71,
-      "thruplay": 5801
+      "ctr": 0.7,
+      "thruplay": 6348
     },
     {
       "name": "Protocolo terra fértil",
-      "impressions": 5348,
-      "reach": 3628,
-      "clicks": 106,
+      "impressions": 5459,
+      "reach": 3687,
+      "clicks": 111,
       "messages": 0,
-      "ctr": 1.98,
-      "thruplay": 108
+      "ctr": 2.03,
+      "thruplay": 117
     },
     {
       "name": "Foi executada",
-      "impressions": 3844,
-      "reach": 3094,
-      "clicks": 197,
-      "messages": 10,
-      "ctr": 5.12,
+      "impressions": 3894,
+      "reach": 3083,
+      "clicks": 207,
+      "messages": 9,
+      "ctr": 5.32,
       "thruplay": 258
     },
     {
       "name": "Começamos com",
-      "impressions": 3201,
-      "reach": 2273,
-      "clicks": 169,
+      "impressions": 3280,
+      "reach": 2306,
+      "clicks": 176,
       "messages": 10,
-      "ctr": 5.28,
-      "thruplay": 414
+      "ctr": 5.37,
+      "thruplay": 427
     },
     {
       "name": "Sua transição",
-      "impressions": 3016,
-      "reach": 1936,
-      "clicks": 61,
+      "impressions": 3191,
+      "reach": 2076,
+      "clicks": 74,
       "messages": 1,
-      "ctr": 2.02,
-      "thruplay": 195
+      "ctr": 2.32,
+      "thruplay": 225
     },
     {
       "name": "Foi executada",
-      "impressions": 1423,
-      "reach": 1232,
-      "clicks": 80,
-      "messages": 8,
-      "ctr": 5.62,
-      "thruplay": 92
-    },
-    {
-      "name": "Foi executada",
-      "impressions": 1365,
-      "reach": 1238,
-      "clicks": 67,
-      "messages": 1,
-      "ctr": 4.91,
-      "thruplay": 87
-    },
-    {
-      "name": "Sobre curtinho",
-      "impressions": 1222,
-      "reach": 1222,
-      "clicks": 7,
-      "messages": 0,
-      "ctr": 0.57,
-      "thruplay": 476
+      "impressions": 1574,
+      "reach": 1362,
+      "clicks": 86,
+      "messages": 7,
+      "ctr": 5.46,
+      "thruplay": 96
     },
     {
       "name": "Morena iluminada",
-      "impressions": 1179,
-      "reach": 754,
-      "clicks": 71,
-      "messages": 5,
-      "ctr": 6.02,
-      "thruplay": 73
+      "impressions": 1500,
+      "reach": 917,
+      "clicks": 77,
+      "messages": 6,
+      "ctr": 5.13,
+      "thruplay": 91
     },
     {
       "name": "Nossa coloração",
-      "impressions": 1069,
-      "reach": 759,
-      "clicks": 58,
-      "messages": 3,
-      "ctr": 5.43,
-      "thruplay": 110
+      "impressions": 1256,
+      "reach": 881,
+      "clicks": 71,
+      "messages": 5,
+      "ctr": 5.65,
+      "thruplay": 135
+    },
+    {
+      "name": "Foi executada",
+      "impressions": 339,
+      "reach": 329,
+      "clicks": 17,
+      "messages": 1,
+      "ctr": 5.01,
+      "thruplay": 24
+    },
+    {
+      "name": "Enquanto a vela",
+      "impressions": 187,
+      "reach": 129,
+      "clicks": 4,
+      "messages": 1,
+      "ctr": 2.14,
+      "thruplay": 17
     }
   ],
   "demographics": {
@@ -196,15 +196,15 @@
     "age": {
       "18-24": 0,
       "25-34": 10,
-      "35-44": 15,
-      "45-54": 21,
-      "55-64": 27,
-      "65+": 26
+      "35-44": 14,
+      "45-54": 22,
+      "55-64": 28,
+      "65+": 27
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 144.21,
+    "balance_brl": 204.56,
     "balance_low": false,
     "account_disabled": false
   },

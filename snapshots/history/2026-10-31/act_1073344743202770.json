@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_1073344743202770",
+    "account_name": "BIOMA Yu Tin Tin",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-10-31T14:17:13.860Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-24",
+      "until": "2026-10-30",
+      "label_pt": "24 out a 30 out"
+    },
+    "previous": {
+      "since": "2026-10-17",
+      "until": "2026-10-23"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 570.17,
+      "previous": 451.45,
+      "delta_pct": 26
+    },
+    "impressions": {
+      "current": 40192,
+      "previous": 26753,
+      "delta_pct": 50
+    },
+    "reach": {
+      "current": 25572,
+      "previous": 18049,
+      "delta_pct": 42
+    },
+    "clicks": {
+      "current": 807,
+      "previous": 586,
+      "delta_pct": 38
+    },
+    "ctr": {
+      "current": 2.01,
+      "previous": 2.19,
+      "delta_pct": -8
+    },
+    "cpc": {
+      "current": 0.71,
+      "previous": 0.77,
+      "delta_pct": -8
+    },
+    "thruplay": {
+      "current": 3055,
+      "previous": 1949,
+      "delta_pct": 57
+    },
+    "frequency": {
+      "current": 1.57,
+      "previous": 1.48,
+      "delta_pct": 6
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 30,
+        "previous": 18,
+        "delta_pct": 67
+      },
+      "cost": {
+        "current": 19.01,
+        "previous": 25.08,
+        "delta_pct": -24
+      },
+      "top_creative": {
+        "name": "Antes de escolher",
+        "value": 20
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Bride day",
+      "impressions": 12886,
+      "reach": 10669,
+      "clicks": 229,
+      "messages": 0,
+      "ctr": 1.78,
+      "thruplay": 2065
+    },
+    {
+      "name": "Antes de escolher",
+      "impressions": 7313,
+      "reach": 2666,
+      "clicks": 80,
+      "messages": 20,
+      "ctr": 1.09,
+      "thruplay": 1
+    },
+    {
+      "name": "Cuidado masculino",
+      "impressions": 4509,
+      "reach": 3903,
+      "clicks": 117,
+      "messages": 0,
+      "ctr": 2.59,
+      "thruplay": 285
+    },
+    {
+      "name": "Muito além",
+      "impressions": 4333,
+      "reach": 3859,
+      "clicks": 146,
+      "messages": 0,
+      "ctr": 3.37,
+      "thruplay": 334
+    },
+    {
+      "name": "O frizz",
+      "impressions": 3171,
+      "reach": 1950,
+      "clicks": 58,
+      "messages": 6,
+      "ctr": 1.83,
+      "thruplay": 167
+    },
+    {
+      "name": "Bride day",
+      "impressions": 3162,
+      "reach": 2517,
+      "clicks": 73,
+      "messages": 0,
+      "ctr": 2.31,
+      "thruplay": 28
+    },
+    {
+      "name": "Muito além",
+      "impressions": 2921,
+      "reach": 2560,
+      "clicks": 76,
+      "messages": 0,
+      "ctr": 2.6,
+      "thruplay": 143
+    },
+    {
+      "name": "Alerta de loiro",
+      "impressions": 1204,
+      "reach": 373,
+      "clicks": 14,
+      "messages": 1,
+      "ctr": 1.16,
+      "thruplay": 21
+    },
+    {
+      "name": "Renove o visual",
+      "impressions": 368,
+      "reach": 205,
+      "clicks": 10,
+      "messages": 1,
+      "ctr": 2.72,
+      "thruplay": 0
+    },
+    {
+      "name": "Nem toda queda",
+      "impressions": 202,
+      "reach": 108,
+      "clicks": 3,
+      "messages": 0,
+      "ctr": 1.49,
+      "thruplay": 7
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 79,
+      "male_pct": 21,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 29,
+      "35-44": 17,
+      "45-54": 16,
+      "55-64": 17,
+      "65+": 20
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 12.55,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}
