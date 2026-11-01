@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "account_id": "act_1377904143357140",
+    "account_name": "LACES Origens",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-01T14:43:59.435Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-25",
+      "until": "2026-10-31",
+      "label_pt": "25 out a 31 out"
+    },
+    "previous": {
+      "since": "2026-10-18",
+      "until": "2026-10-24"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 463.66,
+      "previous": 556.66,
+      "delta_pct": -17
+    },
+    "impressions": {
+      "current": 26657,
+      "previous": 31293,
+      "delta_pct": -15
+    },
+    "reach": {
+      "current": 19419,
+      "previous": 23176,
+      "delta_pct": -16
+    },
+    "clicks": {
+      "current": 639,
+      "previous": 1162,
+      "delta_pct": -45
+    },
+    "ctr": {
+      "current": 2.4,
+      "previous": 3.71,
+      "delta_pct": -35
+    },
+    "cpc": {
+      "current": 0.73,
+      "previous": 0.48,
+      "delta_pct": 52
+    },
+    "thruplay": {
+      "current": 2748,
+      "previous": 3881,
+      "delta_pct": -29
+    },
+    "frequency": {
+      "current": 1.37,
+      "previous": 1.35,
+      "delta_pct": 1
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 14,
+        "previous": 26,
+        "delta_pct": -46
+      },
+      "cost": {
+        "current": 33.12,
+        "previous": 21.41,
+        "delta_pct": 55
+      },
+      "top_creative": {
+        "name": "Contei para vocês",
+        "value": 5
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Contei para vocês",
+      "impressions": 11014,
+      "reach": 7496,
+      "clicks": 372,
+      "messages": 1,
+      "ctr": 3.38,
+      "thruplay": 451
+    },
+    {
+      "name": "Multiprime",
+      "impressions": 7320,
+      "reach": 5905,
+      "clicks": 95,
+      "messages": 0,
+      "ctr": 1.3,
+      "thruplay": 1291
+    },
+    {
+      "name": "Contei para vocês",
+      "impressions": 2034,
+      "reach": 1601,
+      "clicks": 50,
+      "messages": 5,
+      "ctr": 2.46,
+      "thruplay": 168
+    },
+    {
+      "name": "Há rituais",
+      "impressions": 1343,
+      "reach": 1133,
+      "clicks": 21,
+      "messages": 0,
+      "ctr": 1.56,
+      "thruplay": 387
+    },
+    {
+      "name": "Encanto da Lua (carrossel vídeo) — Cópia",
+      "impressions": 1272,
+      "reach": 942,
+      "clicks": 27,
+      "messages": 4,
+      "ctr": 2.12,
+      "thruplay": 58
+    },
+    {
+      "name": "Massagens",
+      "impressions": 1198,
+      "reach": 1081,
+      "clicks": 12,
+      "messages": 0,
+      "ctr": 1,
+      "thruplay": 346
+    },
+    {
+      "name": "Terapias capilares R$690 (estático)",
+      "impressions": 759,
+      "reach": 469,
+      "clicks": 25,
+      "messages": 1,
+      "ctr": 3.29,
+      "thruplay": 0
+    },
+    {
+      "name": "Lua out",
+      "impressions": 517,
+      "reach": 468,
+      "clicks": 9,
+      "messages": 0,
+      "ctr": 1.74,
+      "thruplay": 0
+    },
+    {
+      "name": "Encanto da Lua (carrossel vídeo)",
+      "impressions": 487,
+      "reach": 431,
+      "clicks": 6,
+      "messages": 0,
+      "ctr": 1.23,
+      "thruplay": 15
+    },
+    {
+      "name": "O que acontece (Comunidade)",
+      "impressions": 332,
+      "reach": 223,
+      "clicks": 16,
+      "messages": 2,
+      "ctr": 4.82,
+      "thruplay": 21
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 92,
+      "male_pct": 8,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 29,
+      "35-44": 16,
+      "45-54": 18,
+      "55-64": 18,
+      "65+": 19
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 246.16,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": []
+}

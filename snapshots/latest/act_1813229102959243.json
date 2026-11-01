@@ -4,20 +4,20 @@
     "account_name": "MORINGA Hair",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-31T14:17:31.817Z",
+    "generated_at": "2026-11-01T14:44:13.426Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-24",
-      "until": "2026-10-30",
-      "label_pt": "24 out a 30 out"
+      "since": "2026-10-25",
+      "until": "2026-10-31",
+      "label_pt": "25 out a 31 out"
     },
     "previous": {
-      "since": "2026-10-17",
-      "until": "2026-10-23"
+      "since": "2026-10-18",
+      "until": "2026-10-24"
     }
   },
   "totals": {
@@ -65,18 +65,18 @@
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 2,
+        "current": 3,
         "previous": 0,
         "delta_pct": null
       },
       "cost": {
-        "current": 10.04,
+        "current": 6.69,
         "previous": null,
         "delta_pct": null
       },
       "top_creative": {
         "name": "Há cabelos",
-        "value": 1
+        "value": 2
       }
     },
     "instagram_visits": {
@@ -101,7 +101,7 @@
       "impressions": 1015,
       "reach": 870,
       "clicks": 49,
-      "messages": 1,
+      "messages": 2,
       "ctr": 4.83,
       "thruplay": 71
     },

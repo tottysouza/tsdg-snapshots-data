@@ -1,0 +1,137 @@
+{
+  "current": {
+    "accountId": "act_1813229102959243",
+    "saldo": 0.23,
+    "dateRange": {
+      "since": "2026-10-25",
+      "until": "2026-10-31"
+    },
+    "kpis": {
+      "investimento": 20.07,
+      "impressoes": 1073,
+      "alcance": 904,
+      "cliques": 53,
+      "cpc": 0.38,
+      "cpm": 18.7,
+      "mensagens": 3,
+      "cpa": 6.69,
+      "thruplay": 77,
+      "frequencia": 1.19
+    },
+    "ads": [
+      {
+        "id": "120252626968170723",
+        "nome": "Há cabelos",
+        "status": "CAMPAIGN_PAUSED",
+        "legenda": "Há cabelos que pedem uma legenda.\n\nOutros falam por si.\n\nSobre este, eu não preciso dizer mais nada 2026-09-22-8784c2e1881f93b38a603d10577a8383",
+        "campId": "120241786556810723",
+        "campanha": "02. MEIO | Engajamento WhatsApp | Naturalissima",
+        "adsetId": "120241786556820723",
+        "adset": "VV + INSTA + LL1%",
+        "thumbnail": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/820506831_2367829063989661_8082150871726570786_n.jpg?_nc_cat=102&ccb=1-7&_nc_eui2=AeEW_InNdMcqDsJxulR0H_CiZxm-FOBtgddnGb4U4G2B18czdNBFEqTak8vp1jQdTBgUtksFZMjjGfp6dakeIETA&_nc_ohc=Mob9QLNiVlIQ7kNvwFqLFx_&_nc_oc=AdqfybtbqZ2pW_h4gBfJ3RmuVJbWhUEIbd_w97fkhVDG5U4nldF66FltXGUX7hspllk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=UUmz9NX3K77Gp9FlrDBANw&_nc_tpa=Q5bMBQJh2-4jSZDU8FSA_tz4kxjtCmhl8pDYtyeTFq05SKEaZFUN8RlEw74AwbjxWpabTbglC8MUzA5Hflo&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQRovddzsnWMzPHsniJ5Yb9mderzL8yN1AavugtN-_wlOQ&oe=6AED0B3E",
+        "impressoes": 1015,
+        "alcance": 870,
+        "cliques": 49,
+        "mensagens": 2,
+        "thruplay": 71,
+        "investimento": 18.15,
+        "cpc": 0.37,
+        "ctr": 4.83
+      },
+      {
+        "id": "120252524011790723",
+        "nome": "O melhor resultado",
+        "status": "CAMPAIGN_PAUSED",
+        "legenda": "Converse conosco 2026-09-16-71d992a15a2b00da8ab03da20cbf9100",
+        "campId": "120241786556810723",
+        "campanha": "02. MEIO | Engajamento WhatsApp | Naturalissima",
+        "adsetId": "120241786556820723",
+        "adset": "VV + INSTA + LL1%",
+        "thumbnail": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/802561244_1307486351349167_4092999929140494876_n.jpg?_nc_cat=106&ccb=1-7&_nc_eui2=AeHDO8Qddzt9DuO3BEtFWa-s6a8ReO3dkFnprxF47d2QWSFBUguFEYFH0H24rZOOPq8ub5OFmWWKIjasUhC_b7yO&_nc_ohc=xdAiQw6sERAQ7kNvwEpZLUN&_nc_oc=AdpzBAzVGTxEMM2pzpXTwkCYeISHMDFvWJooPBFVFFWtZl3aKSv-YZuPvoZ12oxqbX0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=UUmz9NX3K77Gp9FlrDBANw&_nc_tpa=Q5bMBQLuWVCSFllxnkGoIXtLSS2i-8XtnB76kJgWx2o_1c3MdKuIxG4j5hjiU2KY2YzxckXDEbx5uii3S_E&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQRpTGfVS6Dapp6INsM5HVxjblQdyI1JLhj1-9j2okkDIw&oe=6AED0F1D",
+        "impressoes": 58,
+        "alcance": 55,
+        "cliques": 4,
+        "mensagens": 1,
+        "thruplay": 6,
+        "investimento": 1.92,
+        "cpc": 0.48,
+        "ctr": 6.9
+      }
+    ],
+    "genero": {
+      "F": 98,
+      "M": 2,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 9,
+      "35-44": 20,
+      "45-54": 32,
+      "55-64": 25,
+      "65+": 13
+    },
+    "periodo": "custom",
+    "timestamp": "2026-11-01T14:44:13.421Z",
+    "prev": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    }
+  },
+  "previous": {
+    "accountId": "act_1813229102959243",
+    "saldo": 0.23,
+    "periodo": "custom",
+    "dateRange": {
+      "since": "2026-10-18",
+      "until": "2026-10-24"
+    },
+    "timestamp": "2026-11-01T14:44:09.914Z",
+    "kpis": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    },
+    "ads": [],
+    "genero": {
+      "F": 0,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    },
+    "prev": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    }
+  }
+}

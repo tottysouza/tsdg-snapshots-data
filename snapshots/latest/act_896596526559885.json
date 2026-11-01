@@ -4,79 +4,79 @@
     "account_name": "VIRGO Cases",
     "segment": "TECH",
     "template": "VIRGO",
-    "generated_at": "2026-10-31T14:17:37.308Z",
+    "generated_at": "2026-11-01T14:44:18.540Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-24",
-      "until": "2026-10-30",
-      "label_pt": "24 out a 30 out"
+      "since": "2026-10-25",
+      "until": "2026-10-31",
+      "label_pt": "25 out a 31 out"
     },
     "previous": {
-      "since": "2026-10-17",
-      "until": "2026-10-23"
+      "since": "2026-10-18",
+      "until": "2026-10-24"
     }
   },
   "totals": {
     "spend": {
-      "current": 479.26,
-      "previous": 297.19,
-      "delta_pct": 61
+      "current": 498.6,
+      "previous": 283.71,
+      "delta_pct": 76
     },
     "impressions": {
-      "current": 32725,
-      "previous": 37462,
-      "delta_pct": -13
+      "current": 35599,
+      "previous": 29579,
+      "delta_pct": 20
     },
     "reach": {
-      "current": 21564,
-      "previous": 20284,
-      "delta_pct": 6
+      "current": 22647,
+      "previous": 17561,
+      "delta_pct": 29
     },
     "clicks": {
-      "current": 1616,
-      "previous": 2875,
-      "delta_pct": -44
+      "current": 1857,
+      "previous": 2216,
+      "delta_pct": -16
     },
     "ctr": {
-      "current": 4.94,
-      "previous": 7.67,
-      "delta_pct": -36
+      "current": 5.22,
+      "previous": 7.49,
+      "delta_pct": -30
     },
     "cpc": {
-      "current": 0.3,
-      "previous": 0.1,
-      "delta_pct": 200
+      "current": 0.27,
+      "previous": 0.13,
+      "delta_pct": 108
     },
     "thruplay": {
-      "current": 630,
-      "previous": 574,
-      "delta_pct": 10
+      "current": 544,
+      "previous": 620,
+      "delta_pct": -12
     },
     "frequency": {
-      "current": 1.52,
-      "previous": 1.85,
-      "delta_pct": -18
+      "current": 1.57,
+      "previous": 1.68,
+      "delta_pct": -7
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 1,
-        "previous": 2,
-        "delta_pct": -50
+        "current": 0,
+        "previous": 3,
+        "delta_pct": -100
       },
       "cost": {
-        "current": 479.26,
-        "previous": 148.59,
-        "delta_pct": 223
+        "current": null,
+        "previous": 94.57,
+        "delta_pct": null
       },
       "top_creative": {
-        "name": "RMKT · Felipe Watches + cupom",
-        "value": 1
+        "name": "Depois de alguns dias",
+        "value": 0
       }
     },
     "instagram_visits": {
@@ -118,12 +118,12 @@
   "top_creatives": [
     {
       "name": "Depois de alguns dias",
-      "impressions": 10186,
-      "reach": 7427,
-      "clicks": 761,
+      "impressions": 13611,
+      "reach": 8863,
+      "clicks": 1059,
       "messages": 0,
-      "ctr": 7.47,
-      "thruplay": 11
+      "ctr": 7.78,
+      "thruplay": 12
     },
     {
       "name": "TRÁFEGO · \"Cada peça\" (post IG) · out/26",
@@ -136,30 +136,30 @@
     },
     {
       "name": "TOPO · \"A forma\" vídeo (post IG) v2",
-      "impressions": 3454,
-      "reach": 2925,
-      "clicks": 81,
+      "impressions": 3026,
+      "reach": 2618,
+      "clicks": 68,
       "messages": 0,
-      "ctr": 2.35,
-      "thruplay": 179
+      "ctr": 2.25,
+      "thruplay": 151
     },
     {
       "name": "AQ · \"10\" Coleção/tempo (estático campeão)",
-      "impressions": 2431,
-      "reach": 1541,
-      "clicks": 71,
+      "impressions": 2659,
+      "reach": 1632,
+      "clicks": 81,
       "messages": 0,
-      "ctr": 2.92,
+      "ctr": 3.05,
       "thruplay": 8
     },
     {
-      "name": "AQ · \"A forma\" vídeo (post IG) v3",
-      "impressions": 2267,
-      "reach": 1460,
-      "clicks": 112,
+      "name": "RMKT · \"10\" Coleção/tempo",
+      "impressions": 2487,
+      "reach": 1227,
+      "clicks": 76,
       "messages": 0,
-      "ctr": 4.94,
-      "thruplay": 144
+      "ctr": 3.06,
+      "thruplay": 45
     },
     {
       "name": "Coleção merece",
@@ -172,45 +172,45 @@
     },
     {
       "name": "RMKT · \"Coleção merece\" 3/6/10",
-      "impressions": 2061,
-      "reach": 1016,
-      "clicks": 66,
+      "impressions": 2178,
+      "reach": 1063,
+      "clicks": 68,
       "messages": 0,
-      "ctr": 3.2,
+      "ctr": 3.12,
       "thruplay": 57
     },
     {
-      "name": "RMKT · \"10\" Coleção/tempo",
-      "impressions": 1898,
-      "reach": 1090,
-      "clicks": 55,
+      "name": "AQ · \"Coleção merece\" 3/6/10",
+      "impressions": 1583,
+      "reach": 1115,
+      "clicks": 65,
       "messages": 0,
-      "ctr": 2.9,
-      "thruplay": 36
+      "ctr": 4.11,
+      "thruplay": 67
+    },
+    {
+      "name": "AQ · \"A forma\" vídeo (post IG) v3",
+      "impressions": 1549,
+      "reach": 1061,
+      "clicks": 65,
+      "messages": 0,
+      "ctr": 4.2,
+      "thruplay": 90
     },
     {
       "name": "RMKT · Felipe Watches + cupom",
-      "impressions": 1859,
-      "reach": 776,
-      "clicks": 121,
-      "messages": 1,
-      "ctr": 6.51,
-      "thruplay": 70
-    },
-    {
-      "name": "AQ · \"Coleção merece\" 3/6/10",
-      "impressions": 1430,
-      "reach": 1024,
-      "clicks": 52,
+      "impressions": 1421,
+      "reach": 672,
+      "clicks": 80,
       "messages": 0,
-      "ctr": 3.64,
-      "thruplay": 62
+      "ctr": 5.63,
+      "thruplay": 51
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 39,
-      "male_pct": 61,
+      "female_pct": 44,
+      "male_pct": 56,
       "unknown_pct": 0
     },
     "age": {
@@ -218,18 +218,18 @@
       "25-34": 30,
       "35-44": 33,
       "45-54": 20,
-      "55-64": 10,
-      "65+": 7
+      "55-64": 9,
+      "65+": 6
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 424.98,
+    "balance_brl": 502.91,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
     "spend_delta_over_50",
-    "creative_concentration_over_80"
+    "zero_conversations_current"
   ]
 }

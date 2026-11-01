@@ -4,79 +4,79 @@
     "account_name": "BIOMA Elizete Corrêa",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-10-31T14:16:14.162Z",
+    "generated_at": "2026-11-01T14:43:01.091Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-24",
-      "until": "2026-10-30",
-      "label_pt": "24 out a 30 out"
+      "since": "2026-10-25",
+      "until": "2026-10-31",
+      "label_pt": "25 out a 31 out"
     },
     "previous": {
-      "since": "2026-10-17",
-      "until": "2026-10-23"
+      "since": "2026-10-18",
+      "until": "2026-10-24"
     }
   },
   "totals": {
     "spend": {
-      "current": 480.86,
-      "previous": 475.43,
-      "delta_pct": 1
+      "current": 454.79,
+      "previous": 494.53,
+      "delta_pct": -8
     },
     "impressions": {
-      "current": 38660,
-      "previous": 32810,
-      "delta_pct": 18
-    },
-    "reach": {
-      "current": 27932,
-      "previous": 27645,
+      "current": 36052,
+      "previous": 35544,
       "delta_pct": 1
     },
+    "reach": {
+      "current": 26243,
+      "previous": 29350,
+      "delta_pct": -11
+    },
     "clicks": {
-      "current": 966,
-      "previous": 1110,
-      "delta_pct": -13
+      "current": 892,
+      "previous": 1126,
+      "delta_pct": -21
     },
     "ctr": {
-      "current": 2.5,
-      "previous": 3.38,
-      "delta_pct": -26
+      "current": 2.47,
+      "previous": 3.17,
+      "delta_pct": -22
     },
     "cpc": {
-      "current": 0.5,
-      "previous": 0.43,
+      "current": 0.51,
+      "previous": 0.44,
       "delta_pct": 16
     },
     "thruplay": {
-      "current": 7877,
-      "previous": 8073,
-      "delta_pct": -2
+      "current": 7429,
+      "previous": 8705,
+      "delta_pct": -15
     },
     "frequency": {
-      "current": 1.38,
-      "previous": 1.19,
-      "delta_pct": 16
+      "current": 1.37,
+      "previous": 1.21,
+      "delta_pct": 13
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 42,
-        "previous": 43,
-        "delta_pct": -2
+        "current": 40,
+        "previous": 40,
+        "delta_pct": 0
       },
       "cost": {
-        "current": 11.45,
-        "previous": 11.06,
-        "delta_pct": 4
+        "current": 11.37,
+        "previous": 12.36,
+        "delta_pct": -8
       },
       "top_creative": {
-        "name": "Começamos com",
-        "value": 10
+        "name": "Foi executada",
+        "value": 8
       }
     },
     "instagram_visits": {
@@ -98,99 +98,99 @@
   "top_creatives": [
     {
       "name": "Sobre curtinho",
-      "impressions": 17392,
-      "reach": 14861,
-      "clicks": 121,
+      "impressions": 16190,
+      "reach": 13922,
+      "clicks": 107,
       "messages": 0,
-      "ctr": 0.7,
-      "thruplay": 6348
+      "ctr": 0.66,
+      "thruplay": 5991
     },
     {
       "name": "Protocolo terra fértil",
-      "impressions": 5459,
-      "reach": 3687,
-      "clicks": 111,
+      "impressions": 4887,
+      "reach": 3380,
+      "clicks": 104,
       "messages": 0,
-      "ctr": 2.03,
-      "thruplay": 117
+      "ctr": 2.13,
+      "thruplay": 104
     },
     {
       "name": "Foi executada",
-      "impressions": 3894,
-      "reach": 3083,
-      "clicks": 207,
-      "messages": 9,
-      "ctr": 5.32,
-      "thruplay": 258
+      "impressions": 3650,
+      "reach": 2870,
+      "clicks": 189,
+      "messages": 8,
+      "ctr": 5.18,
+      "thruplay": 234
     },
     {
       "name": "Começamos com",
-      "impressions": 3280,
-      "reach": 2306,
-      "clicks": 176,
-      "messages": 10,
-      "ctr": 5.37,
-      "thruplay": 427
+      "impressions": 3023,
+      "reach": 2103,
+      "clicks": 150,
+      "messages": 7,
+      "ctr": 4.96,
+      "thruplay": 390
     },
     {
       "name": "Sua transição",
-      "impressions": 3191,
-      "reach": 2076,
-      "clicks": 74,
+      "impressions": 2994,
+      "reach": 2039,
+      "clicks": 73,
       "messages": 1,
-      "ctr": 2.32,
-      "thruplay": 225
+      "ctr": 2.44,
+      "thruplay": 224
     },
     {
       "name": "Foi executada",
-      "impressions": 1574,
-      "reach": 1362,
-      "clicks": 86,
+      "impressions": 1776,
+      "reach": 1520,
+      "clicks": 87,
       "messages": 7,
-      "ctr": 5.46,
-      "thruplay": 96
+      "ctr": 4.9,
+      "thruplay": 113
     },
     {
       "name": "Morena iluminada",
-      "impressions": 1500,
-      "reach": 917,
-      "clicks": 77,
-      "messages": 6,
-      "ctr": 5.13,
-      "thruplay": 91
+      "impressions": 1625,
+      "reach": 980,
+      "clicks": 84,
+      "messages": 7,
+      "ctr": 5.17,
+      "thruplay": 101
     },
     {
       "name": "Nossa coloração",
-      "impressions": 1256,
+      "impressions": 1266,
       "reach": 881,
-      "clicks": 71,
-      "messages": 5,
-      "ctr": 5.65,
-      "thruplay": 135
+      "clicks": 74,
+      "messages": 6,
+      "ctr": 5.85,
+      "thruplay": 145
     },
     {
-      "name": "Foi executada",
-      "impressions": 339,
-      "reach": 329,
-      "clicks": 17,
-      "messages": 1,
-      "ctr": 5.01,
-      "thruplay": 24
+      "name": "O uso de canetas",
+      "impressions": 166,
+      "reach": 119,
+      "clicks": 4,
+      "messages": 0,
+      "ctr": 2.41,
+      "thruplay": 3
     },
     {
       "name": "Enquanto a vela",
-      "impressions": 187,
-      "reach": 129,
-      "clicks": 4,
+      "impressions": 158,
+      "reach": 103,
+      "clicks": 5,
       "messages": 1,
-      "ctr": 2.14,
-      "thruplay": 17
+      "ctr": 3.16,
+      "thruplay": 14
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 92,
-      "male_pct": 8,
+      "female_pct": 91,
+      "male_pct": 9,
       "unknown_pct": 0
     },
     "age": {
@@ -204,11 +204,9 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 204.56,
+    "balance_brl": 257.15,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": [
-    "balance_low"
-  ]
+  "auto_flags": []
 }
