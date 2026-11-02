@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "account_id": "act_744052467983233",
+    "account_name": "BIOMA Sense",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-02T17:46:57.925Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-26",
+      "until": "2026-11-01",
+      "label_pt": "26 out a 1 nov"
+    },
+    "previous": {
+      "since": "2026-10-19",
+      "until": "2026-10-25"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 274.41,
+      "previous": 320.13,
+      "delta_pct": -14
+    },
+    "impressions": {
+      "current": 13220,
+      "previous": 15094,
+      "delta_pct": -12
+    },
+    "reach": {
+      "current": 9258,
+      "previous": 9972,
+      "delta_pct": -7
+    },
+    "clicks": {
+      "current": 366,
+      "previous": 392,
+      "delta_pct": -7
+    },
+    "ctr": {
+      "current": 2.77,
+      "previous": 2.6,
+      "delta_pct": 7
+    },
+    "cpc": {
+      "current": 0.75,
+      "previous": 0.82,
+      "delta_pct": -9
+    },
+    "thruplay": {
+      "current": 1006,
+      "previous": 1139,
+      "delta_pct": -12
+    },
+    "frequency": {
+      "current": 1.43,
+      "previous": 1.51,
+      "delta_pct": -5
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 21,
+        "previous": 19,
+        "delta_pct": 11
+      },
+      "cost": {
+        "current": 13.07,
+        "previous": 16.85,
+        "delta_pct": -22
+      },
+      "top_creative": {
+        "name": "Tonalização Layer",
+        "value": 16
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Tonalização Layer",
+      "impressions": 6009,
+      "reach": 4841,
+      "clicks": 156,
+      "messages": 0,
+      "ctr": 2.6,
+      "thruplay": 469
+    },
+    {
+      "name": "Loiro saudável",
+      "impressions": 4138,
+      "reach": 3548,
+      "clicks": 140,
+      "messages": 0,
+      "ctr": 3.38,
+      "thruplay": 241
+    },
+    {
+      "name": "Tonalização Layer",
+      "impressions": 2467,
+      "reach": 1178,
+      "clicks": 47,
+      "messages": 16,
+      "ctr": 1.91,
+      "thruplay": 239
+    },
+    {
+      "name": "Loiro saudável",
+      "impressions": 576,
+      "reach": 300,
+      "clicks": 23,
+      "messages": 5,
+      "ctr": 3.99,
+      "thruplay": 55
+    },
+    {
+      "name": "2026-10-26_MEIO_REEL_Queda capilar v3",
+      "impressions": 30,
+      "reach": 28,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 2
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 86,
+      "male_pct": 14,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 24,
+      "35-44": 19,
+      "45-54": 21,
+      "55-64": 21,
+      "65+": 16
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 15.12,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

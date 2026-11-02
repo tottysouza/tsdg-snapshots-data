@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_431873056620839",
+    "account_name": "Espaçolaser Campolim",
+    "segment": "LASER",
+    "template": "LASER",
+    "generated_at": "2026-11-02T17:48:17.400Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-26",
+      "until": "2026-11-01",
+      "label_pt": "26 out a 1 nov"
+    },
+    "previous": {
+      "since": "2026-10-19",
+      "until": "2026-10-25"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 351.67,
+      "previous": 382.8,
+      "delta_pct": -8
+    },
+    "impressions": {
+      "current": 32222,
+      "previous": 31280,
+      "delta_pct": 3
+    },
+    "reach": {
+      "current": 22053,
+      "previous": 19253,
+      "delta_pct": 15
+    },
+    "clicks": {
+      "current": 669,
+      "previous": 913,
+      "delta_pct": -27
+    },
+    "ctr": {
+      "current": 2.08,
+      "previous": 2.92,
+      "delta_pct": -29
+    },
+    "cpc": {
+      "current": 0.53,
+      "previous": 0.42,
+      "delta_pct": 26
+    },
+    "thruplay": {
+      "current": 2750,
+      "previous": 2479,
+      "delta_pct": 11
+    },
+    "frequency": {
+      "current": 1.46,
+      "previous": 1.62,
+      "delta_pct": -10
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 28,
+        "previous": 27,
+        "delta_pct": 4
+      },
+      "cost": {
+        "current": 12.56,
+        "previous": 14.18,
+        "delta_pct": -11
+      },
+      "top_creative": {
+        "name": "Resgate",
+        "value": 12
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "De perto",
+      "impressions": 10880,
+      "reach": 9049,
+      "clicks": 39,
+      "messages": 0,
+      "ctr": 0.36,
+      "thruplay": 1869
+    },
+    {
+      "name": "Pena que nao e meu caso",
+      "impressions": 7459,
+      "reach": 5809,
+      "clicks": 203,
+      "messages": 7,
+      "ctr": 2.72,
+      "thruplay": 258
+    },
+    {
+      "name": "Resgate",
+      "impressions": 5308,
+      "reach": 3067,
+      "clicks": 43,
+      "messages": 12,
+      "ctr": 0.81,
+      "thruplay": 92
+    },
+    {
+      "name": "[80%] Estaticos",
+      "impressions": 2493,
+      "reach": 1728,
+      "clicks": 279,
+      "messages": 0,
+      "ctr": 11.19,
+      "thruplay": 1
+    },
+    {
+      "name": "Pele lisinha",
+      "impressions": 2352,
+      "reach": 2178,
+      "clicks": 77,
+      "messages": 0,
+      "ctr": 3.27,
+      "thruplay": 407
+    },
+    {
+      "name": "Segredos",
+      "impressions": 1372,
+      "reach": 898,
+      "clicks": 17,
+      "messages": 5,
+      "ctr": 1.24,
+      "thruplay": 37
+    },
+    {
+      "name": "[80%] Parcelinha",
+      "impressions": 1275,
+      "reach": 866,
+      "clicks": 8,
+      "messages": 3,
+      "ctr": 0.63,
+      "thruplay": 44
+    },
+    {
+      "name": "[80%] Parcelinha — Cópia",
+      "impressions": 737,
+      "reach": 519,
+      "clicks": 2,
+      "messages": 1,
+      "ctr": 0.27,
+      "thruplay": 33
+    },
+    {
+      "name": "[80%] Parcelinha",
+      "impressions": 341,
+      "reach": 252,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 0.29,
+      "thruplay": 5
+    },
+    {
+      "name": "[80%] Especialista planejamento",
+      "impressions": 4,
+      "reach": 4,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 3
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 48,
+      "male_pct": 52,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 34,
+      "35-44": 25,
+      "45-54": 16,
+      "55-64": 12,
+      "65+": 12
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 24.37,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

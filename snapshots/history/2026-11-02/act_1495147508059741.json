@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "account_id": "act_1495147508059741",
+    "account_name": "Espaçolaser Caçapava",
+    "segment": "LASER",
+    "template": "LASER",
+    "generated_at": "2026-11-02T17:48:20.870Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-26",
+      "until": "2026-11-01",
+      "label_pt": "26 out a 1 nov"
+    },
+    "previous": {
+      "since": "2026-10-19",
+      "until": "2026-10-25"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 0,
+      "previous": 49.79,
+      "delta_pct": -100
+    },
+    "impressions": {
+      "current": 0,
+      "previous": 3915,
+      "delta_pct": -100
+    },
+    "reach": {
+      "current": 0,
+      "previous": 2944,
+      "delta_pct": -100
+    },
+    "clicks": {
+      "current": 0,
+      "previous": 53,
+      "delta_pct": -100
+    },
+    "ctr": {
+      "current": null,
+      "previous": 1.35,
+      "delta_pct": null
+    },
+    "cpc": {
+      "current": 0,
+      "previous": 0.94,
+      "delta_pct": -100
+    },
+    "thruplay": {
+      "current": 0,
+      "previous": 242,
+      "delta_pct": -100
+    },
+    "frequency": {
+      "current": 0,
+      "previous": 1.33,
+      "delta_pct": -100
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 0,
+        "previous": 3,
+        "delta_pct": -100
+      },
+      "cost": {
+        "current": null,
+        "previous": 16.6,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [],
+  "demographics": {
+    "gender": {
+      "female_pct": 0,
+      "male_pct": 0,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 145.59,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "zero_conversations_current",
+    "zero_activity_current"
+  ]
+}

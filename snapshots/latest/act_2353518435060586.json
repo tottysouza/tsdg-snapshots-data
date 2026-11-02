@@ -4,75 +4,75 @@
     "account_name": "BIOMA Elizete Corrêa",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-01T14:43:01.091Z",
+    "generated_at": "2026-11-02T17:46:52.021Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-25",
-      "until": "2026-10-31",
-      "label_pt": "25 out a 31 out"
+      "since": "2026-10-26",
+      "until": "2026-11-01",
+      "label_pt": "26 out a 1 nov"
     },
     "previous": {
-      "since": "2026-10-18",
-      "until": "2026-10-24"
+      "since": "2026-10-19",
+      "until": "2026-10-25"
     }
   },
   "totals": {
     "spend": {
-      "current": 454.79,
-      "previous": 494.53,
-      "delta_pct": -8
+      "current": 444.68,
+      "previous": 509.26,
+      "delta_pct": -13
     },
     "impressions": {
-      "current": 36052,
-      "previous": 35544,
-      "delta_pct": 1
+      "current": 32800,
+      "previous": 40798,
+      "delta_pct": -20
     },
     "reach": {
-      "current": 26243,
-      "previous": 29350,
-      "delta_pct": -11
+      "current": 24327,
+      "previous": 33004,
+      "delta_pct": -26
     },
     "clicks": {
-      "current": 892,
-      "previous": 1126,
-      "delta_pct": -21
+      "current": 849,
+      "previous": 1137,
+      "delta_pct": -25
     },
     "ctr": {
-      "current": 2.47,
-      "previous": 3.17,
-      "delta_pct": -22
+      "current": 2.59,
+      "previous": 2.79,
+      "delta_pct": -7
     },
     "cpc": {
-      "current": 0.51,
-      "previous": 0.44,
+      "current": 0.52,
+      "previous": 0.45,
       "delta_pct": 16
     },
     "thruplay": {
-      "current": 7429,
-      "previous": 8705,
-      "delta_pct": -15
+      "current": 6996,
+      "previous": 9777,
+      "delta_pct": -28
     },
     "frequency": {
-      "current": 1.37,
-      "previous": 1.21,
-      "delta_pct": 13
+      "current": 1.35,
+      "previous": 1.24,
+      "delta_pct": 9
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 40,
-        "previous": 40,
-        "delta_pct": 0
+        "current": 33,
+        "previous": 45,
+        "delta_pct": -27
       },
       "cost": {
-        "current": 11.37,
-        "previous": 12.36,
-        "delta_pct": -8
+        "current": 13.48,
+        "previous": 11.32,
+        "delta_pct": 19
       },
       "top_creative": {
         "name": "Foi executada",
@@ -98,93 +98,93 @@
   "top_creatives": [
     {
       "name": "Sobre curtinho",
-      "impressions": 16190,
-      "reach": 13922,
-      "clicks": 107,
+      "impressions": 15026,
+      "reach": 12891,
+      "clicks": 104,
       "messages": 0,
-      "ctr": 0.66,
-      "thruplay": 5991
+      "ctr": 0.69,
+      "thruplay": 5656
     },
     {
       "name": "Protocolo terra fértil",
-      "impressions": 4887,
-      "reach": 3380,
-      "clicks": 104,
+      "impressions": 3354,
+      "reach": 2368,
+      "clicks": 93,
       "messages": 0,
-      "ctr": 2.13,
-      "thruplay": 104
+      "ctr": 2.77,
+      "thruplay": 81
     },
     {
       "name": "Foi executada",
-      "impressions": 3650,
-      "reach": 2870,
-      "clicks": 189,
-      "messages": 8,
-      "ctr": 5.18,
-      "thruplay": 234
-    },
-    {
-      "name": "Começamos com",
-      "impressions": 3023,
-      "reach": 2103,
-      "clicks": 150,
-      "messages": 7,
-      "ctr": 4.96,
-      "thruplay": 390
+      "impressions": 3207,
+      "reach": 2520,
+      "clicks": 149,
+      "messages": 4,
+      "ctr": 4.65,
+      "thruplay": 203
     },
     {
       "name": "Sua transição",
-      "impressions": 2994,
-      "reach": 2039,
-      "clicks": 73,
-      "messages": 1,
-      "ctr": 2.44,
-      "thruplay": 224
+      "impressions": 3099,
+      "reach": 2226,
+      "clicks": 93,
+      "messages": 0,
+      "ctr": 3,
+      "thruplay": 250
+    },
+    {
+      "name": "Começamos com",
+      "impressions": 2252,
+      "reach": 1621,
+      "clicks": 116,
+      "messages": 3,
+      "ctr": 5.15,
+      "thruplay": 307
     },
     {
       "name": "Foi executada",
-      "impressions": 1776,
-      "reach": 1520,
-      "clicks": 87,
-      "messages": 7,
-      "ctr": 4.9,
-      "thruplay": 113
+      "impressions": 2051,
+      "reach": 1695,
+      "clicks": 95,
+      "messages": 8,
+      "ctr": 4.63,
+      "thruplay": 135
     },
     {
       "name": "Morena iluminada",
-      "impressions": 1625,
-      "reach": 980,
-      "clicks": 84,
-      "messages": 7,
-      "ctr": 5.17,
-      "thruplay": 101
+      "impressions": 2026,
+      "reach": 1266,
+      "clicks": 103,
+      "messages": 8,
+      "ctr": 5.08,
+      "thruplay": 125
     },
     {
       "name": "Nossa coloração",
-      "impressions": 1266,
-      "reach": 881,
+      "impressions": 1235,
+      "reach": 870,
       "clicks": 74,
       "messages": 6,
-      "ctr": 5.85,
-      "thruplay": 145
-    },
-    {
-      "name": "O uso de canetas",
-      "impressions": 166,
-      "reach": 119,
-      "clicks": 4,
-      "messages": 0,
-      "ctr": 2.41,
-      "thruplay": 3
+      "ctr": 5.99,
+      "thruplay": 148
     },
     {
       "name": "Enquanto a vela",
-      "impressions": 158,
+      "impressions": 151,
       "reach": 103,
-      "clicks": 5,
+      "clicks": 3,
       "messages": 1,
-      "ctr": 3.16,
-      "thruplay": 14
+      "ctr": 1.99,
+      "thruplay": 12
+    },
+    {
+      "name": "O melhor resultado",
+      "impressions": 106,
+      "reach": 90,
+      "clicks": 7,
+      "messages": 1,
+      "ctr": 6.6,
+      "thruplay": 6
     }
   ],
   "demographics": {
@@ -195,16 +195,16 @@
     },
     "age": {
       "18-24": 0,
-      "25-34": 10,
-      "35-44": 14,
+      "25-34": 8,
+      "35-44": 13,
       "45-54": 22,
       "55-64": 28,
-      "65+": 27
+      "65+": 28
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 257.15,
+    "balance_brl": 350.42,
     "balance_low": false,
     "account_disabled": false
   },
