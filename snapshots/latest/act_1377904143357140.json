@@ -4,79 +4,79 @@
     "account_name": "LACES Origens",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-02T17:47:50.818Z",
+    "generated_at": "2026-11-03T15:49:04.809Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-26",
-      "until": "2026-11-01",
-      "label_pt": "26 out a 1 nov"
+      "since": "2026-10-27",
+      "until": "2026-11-02",
+      "label_pt": "27 out a 2 nov"
     },
     "previous": {
-      "since": "2026-10-19",
-      "until": "2026-10-25"
+      "since": "2026-10-20",
+      "until": "2026-10-26"
     }
   },
   "totals": {
     "spend": {
-      "current": 428.7,
-      "previous": 610.74,
-      "delta_pct": -30
+      "current": 378.64,
+      "previous": 671.33,
+      "delta_pct": -44
     },
     "impressions": {
-      "current": 22245,
-      "previous": 34821,
-      "delta_pct": -36
+      "current": 20300,
+      "previous": 35836,
+      "delta_pct": -43
     },
     "reach": {
-      "current": 17012,
-      "previous": 25316,
-      "delta_pct": -33
+      "current": 16060,
+      "previous": 25283,
+      "delta_pct": -36
     },
     "clicks": {
-      "current": 545,
-      "previous": 1183,
-      "delta_pct": -54
+      "current": 525,
+      "previous": 1170,
+      "delta_pct": -55
     },
     "ctr": {
-      "current": 2.45,
-      "previous": 3.4,
-      "delta_pct": -28
+      "current": 2.59,
+      "previous": 3.26,
+      "delta_pct": -21
     },
     "cpc": {
-      "current": 0.79,
-      "previous": 0.52,
-      "delta_pct": 52
+      "current": 0.72,
+      "previous": 0.57,
+      "delta_pct": 26
     },
     "thruplay": {
-      "current": 2765,
-      "previous": 3824,
-      "delta_pct": -28
+      "current": 2942,
+      "previous": 3563,
+      "delta_pct": -17
     },
     "frequency": {
-      "current": 1.31,
-      "previous": 1.38,
-      "delta_pct": -5
+      "current": 1.26,
+      "previous": 1.42,
+      "delta_pct": -11
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 11,
-        "previous": 31,
-        "delta_pct": -65
+        "current": 9,
+        "previous": 34,
+        "delta_pct": -74
       },
       "cost": {
-        "current": 38.97,
-        "previous": 19.7,
-        "delta_pct": 98
+        "current": 42.07,
+        "previous": 19.75,
+        "delta_pct": 113
       },
       "top_creative": {
         "name": "Contei para vocês",
-        "value": 5
+        "value": 6
       }
     },
     "instagram_visits": {
@@ -98,66 +98,57 @@
   "top_creatives": [
     {
       "name": "Contei para vocês",
-      "impressions": 7671,
-      "reach": 5971,
-      "clicks": 297,
+      "impressions": 6634,
+      "reach": 5408,
+      "clicks": 300,
       "messages": 1,
-      "ctr": 3.87,
-      "thruplay": 463
+      "ctr": 4.52,
+      "thruplay": 518
     },
     {
       "name": "Multiprime",
-      "impressions": 6604,
-      "reach": 5534,
-      "clicks": 93,
+      "impressions": 6419,
+      "reach": 5407,
+      "clicks": 105,
       "messages": 0,
-      "ctr": 1.41,
-      "thruplay": 1212
-    },
-    {
-      "name": "Contei para vocês",
-      "impressions": 1977,
-      "reach": 1619,
-      "clicks": 46,
-      "messages": 5,
-      "ctr": 2.33,
-      "thruplay": 163
-    },
-    {
-      "name": "Massagens",
-      "impressions": 1612,
-      "reach": 1480,
-      "clicks": 12,
-      "messages": 0,
-      "ctr": 0.74,
-      "thruplay": 406
+      "ctr": 1.64,
+      "thruplay": 1218
     },
     {
       "name": "Há rituais",
-      "impressions": 1496,
-      "reach": 1349,
-      "clicks": 25,
+      "impressions": 1951,
+      "reach": 1737,
+      "clicks": 27,
       "messages": 0,
-      "ctr": 1.67,
-      "thruplay": 448
+      "ctr": 1.38,
+      "thruplay": 573
     },
     {
-      "name": "Encanto da Lua (carrossel vídeo) — Cópia",
-      "impressions": 869,
-      "reach": 692,
-      "clicks": 16,
-      "messages": 1,
-      "ctr": 1.84,
-      "thruplay": 36
+      "name": "Massagens",
+      "impressions": 1860,
+      "reach": 1695,
+      "clicks": 7,
+      "messages": 0,
+      "ctr": 0.38,
+      "thruplay": 445
     },
     {
-      "name": "Terapias capilares R$690 (estático)",
-      "impressions": 659,
-      "reach": 423,
+      "name": "Contei para vocês",
+      "impressions": 1822,
+      "reach": 1505,
+      "clicks": 41,
+      "messages": 6,
+      "ctr": 2.25,
+      "thruplay": 151
+    },
+    {
+      "name": "O que acontece (Comunidade)",
+      "impressions": 587,
+      "reach": 368,
       "clicks": 21,
-      "messages": 1,
-      "ctr": 3.19,
-      "thruplay": 0
+      "messages": 2,
+      "ctr": 3.58,
+      "thruplay": 36
     },
     {
       "name": "Lua out",
@@ -169,42 +160,42 @@
       "thruplay": 0
     },
     {
-      "name": "O que acontece (Comunidade)",
-      "impressions": 440,
-      "reach": 288,
-      "clicks": 20,
-      "messages": 2,
-      "ctr": 4.55,
-      "thruplay": 31
+      "name": "Terapias capilares R$690 (estático)",
+      "impressions": 446,
+      "reach": 331,
+      "clicks": 14,
+      "messages": 0,
+      "ctr": 3.14,
+      "thruplay": 0
     },
     {
-      "name": "Encanto da Lua (carrossel vídeo)",
-      "impressions": 204,
-      "reach": 184,
-      "clicks": 3,
+      "name": "O que acontece (Comunidade)",
+      "impressions": 65,
+      "reach": 51,
+      "clicks": 1,
       "messages": 0,
-      "ctr": 1.47,
-      "thruplay": 4
+      "ctr": 1.54,
+      "thruplay": 1
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 92,
-      "male_pct": 8,
+      "female_pct": 93,
+      "male_pct": 7,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 23,
-      "35-44": 15,
+      "25-34": 19,
+      "35-44": 14,
       "45-54": 20,
-      "55-64": 21,
-      "65+": 22
+      "55-64": 22,
+      "65+": 24
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 302.44,
+    "balance_brl": 349.56,
     "balance_low": false,
     "account_disabled": false
   },

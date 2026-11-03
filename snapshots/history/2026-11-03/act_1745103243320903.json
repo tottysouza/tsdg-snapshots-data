@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_1745103243320903",
+    "account_name": "BIOMA Casa 631",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-03T15:47:56.914Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-27",
+      "until": "2026-11-02",
+      "label_pt": "27 out a 2 nov"
+    },
+    "previous": {
+      "since": "2026-10-20",
+      "until": "2026-10-26"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 413.05,
+      "previous": 523.22,
+      "delta_pct": -21
+    },
+    "impressions": {
+      "current": 50562,
+      "previous": 53364,
+      "delta_pct": -5
+    },
+    "reach": {
+      "current": 27546,
+      "previous": 29695,
+      "delta_pct": -7
+    },
+    "clicks": {
+      "current": 1456,
+      "previous": 1537,
+      "delta_pct": -5
+    },
+    "ctr": {
+      "current": 2.88,
+      "previous": 2.88,
+      "delta_pct": 0
+    },
+    "cpc": {
+      "current": 0.28,
+      "previous": 0.34,
+      "delta_pct": -18
+    },
+    "thruplay": {
+      "current": 2570,
+      "previous": 3015,
+      "delta_pct": -15
+    },
+    "frequency": {
+      "current": 1.84,
+      "previous": 1.8,
+      "delta_pct": 2
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 7,
+        "previous": 15,
+        "delta_pct": -53
+      },
+      "cost": {
+        "current": 59.01,
+        "previous": 34.88,
+        "delta_pct": 69
+      },
+      "top_creative": {
+        "name": "Seu cabelo",
+        "value": 4
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "A · Vídeo 1 (9s)",
+      "impressions": 17478,
+      "reach": 9121,
+      "clicks": 399,
+      "messages": 0,
+      "ctr": 2.28,
+      "thruplay": 492
+    },
+    {
+      "name": "A · Carrossel 6 artes",
+      "impressions": 7525,
+      "reach": 5348,
+      "clicks": 187,
+      "messages": 0,
+      "ctr": 2.49,
+      "thruplay": 0
+    },
+    {
+      "name": "Cuidado",
+      "impressions": 6626,
+      "reach": 4078,
+      "clicks": 110,
+      "messages": 3,
+      "ctr": 1.66,
+      "thruplay": 470
+    },
+    {
+      "name": "A · Vídeo 2 (11s)",
+      "impressions": 6334,
+      "reach": 4360,
+      "clicks": 147,
+      "messages": 0,
+      "ctr": 2.32,
+      "thruplay": 202
+    },
+    {
+      "name": "Um novo conceito",
+      "impressions": 3320,
+      "reach": 2018,
+      "clicks": 317,
+      "messages": 0,
+      "ctr": 9.55,
+      "thruplay": 0
+    },
+    {
+      "name": "Seu cabelo",
+      "impressions": 3271,
+      "reach": 1578,
+      "clicks": 49,
+      "messages": 4,
+      "ctr": 1.5,
+      "thruplay": 47
+    },
+    {
+      "name": "Comunidade",
+      "impressions": 2564,
+      "reach": 2089,
+      "clicks": 14,
+      "messages": 0,
+      "ctr": 0.55,
+      "thruplay": 649
+    },
+    {
+      "name": "Seu cabelo",
+      "impressions": 1712,
+      "reach": 1178,
+      "clicks": 214,
+      "messages": 0,
+      "ctr": 12.5,
+      "thruplay": 0
+    },
+    {
+      "name": "Alguns lugares — Cópia",
+      "impressions": 1648,
+      "reach": 1364,
+      "clicks": 17,
+      "messages": 0,
+      "ctr": 1.03,
+      "thruplay": 706
+    },
+    {
+      "name": "B · Vídeo 2 (11s) · WA",
+      "impressions": 73,
+      "reach": 67,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 2.74,
+      "thruplay": 4
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 76,
+      "male_pct": 24,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 12,
+      "35-44": 20,
+      "45-54": 17,
+      "55-64": 23,
+      "65+": 28
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 171.35,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

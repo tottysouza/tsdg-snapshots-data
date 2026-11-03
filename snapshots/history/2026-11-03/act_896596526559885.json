@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "account_id": "act_896596526559885",
+    "account_name": "VIRGO Cases",
+    "segment": "TECH",
+    "template": "VIRGO",
+    "generated_at": "2026-11-03T15:50:00.602Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-27",
+      "until": "2026-11-02",
+      "label_pt": "27 out a 2 nov"
+    },
+    "previous": {
+      "since": "2026-10-20",
+      "until": "2026-10-26"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 600.14,
+      "previous": 232.81,
+      "delta_pct": 158
+    },
+    "impressions": {
+      "current": 46962,
+      "previous": 12360,
+      "delta_pct": 280
+    },
+    "reach": {
+      "current": 27353,
+      "previous": 7181,
+      "delta_pct": 281
+    },
+    "clicks": {
+      "current": 2764,
+      "previous": 653,
+      "delta_pct": 323
+    },
+    "ctr": {
+      "current": 5.89,
+      "previous": 5.28,
+      "delta_pct": 12
+    },
+    "cpc": {
+      "current": 0.22,
+      "previous": 0.36,
+      "delta_pct": -39
+    },
+    "thruplay": {
+      "current": 483,
+      "previous": 597,
+      "delta_pct": -19
+    },
+    "frequency": {
+      "current": 1.72,
+      "previous": 1.72,
+      "delta_pct": 0
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 1,
+        "previous": 3,
+        "delta_pct": -67
+      },
+      "cost": {
+        "current": 600.14,
+        "previous": 77.6,
+        "delta_pct": 673
+      },
+      "top_creative": {
+        "name": "RMKT · \"10\" Coleção/tempo",
+        "value": 1
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_purchases": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "revenue": null,
+      "roi": null
+    }
+  },
+  "top_creatives": [
+    {
+      "name": "Depois de alguns dias",
+      "impressions": 25468,
+      "reach": 14237,
+      "clicks": 1962,
+      "messages": 0,
+      "ctr": 7.7,
+      "thruplay": 13
+    },
+    {
+      "name": "RMKT · \"10\" Coleção/tempo",
+      "impressions": 4162,
+      "reach": 1695,
+      "clicks": 151,
+      "messages": 1,
+      "ctr": 3.63,
+      "thruplay": 73
+    },
+    {
+      "name": "TRÁFEGO · \"Cada peça\" (post IG) · out/26",
+      "impressions": 3639,
+      "reach": 3582,
+      "clicks": 176,
+      "messages": 0,
+      "ctr": 4.84,
+      "thruplay": 0
+    },
+    {
+      "name": "AQ · \"10\" Coleção/tempo (estático campeão)",
+      "impressions": 2675,
+      "reach": 1643,
+      "clicks": 83,
+      "messages": 0,
+      "ctr": 3.1,
+      "thruplay": 7
+    },
+    {
+      "name": "AQ · \"Coleção merece\" 3/6/10",
+      "impressions": 2484,
+      "reach": 1539,
+      "clicks": 106,
+      "messages": 0,
+      "ctr": 4.27,
+      "thruplay": 98
+    },
+    {
+      "name": "RMKT · \"Coleção merece\" 3/6/10",
+      "impressions": 2458,
+      "reach": 1168,
+      "clicks": 77,
+      "messages": 0,
+      "ctr": 3.13,
+      "thruplay": 67
+    },
+    {
+      "name": "Coleção merece",
+      "impressions": 2241,
+      "reach": 1961,
+      "clicks": 75,
+      "messages": 0,
+      "ctr": 3.35,
+      "thruplay": 15
+    },
+    {
+      "name": "TOPO · \"A forma\" vídeo (post IG) v2",
+      "impressions": 1525,
+      "reach": 1402,
+      "clicks": 30,
+      "messages": 0,
+      "ctr": 1.97,
+      "thruplay": 68
+    },
+    {
+      "name": "AQ · \"A forma\" vídeo (post IG) v3",
+      "impressions": 904,
+      "reach": 707,
+      "clicks": 38,
+      "messages": 0,
+      "ctr": 4.2,
+      "thruplay": 69
+    },
+    {
+      "name": "Elegância que acompanha",
+      "impressions": 479,
+      "reach": 460,
+      "clicks": 8,
+      "messages": 0,
+      "ctr": 1.67,
+      "thruplay": 5
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 46,
+      "male_pct": 54,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 1,
+      "25-34": 31,
+      "35-44": 34,
+      "45-54": 20,
+      "55-64": 8,
+      "65+": 5
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 647.62,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "creative_concentration_over_80"
+  ]
+}

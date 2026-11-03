@@ -4,79 +4,79 @@
     "account_name": "BIOMA Sense",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-02T17:46:57.925Z",
+    "generated_at": "2026-11-03T15:48:10.143Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-26",
-      "until": "2026-11-01",
-      "label_pt": "26 out a 1 nov"
+      "since": "2026-10-27",
+      "until": "2026-11-02",
+      "label_pt": "27 out a 2 nov"
     },
     "previous": {
-      "since": "2026-10-19",
-      "until": "2026-10-25"
+      "since": "2026-10-20",
+      "until": "2026-10-26"
     }
   },
   "totals": {
     "spend": {
-      "current": 274.41,
-      "previous": 320.13,
-      "delta_pct": -14
+      "current": 283.96,
+      "previous": 276.92,
+      "delta_pct": 3
     },
     "impressions": {
-      "current": 13220,
-      "previous": 15094,
-      "delta_pct": -12
+      "current": 13719,
+      "previous": 13170,
+      "delta_pct": 4
     },
     "reach": {
-      "current": 9258,
-      "previous": 9972,
-      "delta_pct": -7
-    },
-    "clicks": {
-      "current": 366,
-      "previous": 392,
-      "delta_pct": -7
-    },
-    "ctr": {
-      "current": 2.77,
-      "previous": 2.6,
+      "current": 9417,
+      "previous": 8817,
       "delta_pct": 7
     },
+    "clicks": {
+      "current": 407,
+      "previous": 353,
+      "delta_pct": 15
+    },
+    "ctr": {
+      "current": 2.97,
+      "previous": 2.68,
+      "delta_pct": 11
+    },
     "cpc": {
-      "current": 0.75,
-      "previous": 0.82,
-      "delta_pct": -9
+      "current": 0.7,
+      "previous": 0.78,
+      "delta_pct": -10
     },
     "thruplay": {
-      "current": 1006,
-      "previous": 1139,
-      "delta_pct": -12
+      "current": 1047,
+      "previous": 1042,
+      "delta_pct": 0
     },
     "frequency": {
-      "current": 1.43,
-      "previous": 1.51,
-      "delta_pct": -5
+      "current": 1.46,
+      "previous": 1.49,
+      "delta_pct": -2
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 21,
+        "current": 18,
         "previous": 19,
-        "delta_pct": 11
+        "delta_pct": -5
       },
       "cost": {
-        "current": 13.07,
-        "previous": 16.85,
-        "delta_pct": -22
+        "current": 15.78,
+        "previous": 14.57,
+        "delta_pct": 8
       },
       "top_creative": {
         "name": "Tonalização Layer",
-        "value": 16
+        "value": 13
       }
     },
     "instagram_visits": {
@@ -97,69 +97,60 @@
   },
   "top_creatives": [
     {
-      "name": "Tonalização Layer",
-      "impressions": 6009,
-      "reach": 4841,
-      "clicks": 156,
-      "messages": 0,
-      "ctr": 2.6,
-      "thruplay": 469
-    },
-    {
       "name": "Loiro saudável",
-      "impressions": 4138,
-      "reach": 3548,
-      "clicks": 140,
+      "impressions": 5394,
+      "reach": 4415,
+      "clicks": 189,
       "messages": 0,
-      "ctr": 3.38,
-      "thruplay": 241
+      "ctr": 3.5,
+      "thruplay": 307
     },
     {
       "name": "Tonalização Layer",
-      "impressions": 2467,
-      "reach": 1178,
-      "clicks": 47,
-      "messages": 16,
-      "ctr": 1.91,
-      "thruplay": 239
+      "impressions": 5108,
+      "reach": 4240,
+      "clicks": 145,
+      "messages": 0,
+      "ctr": 2.84,
+      "thruplay": 430
+    },
+    {
+      "name": "Tonalização Layer",
+      "impressions": 2519,
+      "reach": 1225,
+      "clicks": 49,
+      "messages": 13,
+      "ctr": 1.95,
+      "thruplay": 247
     },
     {
       "name": "Loiro saudável",
-      "impressions": 576,
-      "reach": 300,
-      "clicks": 23,
+      "impressions": 698,
+      "reach": 333,
+      "clicks": 24,
       "messages": 5,
-      "ctr": 3.99,
-      "thruplay": 55
-    },
-    {
-      "name": "2026-10-26_MEIO_REEL_Queda capilar v3",
-      "impressions": 30,
-      "reach": 28,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 2
+      "ctr": 3.44,
+      "thruplay": 63
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 86,
-      "male_pct": 14,
+      "female_pct": 85,
+      "male_pct": 15,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 24,
+      "25-34": 25,
       "35-44": 19,
       "45-54": 21,
-      "55-64": 21,
-      "65+": 16
+      "55-64": 20,
+      "65+": 15
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 15.12,
+    "balance_brl": 43.32,
     "balance_low": false,
     "account_disabled": false
   },
