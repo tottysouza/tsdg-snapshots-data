@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "account_id": "act_1377904143357140",
+    "account_name": "LACES Origens",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-04T15:57:25.662Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-28",
+      "until": "2026-11-03",
+      "label_pt": "28 out a 3 nov"
+    },
+    "previous": {
+      "since": "2026-10-21",
+      "until": "2026-10-27"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 382.8,
+      "previous": 647.29,
+      "delta_pct": -41
+    },
+    "impressions": {
+      "current": 19345,
+      "previous": 35132,
+      "delta_pct": -45
+    },
+    "reach": {
+      "current": 15460,
+      "previous": 24068,
+      "delta_pct": -36
+    },
+    "clicks": {
+      "current": 521,
+      "previous": 1121,
+      "delta_pct": -54
+    },
+    "ctr": {
+      "current": 2.69,
+      "previous": 3.19,
+      "delta_pct": -16
+    },
+    "cpc": {
+      "current": 0.73,
+      "previous": 0.58,
+      "delta_pct": 26
+    },
+    "thruplay": {
+      "current": 3028,
+      "previous": 3369,
+      "delta_pct": -10
+    },
+    "frequency": {
+      "current": 1.25,
+      "previous": 1.46,
+      "delta_pct": -14
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 9,
+        "previous": 29,
+        "delta_pct": -69
+      },
+      "cost": {
+        "current": 42.53,
+        "previous": 22.32,
+        "delta_pct": 91
+      },
+      "top_creative": {
+        "name": "Contei para vocês",
+        "value": 6
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Contei para vocês",
+      "impressions": 6331,
+      "reach": 5235,
+      "clicks": 305,
+      "messages": 1,
+      "ctr": 4.82,
+      "thruplay": 569
+    },
+    {
+      "name": "Multiprime",
+      "impressions": 6225,
+      "reach": 5098,
+      "clicks": 98,
+      "messages": 0,
+      "ctr": 1.57,
+      "thruplay": 1167
+    },
+    {
+      "name": "Há rituais",
+      "impressions": 2063,
+      "reach": 1845,
+      "clicks": 29,
+      "messages": 0,
+      "ctr": 1.41,
+      "thruplay": 617
+    },
+    {
+      "name": "Contei para vocês",
+      "impressions": 1847,
+      "reach": 1526,
+      "clicks": 49,
+      "messages": 6,
+      "ctr": 2.65,
+      "thruplay": 180
+    },
+    {
+      "name": "Massagens",
+      "impressions": 1834,
+      "reach": 1714,
+      "clicks": 6,
+      "messages": 0,
+      "ctr": 0.33,
+      "thruplay": 445
+    },
+    {
+      "name": "O que acontece (Comunidade)",
+      "impressions": 761,
+      "reach": 451,
+      "clicks": 24,
+      "messages": 2,
+      "ctr": 3.15,
+      "thruplay": 50
+    },
+    {
+      "name": "Terapias capilares R$690 (estático)",
+      "impressions": 138,
+      "reach": 126,
+      "clicks": 9,
+      "messages": 0,
+      "ctr": 6.52,
+      "thruplay": 0
+    },
+    {
+      "name": "Lua out",
+      "impressions": 83,
+      "reach": 81,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 1.2,
+      "thruplay": 0
+    },
+    {
+      "name": "O que acontece (Comunidade)",
+      "impressions": 63,
+      "reach": 49,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 95,
+      "male_pct": 5,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 18,
+      "35-44": 14,
+      "45-54": 20,
+      "55-64": 23,
+      "65+": 26
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 435.11,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": []
+}

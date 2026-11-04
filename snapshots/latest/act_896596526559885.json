@@ -4,62 +4,62 @@
     "account_name": "VIRGO Cases",
     "segment": "TECH",
     "template": "VIRGO",
-    "generated_at": "2026-11-03T15:50:00.602Z",
+    "generated_at": "2026-11-04T15:57:52.581Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-27",
-      "until": "2026-11-02",
-      "label_pt": "27 out a 2 nov"
+      "since": "2026-10-28",
+      "until": "2026-11-03",
+      "label_pt": "28 out a 3 nov"
     },
     "previous": {
-      "since": "2026-10-20",
-      "until": "2026-10-26"
+      "since": "2026-10-21",
+      "until": "2026-10-27"
     }
   },
   "totals": {
     "spend": {
-      "current": 600.14,
-      "previous": 232.81,
-      "delta_pct": 158
+      "current": 541.86,
+      "previous": 276.98,
+      "delta_pct": 96
     },
     "impressions": {
-      "current": 46962,
-      "previous": 12360,
-      "delta_pct": 280
+      "current": 44171,
+      "previous": 13072,
+      "delta_pct": 238
     },
     "reach": {
-      "current": 27353,
-      "previous": 7181,
-      "delta_pct": 281
+      "current": 25716,
+      "previous": 6819,
+      "delta_pct": 277
     },
     "clicks": {
-      "current": 2764,
-      "previous": 653,
-      "delta_pct": 323
+      "current": 2681,
+      "previous": 601,
+      "delta_pct": 346
     },
     "ctr": {
-      "current": 5.89,
-      "previous": 5.28,
-      "delta_pct": 12
+      "current": 6.07,
+      "previous": 4.6,
+      "delta_pct": 32
     },
     "cpc": {
-      "current": 0.22,
-      "previous": 0.36,
-      "delta_pct": -39
+      "current": 0.2,
+      "previous": 0.46,
+      "delta_pct": -57
     },
     "thruplay": {
-      "current": 483,
-      "previous": 597,
-      "delta_pct": -19
+      "current": 406,
+      "previous": 650,
+      "delta_pct": -38
     },
     "frequency": {
       "current": 1.72,
-      "previous": 1.72,
-      "delta_pct": 0
+      "previous": 1.92,
+      "delta_pct": -10
     }
   },
   "conversions": {
@@ -70,9 +70,9 @@
         "delta_pct": -67
       },
       "cost": {
-        "current": 600.14,
-        "previous": 77.6,
-        "delta_pct": 673
+        "current": 541.86,
+        "previous": 92.33,
+        "delta_pct": 487
       },
       "top_creative": {
         "name": "RMKT · \"10\" Coleção/tempo",
@@ -144,15 +144,6 @@
       "thruplay": 0
     },
     {
-      "name": "AQ · \"10\" Coleção/tempo (estático campeão)",
-      "impressions": 2675,
-      "reach": 1643,
-      "clicks": 83,
-      "messages": 0,
-      "ctr": 3.1,
-      "thruplay": 7
-    },
-    {
       "name": "AQ · \"Coleção merece\" 3/6/10",
       "impressions": 2484,
       "reach": 1539,
@@ -160,15 +151,6 @@
       "messages": 0,
       "ctr": 4.27,
       "thruplay": 98
-    },
-    {
-      "name": "RMKT · \"Coleção merece\" 3/6/10",
-      "impressions": 2458,
-      "reach": 1168,
-      "clicks": 77,
-      "messages": 0,
-      "ctr": 3.13,
-      "thruplay": 67
     },
     {
       "name": "Coleção merece",
@@ -180,22 +162,40 @@
       "thruplay": 15
     },
     {
-      "name": "TOPO · \"A forma\" vídeo (post IG) v2",
-      "impressions": 1525,
-      "reach": 1402,
-      "clicks": 30,
+      "name": "RMKT · \"Coleção merece\" 3/6/10",
+      "impressions": 1757,
+      "reach": 963,
+      "clicks": 56,
       "messages": 0,
-      "ctr": 1.97,
-      "thruplay": 68
+      "ctr": 3.19,
+      "thruplay": 46
+    },
+    {
+      "name": "AQ · \"10\" Coleção/tempo (estático campeão)",
+      "impressions": 1632,
+      "reach": 1071,
+      "clicks": 56,
+      "messages": 0,
+      "ctr": 3.43,
+      "thruplay": 6
+    },
+    {
+      "name": "TOPO · \"A forma\" vídeo (post IG) v2",
+      "impressions": 784,
+      "reach": 747,
+      "clicks": 12,
+      "messages": 0,
+      "ctr": 1.53,
+      "thruplay": 30
     },
     {
       "name": "AQ · \"A forma\" vídeo (post IG) v3",
-      "impressions": 904,
-      "reach": 707,
-      "clicks": 38,
+      "impressions": 737,
+      "reach": 592,
+      "clicks": 30,
       "messages": 0,
-      "ctr": 4.2,
-      "thruplay": 69
+      "ctr": 4.07,
+      "thruplay": 57
     },
     {
       "name": "Elegância que acompanha",
@@ -209,14 +209,14 @@
   ],
   "demographics": {
     "gender": {
-      "female_pct": 46,
-      "male_pct": 54,
+      "female_pct": 47,
+      "male_pct": 53,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 1,
-      "25-34": 31,
-      "35-44": 34,
+      "25-34": 32,
+      "35-44": 35,
       "45-54": 20,
       "55-64": 8,
       "65+": 5
