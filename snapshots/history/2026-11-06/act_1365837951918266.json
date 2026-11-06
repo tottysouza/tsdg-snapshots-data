@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "account_id": "act_1365837951918266",
+    "account_name": "MIMO Live Sales",
+    "segment": "TECH",
+    "template": "MIMO",
+    "generated_at": "2026-11-06T15:40:06.574Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-30",
+      "until": "2026-11-05",
+      "label_pt": "30 out a 5 nov"
+    },
+    "previous": {
+      "since": "2026-10-23",
+      "until": "2026-10-29"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 265.1,
+      "previous": 276.76,
+      "delta_pct": -4
+    },
+    "impressions": {
+      "current": 27339,
+      "previous": 32305,
+      "delta_pct": -15
+    },
+    "reach": {
+      "current": 22056,
+      "previous": 25224,
+      "delta_pct": -13
+    },
+    "clicks": {
+      "current": 1682,
+      "previous": 1779,
+      "delta_pct": -5
+    },
+    "ctr": {
+      "current": 6.15,
+      "previous": 5.51,
+      "delta_pct": 12
+    },
+    "cpc": {
+      "current": 0.16,
+      "previous": 0.16,
+      "delta_pct": 0
+    },
+    "thruplay": {
+      "current": 454,
+      "previous": 572,
+      "delta_pct": -21
+    },
+    "frequency": {
+      "current": 1.24,
+      "previous": 1.28,
+      "delta_pct": -3
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 0,
+        "previous": 0,
+        "delta_pct": 0
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": {
+        "name": "ANÚNCIO BLACK",
+        "value": 0
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "ANÚNCIO BLACK",
+      "impressions": 10984,
+      "reach": 9045,
+      "clicks": 398,
+      "messages": 0,
+      "ctr": 3.62,
+      "thruplay": 236
+    },
+    {
+      "name": "ANÚNCIO CALENDÁRIO",
+      "impressions": 8081,
+      "reach": 7112,
+      "clicks": 460,
+      "messages": 0,
+      "ctr": 5.69,
+      "thruplay": 190
+    },
+    {
+      "name": "O calendário",
+      "impressions": 3305,
+      "reach": 2889,
+      "clicks": 475,
+      "messages": 0,
+      "ctr": 14.37,
+      "thruplay": 2
+    },
+    {
+      "name": "O último trimestre",
+      "impressions": 3037,
+      "reach": 3008,
+      "clicks": 67,
+      "messages": 0,
+      "ctr": 2.21,
+      "thruplay": 26
+    },
+    {
+      "name": "Sua BF ja comecou?",
+      "impressions": 1894,
+      "reach": 1303,
+      "clicks": 282,
+      "messages": 0,
+      "ctr": 14.89,
+      "thruplay": 0
+    },
+    {
+      "name": "A BF ainda está",
+      "impressions": 38,
+      "reach": 38,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 32,
+      "male_pct": 68,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 6,
+      "35-44": 6,
+      "45-54": 10,
+      "55-64": 24,
+      "65+": 54
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 144.45,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "zero_conversations_current"
+  ]
+}

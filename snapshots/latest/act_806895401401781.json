@@ -4,77 +4,80 @@
     "account_name": "Espaçolaser Bragança",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-11-04T15:57:44.254Z",
+    "generated_at": "2026-11-06T15:39:54.769Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-28",
-      "until": "2026-11-03",
-      "label_pt": "28 out a 3 nov"
+      "since": "2026-10-30",
+      "until": "2026-11-05",
+      "label_pt": "30 out a 5 nov"
     },
     "previous": {
-      "since": "2026-10-21",
-      "until": "2026-10-27"
+      "since": "2026-10-23",
+      "until": "2026-10-29"
     }
   },
   "totals": {
     "spend": {
-      "current": 0,
+      "current": 46.99,
       "previous": 0,
-      "delta_pct": 0
+      "delta_pct": null
     },
     "impressions": {
-      "current": 0,
+      "current": 3630,
       "previous": 0,
-      "delta_pct": 0
+      "delta_pct": null
     },
     "reach": {
-      "current": 0,
+      "current": 3108,
       "previous": 0,
-      "delta_pct": 0
+      "delta_pct": null
     },
     "clicks": {
-      "current": 0,
+      "current": 36,
       "previous": 0,
-      "delta_pct": 0
+      "delta_pct": null
     },
     "ctr": {
-      "current": null,
+      "current": 0.99,
       "previous": null,
       "delta_pct": null
     },
     "cpc": {
-      "current": 0,
+      "current": 1.31,
       "previous": 0,
-      "delta_pct": 0
+      "delta_pct": null
     },
     "thruplay": {
-      "current": 0,
+      "current": 165,
       "previous": 0,
-      "delta_pct": 0
+      "delta_pct": null
     },
     "frequency": {
-      "current": 0,
+      "current": 1.17,
       "previous": 0,
-      "delta_pct": 0
+      "delta_pct": null
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 0,
+        "current": 4,
         "previous": 0,
-        "delta_pct": 0
+        "delta_pct": null
       },
       "cost": {
-        "current": null,
+        "current": 11.75,
         "previous": null,
         "delta_pct": null
       },
-      "top_creative": null
+      "top_creative": {
+        "name": "[NOV] 3 sessões grátis",
+        "value": 2
+      }
     },
     "instagram_visits": {
       "count": {
@@ -92,30 +95,118 @@
     "site_visits": null,
     "site_purchases": null
   },
-  "top_creatives": [],
+  "top_creatives": [
+    {
+      "name": "[NOV] TOPO 3 sessões",
+      "impressions": 1081,
+      "reach": 1041,
+      "clicks": 16,
+      "messages": 0,
+      "ctr": 1.48,
+      "thruplay": 124
+    },
+    {
+      "name": "[BLACK 04] 05 combo virilha + ânus",
+      "impressions": 1007,
+      "reach": 921,
+      "clicks": 9,
+      "messages": 1,
+      "ctr": 0.89,
+      "thruplay": 0
+    },
+    {
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 553,
+      "reach": 516,
+      "clicks": 3,
+      "messages": 1,
+      "ctr": 0.54,
+      "thruplay": 10
+    },
+    {
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 546,
+      "reach": 512,
+      "clicks": 7,
+      "messages": 2,
+      "ctr": 1.28,
+      "thruplay": 23
+    },
+    {
+      "name": "[BLACK 04] 03 pernas inteiras",
+      "impressions": 301,
+      "reach": 278,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    },
+    {
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 93,
+      "reach": 88,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 1.08,
+      "thruplay": 4
+    },
+    {
+      "name": "[BLACK 04] 01 80% OFF",
+      "impressions": 22,
+      "reach": 21,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    },
+    {
+      "name": "3 sessões — Cópia",
+      "impressions": 20,
+      "reach": 18,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 2
+    },
+    {
+      "name": "[80%] Unidade",
+      "impressions": 4,
+      "reach": 4,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 1
+    },
+    {
+      "name": "[80%] Waleska Freitas",
+      "impressions": 2,
+      "reach": 2,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 1
+    }
+  ],
   "demographics": {
     "gender": {
-      "female_pct": 0,
-      "male_pct": 0,
+      "female_pct": 69,
+      "male_pct": 31,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 0,
-      "35-44": 0,
-      "45-54": 0,
-      "55-64": 0,
-      "65+": 0
+      "25-34": 39,
+      "35-44": 30,
+      "45-54": 15,
+      "55-64": 9,
+      "65+": 7
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 1.02,
+    "balance_brl": 34.79,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": [
-    "zero_conversations_current",
-    "zero_activity_current"
-  ]
+  "auto_flags": []
 }

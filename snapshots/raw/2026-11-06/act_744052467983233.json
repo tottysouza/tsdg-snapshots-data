@@ -1,0 +1,233 @@
+{
+  "current": {
+    "accountId": "act_744052467983233",
+    "saldo": 78.16,
+    "dateRange": {
+      "since": "2026-10-30",
+      "until": "2026-11-05"
+    },
+    "kpis": {
+      "investimento": 177.19,
+      "impressoes": 9984,
+      "alcance": 7201,
+      "cliques": 332,
+      "cpc": 0.53,
+      "cpm": 17.75,
+      "mensagens": 10,
+      "cpa": 17.72,
+      "thruplay": 726,
+      "frequencia": 1.39
+    },
+    "ads": [
+      {
+        "id": "120253593354100508",
+        "nome": "Loiro saudável",
+        "status": "WITH_ISSUES",
+        "legenda": "Loiro saudável com argila descolorante e 10 volumes de oxidante, produtos exclusivos em Ribeirão Pr 2026-10-30-af13c459f5eb45a7a9b08fc183cd27ee",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-lax3-2.xx.fbcdn.net/v/t15.5256-10/881767143_1166019782663275_1441918307938248003_n.jpg?_nc_cat=107&ccb=1-7&_nc_eui2=AeH5V5i9oUjf9mgOvv7EtOu41nf-tIoF5dDWd_60igXl0H_PCEY3YWvgihaay9ZqU3SNhhaW2WrMTndE4k_K6Q70&_nc_ohc=qi-IfmNT1FcQ7kNvwEkdCK5&_nc_oc=Adr-Qx_O2U0gKb_zngnXIQBueuroPRwpmMRmEXtFOCcTt_9W5fH7IXv5PXu2xO2S2-Y&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&edm=ACTJxZ4EAAAA&_nc_gid=EqDA_o86U8Zev3oAIZkgVw&_nc_tpa=Q5bMBQKQnGu2L-XbWGaRhXenKb-uLliurUoQy1uIErP-tBBPe7peqv5pXuaMY_ua9JXU1dwAKK-MEVukaWk&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQStO4c8kPanpS9cNG8YapOW1KZbJUxvoptJSLITYVErUQ&oe=6AF3DB29",
+        "impressoes": 6402,
+        "alcance": 5194,
+        "cliques": 239,
+        "mensagens": 0,
+        "thruplay": 384,
+        "investimento": 50.17,
+        "cpc": 0.21,
+        "ctr": 3.73
+      },
+      {
+        "id": "120253416737450508",
+        "nome": "Tonalização Layer",
+        "status": "WITH_ISSUES",
+        "legenda": "Tonalização Layer - exclusivo no Bioma Sense em Ribeirão Preto - técnica com produtos naturais que  2026-10-19-1af03ca9b5af85e67f79c4739d428dcc",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-lax3-2.xx.fbcdn.net/v/t15.5256-10/854673146_2363400554495085_8932343230619208939_n.jpg?_nc_cat=103&ccb=1-7&_nc_eui2=AeHlG2iutTe2bPmhKrOqE4ZgvTPH8hpxeDi9M8fyGnF4OHXag3kibpY9-lZkuTRGMouIezDQSZZLwQFhMXMw5TfY&_nc_ohc=mzBcwpna8X4Q7kNvwGkeHZ5&_nc_oc=AdoIhTRZ3L0IClgv-XJ7-gvbrm41j5d14Xs-eUonsnEVO_6J9lDYxkbWEa81uIBOnZY&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&edm=ACTJxZ4EAAAA&_nc_gid=EqDA_o86U8Zev3oAIZkgVw&_nc_tpa=Q5bMBQL_rE8CPPF30-tzmuTz4EYynMSfeqtszcaIWL6WWA0c28RytNqZl_x_MfyH2ZmLMy6wYj8T3KU9T8g&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQTxwAV7Q2ns6b67lk4Jfo89zVYp7-XVNXZaAllBS4Mpkw&oe=6AF3AD89",
+        "impressoes": 1372,
+        "alcance": 1245,
+        "cliques": 37,
+        "mensagens": 0,
+        "thruplay": 137,
+        "investimento": 23.45,
+        "cpc": 0.63,
+        "ctr": 2.7
+      },
+      {
+        "id": "120253416704570508",
+        "nome": "Tonalização Layer",
+        "status": "WITH_ISSUES",
+        "legenda": "Tonalização Layer - exclusivo no Bioma Sense em Ribeirão Preto - técnica com produtos naturais que  2026-10-19-1326a4b3ad6f074657cdf5a309a08bb0",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-lax7-1.xx.fbcdn.net/v/t15.5256-10/857344844_1110432831918738_8884921046836595831_n.jpg?_nc_cat=101&ccb=1-7&_nc_eui2=AeG_5YyuxZdM-KKldSa1he1wcLPlsIkG271ws-WwiQbbvZttxJkvJ9pTbC4eZ1XXwno-svnHaWlVhcDxZm0B5umn&_nc_ohc=BoenIzFlBkEQ7kNvwFHLJ7B&_nc_oc=AdpGkZzFgKDUMTcMUXWlHrLnOOhOp2p2S3SRxxiBAVmvB6vRd1CU_Yc1epDH6_mhcZo&_nc_zt=23&_nc_ht=scontent-lax7-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=EqDA_o86U8Zev3oAIZkgVw&_nc_tpa=Q5bMBQITaW6yq_52fzy7_LIsGnQTmaMnhIEnM4WHy6GgM8GmhT_kQQX-sW075sNyaY5PmMKtTG3A2byQgN0&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQTenRC3uhnDO676Sf6gqLSW-DnOIqit0Z-b1VCCnlktww&oe=6AF3B424",
+        "impressoes": 1262,
+        "alcance": 642,
+        "cliques": 20,
+        "mensagens": 3,
+        "thruplay": 124,
+        "investimento": 62.21,
+        "cpc": 3.11,
+        "ctr": 1.58
+      },
+      {
+        "id": "120253593415200508",
+        "nome": "Loiro saudável",
+        "status": "WITH_ISSUES",
+        "legenda": "Loiro saudável com argila descolorante e 10 volumes de oxidante, produtos exclusivos em Ribeirão Pr 2026-10-30-4e26e522d527920fd545aceb4f7b4d95",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-lax3-1.xx.fbcdn.net/v/t15.5256-10/881787459_2379325659551057_7581102719404725706_n.jpg?_nc_cat=102&ccb=1-7&_nc_eui2=AeFw183dW6fOyZgmo7OSyi0No5opt5e4Wo6jmim3l7hajn52QwHIm9oXFVwSho9UlCyqg6KukhR6jn8eqX_9TTnT&_nc_ohc=Iy_r8Qu6PkoQ7kNvwGa50zi&_nc_oc=AdqIEwM8nk2s1WMyJxaN-i7ywyLAveqQuggoH63tHl9ul3rOZs3D0tLoXuDsd0IQy0Q&_nc_zt=23&_nc_ht=scontent-lax3-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=EqDA_o86U8Zev3oAIZkgVw&_nc_tpa=Q5bMBQKmlDjRRbrqsDjuFaKcITsPTdimDXEtJuuKOfY8U-ttih4HV93uixnTPoJ2NMcnDmHE4rJOihG9tso&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQQbJD9m3A-SbOg-YLrZmWJPrbtm15Yq5gvDnzowTGnyXw&oe=6AF3D853",
+        "impressoes": 948,
+        "alcance": 463,
+        "cliques": 36,
+        "mensagens": 7,
+        "thruplay": 81,
+        "investimento": 41.36,
+        "cpc": 1.15,
+        "ctr": 3.8
+      }
+    ],
+    "genero": {
+      "F": 81,
+      "M": 19,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 33,
+      "35-44": 21,
+      "45-54": 20,
+      "55-64": 16,
+      "65+": 11
+    },
+    "periodo": "custom",
+    "timestamp": "2026-11-06T15:38:36.739Z",
+    "prev": {
+      "investimento": 285.2,
+      "impressoes": 13667,
+      "alcance": 9279,
+      "cliques": 353,
+      "cpc": 0.81,
+      "cpm": 20.87,
+      "mensagens": 17,
+      "cpa": 16.78,
+      "thruplay": 994,
+      "frequencia": 1.47
+    }
+  },
+  "previous": {
+    "accountId": "act_744052467983233",
+    "saldo": 78.16,
+    "dateRange": {
+      "since": "2026-10-23",
+      "until": "2026-10-29"
+    },
+    "kpis": {
+      "investimento": 285.2,
+      "impressoes": 13667,
+      "alcance": 9279,
+      "cliques": 353,
+      "cpc": 0.81,
+      "cpm": 20.87,
+      "mensagens": 17,
+      "cpa": 16.78,
+      "thruplay": 994,
+      "frequencia": 1.47
+    },
+    "ads": [
+      {
+        "id": "120253416737450508",
+        "nome": "Tonalização Layer",
+        "status": "WITH_ISSUES",
+        "legenda": "Tonalização Layer - exclusivo no Bioma Sense em Ribeirão Preto - técnica com produtos naturais que  2026-10-19-1af03ca9b5af85e67f79c4739d428dcc",
+        "campId": "120233466943690508",
+        "campanha": "01. TOPO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-lax3-2.xx.fbcdn.net/v/t15.5256-10/854673146_2363400554495085_8932343230619208939_n.jpg?_nc_cat=103&ccb=1-7&_nc_eui2=AeHlG2iutTe2bPmhKrOqE4ZgvTPH8hpxeDi9M8fyGnF4OHXag3kibpY9-lZkuTRGMouIezDQSZZLwQFhMXMw5TfY&_nc_ohc=mzBcwpna8X4Q7kNvwHkbAUx&_nc_oc=AdoOl9e2JbSQnb4tEahgafE-fsJM478vVeKCF2gCZV1F-r665I7rumP22O21qDz38RU&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&edm=ACTJxZ4EAAAA&_nc_gid=E-yBDybmPDRN84X1HNoIAg&_nc_tpa=Q5bMBQInzUDACD6Hfmy8NWXeW5D-tp9sMFuYYM8HCTcGetkV-RpzxM0vd149FMXGigwWF0J6nMWOBAUKoc4&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQT9jcM5PuWDolHQeOc4OfBcFBRcMs_T6a04l_C-CprVqA&oe=6AF3AD89",
+        "impressoes": 10796,
+        "alcance": 7941,
+        "cliques": 295,
+        "mensagens": 1,
+        "thruplay": 739,
+        "investimento": 110.6,
+        "cpc": 0.37,
+        "ctr": 2.73
+      },
+      {
+        "id": "120253416704570508",
+        "nome": "Tonalização Layer",
+        "status": "WITH_ISSUES",
+        "legenda": "Tonalização Layer - exclusivo no Bioma Sense em Ribeirão Preto - técnica com produtos naturais que  2026-10-19-1326a4b3ad6f074657cdf5a309a08bb0",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-lax7-1.xx.fbcdn.net/v/t15.5256-10/857344844_1110432831918738_8884921046836595831_n.jpg?_nc_cat=101&ccb=1-7&_nc_eui2=AeG_5YyuxZdM-KKldSa1he1wcLPlsIkG271ws-WwiQbbvZttxJkvJ9pTbC4eZ1XXwno-svnHaWlVhcDxZm0B5umn&_nc_ohc=BoenIzFlBkEQ7kNvwFaGj75&_nc_oc=Adr1YB1ZbeeDVEetvrvnKNMm5d-WpxhdKRBrIBXEFj04Y5IzHVOBKi_Q66OB0b_n7IE&_nc_zt=23&_nc_ht=scontent-lax7-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=E-yBDybmPDRN84X1HNoIAg&_nc_tpa=Q5bMBQKkOhoE8-2T-FwNGXWhXjU2veJdVa49i-FOUyzCmbmf1ds50Nu3905NnA0cjCTD9Z78Jr-_kQP2cns&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQQJR8ca3Be0Elnf6xoQeeAqxflyuYL7S9wZ-NPTxxMOEA&oe=6AF3B424",
+        "impressoes": 2841,
+        "alcance": 1366,
+        "cliques": 58,
+        "mensagens": 16,
+        "thruplay": 253,
+        "investimento": 174.19,
+        "cpc": 3,
+        "ctr": 2.04
+      },
+      {
+        "id": "120253522703040508",
+        "nome": "2026-10-26_MEIO_REEL_Queda capilar v3",
+        "status": "PAUSED",
+        "legenda": "A queda de cabelo sempre foi um dos motivos das clientes nos procurarem… de um ano pra cá com o aum 2026-10-26-c328c50f140862ad6c5c116fc2fa81a7",
+        "campId": "120233467719910508",
+        "campanha": "02. MEIO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-lax3-2.xx.fbcdn.net/v/t15.5256-10/867485841_1476287807646461_2803328544640891457_n.jpg?_nc_cat=111&ccb=1-7&_nc_eui2=AeHOy0eevwtcTATr-fkuwRgLS7OX1UH7OMFLs5fVQfs4wejJgF7RkDIFw1-iKss0MQq_SfgqZZnugK8Ayq2uQY8S&_nc_ohc=UO81qXqn_H8Q7kNvwGNBMDT&_nc_oc=AdqG4oclQT3Q2QP47vmgPdOXZaxnXXe7dg-42DKXW5LQJ8ERde04FEnrRVm1GO1vYuc&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&edm=ACTJxZ4EAAAA&_nc_gid=E-yBDybmPDRN84X1HNoIAg&_nc_tpa=Q5bMBQK4oVEnRxp8saE4VWma0MGRqRZol25VQyMioyO7ywZfs1MSxCecbK6HF-nox9iGwMUHUYEo6XN7Umk&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQTu6wl_YKaMDWd2gkxM5E6RKljGWHm9zHcT7AzMqNKI1Q&oe=6AF3DD31",
+        "impressoes": 30,
+        "alcance": 28,
+        "cliques": 0,
+        "mensagens": 0,
+        "thruplay": 2,
+        "investimento": 0.41,
+        "cpc": 0,
+        "ctr": 0
+      }
+    ],
+    "genero": {
+      "F": 90,
+      "M": 10,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 20,
+      "35-44": 17,
+      "45-54": 21,
+      "55-64": 23,
+      "65+": 19
+    },
+    "periodo": "custom",
+    "timestamp": "2026-11-06T15:38:38.914Z",
+    "prev": {
+      "investimento": 216.45,
+      "impressoes": 9785,
+      "alcance": 7221,
+      "cliques": 228,
+      "cpc": 0.95,
+      "cpm": 22.12,
+      "mensagens": 15,
+      "cpa": 14.43,
+      "thruplay": 740,
+      "frequencia": 1.36
+    }
+  }
+}

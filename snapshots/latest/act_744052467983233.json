@@ -4,79 +4,79 @@
     "account_name": "BIOMA Sense",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-04T15:56:34.720Z",
+    "generated_at": "2026-11-06T15:38:38.924Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-28",
-      "until": "2026-11-03",
-      "label_pt": "28 out a 3 nov"
+      "since": "2026-10-30",
+      "until": "2026-11-05",
+      "label_pt": "30 out a 5 nov"
     },
     "previous": {
-      "since": "2026-10-21",
-      "until": "2026-10-27"
+      "since": "2026-10-23",
+      "until": "2026-10-29"
     }
   },
   "totals": {
     "spend": {
-      "current": 271.19,
-      "previous": 274.92,
-      "delta_pct": -1
+      "current": 177.19,
+      "previous": 285.2,
+      "delta_pct": -38
     },
     "impressions": {
-      "current": 13408,
-      "previous": 13385,
-      "delta_pct": 0
+      "current": 9984,
+      "previous": 13667,
+      "delta_pct": -27
     },
     "reach": {
-      "current": 9245,
-      "previous": 8831,
-      "delta_pct": 5
+      "current": 7201,
+      "previous": 9279,
+      "delta_pct": -22
     },
     "clicks": {
-      "current": 420,
-      "previous": 362,
-      "delta_pct": 16
+      "current": 332,
+      "previous": 353,
+      "delta_pct": -6
     },
     "ctr": {
-      "current": 3.13,
-      "previous": 2.7,
-      "delta_pct": 16
+      "current": 3.33,
+      "previous": 2.58,
+      "delta_pct": 29
     },
     "cpc": {
-      "current": 0.65,
-      "previous": 0.76,
-      "delta_pct": -14
+      "current": 0.53,
+      "previous": 0.81,
+      "delta_pct": -35
     },
     "thruplay": {
-      "current": 1025,
-      "previous": 1023,
-      "delta_pct": 0
+      "current": 726,
+      "previous": 994,
+      "delta_pct": -27
     },
     "frequency": {
-      "current": 1.45,
-      "previous": 1.52,
+      "current": 1.39,
+      "previous": 1.47,
       "delta_pct": -5
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 17,
-        "previous": 13,
-        "delta_pct": 31
+        "current": 10,
+        "previous": 17,
+        "delta_pct": -41
       },
       "cost": {
-        "current": 15.95,
-        "previous": 21.15,
-        "delta_pct": -25
+        "current": 17.72,
+        "previous": 16.78,
+        "delta_pct": 6
       },
       "top_creative": {
-        "name": "Tonalização Layer",
-        "value": 10
+        "name": "Loiro saudável",
+        "value": 7
       }
     },
     "instagram_visits": {
@@ -98,54 +98,54 @@
   "top_creatives": [
     {
       "name": "Loiro saudável",
-      "impressions": 6380,
-      "reach": 5165,
+      "impressions": 6402,
+      "reach": 5194,
       "clicks": 239,
       "messages": 0,
-      "ctr": 3.75,
-      "thruplay": 383
+      "ctr": 3.73,
+      "thruplay": 384
     },
     {
       "name": "Tonalização Layer",
-      "impressions": 3870,
-      "reach": 3246,
-      "clicks": 106,
+      "impressions": 1372,
+      "reach": 1245,
+      "clicks": 37,
       "messages": 0,
-      "ctr": 2.74,
-      "thruplay": 343
+      "ctr": 2.7,
+      "thruplay": 137
     },
     {
       "name": "Tonalização Layer",
-      "impressions": 2228,
-      "reach": 1081,
-      "clicks": 39,
-      "messages": 10,
-      "ctr": 1.75,
-      "thruplay": 221
+      "impressions": 1262,
+      "reach": 642,
+      "clicks": 20,
+      "messages": 3,
+      "ctr": 1.58,
+      "thruplay": 124
     },
     {
       "name": "Loiro saudável",
-      "impressions": 930,
-      "reach": 448,
+      "impressions": 948,
+      "reach": 463,
       "clicks": 36,
       "messages": 7,
-      "ctr": 3.87,
-      "thruplay": 78
+      "ctr": 3.8,
+      "thruplay": 81
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 84,
-      "male_pct": 16,
+      "female_pct": 81,
+      "male_pct": 19,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 27,
-      "35-44": 19,
-      "45-54": 21,
-      "55-64": 19,
-      "65+": 14
+      "25-34": 33,
+      "35-44": 21,
+      "45-54": 20,
+      "55-64": 16,
+      "65+": 11
     }
   },
   "campaigns_active": [],
@@ -154,7 +154,5 @@
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": [
-    "balance_low"
-  ]
+  "auto_flags": []
 }

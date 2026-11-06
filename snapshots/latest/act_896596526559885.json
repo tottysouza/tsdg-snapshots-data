@@ -4,75 +4,75 @@
     "account_name": "VIRGO Cases",
     "segment": "TECH",
     "template": "VIRGO",
-    "generated_at": "2026-11-04T15:57:52.581Z",
+    "generated_at": "2026-11-06T15:39:59.948Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-28",
-      "until": "2026-11-03",
-      "label_pt": "28 out a 3 nov"
+      "since": "2026-10-30",
+      "until": "2026-11-05",
+      "label_pt": "30 out a 5 nov"
     },
     "previous": {
-      "since": "2026-10-21",
-      "until": "2026-10-27"
+      "since": "2026-10-23",
+      "until": "2026-10-29"
     }
   },
   "totals": {
     "spend": {
-      "current": 541.86,
-      "previous": 276.98,
-      "delta_pct": 96
+      "current": 371.48,
+      "previous": 410.63,
+      "delta_pct": -10
     },
     "impressions": {
-      "current": 44171,
-      "previous": 13072,
-      "delta_pct": 238
+      "current": 29466,
+      "previous": 26076,
+      "delta_pct": 13
     },
     "reach": {
-      "current": 25716,
-      "previous": 6819,
-      "delta_pct": 277
+      "current": 15004,
+      "previous": 17117,
+      "delta_pct": -12
     },
     "clicks": {
-      "current": 2681,
-      "previous": 601,
-      "delta_pct": 346
+      "current": 2001,
+      "previous": 1177,
+      "delta_pct": 70
     },
     "ctr": {
-      "current": 6.07,
-      "previous": 4.6,
-      "delta_pct": 32
+      "current": 6.79,
+      "previous": 4.51,
+      "delta_pct": 51
     },
     "cpc": {
-      "current": 0.2,
-      "previous": 0.46,
-      "delta_pct": -57
+      "current": 0.19,
+      "previous": 0.35,
+      "delta_pct": -46
     },
     "thruplay": {
-      "current": 406,
-      "previous": 650,
-      "delta_pct": -38
+      "current": 259,
+      "previous": 709,
+      "delta_pct": -63
     },
     "frequency": {
-      "current": 1.72,
-      "previous": 1.92,
-      "delta_pct": -10
+      "current": 1.96,
+      "previous": 1.52,
+      "delta_pct": 29
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
         "current": 1,
-        "previous": 3,
-        "delta_pct": -67
+        "previous": 1,
+        "delta_pct": 0
       },
       "cost": {
-        "current": 541.86,
-        "previous": 92.33,
-        "delta_pct": 487
+        "current": 371.48,
+        "previous": 410.63,
+        "delta_pct": -10
       },
       "top_creative": {
         "name": "RMKT · \"10\" Coleção/tempo",
@@ -118,75 +118,39 @@
   "top_creatives": [
     {
       "name": "Depois de alguns dias",
-      "impressions": 25468,
-      "reach": 14237,
-      "clicks": 1962,
+      "impressions": 21505,
+      "reach": 11765,
+      "clicks": 1668,
       "messages": 0,
-      "ctr": 7.7,
-      "thruplay": 13
+      "ctr": 7.76,
+      "thruplay": 4
     },
     {
       "name": "RMKT · \"10\" Coleção/tempo",
-      "impressions": 4162,
-      "reach": 1695,
-      "clicks": 151,
+      "impressions": 3333,
+      "reach": 1460,
+      "clicks": 130,
       "messages": 1,
-      "ctr": 3.63,
-      "thruplay": 73
-    },
-    {
-      "name": "TRÁFEGO · \"Cada peça\" (post IG) · out/26",
-      "impressions": 3639,
-      "reach": 3582,
-      "clicks": 176,
-      "messages": 0,
-      "ctr": 4.84,
-      "thruplay": 0
+      "ctr": 3.9,
+      "thruplay": 61
     },
     {
       "name": "AQ · \"Coleção merece\" 3/6/10",
-      "impressions": 2484,
-      "reach": 1539,
-      "clicks": 106,
+      "impressions": 1935,
+      "reach": 1275,
+      "clicks": 86,
       "messages": 0,
-      "ctr": 4.27,
-      "thruplay": 98
-    },
-    {
-      "name": "Coleção merece",
-      "impressions": 2241,
-      "reach": 1961,
-      "clicks": 75,
-      "messages": 0,
-      "ctr": 3.35,
-      "thruplay": 15
-    },
-    {
-      "name": "RMKT · \"Coleção merece\" 3/6/10",
-      "impressions": 1757,
-      "reach": 963,
-      "clicks": 56,
-      "messages": 0,
-      "ctr": 3.19,
-      "thruplay": 46
+      "ctr": 4.44,
+      "thruplay": 73
     },
     {
       "name": "AQ · \"10\" Coleção/tempo (estático campeão)",
-      "impressions": 1632,
-      "reach": 1071,
-      "clicks": 56,
+      "impressions": 891,
+      "reach": 643,
+      "clicks": 27,
       "messages": 0,
-      "ctr": 3.43,
+      "ctr": 3.03,
       "thruplay": 6
-    },
-    {
-      "name": "TOPO · \"A forma\" vídeo (post IG) v2",
-      "impressions": 784,
-      "reach": 747,
-      "clicks": 12,
-      "messages": 0,
-      "ctr": 1.53,
-      "thruplay": 30
     },
     {
       "name": "AQ · \"A forma\" vídeo (post IG) v3",
@@ -198,13 +162,49 @@
       "thruplay": 57
     },
     {
-      "name": "Elegância que acompanha",
-      "impressions": 479,
-      "reach": 460,
-      "clicks": 8,
+      "name": "RMKT · \"Coleção merece\" 3/6/10",
+      "impressions": 572,
+      "reach": 407,
+      "clicks": 19,
       "messages": 0,
-      "ctr": 1.67,
-      "thruplay": 5
+      "ctr": 3.32,
+      "thruplay": 16
+    },
+    {
+      "name": "RMKT · Felipe Watches + cupom",
+      "impressions": 307,
+      "reach": 259,
+      "clicks": 21,
+      "messages": 0,
+      "ctr": 6.84,
+      "thruplay": 24
+    },
+    {
+      "name": "AQ · \"Cada peça\" (post IG) · out/26",
+      "impressions": 128,
+      "reach": 114,
+      "clicks": 13,
+      "messages": 0,
+      "ctr": 10.16,
+      "thruplay": 18
+    },
+    {
+      "name": "Coleção merece",
+      "impressions": 55,
+      "reach": 51,
+      "clicks": 6,
+      "messages": 0,
+      "ctr": 10.91,
+      "thruplay": 0
+    },
+    {
+      "name": "TRÁFEGO · \"Ritual\" (post IG) · out/26",
+      "impressions": 1,
+      "reach": 1,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 100,
+      "thruplay": 0
     }
   ],
   "demographics": {
@@ -216,10 +216,10 @@
     "age": {
       "18-24": 1,
       "25-34": 32,
-      "35-44": 35,
+      "35-44": 37,
       "45-54": 20,
-      "55-64": 8,
-      "65+": 5
+      "55-64": 7,
+      "65+": 3
     }
   },
   "campaigns_active": [],
@@ -229,7 +229,6 @@
     "account_disabled": false
   },
   "auto_flags": [
-    "spend_delta_over_50",
     "creative_concentration_over_80"
   ]
 }
