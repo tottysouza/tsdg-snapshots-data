@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_806895401401781",
+    "account_name": "Espaçolaser Bragança",
+    "segment": "LASER",
+    "template": "LASER",
+    "generated_at": "2026-11-07T14:40:33.293Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-10-31",
+      "until": "2026-11-06",
+      "label_pt": "31 out a 6 nov"
+    },
+    "previous": {
+      "since": "2026-10-24",
+      "until": "2026-10-30"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 122.4,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "impressions": {
+      "current": 8590,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "reach": {
+      "current": 6080,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "clicks": {
+      "current": 70,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "ctr": {
+      "current": 0.81,
+      "previous": null,
+      "delta_pct": null
+    },
+    "cpc": {
+      "current": 1.75,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "thruplay": {
+      "current": 488,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "frequency": {
+      "current": 1.41,
+      "previous": 0,
+      "delta_pct": null
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 8,
+        "previous": 0,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": 15.3,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": {
+        "name": "[NOV] 3 sessões grátis",
+        "value": 3
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "[BLACK 04] 05 combo virilha + ânus",
+      "impressions": 2896,
+      "reach": 2177,
+      "clicks": 21,
+      "messages": 2,
+      "ctr": 0.73,
+      "thruplay": 0
+    },
+    {
+      "name": "[NOV] TOPO 3 sessões",
+      "impressions": 1930,
+      "reach": 1894,
+      "clicks": 21,
+      "messages": 0,
+      "ctr": 1.09,
+      "thruplay": 404
+    },
+    {
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 1568,
+      "reach": 1258,
+      "clicks": 8,
+      "messages": 2,
+      "ctr": 0.51,
+      "thruplay": 32
+    },
+    {
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 1232,
+      "reach": 1028,
+      "clicks": 15,
+      "messages": 3,
+      "ctr": 1.22,
+      "thruplay": 42
+    },
+    {
+      "name": "[BLACK 04] 03 pernas inteiras",
+      "impressions": 333,
+      "reach": 306,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 0.3,
+      "thruplay": 0
+    },
+    {
+      "name": "[BLACK 04] 01 80% OFF",
+      "impressions": 216,
+      "reach": 170,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 0.93,
+      "thruplay": 0
+    },
+    {
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 202,
+      "reach": 181,
+      "clicks": 2,
+      "messages": 1,
+      "ctr": 0.99,
+      "thruplay": 6
+    },
+    {
+      "name": "[BLACK 04] 02 a partir de R$ 99,90 — Cópia",
+      "impressions": 118,
+      "reach": 104,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    },
+    {
+      "name": "[BLACK] 04 virilha",
+      "impressions": 21,
+      "reach": 20,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    },
+    {
+      "name": "[BLACK] 06 tórax + abdômen",
+      "impressions": 15,
+      "reach": 14,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 71,
+      "male_pct": 29,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 41,
+      "35-44": 30,
+      "45-54": 14,
+      "55-64": 8,
+      "65+": 6
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 23.43,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}
