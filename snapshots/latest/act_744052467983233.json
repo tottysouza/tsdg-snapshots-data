@@ -4,75 +4,75 @@
     "account_name": "BIOMA Sense",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-07T14:39:17.751Z",
+    "generated_at": "2026-11-08T14:44:46.856Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-31",
-      "until": "2026-11-06",
-      "label_pt": "31 out a 6 nov"
+      "since": "2026-11-01",
+      "until": "2026-11-07",
+      "label_pt": "1 nov a 7 nov"
     },
     "previous": {
-      "since": "2026-10-24",
-      "until": "2026-10-30"
+      "since": "2026-10-25",
+      "until": "2026-10-31"
     }
   },
   "totals": {
     "spend": {
-      "current": 142.2,
-      "previous": 289.21,
-      "delta_pct": -51
+      "current": 119.89,
+      "previous": 279.45,
+      "delta_pct": -57
     },
     "impressions": {
-      "current": 8199,
-      "previous": 13787,
-      "delta_pct": -41
+      "current": 6729,
+      "previous": 13511,
+      "delta_pct": -50
     },
     "reach": {
-      "current": 6171,
-      "previous": 9380,
-      "delta_pct": -34
-    },
-    "clicks": {
-      "current": 268,
-      "previous": 379,
-      "delta_pct": -29
-    },
-    "ctr": {
-      "current": 3.27,
-      "previous": 2.75,
-      "delta_pct": 19
-    },
-    "cpc": {
-      "current": 0.53,
-      "previous": 0.76,
-      "delta_pct": -30
-    },
-    "thruplay": {
-      "current": 574,
-      "previous": 1026,
+      "current": 5304,
+      "previous": 9428,
       "delta_pct": -44
     },
+    "clicks": {
+      "current": 221,
+      "previous": 374,
+      "delta_pct": -41
+    },
+    "ctr": {
+      "current": 3.28,
+      "previous": 2.77,
+      "delta_pct": 18
+    },
+    "cpc": {
+      "current": 0.54,
+      "previous": 0.75,
+      "delta_pct": -28
+    },
+    "thruplay": {
+      "current": 466,
+      "previous": 1000,
+      "delta_pct": -53
+    },
     "frequency": {
-      "current": 1.33,
-      "previous": 1.47,
-      "delta_pct": -10
+      "current": 1.27,
+      "previous": 1.43,
+      "delta_pct": -11
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 7,
+        "current": 6,
         "previous": 18,
-        "delta_pct": -61
+        "delta_pct": -67
       },
       "cost": {
-        "current": 20.31,
-        "previous": 16.07,
-        "delta_pct": 26
+        "current": 19.98,
+        "previous": 15.52,
+        "delta_pct": 29
       },
       "top_creative": {
         "name": "Loiro saudável",
@@ -98,45 +98,45 @@
   "top_creatives": [
     {
       "name": "Loiro saudável",
-      "impressions": 5256,
-      "reach": 4374,
-      "clicks": 195,
+      "impressions": 4226,
+      "reach": 3652,
+      "clicks": 155,
       "messages": 0,
-      "ctr": 3.71,
-      "thruplay": 294
+      "ctr": 3.67,
+      "thruplay": 225
     },
     {
       "name": "Tonalização Layer",
-      "impressions": 1075,
-      "reach": 956,
-      "clicks": 32,
+      "impressions": 961,
+      "reach": 863,
+      "clicks": 30,
       "messages": 0,
-      "ctr": 2.98,
-      "thruplay": 111
+      "ctr": 3.12,
+      "thruplay": 102
     },
     {
       "name": "Tonalização Layer",
-      "impressions": 1053,
-      "reach": 571,
-      "clicks": 16,
-      "messages": 2,
-      "ctr": 1.52,
-      "thruplay": 105
+      "impressions": 924,
+      "reach": 517,
+      "clicks": 15,
+      "messages": 1,
+      "ctr": 1.62,
+      "thruplay": 94
     },
     {
       "name": "Loiro saudável",
-      "impressions": 815,
-      "reach": 429,
-      "clicks": 25,
+      "impressions": 618,
+      "reach": 352,
+      "clicks": 21,
       "messages": 5,
-      "ctr": 3.07,
-      "thruplay": 64
+      "ctr": 3.4,
+      "thruplay": 45
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 80,
-      "male_pct": 20,
+      "female_pct": 79,
+      "male_pct": 21,
       "unknown_pct": 0
     },
     "age": {
@@ -155,6 +155,7 @@
     "account_disabled": false
   },
   "auto_flags": [
-    "spend_delta_over_50"
+    "spend_delta_over_50",
+    "creative_concentration_over_80"
   ]
 }

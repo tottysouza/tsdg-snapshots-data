@@ -4,60 +4,60 @@
     "account_name": "Espaçolaser Bragança",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-11-07T14:40:33.293Z",
+    "generated_at": "2026-11-08T14:46:02.506Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-31",
-      "until": "2026-11-06",
-      "label_pt": "31 out a 6 nov"
+      "since": "2026-11-01",
+      "until": "2026-11-07",
+      "label_pt": "1 nov a 7 nov"
     },
     "previous": {
-      "since": "2026-10-24",
-      "until": "2026-10-30"
+      "since": "2026-10-25",
+      "until": "2026-10-31"
     }
   },
   "totals": {
     "spend": {
-      "current": 122.4,
+      "current": 178.04,
       "previous": 0,
       "delta_pct": null
     },
     "impressions": {
-      "current": 8590,
+      "current": 12743,
       "previous": 0,
       "delta_pct": null
     },
     "reach": {
-      "current": 6080,
+      "current": 8227,
       "previous": 0,
       "delta_pct": null
     },
     "clicks": {
-      "current": 70,
+      "current": 107,
       "previous": 0,
       "delta_pct": null
     },
     "ctr": {
-      "current": 0.81,
+      "current": 0.84,
       "previous": null,
       "delta_pct": null
     },
     "cpc": {
-      "current": 1.75,
+      "current": 1.66,
       "previous": 0,
       "delta_pct": null
     },
     "thruplay": {
-      "current": 488,
+      "current": 865,
       "previous": 0,
       "delta_pct": null
     },
     "frequency": {
-      "current": 1.41,
+      "current": 1.55,
       "previous": 0,
       "delta_pct": null
     }
@@ -65,18 +65,18 @@
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 8,
+        "current": 13,
         "previous": 0,
         "delta_pct": null
       },
       "cost": {
-        "current": 15.3,
+        "current": 13.7,
         "previous": null,
         "delta_pct": null
       },
       "top_creative": {
         "name": "[NOV] 3 sessões grátis",
-        "value": 3
+        "value": 4
       }
     },
     "instagram_visits": {
@@ -98,89 +98,89 @@
   "top_creatives": [
     {
       "name": "[BLACK 04] 05 combo virilha + ânus",
-      "impressions": 2896,
-      "reach": 2177,
-      "clicks": 21,
-      "messages": 2,
-      "ctr": 0.73,
+      "impressions": 3927,
+      "reach": 2690,
+      "clicks": 28,
+      "messages": 3,
+      "ctr": 0.71,
       "thruplay": 0
     },
     {
       "name": "[NOV] TOPO 3 sessões",
-      "impressions": 1930,
-      "reach": 1894,
-      "clicks": 21,
-      "messages": 0,
-      "ctr": 1.09,
-      "thruplay": 404
+      "impressions": 2792,
+      "reach": 2688,
+      "clicks": 35,
+      "messages": 1,
+      "ctr": 1.25,
+      "thruplay": 730
     },
     {
       "name": "[NOV] 3 sessões grátis",
-      "impressions": 1568,
-      "reach": 1258,
-      "clicks": 8,
-      "messages": 2,
-      "ctr": 0.51,
-      "thruplay": 32
-    },
-    {
-      "name": "[NOV] 3 sessões grátis",
-      "impressions": 1232,
-      "reach": 1028,
-      "clicks": 15,
+      "impressions": 2698,
+      "reach": 2034,
+      "clicks": 16,
       "messages": 3,
-      "ctr": 1.22,
-      "thruplay": 42
+      "ctr": 0.59,
+      "thruplay": 59
+    },
+    {
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 1758,
+      "reach": 1362,
+      "clicks": 20,
+      "messages": 4,
+      "ctr": 1.14,
+      "thruplay": 60
     },
     {
       "name": "[BLACK 04] 03 pernas inteiras",
-      "impressions": 333,
-      "reach": 306,
+      "impressions": 498,
+      "reach": 444,
       "clicks": 1,
       "messages": 0,
-      "ctr": 0.3,
-      "thruplay": 0
-    },
-    {
-      "name": "[BLACK 04] 01 80% OFF",
-      "impressions": 216,
-      "reach": 170,
-      "clicks": 2,
-      "messages": 0,
-      "ctr": 0.93,
+      "ctr": 0.2,
       "thruplay": 0
     },
     {
       "name": "[NOV] 3 sessões grátis",
-      "impressions": 202,
-      "reach": 181,
+      "impressions": 379,
+      "reach": 349,
+      "clicks": 5,
+      "messages": 2,
+      "ctr": 1.32,
+      "thruplay": 9
+    },
+    {
+      "name": "[BLACK 04] 01 80% OFF",
+      "impressions": 244,
+      "reach": 191,
       "clicks": 2,
-      "messages": 1,
-      "ctr": 0.99,
-      "thruplay": 6
+      "messages": 0,
+      "ctr": 0.82,
+      "thruplay": 0
     },
     {
       "name": "[BLACK 04] 02 a partir de R$ 99,90 — Cópia",
-      "impressions": 118,
-      "reach": 104,
+      "impressions": 167,
+      "reach": 140,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
       "thruplay": 0
     },
     {
-      "name": "[BLACK] 04 virilha",
-      "impressions": 21,
-      "reach": 20,
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 107,
+      "reach": 94,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
-      "thruplay": 0
+      "thruplay": 3
     },
     {
       "name": "[BLACK] 06 tórax + abdômen",
-      "impressions": 15,
-      "reach": 14,
+      "impressions": 30,
+      "reach": 26,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
@@ -189,22 +189,22 @@
   ],
   "demographics": {
     "gender": {
-      "female_pct": 71,
-      "male_pct": 29,
+      "female_pct": 75,
+      "male_pct": 25,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 41,
-      "35-44": 30,
-      "45-54": 14,
-      "55-64": 8,
-      "65+": 6
+      "25-34": 39,
+      "35-44": 29,
+      "45-54": 15,
+      "55-64": 9,
+      "65+": 7
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 23.43,
+    "balance_brl": 15.7,
     "balance_low": false,
     "account_disabled": false
   },

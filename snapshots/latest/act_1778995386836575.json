@@ -4,20 +4,20 @@
     "account_name": "BIOMA Jackeline",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-07T14:39:07.456Z",
+    "generated_at": "2026-11-08T14:44:36.854Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-31",
-      "until": "2026-11-06",
-      "label_pt": "31 out a 6 nov"
+      "since": "2026-11-01",
+      "until": "2026-11-07",
+      "label_pt": "1 nov a 7 nov"
     },
     "previous": {
-      "since": "2026-10-24",
-      "until": "2026-10-30"
+      "since": "2026-10-25",
+      "until": "2026-10-31"
     }
   },
   "totals": {

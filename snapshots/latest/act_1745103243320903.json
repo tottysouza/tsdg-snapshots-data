@@ -4,62 +4,62 @@
     "account_name": "BIOMA Casa 631",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-07T14:39:04.929Z",
+    "generated_at": "2026-11-08T14:44:35.280Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-10-31",
-      "until": "2026-11-06",
-      "label_pt": "31 out a 6 nov"
+      "since": "2026-11-01",
+      "until": "2026-11-07",
+      "label_pt": "1 nov a 7 nov"
     },
     "previous": {
-      "since": "2026-10-24",
-      "until": "2026-10-30"
+      "since": "2026-10-25",
+      "until": "2026-10-31"
     }
   },
   "totals": {
     "spend": {
-      "current": 383.53,
-      "previous": 448,
-      "delta_pct": -14
+      "current": 370.9,
+      "previous": 428.04,
+      "delta_pct": -13
     },
     "impressions": {
-      "current": 44311,
-      "previous": 56239,
-      "delta_pct": -21
+      "current": 40513,
+      "previous": 54044,
+      "delta_pct": -25
     },
     "reach": {
-      "current": 24562,
-      "previous": 29943,
-      "delta_pct": -18
+      "current": 22482,
+      "previous": 29433,
+      "delta_pct": -24
     },
     "clicks": {
-      "current": 1424,
-      "previous": 1514,
-      "delta_pct": -6
-    },
-    "ctr": {
-      "current": 3.21,
-      "previous": 2.69,
-      "delta_pct": 19
-    },
-    "cpc": {
-      "current": 0.27,
-      "previous": 0.3,
+      "current": 1325,
+      "previous": 1475,
       "delta_pct": -10
     },
+    "ctr": {
+      "current": 3.27,
+      "previous": 2.73,
+      "delta_pct": 20
+    },
+    "cpc": {
+      "current": 0.28,
+      "previous": 0.29,
+      "delta_pct": -3
+    },
     "thruplay": {
-      "current": 2191,
-      "previous": 2671,
-      "delta_pct": -18
+      "current": 2014,
+      "previous": 2510,
+      "delta_pct": -20
     },
     "frequency": {
       "current": 1.8,
-      "previous": 1.88,
-      "delta_pct": -4
+      "previous": 1.84,
+      "delta_pct": -2
     }
   },
   "conversions": {
@@ -70,13 +70,13 @@
         "delta_pct": 86
       },
       "cost": {
-        "current": 29.5,
-        "previous": 64,
-        "delta_pct": -54
+        "current": 28.53,
+        "previous": 61.15,
+        "delta_pct": -53
       },
       "top_creative": {
         "name": "Aqui no Bioma",
-        "value": 6
+        "value": 7
       }
     },
     "instagram_visits": {
@@ -98,115 +98,117 @@
   "top_creatives": [
     {
       "name": "A · Carrossel 6 artes",
-      "impressions": 16280,
-      "reach": 8768,
-      "clicks": 471,
+      "impressions": 16239,
+      "reach": 8766,
+      "clicks": 470,
       "messages": 0,
       "ctr": 2.89,
       "thruplay": 0
     },
     {
       "name": "A · Vídeo 1 (9s)",
-      "impressions": 9183,
-      "reach": 5674,
-      "clicks": 198,
+      "impressions": 5995,
+      "reach": 4283,
+      "clicks": 123,
       "messages": 0,
-      "ctr": 2.16,
-      "thruplay": 244
+      "ctr": 2.05,
+      "thruplay": 161
     },
     {
       "name": "Aqui no Bioma",
-      "impressions": 3481,
-      "reach": 1803,
-      "clicks": 75,
-      "messages": 6,
-      "ctr": 2.15,
-      "thruplay": 247
-    },
-    {
-      "name": "Cuidado",
-      "impressions": 3106,
-      "reach": 2137,
-      "clicks": 60,
-      "messages": 3,
-      "ctr": 1.93,
-      "thruplay": 246
+      "impressions": 3596,
+      "reach": 1830,
+      "clicks": 76,
+      "messages": 7,
+      "ctr": 2.11,
+      "thruplay": 252
     },
     {
       "name": "Alguns lugares — Cópia",
-      "impressions": 2668,
-      "reach": 2196,
-      "clicks": 45,
+      "impressions": 2979,
+      "reach": 2487,
+      "clicks": 43,
       "messages": 0,
-      "ctr": 1.69,
-      "thruplay": 1068
+      "ctr": 1.44,
+      "thruplay": 1124
     },
     {
       "name": "Seu cabelo",
-      "impressions": 2615,
+      "impressions": 2618,
       "reach": 1657,
-      "clicks": 286,
+      "clicks": 288,
       "messages": 0,
-      "ctr": 10.94,
+      "ctr": 11,
       "thruplay": 0
     },
     {
       "name": "Um novo conceito",
-      "impressions": 2208,
-      "reach": 1510,
-      "clicks": 197,
+      "impressions": 2380,
+      "reach": 1698,
+      "clicks": 232,
       "messages": 0,
-      "ctr": 8.92,
+      "ctr": 9.75,
       "thruplay": 0
     },
     {
-      "name": "A · Vídeo 2 (11s)",
-      "impressions": 1896,
-      "reach": 1522,
-      "clicks": 58,
-      "messages": 0,
-      "ctr": 3.06,
-      "thruplay": 71
+      "name": "Seu cabelo",
+      "impressions": 2290,
+      "reach": 1191,
+      "clicks": 26,
+      "messages": 4,
+      "ctr": 1.14,
+      "thruplay": 27
     },
     {
-      "name": "Seu cabelo",
-      "impressions": 1658,
-      "reach": 906,
-      "clicks": 22,
-      "messages": 4,
-      "ctr": 1.33,
-      "thruplay": 21
+      "name": "Cuidado",
+      "impressions": 2263,
+      "reach": 1615,
+      "clicks": 31,
+      "messages": 2,
+      "ctr": 1.37,
+      "thruplay": 182
+    },
+    {
+      "name": "A · Vídeo 2 (11s)",
+      "impressions": 1128,
+      "reach": 977,
+      "clicks": 26,
+      "messages": 0,
+      "ctr": 2.3,
+      "thruplay": 43
     },
     {
       "name": "Comunidade",
-      "impressions": 1216,
-      "reach": 1049,
-      "clicks": 12,
+      "impressions": 1025,
+      "reach": 886,
+      "clicks": 10,
       "messages": 0,
-      "ctr": 0.99,
-      "thruplay": 294
+      "ctr": 0.98,
+      "thruplay": 225
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 79,
-      "male_pct": 21,
+      "female_pct": 75,
+      "male_pct": 25,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 11,
-      "35-44": 22,
+      "25-34": 12,
+      "35-44": 21,
       "45-54": 18,
       "55-64": 24,
-      "65+": 26
+      "65+": 25
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 366.55,
+    "balance_brl": 7.9,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": []
+  "auto_flags": [
+    "balance_low"
+  ]
 }
