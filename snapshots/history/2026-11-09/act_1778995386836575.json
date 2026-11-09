@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "account_id": "act_1778995386836575",
+    "account_name": "BIOMA Jackeline",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-09T18:16:25.308Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-02",
+      "until": "2026-11-08",
+      "label_pt": "2 nov a 8 nov"
+    },
+    "previous": {
+      "since": "2026-10-26",
+      "until": "2026-11-01"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 47.53,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "impressions": {
+      "current": 3211,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "reach": {
+      "current": 2977,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "clicks": {
+      "current": 126,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "ctr": {
+      "current": 3.92,
+      "previous": null,
+      "delta_pct": null
+    },
+    "cpc": {
+      "current": 0.38,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "thruplay": {
+      "current": 342,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "frequency": {
+      "current": 1.08,
+      "previous": 0,
+      "delta_pct": null
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 6,
+        "previous": 0,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": 7.92,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": {
+        "name": "Tem dias que o corpo",
+        "value": 4
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Seu cabelo - reconhecimento",
+      "impressions": 1496,
+      "reach": 1426,
+      "clicks": 35,
+      "messages": 0,
+      "ctr": 2.34,
+      "thruplay": 257
+    },
+    {
+      "name": "Tem dias que o corpo",
+      "impressions": 1048,
+      "reach": 972,
+      "clicks": 56,
+      "messages": 0,
+      "ctr": 5.34,
+      "thruplay": 43
+    },
+    {
+      "name": "Tem dias que o corpo",
+      "impressions": 369,
+      "reach": 312,
+      "clicks": 11,
+      "messages": 4,
+      "ctr": 2.98,
+      "thruplay": 15
+    },
+    {
+      "name": "Tem dias que o corpo — Cópia",
+      "impressions": 298,
+      "reach": 253,
+      "clicks": 24,
+      "messages": 2,
+      "ctr": 8.05,
+      "thruplay": 27
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 65,
+      "male_pct": 35,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 21,
+      "35-44": 18,
+      "45-54": 17,
+      "55-64": 23,
+      "65+": 21
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 109.88,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": []
+}

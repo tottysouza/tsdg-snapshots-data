@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_848058778028078",
+    "account_name": "BIOMA Casa Fio",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-09T18:16:21.543Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-02",
+      "until": "2026-11-08",
+      "label_pt": "2 nov a 8 nov"
+    },
+    "previous": {
+      "since": "2026-10-26",
+      "until": "2026-11-01"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 323.76,
+      "previous": 548.29,
+      "delta_pct": -41
+    },
+    "impressions": {
+      "current": 15842,
+      "previous": 28225,
+      "delta_pct": -44
+    },
+    "reach": {
+      "current": 13539,
+      "previous": 17265,
+      "delta_pct": -22
+    },
+    "clicks": {
+      "current": 386,
+      "previous": 1063,
+      "delta_pct": -64
+    },
+    "ctr": {
+      "current": 2.44,
+      "previous": 3.77,
+      "delta_pct": -35
+    },
+    "cpc": {
+      "current": 0.84,
+      "previous": 0.52,
+      "delta_pct": 62
+    },
+    "thruplay": {
+      "current": 1345,
+      "previous": 3574,
+      "delta_pct": -62
+    },
+    "frequency": {
+      "current": 1.17,
+      "previous": 1.63,
+      "delta_pct": -28
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 14,
+        "previous": 51,
+        "delta_pct": -73
+      },
+      "cost": {
+        "current": 23.13,
+        "previous": 10.75,
+        "delta_pct": 115
+      },
+      "top_creative": {
+        "name": "Terra fértil — Cópia",
+        "value": 4
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Nutrição também",
+      "impressions": 3930,
+      "reach": 3594,
+      "clicks": 161,
+      "messages": 0,
+      "ctr": 4.1,
+      "thruplay": 173
+    },
+    {
+      "name": "Terra fértil — Cópia",
+      "impressions": 3819,
+      "reach": 3342,
+      "clicks": 73,
+      "messages": 4,
+      "ctr": 1.91,
+      "thruplay": 211
+    },
+    {
+      "name": "Todo cuidado",
+      "impressions": 3238,
+      "reach": 2862,
+      "clicks": 29,
+      "messages": 0,
+      "ctr": 0.9,
+      "thruplay": 629
+    },
+    {
+      "name": "Se você mora em Salvador",
+      "impressions": 1956,
+      "reach": 1922,
+      "clicks": 47,
+      "messages": 0,
+      "ctr": 2.4,
+      "thruplay": 119
+    },
+    {
+      "name": "Terra fértil",
+      "impressions": 1773,
+      "reach": 1565,
+      "clicks": 50,
+      "messages": 3,
+      "ctr": 2.82,
+      "thruplay": 88
+    },
+    {
+      "name": "Equilibrio",
+      "impressions": 435,
+      "reach": 401,
+      "clicks": 10,
+      "messages": 4,
+      "ctr": 2.3,
+      "thruplay": 36
+    },
+    {
+      "name": "Pacote Escova",
+      "impressions": 317,
+      "reach": 250,
+      "clicks": 7,
+      "messages": 1,
+      "ctr": 2.21,
+      "thruplay": 1
+    },
+    {
+      "name": "Lavar o cabelo",
+      "impressions": 228,
+      "reach": 189,
+      "clicks": 9,
+      "messages": 2,
+      "ctr": 3.95,
+      "thruplay": 30
+    },
+    {
+      "name": "Como está a saúde do seu cabelo?",
+      "impressions": 72,
+      "reach": 37,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 58
+    },
+    {
+      "name": "Nutrição Coco",
+      "impressions": 65,
+      "reach": 46,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 65,
+      "male_pct": 32,
+      "unknown_pct": 3
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 23,
+      "35-44": 20,
+      "45-54": 18,
+      "55-64": 17,
+      "65+": 18
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 26.97,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "account_id": "act_896596526559885",
+    "account_name": "VIRGO Cases",
+    "segment": "TECH",
+    "template": "VIRGO",
+    "generated_at": "2026-11-09T18:17:56.338Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-02",
+      "until": "2026-11-08",
+      "label_pt": "2 nov a 8 nov"
+    },
+    "previous": {
+      "since": "2026-10-26",
+      "until": "2026-11-01"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 51.66,
+      "previous": 574.18,
+      "delta_pct": -91
+    },
+    "impressions": {
+      "current": 3914,
+      "previous": 44701,
+      "delta_pct": -91
+    },
+    "reach": {
+      "current": 3289,
+      "previous": 26496,
+      "delta_pct": -88
+    },
+    "clicks": {
+      "current": 254,
+      "previous": 2566,
+      "delta_pct": -90
+    },
+    "ctr": {
+      "current": 6.49,
+      "previous": 5.74,
+      "delta_pct": 13
+    },
+    "cpc": {
+      "current": 0.2,
+      "previous": 0.22,
+      "delta_pct": -9
+    },
+    "thruplay": {
+      "current": 35,
+      "previous": 503,
+      "delta_pct": -93
+    },
+    "frequency": {
+      "current": 1.19,
+      "previous": 1.69,
+      "delta_pct": -30
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 0,
+        "previous": 1,
+        "delta_pct": -100
+      },
+      "cost": {
+        "current": null,
+        "previous": 574.18,
+        "delta_pct": null
+      },
+      "top_creative": {
+        "name": "Depois de alguns dias",
+        "value": 0
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_purchases": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "revenue": null,
+      "roi": null
+    }
+  },
+  "top_creatives": [
+    {
+      "name": "Depois de alguns dias",
+      "impressions": 3063,
+      "reach": 2629,
+      "clicks": 219,
+      "messages": 0,
+      "ctr": 7.15,
+      "thruplay": 0
+    },
+    {
+      "name": "RMKT · \"10\" Coleção/tempo",
+      "impressions": 406,
+      "reach": 302,
+      "clicks": 20,
+      "messages": 0,
+      "ctr": 4.93,
+      "thruplay": 6
+    },
+    {
+      "name": "AQ · \"A forma\" vídeo (post IG) v3",
+      "impressions": 317,
+      "reach": 284,
+      "clicks": 13,
+      "messages": 0,
+      "ctr": 4.1,
+      "thruplay": 26
+    },
+    {
+      "name": "AQ · \"Coleção merece\" 3/6/10",
+      "impressions": 114,
+      "reach": 109,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 2
+    },
+    {
+      "name": "RMKT · \"Coleção merece\" 3/6/10",
+      "impressions": 12,
+      "reach": 12,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    },
+    {
+      "name": "RMKT · Felipe Watches + cupom",
+      "impressions": 2,
+      "reach": 2,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 100,
+      "thruplay": 1
+    },
+    {
+      "name": "AQ · \"10\" Coleção/tempo (estático campeão)",
+      "impressions": 0,
+      "reach": 0,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 38,
+      "male_pct": 62,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 38,
+      "35-44": 38,
+      "45-54": 17,
+      "55-64": 5,
+      "65+": 1
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 647.62,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "zero_conversations_current"
+  ]
+}

@@ -4,79 +4,79 @@
     "account_name": "BIOMA Yu Tin Tin",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-08T14:45:40.869Z",
+    "generated_at": "2026-11-09T18:17:26.784Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-01",
-      "until": "2026-11-07",
-      "label_pt": "1 nov a 7 nov"
+      "since": "2026-11-02",
+      "until": "2026-11-08",
+      "label_pt": "2 nov a 8 nov"
     },
     "previous": {
-      "since": "2026-10-25",
-      "until": "2026-10-31"
+      "since": "2026-10-26",
+      "until": "2026-11-01"
     }
   },
   "totals": {
     "spend": {
-      "current": 499.15,
-      "previous": 476.46,
-      "delta_pct": 5
+      "current": 540.7,
+      "previous": 454.91,
+      "delta_pct": 19
     },
     "impressions": {
-      "current": 31663,
-      "previous": 34652,
-      "delta_pct": -9
+      "current": 31636,
+      "previous": 30974,
+      "delta_pct": 2
     },
     "reach": {
-      "current": 22261,
-      "previous": 23242,
-      "delta_pct": -4
-    },
-    "clicks": {
-      "current": 707,
-      "previous": 705,
-      "delta_pct": 0
-    },
-    "ctr": {
-      "current": 2.23,
-      "previous": 2.03,
-      "delta_pct": 10
-    },
-    "cpc": {
-      "current": 0.71,
-      "previous": 0.68,
+      "current": 21306,
+      "previous": 20578,
       "delta_pct": 4
     },
+    "clicks": {
+      "current": 722,
+      "previous": 672,
+      "delta_pct": 7
+    },
+    "ctr": {
+      "current": 2.28,
+      "previous": 2.17,
+      "delta_pct": 5
+    },
+    "cpc": {
+      "current": 0.75,
+      "previous": 0.68,
+      "delta_pct": 10
+    },
     "thruplay": {
-      "current": 3111,
-      "previous": 2775,
-      "delta_pct": 12
+      "current": 3107,
+      "previous": 2756,
+      "delta_pct": 13
     },
     "frequency": {
-      "current": 1.42,
-      "previous": 1.49,
-      "delta_pct": -5
+      "current": 1.48,
+      "previous": 1.51,
+      "delta_pct": -2
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 20,
-        "previous": 26,
-        "delta_pct": -23
+        "current": 24,
+        "previous": 25,
+        "delta_pct": -4
       },
       "cost": {
-        "current": 24.96,
-        "previous": 18.33,
-        "delta_pct": 36
+        "current": 22.53,
+        "previous": 18.2,
+        "delta_pct": 24
       },
       "top_creative": {
         "name": "O frizz",
-        "value": 9
+        "value": 10
       }
     },
     "instagram_visits": {
@@ -98,92 +98,92 @@
   "top_creatives": [
     {
       "name": "Bride day",
-      "impressions": 11346,
-      "reach": 10078,
-      "clicks": 199,
+      "impressions": 10987,
+      "reach": 9503,
+      "clicks": 194,
       "messages": 0,
-      "ctr": 1.75,
-      "thruplay": 1951
+      "ctr": 1.77,
+      "thruplay": 1938
     },
     {
       "name": "Cuidado masculino",
-      "impressions": 6241,
-      "reach": 5375,
-      "clicks": 195,
+      "impressions": 6136,
+      "reach": 5274,
+      "clicks": 198,
       "messages": 0,
-      "ctr": 3.12,
-      "thruplay": 471
+      "ctr": 3.23,
+      "thruplay": 459
     },
     {
       "name": "O frizz",
-      "impressions": 4443,
-      "reach": 2758,
-      "clicks": 73,
-      "messages": 9,
-      "ctr": 1.64,
-      "thruplay": 323
+      "impressions": 4650,
+      "reach": 2883,
+      "clicks": 79,
+      "messages": 10,
+      "ctr": 1.7,
+      "thruplay": 365
     },
     {
       "name": "Muito além",
-      "impressions": 2941,
-      "reach": 2588,
-      "clicks": 109,
+      "impressions": 2568,
+      "reach": 2290,
+      "clicks": 102,
       "messages": 1,
-      "ctr": 3.71,
-      "thruplay": 225
-    },
-    {
-      "name": "Nem toda queda",
-      "impressions": 1340,
-      "reach": 455,
-      "clicks": 17,
-      "messages": 2,
-      "ctr": 1.27,
-      "thruplay": 40
-    },
-    {
-      "name": "Loiros — 2",
-      "impressions": 1162,
-      "reach": 551,
-      "clicks": 19,
-      "messages": 2,
-      "ctr": 1.64,
-      "thruplay": 31
+      "ctr": 3.97,
+      "thruplay": 216
     },
     {
       "name": "Antes de escolher",
-      "impressions": 974,
-      "reach": 430,
-      "clicks": 13,
+      "impressions": 1154,
+      "reach": 485,
+      "clicks": 16,
       "messages": 2,
-      "ctr": 1.33,
+      "ctr": 1.39,
       "thruplay": 0
+    },
+    {
+      "name": "Loiros — 2",
+      "impressions": 1044,
+      "reach": 476,
+      "clicks": 17,
+      "messages": 2,
+      "ctr": 1.63,
+      "thruplay": 30
+    },
+    {
+      "name": "Nem toda queda",
+      "impressions": 1042,
+      "reach": 389,
+      "clicks": 15,
+      "messages": 4,
+      "ctr": 1.44,
+      "thruplay": 32
     },
     {
       "name": "Muito além",
-      "impressions": 930,
-      "reach": 890,
+      "impressions": 883,
+      "reach": 872,
       "clicks": 35,
       "messages": 0,
-      "ctr": 3.76,
-      "thruplay": 65
-    },
-    {
-      "name": "Velas | Carrossel 7",
-      "impressions": 535,
-      "reach": 288,
-      "clicks": 5,
-      "messages": 2,
-      "ctr": 0.93,
-      "thruplay": 0
+      "ctr": 3.96,
+      "thruplay": 61
     },
     {
       "name": "Velas | Img vela-1",
-      "impressions": 502,
-      "reach": 330,
-      "clicks": 9,
+      "impressions": 808,
+      "reach": 466,
+      "clicks": 18,
       "messages": 1,
-      "ctr": 1.79,
+      "ctr": 2.23,
+      "thruplay": 0
+    },
+    {
+      "name": "Velas | Carrossel 7",
+      "impressions": 787,
+      "reach": 338,
+      "clicks": 5,
+      "messages": 2,
+      "ctr": 0.64,
       "thruplay": 0
     }
   ],
@@ -197,14 +197,14 @@
       "18-24": 0,
       "25-34": 21,
       "35-44": 16,
-      "45-54": 17,
+      "45-54": 18,
       "55-64": 20,
-      "65+": 26
+      "65+": 25
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 39.3,
+    "balance_brl": 44.15,
     "balance_low": false,
     "account_disabled": false
   },

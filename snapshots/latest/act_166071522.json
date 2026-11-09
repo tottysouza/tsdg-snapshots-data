@@ -4,79 +4,79 @@
     "account_name": "BIOMA Valéria Alleoni",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-08T14:45:57.213Z",
+    "generated_at": "2026-11-09T18:17:44.767Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-01",
-      "until": "2026-11-07",
-      "label_pt": "1 nov a 7 nov"
+      "since": "2026-11-02",
+      "until": "2026-11-08",
+      "label_pt": "2 nov a 8 nov"
     },
     "previous": {
-      "since": "2026-10-25",
-      "until": "2026-10-31"
+      "since": "2026-10-26",
+      "until": "2026-11-01"
     }
   },
   "totals": {
     "spend": {
-      "current": 787.93,
-      "previous": 736.08,
-      "delta_pct": 7
+      "current": 769.44,
+      "previous": 730.32,
+      "delta_pct": 5
     },
     "impressions": {
-      "current": 52616,
-      "previous": 49763,
-      "delta_pct": 6
+      "current": 50401,
+      "previous": 48987,
+      "delta_pct": 3
     },
     "reach": {
-      "current": 32353,
-      "previous": 29964,
-      "delta_pct": 8
+      "current": 32053,
+      "previous": 29454,
+      "delta_pct": 9
     },
     "clicks": {
-      "current": 1347,
-      "previous": 1325,
-      "delta_pct": 2
+      "current": 1322,
+      "previous": 1348,
+      "delta_pct": -2
     },
     "ctr": {
-      "current": 2.56,
-      "previous": 2.66,
-      "delta_pct": -4
+      "current": 2.62,
+      "previous": 2.75,
+      "delta_pct": -5
     },
     "cpc": {
       "current": 0.58,
-      "previous": 0.56,
-      "delta_pct": 4
+      "previous": 0.54,
+      "delta_pct": 7
     },
     "thruplay": {
-      "current": 4267,
-      "previous": 3449,
-      "delta_pct": 24
+      "current": 4349,
+      "previous": 3488,
+      "delta_pct": 25
     },
     "frequency": {
-      "current": 1.63,
+      "current": 1.57,
       "previous": 1.66,
-      "delta_pct": -2
+      "delta_pct": -5
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 27,
-        "previous": 38,
-        "delta_pct": -29
+        "current": 26,
+        "previous": 36,
+        "delta_pct": -28
       },
       "cost": {
-        "current": 29.18,
-        "previous": 19.37,
-        "delta_pct": 51
+        "current": 29.59,
+        "previous": 20.29,
+        "delta_pct": 46
       },
       "top_creative": {
         "name": "O Meu Corte Saudável",
-        "value": 11
+        "value": 10
       }
     },
     "instagram_visits": {
@@ -98,99 +98,99 @@
   "top_creatives": [
     {
       "name": "Moreno iluminado",
-      "impressions": 16827,
-      "reach": 11113,
-      "clicks": 353,
+      "impressions": 16151,
+      "reach": 10919,
+      "clicks": 366,
       "messages": 1,
-      "ctr": 2.1,
-      "thruplay": 203
+      "ctr": 2.27,
+      "thruplay": 256
     },
     {
       "name": "Ontem",
-      "impressions": 14633,
-      "reach": 11208,
-      "clicks": 333,
+      "impressions": 12308,
+      "reach": 9838,
+      "clicks": 261,
       "messages": 0,
-      "ctr": 2.28,
-      "thruplay": 2175
+      "ctr": 2.12,
+      "thruplay": 1837
     },
     {
       "name": "O Meu Corte Saudável",
-      "impressions": 8928,
-      "reach": 5098,
-      "clicks": 285,
+      "impressions": 8556,
+      "reach": 4824,
+      "clicks": 278,
       "messages": 9,
-      "ctr": 3.19,
-      "thruplay": 666
+      "ctr": 3.25,
+      "thruplay": 635
     },
     {
       "name": "O Meu Corte Saudável",
-      "impressions": 6301,
-      "reach": 2969,
-      "clicks": 244,
-      "messages": 11,
-      "ctr": 3.87,
-      "thruplay": 507
-    },
-    {
-      "name": "Lua out",
-      "impressions": 3001,
-      "reach": 1464,
-      "clicks": 45,
-      "messages": 5,
-      "ctr": 1.5,
-      "thruplay": 201
+      "impressions": 6063,
+      "reach": 2843,
+      "clicks": 227,
+      "messages": 10,
+      "ctr": 3.74,
+      "thruplay": 495
     },
     {
       "name": "Quase 50 anos",
-      "impressions": 1999,
-      "reach": 1823,
-      "clicks": 70,
+      "impressions": 3870,
+      "reach": 3436,
+      "clicks": 136,
       "messages": 0,
-      "ctr": 3.5,
-      "thruplay": 431
+      "ctr": 3.51,
+      "thruplay": 863
     },
     {
-      "name": "Noivas – cabelo no grande dia (sub. Alguém se identifica) 23/10",
-      "impressions": 436,
-      "reach": 333,
-      "clicks": 9,
-      "messages": 1,
-      "ctr": 2.06,
-      "thruplay": 0
+      "name": "Lua out",
+      "impressions": 2793,
+      "reach": 1335,
+      "clicks": 43,
+      "messages": 5,
+      "ctr": 1.54,
+      "thruplay": 181
     },
     {
       "name": "De Paris ao Rio",
-      "impressions": 367,
-      "reach": 365,
-      "clicks": 5,
+      "impressions": 341,
+      "reach": 338,
+      "clicks": 3,
       "messages": 0,
-      "ctr": 1.36,
-      "thruplay": 77
+      "ctr": 0.88,
+      "thruplay": 76
     },
     {
-      "name": "Outubro",
-      "impressions": 63,
-      "reach": 55,
-      "clicks": 1,
-      "messages": 0,
-      "ctr": 1.59,
+      "name": "Noivas – cabelo no grande dia (sub. Alguém se identifica) 23/10",
+      "impressions": 204,
+      "reach": 157,
+      "clicks": 6,
+      "messages": 1,
+      "ctr": 2.94,
       "thruplay": 0
     },
     {
       "name": "Colorir os fios",
-      "impressions": 61,
-      "reach": 60,
-      "clicks": 2,
+      "impressions": 59,
+      "reach": 58,
+      "clicks": 1,
       "messages": 0,
-      "ctr": 3.28,
-      "thruplay": 7
+      "ctr": 1.69,
+      "thruplay": 6
+    },
+    {
+      "name": "Outubro",
+      "impressions": 56,
+      "reach": 50,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 1.79,
+      "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 91,
-      "male_pct": 9,
+      "female_pct": 90,
+      "male_pct": 10,
       "unknown_pct": 0
     },
     "age": {
@@ -204,7 +204,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 979.35,
+    "balance_brl": 1078.4,
     "balance_low": false,
     "account_disabled": false
   },
