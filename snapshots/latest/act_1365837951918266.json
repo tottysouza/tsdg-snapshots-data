@@ -4,62 +4,62 @@
     "account_name": "MIMO Live Sales",
     "segment": "TECH",
     "template": "MIMO",
-    "generated_at": "2026-11-09T18:18:00.724Z",
+    "generated_at": "2026-11-10T16:06:10.608Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-02",
-      "until": "2026-11-08",
-      "label_pt": "2 nov a 8 nov"
+      "since": "2026-11-03",
+      "until": "2026-11-09",
+      "label_pt": "3 nov a 9 nov"
     },
     "previous": {
-      "since": "2026-10-26",
-      "until": "2026-11-01"
+      "since": "2026-10-27",
+      "until": "2026-11-02"
     }
   },
   "totals": {
     "spend": {
-      "current": 138.47,
-      "previous": 287.61,
-      "delta_pct": -52
+      "current": 94.12,
+      "previous": 293.18,
+      "delta_pct": -68
     },
     "impressions": {
-      "current": 15065,
-      "previous": 29167,
-      "delta_pct": -48
+      "current": 10480,
+      "previous": 29554,
+      "delta_pct": -65
     },
     "reach": {
-      "current": 13359,
-      "previous": 23186,
-      "delta_pct": -42
+      "current": 9286,
+      "previous": 24009,
+      "delta_pct": -61
     },
     "clicks": {
-      "current": 936,
-      "previous": 1742,
-      "delta_pct": -46
+      "current": 581,
+      "previous": 1787,
+      "delta_pct": -67
     },
     "ctr": {
-      "current": 6.21,
-      "previous": 5.97,
-      "delta_pct": 4
+      "current": 5.54,
+      "previous": 6.05,
+      "delta_pct": -8
     },
     "cpc": {
-      "current": 0.15,
-      "previous": 0.17,
-      "delta_pct": -12
+      "current": 0.16,
+      "previous": 0.16,
+      "delta_pct": 0
     },
     "thruplay": {
-      "current": 245,
-      "previous": 492,
-      "delta_pct": -50
+      "current": 224,
+      "previous": 460,
+      "delta_pct": -51
     },
     "frequency": {
       "current": 1.13,
-      "previous": 1.26,
-      "delta_pct": -10
+      "previous": 1.23,
+      "delta_pct": -8
     }
   },
   "conversions": {
@@ -98,48 +98,39 @@
   "top_creatives": [
     {
       "name": "ANÚNCIO CALENDÁRIO",
-      "impressions": 5450,
-      "reach": 4892,
+      "impressions": 5391,
+      "reach": 4832,
       "clicks": 319,
       "messages": 0,
-      "ctr": 5.85,
-      "thruplay": 143
+      "ctr": 5.92,
+      "thruplay": 142
     },
     {
       "name": "ANÚNCIO BLACK",
-      "impressions": 4160,
-      "reach": 3882,
-      "clicks": 147,
+      "impressions": 4113,
+      "reach": 3823,
+      "clicks": 145,
       "messages": 0,
       "ctr": 3.53,
-      "thruplay": 83
-    },
-    {
-      "name": "O último trimestre",
-      "impressions": 2529,
-      "reach": 2528,
-      "clicks": 45,
-      "messages": 0,
-      "ctr": 1.78,
-      "thruplay": 18
+      "thruplay": 82
     },
     {
       "name": "Sua BF ja comecou?",
-      "impressions": 1680,
-      "reach": 1177,
-      "clicks": 244,
+      "impressions": 863,
+      "reach": 723,
+      "clicks": 106,
       "messages": 0,
-      "ctr": 14.52,
+      "ctr": 12.28,
       "thruplay": 0
     },
     {
       "name": "O calendário",
-      "impressions": 1217,
-      "reach": 1127,
-      "clicks": 181,
+      "impressions": 75,
+      "reach": 73,
+      "clicks": 11,
       "messages": 0,
-      "ctr": 14.87,
-      "thruplay": 1
+      "ctr": 14.67,
+      "thruplay": 0
     },
     {
       "name": "A BF ainda está",
@@ -149,21 +140,30 @@
       "messages": 0,
       "ctr": 0,
       "thruplay": 0
+    },
+    {
+      "name": "O último trimestre",
+      "impressions": 9,
+      "reach": 9,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 31,
-      "male_pct": 69,
+      "female_pct": 20,
+      "male_pct": 80,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 7,
-      "35-44": 6,
-      "45-54": 9,
-      "55-64": 24,
-      "65+": 54
+      "25-34": 4,
+      "35-44": 4,
+      "45-54": 7,
+      "55-64": 23,
+      "65+": 62
     }
   },
   "campaigns_active": [],

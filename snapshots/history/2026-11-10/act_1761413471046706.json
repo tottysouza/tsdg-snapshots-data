@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_1761413471046706",
+    "account_name": "BIOMA Uberaba",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-10T16:04:15.696Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-03",
+      "until": "2026-11-09",
+      "label_pt": "3 nov a 9 nov"
+    },
+    "previous": {
+      "since": "2026-10-27",
+      "until": "2026-11-02"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 829.59,
+      "previous": 748.53,
+      "delta_pct": 11
+    },
+    "impressions": {
+      "current": 61802,
+      "previous": 63316,
+      "delta_pct": -2
+    },
+    "reach": {
+      "current": 41848,
+      "previous": 42987,
+      "delta_pct": -3
+    },
+    "clicks": {
+      "current": 754,
+      "previous": 888,
+      "delta_pct": -15
+    },
+    "ctr": {
+      "current": 1.22,
+      "previous": 1.4,
+      "delta_pct": -13
+    },
+    "cpc": {
+      "current": 1.1,
+      "previous": 0.84,
+      "delta_pct": 31
+    },
+    "thruplay": {
+      "current": 9301,
+      "previous": 9331,
+      "delta_pct": 0
+    },
+    "frequency": {
+      "current": 1.48,
+      "previous": 1.47,
+      "delta_pct": 1
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 61,
+        "previous": 53,
+        "delta_pct": 15
+      },
+      "cost": {
+        "current": 13.6,
+        "previous": 14.12,
+        "delta_pct": -4
+      },
+      "top_creative": {
+        "name": "TRANSF_Color Vegetal",
+        "value": 21
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Tem cuidados",
+      "impressions": 31431,
+      "reach": 25148,
+      "clicks": 62,
+      "messages": 0,
+      "ctr": 0.2,
+      "thruplay": 7313
+    },
+    {
+      "name": "TRANSF_Color Vegetal",
+      "impressions": 6847,
+      "reach": 3578,
+      "clicks": 92,
+      "messages": 21,
+      "ctr": 1.34,
+      "thruplay": 551
+    },
+    {
+      "name": "HERA_Rozana",
+      "impressions": 5771,
+      "reach": 4123,
+      "clicks": 67,
+      "messages": 8,
+      "ctr": 1.16,
+      "thruplay": 443
+    },
+    {
+      "name": "Monalisa",
+      "impressions": 4897,
+      "reach": 3320,
+      "clicks": 256,
+      "messages": 7,
+      "ctr": 5.23,
+      "thruplay": 207
+    },
+    {
+      "name": "QUENTE_Um convite",
+      "impressions": 3713,
+      "reach": 1721,
+      "clicks": 41,
+      "messages": 6,
+      "ctr": 1.1,
+      "thruplay": 194
+    },
+    {
+      "name": "Autoconhecimento",
+      "impressions": 2734,
+      "reach": 2191,
+      "clicks": 90,
+      "messages": 1,
+      "ctr": 3.29,
+      "thruplay": 121
+    },
+    {
+      "name": "TERAPIAS_Escova terapêutica",
+      "impressions": 2272,
+      "reach": 1520,
+      "clicks": 33,
+      "messages": 5,
+      "ctr": 1.45,
+      "thruplay": 189
+    },
+    {
+      "name": "Seja bem-vindo",
+      "impressions": 1350,
+      "reach": 1169,
+      "clicks": 54,
+      "messages": 0,
+      "ctr": 4,
+      "thruplay": 112
+    },
+    {
+      "name": "HERA_Monalisa",
+      "impressions": 1320,
+      "reach": 828,
+      "clicks": 52,
+      "messages": 11,
+      "ctr": 3.94,
+      "thruplay": 75
+    },
+    {
+      "name": "Comunidade | Reel DffzaSwxFJ7 | Comente COMUNIDADE",
+      "impressions": 748,
+      "reach": 521,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 0.27,
+      "thruplay": 52
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 55,
+      "male_pct": 45,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 1,
+      "25-34": 20,
+      "35-44": 23,
+      "45-54": 23,
+      "55-64": 20,
+      "65+": 13
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 18.96,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

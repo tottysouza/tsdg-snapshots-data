@@ -4,75 +4,75 @@
     "account_name": "BIOMA Sense",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-09T18:16:34.499Z",
+    "generated_at": "2026-11-10T16:04:17.380Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-02",
-      "until": "2026-11-08",
-      "label_pt": "2 nov a 8 nov"
+      "since": "2026-11-03",
+      "until": "2026-11-09",
+      "label_pt": "3 nov a 9 nov"
     },
     "previous": {
-      "since": "2026-10-26",
-      "until": "2026-11-01"
+      "since": "2026-10-27",
+      "until": "2026-11-02"
     }
   },
   "totals": {
     "spend": {
-      "current": 76.8,
-      "previous": 274.41,
-      "delta_pct": -72
+      "current": 45.98,
+      "previous": 283.96,
+      "delta_pct": -84
     },
     "impressions": {
-      "current": 3934,
-      "previous": 13220,
-      "delta_pct": -70
+      "current": 1852,
+      "previous": 13719,
+      "delta_pct": -87
     },
     "reach": {
-      "current": 3340,
-      "previous": 9258,
-      "delta_pct": -64
+      "current": 1623,
+      "previous": 9417,
+      "delta_pct": -83
     },
     "clicks": {
-      "current": 145,
-      "previous": 366,
-      "delta_pct": -60
+      "current": 72,
+      "previous": 407,
+      "delta_pct": -82
     },
     "ctr": {
-      "current": 3.69,
-      "previous": 2.77,
-      "delta_pct": 33
+      "current": 3.89,
+      "previous": 2.97,
+      "delta_pct": 31
     },
     "cpc": {
-      "current": 0.53,
-      "previous": 0.75,
-      "delta_pct": -29
+      "current": 0.64,
+      "previous": 0.7,
+      "delta_pct": -9
     },
     "thruplay": {
-      "current": 300,
-      "previous": 1006,
-      "delta_pct": -70
+      "current": 161,
+      "previous": 1047,
+      "delta_pct": -85
     },
     "frequency": {
-      "current": 1.18,
-      "previous": 1.43,
-      "delta_pct": -17
+      "current": 1.14,
+      "previous": 1.46,
+      "delta_pct": -22
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
         "current": 2,
-        "previous": 21,
-        "delta_pct": -90
+        "previous": 18,
+        "delta_pct": -89
       },
       "cost": {
-        "current": 38.4,
-        "previous": 13.07,
-        "delta_pct": 194
+        "current": 22.99,
+        "previous": 15.78,
+        "delta_pct": 46
       },
       "top_creative": {
         "name": "Loiro saudável",
@@ -98,64 +98,65 @@
   "top_creatives": [
     {
       "name": "Loiro saudável",
-      "impressions": 2264,
-      "reach": 2115,
-      "clicks": 99,
+      "impressions": 1008,
+      "reach": 972,
+      "clicks": 50,
       "messages": 0,
-      "ctr": 4.37,
-      "thruplay": 143
+      "ctr": 4.96,
+      "thruplay": 77
     },
     {
       "name": "Tonalização Layer",
-      "impressions": 748,
-      "reach": 707,
-      "clicks": 24,
+      "impressions": 332,
+      "reach": 236,
+      "clicks": 6,
       "messages": 0,
-      "ctr": 3.21,
-      "thruplay": 79
+      "ctr": 1.81,
+      "thruplay": 39
     },
     {
       "name": "Tonalização Layer",
-      "impressions": 550,
-      "reach": 327,
-      "clicks": 9,
+      "impressions": 262,
+      "reach": 252,
+      "clicks": 4,
       "messages": 0,
-      "ctr": 1.64,
-      "thruplay": 52
+      "ctr": 1.53,
+      "thruplay": 27
     },
     {
       "name": "Loiro saudável",
-      "impressions": 372,
-      "reach": 229,
-      "clicks": 13,
+      "impressions": 250,
+      "reach": 185,
+      "clicks": 12,
       "messages": 2,
-      "ctr": 3.49,
-      "thruplay": 26
+      "ctr": 4.8,
+      "thruplay": 18
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 83,
-      "male_pct": 17,
+      "female_pct": 86,
+      "male_pct": 14,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 31,
-      "35-44": 20,
-      "45-54": 20,
+      "25-34": 30,
+      "35-44": 21,
+      "45-54": 21,
       "55-64": 17,
       "65+": 12
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 78.16,
+    "balance_brl": 17.16,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
     "spend_delta_over_50",
-    "creative_concentration_over_80"
+    "creative_concentration_over_80",
+    "balance_low"
   ]
 }

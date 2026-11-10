@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "account_id": "act_896596526559885",
+    "account_name": "VIRGO Cases",
+    "segment": "TECH",
+    "template": "VIRGO",
+    "generated_at": "2026-11-10T16:06:04.345Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-03",
+      "until": "2026-11-09",
+      "label_pt": "3 nov a 9 nov"
+    },
+    "previous": {
+      "since": "2026-10-27",
+      "until": "2026-11-02"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 0,
+      "previous": 600.14,
+      "delta_pct": -100
+    },
+    "impressions": {
+      "current": 0,
+      "previous": 46962,
+      "delta_pct": -100
+    },
+    "reach": {
+      "current": 0,
+      "previous": 27353,
+      "delta_pct": -100
+    },
+    "clicks": {
+      "current": 0,
+      "previous": 2764,
+      "delta_pct": -100
+    },
+    "ctr": {
+      "current": null,
+      "previous": 5.89,
+      "delta_pct": null
+    },
+    "cpc": {
+      "current": 0,
+      "previous": 0.22,
+      "delta_pct": -100
+    },
+    "thruplay": {
+      "current": 0,
+      "previous": 483,
+      "delta_pct": -100
+    },
+    "frequency": {
+      "current": 0,
+      "previous": 1.72,
+      "delta_pct": -100
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 0,
+        "previous": 1,
+        "delta_pct": -100
+      },
+      "cost": {
+        "current": null,
+        "previous": 600.14,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_purchases": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "revenue": null,
+      "roi": null
+    }
+  },
+  "top_creatives": [],
+  "demographics": {
+    "gender": {
+      "female_pct": 0,
+      "male_pct": 0,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 647.62,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "zero_conversations_current",
+    "zero_activity_current"
+  ]
+}
