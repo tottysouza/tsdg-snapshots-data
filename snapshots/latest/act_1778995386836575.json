@@ -4,60 +4,60 @@
     "account_name": "BIOMA Jackeline",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-10T16:04:08.479Z",
+    "generated_at": "2026-11-11T15:49:53.949Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-03",
-      "until": "2026-11-09",
-      "label_pt": "3 nov a 9 nov"
+      "since": "2026-11-04",
+      "until": "2026-11-10",
+      "label_pt": "4 nov a 10 nov"
     },
     "previous": {
-      "since": "2026-10-27",
-      "until": "2026-11-02"
+      "since": "2026-10-28",
+      "until": "2026-11-03"
     }
   },
   "totals": {
     "spend": {
-      "current": 163.22,
+      "current": 222.9,
       "previous": 0,
       "delta_pct": null
     },
     "impressions": {
-      "current": 10034,
+      "current": 13498,
       "previous": 0,
       "delta_pct": null
     },
     "reach": {
-      "current": 8970,
+      "current": 11507,
       "previous": 0,
       "delta_pct": null
     },
     "clicks": {
-      "current": 425,
+      "current": 508,
       "previous": 0,
       "delta_pct": null
     },
     "ctr": {
-      "current": 4.24,
+      "current": 3.76,
       "previous": null,
       "delta_pct": null
     },
     "cpc": {
-      "current": 0.38,
+      "current": 0.44,
       "previous": 0,
       "delta_pct": null
     },
     "thruplay": {
-      "current": 1067,
+      "current": 1375,
       "previous": 0,
       "delta_pct": null
     },
     "frequency": {
-      "current": 1.12,
+      "current": 1.17,
       "previous": 0,
       "delta_pct": null
     }
@@ -65,18 +65,18 @@
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 11,
+        "current": 13,
         "previous": 0,
         "delta_pct": null
       },
       "cost": {
-        "current": 14.84,
+        "current": 17.15,
         "previous": null,
         "delta_pct": null
       },
       "top_creative": {
         "name": "Tem dias que o corpo",
-        "value": 6
+        "value": 7
       }
     },
     "instagram_visits": {
@@ -98,39 +98,66 @@
   "top_creatives": [
     {
       "name": "Seu cabelo - reconhecimento",
-      "impressions": 4603,
-      "reach": 4451,
-      "clicks": 111,
+      "impressions": 5007,
+      "reach": 4831,
+      "clicks": 115,
       "messages": 0,
-      "ctr": 2.41,
-      "thruplay": 814
+      "ctr": 2.3,
+      "thruplay": 891
     },
     {
       "name": "Tem dias que o corpo",
-      "impressions": 2965,
-      "reach": 2628,
-      "clicks": 219,
+      "impressions": 3107,
+      "reach": 2749,
+      "clicks": 231,
       "messages": 0,
-      "ctr": 7.39,
-      "thruplay": 116
+      "ctr": 7.43,
+      "thruplay": 125
+    },
+    {
+      "name": "Tem dias que o corpo",
+      "impressions": 2204,
+      "reach": 1661,
+      "clicks": 56,
+      "messages": 7,
+      "ctr": 2.54,
+      "thruplay": 74
     },
     {
       "name": "Tem dias que o corpo — Cópia",
-      "impressions": 1252,
-      "reach": 873,
-      "clicks": 59,
-      "messages": 5,
-      "ctr": 4.71,
-      "thruplay": 88
+      "impressions": 1507,
+      "reach": 1018,
+      "clicks": 66,
+      "messages": 6,
+      "ctr": 4.38,
+      "thruplay": 104
     },
     {
-      "name": "Tem dias que o corpo",
-      "impressions": 1197,
-      "reach": 917,
-      "clicks": 36,
-      "messages": 6,
-      "ctr": 3.01,
-      "thruplay": 49
+      "name": "Quem vive",
+      "impressions": 1345,
+      "reach": 1229,
+      "clicks": 35,
+      "messages": 0,
+      "ctr": 2.6,
+      "thruplay": 0
+    },
+    {
+      "name": "Beleza à brasileira",
+      "impressions": 202,
+      "reach": 99,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 0.5,
+      "thruplay": 181
+    },
+    {
+      "name": "Terapias capilares (Comunidade)",
+      "impressions": 111,
+      "reach": 80,
+      "clicks": 4,
+      "messages": 0,
+      "ctr": 3.6,
+      "thruplay": 0
     },
     {
       "name": "Semana",
@@ -140,35 +167,26 @@
       "messages": 0,
       "ctr": 0,
       "thruplay": 0
-    },
-    {
-      "name": "Beleza à brasileira",
-      "impressions": 2,
-      "reach": 2,
-      "clicks": 0,
-      "messages": 0,
-      "ctr": 0,
-      "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 62,
-      "male_pct": 38,
+      "female_pct": 65,
+      "male_pct": 35,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 23,
-      "35-44": 17,
-      "45-54": 16,
-      "55-64": 23,
-      "65+": 21
+      "25-34": 27,
+      "35-44": 18,
+      "45-54": 15,
+      "55-64": 21,
+      "65+": 19
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 194.21,
+    "balance_brl": 235.97,
     "balance_low": false,
     "account_disabled": false
   },

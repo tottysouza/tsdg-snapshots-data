@@ -1,0 +1,32 @@
+{
+  "started_at": "2026-11-11T15:49:42.332Z",
+  "duration_ms": 141757,
+  "dates": {
+    "today": "2026-11-11",
+    "current": {
+      "since": "2026-11-04",
+      "until": "2026-11-10",
+      "label_pt": "4 nov a 10 nov"
+    },
+    "previous": {
+      "since": "2026-10-28",
+      "until": "2026-11-03"
+    }
+  },
+  "total": 19,
+  "ok": 17,
+  "partial": 1,
+  "failed": 1,
+  "failures": [
+    {
+      "id": "act_919673088419931",
+      "name": "BIOMA Silvio Amaral",
+      "reason": "current: timeout 25s"
+    },
+    {
+      "id": "act_166071522",
+      "name": "BIOMA Valéria Alleoni",
+      "reason": "previous: timeout 25s"
+    }
+  ]
+}
