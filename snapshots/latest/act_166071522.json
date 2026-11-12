@@ -4,81 +4,79 @@
     "account_name": "BIOMA Valéria Alleoni",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-11T15:51:40.071Z",
-    "fetch_status": "partial",
+    "generated_at": "2026-11-12T16:34:00.854Z",
+    "fetch_status": "ok",
     "fetch_source": "github_actions",
-    "notes": [
-      "previous: timeout 25s"
-    ]
+    "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-04",
-      "until": "2026-11-10",
-      "label_pt": "4 nov a 10 nov"
+      "since": "2026-11-05",
+      "until": "2026-11-11",
+      "label_pt": "5 nov a 11 nov"
     },
     "previous": {
-      "since": "2026-10-28",
-      "until": "2026-11-03"
+      "since": "2026-10-29",
+      "until": "2026-11-04"
     }
   },
   "totals": {
     "spend": {
-      "current": 848.48,
-      "previous": null,
-      "delta_pct": null
+      "current": 800.4,
+      "previous": 745.88,
+      "delta_pct": 7
     },
     "impressions": {
-      "current": 45320,
-      "previous": null,
-      "delta_pct": null
+      "current": 40784,
+      "previous": 53922,
+      "delta_pct": -24
     },
     "reach": {
-      "current": 26915,
-      "previous": null,
-      "delta_pct": null
+      "current": 23087,
+      "previous": 31804,
+      "delta_pct": -27
     },
     "clicks": {
-      "current": 1257,
-      "previous": null,
-      "delta_pct": null
+      "current": 1139,
+      "previous": 1380,
+      "delta_pct": -17
     },
     "ctr": {
-      "current": 2.77,
-      "previous": null,
-      "delta_pct": null
+      "current": 2.79,
+      "previous": 2.56,
+      "delta_pct": 9
     },
     "cpc": {
-      "current": 0.68,
-      "previous": null,
-      "delta_pct": null
+      "current": 0.7,
+      "previous": 0.54,
+      "delta_pct": 30
     },
     "thruplay": {
-      "current": 4295,
-      "previous": null,
-      "delta_pct": null
+      "current": 3985,
+      "previous": 3898,
+      "delta_pct": 2
     },
     "frequency": {
-      "current": 1.68,
-      "previous": null,
-      "delta_pct": null
+      "current": 1.77,
+      "previous": 1.7,
+      "delta_pct": 4
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 32,
-        "previous": null,
-        "delta_pct": null
+        "current": 36,
+        "previous": 27,
+        "delta_pct": 33
       },
       "cost": {
-        "current": 26.52,
-        "previous": null,
-        "delta_pct": null
+        "current": 22.23,
+        "previous": 27.63,
+        "delta_pct": -20
       },
       "top_creative": {
         "name": "O Meu Corte Saudável",
-        "value": 12
+        "value": 14
       }
     },
     "instagram_visits": {
@@ -100,75 +98,75 @@
   "top_creatives": [
     {
       "name": "Moreno iluminado",
-      "impressions": 12254,
-      "reach": 8991,
-      "clicks": 317,
+      "impressions": 9289,
+      "reach": 7011,
+      "clicks": 253,
       "messages": 1,
-      "ctr": 2.59,
-      "thruplay": 290
+      "ctr": 2.72,
+      "thruplay": 275
     },
     {
       "name": "O Meu Corte Saudável",
-      "impressions": 8922,
-      "reach": 4862,
-      "clicks": 310,
-      "messages": 12,
-      "ctr": 3.47,
-      "thruplay": 673
-    },
-    {
-      "name": "Ontem",
-      "impressions": 7033,
-      "reach": 6083,
-      "clicks": 135,
-      "messages": 0,
-      "ctr": 1.92,
-      "thruplay": 1104
+      "impressions": 8797,
+      "reach": 4724,
+      "clicks": 296,
+      "messages": 14,
+      "ctr": 3.36,
+      "thruplay": 664
     },
     {
       "name": "Quase 50 anos",
-      "impressions": 6629,
-      "reach": 5574,
-      "clicks": 207,
+      "impressions": 7203,
+      "reach": 6027,
+      "clicks": 218,
       "messages": 0,
-      "ctr": 3.12,
-      "thruplay": 1548
+      "ctr": 3.03,
+      "thruplay": 1744
     },
     {
       "name": "O Meu Corte Saudável",
-      "impressions": 4981,
-      "reach": 2331,
-      "clicks": 186,
-      "messages": 9,
-      "ctr": 3.73,
-      "thruplay": 389
+      "impressions": 4622,
+      "reach": 2257,
+      "clicks": 172,
+      "messages": 8,
+      "ctr": 3.72,
+      "thruplay": 365
     },
     {
-      "name": "Lua out",
-      "impressions": 2599,
-      "reach": 1231,
-      "clicks": 40,
-      "messages": 6,
-      "ctr": 1.54,
-      "thruplay": 176
+      "name": "Ontem",
+      "impressions": 4279,
+      "reach": 3796,
+      "clicks": 75,
+      "messages": 0,
+      "ctr": 1.75,
+      "thruplay": 724
     },
     {
       "name": "2026-11-07_F_CAR_URGENCIA-solucao_NovembroVoando",
-      "impressions": 825,
-      "reach": 497,
-      "clicks": 17,
-      "messages": 2,
-      "ctr": 2.06,
+      "impressions": 1924,
+      "reach": 834,
+      "clicks": 41,
+      "messages": 6,
+      "ctr": 2.13,
       "thruplay": 0
     },
     {
+      "name": "Lua out",
+      "impressions": 1712,
+      "reach": 769,
+      "clicks": 24,
+      "messages": 5,
+      "ctr": 1.4,
+      "thruplay": 97
+    },
+    {
       "name": "Respira",
-      "impressions": 754,
-      "reach": 709,
-      "clicks": 7,
+      "impressions": 1569,
+      "reach": 1362,
+      "clicks": 19,
       "messages": 0,
-      "ctr": 0.93,
-      "thruplay": 0
+      "ctr": 1.21,
+      "thruplay": 1
     },
     {
       "name": "De Paris ao Rio",
@@ -181,18 +179,18 @@
     },
     {
       "name": "2026-11-09_F_IMG_DOR-problema_VidaCorrida",
-      "impressions": 272,
-      "reach": 240,
-      "clicks": 7,
+      "impressions": 333,
+      "reach": 279,
+      "clicks": 10,
       "messages": 1,
-      "ctr": 2.57,
+      "ctr": 3,
       "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 90,
-      "male_pct": 10,
+      "female_pct": 92,
+      "male_pct": 8,
       "unknown_pct": 0
     },
     "age": {
@@ -206,7 +204,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 1394.76,
+    "balance_brl": 1479.31,
     "balance_low": false,
     "account_disabled": false
   },

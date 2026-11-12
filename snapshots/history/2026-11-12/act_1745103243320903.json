@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "account_id": "act_1745103243320903",
+    "account_name": "BIOMA Casa 631",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-12T16:32:42.098Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-05",
+      "until": "2026-11-11",
+      "label_pt": "5 nov a 11 nov"
+    },
+    "previous": {
+      "since": "2026-10-29",
+      "until": "2026-11-04"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 210.3,
+      "previous": 411.37,
+      "delta_pct": -49
+    },
+    "impressions": {
+      "current": 15614,
+      "previous": 49178,
+      "delta_pct": -68
+    },
+    "reach": {
+      "current": 9938,
+      "previous": 26820,
+      "delta_pct": -63
+    },
+    "clicks": {
+      "current": 641,
+      "previous": 1505,
+      "delta_pct": -57
+    },
+    "ctr": {
+      "current": 4.11,
+      "previous": 3.06,
+      "delta_pct": 34
+    },
+    "cpc": {
+      "current": 0.33,
+      "previous": 0.27,
+      "delta_pct": 22
+    },
+    "thruplay": {
+      "current": 1076,
+      "previous": 2341,
+      "delta_pct": -54
+    },
+    "frequency": {
+      "current": 1.57,
+      "previous": 1.83,
+      "delta_pct": -14
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 9,
+        "previous": 12,
+        "delta_pct": -25
+      },
+      "cost": {
+        "current": 23.37,
+        "previous": 34.28,
+        "delta_pct": -32
+      },
+      "top_creative": {
+        "name": "Aqui no Bioma",
+        "value": 5
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "A · Carrossel 6 artes",
+      "impressions": 3959,
+      "reach": 3306,
+      "clicks": 121,
+      "messages": 0,
+      "ctr": 3.06,
+      "thruplay": 0
+    },
+    {
+      "name": "Seu cabelo",
+      "impressions": 3478,
+      "reach": 1591,
+      "clicks": 43,
+      "messages": 4,
+      "ctr": 1.24,
+      "thruplay": 47
+    },
+    {
+      "name": "Um novo conceito",
+      "impressions": 2379,
+      "reach": 1601,
+      "clicks": 279,
+      "messages": 0,
+      "ctr": 11.73,
+      "thruplay": 0
+    },
+    {
+      "name": "Alguns lugares — Cópia",
+      "impressions": 2046,
+      "reach": 1728,
+      "clicks": 25,
+      "messages": 0,
+      "ctr": 1.22,
+      "thruplay": 676
+    },
+    {
+      "name": "Aqui no Bioma",
+      "impressions": 1346,
+      "reach": 869,
+      "clicks": 35,
+      "messages": 5,
+      "ctr": 2.6,
+      "thruplay": 92
+    },
+    {
+      "name": "Comunidade",
+      "impressions": 1307,
+      "reach": 1159,
+      "clicks": 14,
+      "messages": 0,
+      "ctr": 1.07,
+      "thruplay": 260
+    },
+    {
+      "name": "Seu cabelo",
+      "impressions": 1059,
+      "reach": 841,
+      "clicks": 124,
+      "messages": 0,
+      "ctr": 11.71,
+      "thruplay": 0
+    },
+    {
+      "name": "A · Vídeo 1 (9s)",
+      "impressions": 30,
+      "reach": 27,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    },
+    {
+      "name": "A · Vídeo 2 (11s)",
+      "impressions": 10,
+      "reach": 10,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 1
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 62,
+      "male_pct": 38,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 21,
+      "35-44": 20,
+      "45-54": 19,
+      "55-64": 20,
+      "65+": 21
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 86.84,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

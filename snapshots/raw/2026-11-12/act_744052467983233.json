@@ -1,0 +1,214 @@
+{
+  "current": {
+    "accountId": "act_744052467983233",
+    "saldo": 44.99,
+    "dateRange": {
+      "since": "2026-11-05",
+      "until": "2026-11-11"
+    },
+    "kpis": {
+      "investimento": 128.98,
+      "impressoes": 5098,
+      "alcance": 4310,
+      "cliques": 180,
+      "cpc": 0.72,
+      "cpm": 25.3,
+      "mensagens": 8,
+      "cpa": 16.12,
+      "thruplay": 473,
+      "frequencia": 1.18
+    },
+    "ads": [
+      {
+        "id": "120253593354100508",
+        "nome": "Loiro saudável",
+        "status": "ACTIVE",
+        "legenda": "Loiro saudável com argila descolorante e 10 volumes de oxidante, produtos exclusivos em Ribeirão Pr 2026-10-30-af13c459f5eb45a7a9b08fc183cd27ee",
+        "campId": "120233466943690508",
+        "campanha": "02. MEIO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/881767143_1166019782663275_1441918307938248003_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeH5V5i9oUjf9mgOvv7EtOu41nf-tIoF5dDWd_60igXl0H_PCEY3YWvgihaay9ZqU3SNhhaW2WrMTndE4k_K6Q70&_nc_ohc=8Cxs_IZfq_YQ7kNvwGFIPF1&_nc_oc=AdrRIHxr8DnFbOoMxGpFPn5FPrpzFyoaHKLvXzLieG9vEGILB1rt_Ltd2Pqj2ooEv9E&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&edm=ACTJxZ4EAAAA&_nc_gid=v568b7Pe3Hvhvwuk4agTuQ&_nc_tpa=Q5bMBQKd4VB0bI1ST7VY72KiiS43VCoCWbMaF1r2LqPaczua5gqUJQ2GAcZnB4wljNLemMvoLRdul1IvH1c&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQTHcAxe6Xah4tqt75LTiBmwmj2kglwJDLDSi3z_m4b8fw&oe=6AFBC429",
+        "impressoes": 3206,
+        "alcance": 2862,
+        "cliques": 116,
+        "mensagens": 0,
+        "thruplay": 285,
+        "investimento": 42.44,
+        "cpc": 0.37,
+        "ctr": 3.62
+      },
+      {
+        "id": "120253593415200508",
+        "nome": "Loiro saudável",
+        "status": "ACTIVE",
+        "legenda": "Loiro saudável com argila descolorante e 10 volumes de oxidante, produtos exclusivos em Ribeirão Pr 2026-10-30-4e26e522d527920fd545aceb4f7b4d95",
+        "campId": "120233467719910508",
+        "campanha": "03. FUNDO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/881787459_2379325659551057_7581102719404725706_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeFw183dW6fOyZgmo7OSyi0No5opt5e4Wo6jmim3l7hajn52QwHIm9oXFVwSho9UlCyqg6KukhR6jn8eqX_9TTnT&_nc_ohc=HhybdGwB00MQ7kNvwGzNJIx&_nc_oc=AdqPUX20cXao9ayq6pCup9gIUJkAwArkbxDkUFPaD-oSCKSiovZUkDRuIAcqvyy_EMQ&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&edm=ACTJxZ4EAAAA&_nc_gid=v568b7Pe3Hvhvwuk4agTuQ&_nc_tpa=Q5bMBQLGmbSls_B9jBBt8voxRYNeDu9M9mS_BZys-cGjbVGoyLF3l3gZdDPlLbC5iZAwHdjj6sQHP8LkR0w&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQRZ3nnkciqXs4rvBJEOQMOm3LNcua6O0KtUwJkoD0oQaQ&oe=6AFBC153",
+        "impressoes": 1892,
+        "alcance": 1404,
+        "cliques": 64,
+        "mensagens": 8,
+        "thruplay": 188,
+        "investimento": 86.54,
+        "cpc": 1.35,
+        "ctr": 3.38
+      }
+    ],
+    "genero": {
+      "F": 90,
+      "M": 10,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 28,
+      "35-44": 21,
+      "45-54": 22,
+      "55-64": 17,
+      "65+": 12
+    },
+    "periodo": "custom",
+    "timestamp": "2026-11-12T16:32:51.991Z",
+    "prev": {
+      "investimento": 223.62,
+      "impressoes": 11551,
+      "alcance": 8198,
+      "cliques": 373,
+      "cpc": 0.6,
+      "cpm": 19.36,
+      "mensagens": 11,
+      "cpa": 20.33,
+      "thruplay": 880,
+      "frequencia": 1.41
+    }
+  },
+  "previous": {
+    "accountId": "act_744052467983233",
+    "saldo": 44.99,
+    "dateRange": {
+      "since": "2026-10-29",
+      "until": "2026-11-04"
+    },
+    "kpis": {
+      "investimento": 223.62,
+      "impressoes": 11551,
+      "alcance": 8198,
+      "cliques": 373,
+      "cpc": 0.6,
+      "cpm": 19.36,
+      "mensagens": 11,
+      "cpa": 20.33,
+      "thruplay": 880,
+      "frequencia": 1.41
+    },
+    "ads": [
+      {
+        "id": "120253593354100508",
+        "nome": "Loiro saudável",
+        "status": "ACTIVE",
+        "legenda": "Loiro saudável com argila descolorante e 10 volumes de oxidante, produtos exclusivos em Ribeirão Pr 2026-10-30-af13c459f5eb45a7a9b08fc183cd27ee",
+        "campId": "120233466943690508",
+        "campanha": "02. MEIO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/881767143_1166019782663275_1441918307938248003_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeH5V5i9oUjf9mgOvv7EtOu41nf-tIoF5dDWd_60igXl0H_PCEY3YWvgihaay9ZqU3SNhhaW2WrMTndE4k_K6Q70&_nc_ohc=8Cxs_IZfq_YQ7kNvwFkoz4f&_nc_oc=AdqkNRIucJ2todwp2-CcUp1vGDj68c98mopH_u23obVBt5A_TZQR-sO3kyKnt2HrJ6g&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&edm=ACTJxZ4EAAAA&_nc_gid=SRk-YbcQLvizouCC5kRR4A&_nc_tpa=Q5bMBQK-W00awlNuGWqUMNTxNdLKBjhoKPA1qkzqJeRtmmBvPT6Syxl8Ncu158Tx4Tr1ZJQVyIwkpu1Yiok&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQROl-eLHTbJoLvP_UfVu4S7LtDEPFHf4wBNf9JDRsomMw&oe=6AFBC429",
+        "impressoes": 6402,
+        "alcance": 5194,
+        "cliques": 239,
+        "mensagens": 0,
+        "thruplay": 384,
+        "investimento": 50.17,
+        "cpc": 0.21,
+        "ctr": 3.73
+      },
+      {
+        "id": "120253416737450508",
+        "nome": "Tonalização Layer",
+        "status": "PAUSED",
+        "legenda": "Tonalização Layer - exclusivo no Bioma Sense em Ribeirão Preto - técnica com produtos naturais que  2026-10-19-1af03ca9b5af85e67f79c4739d428dcc",
+        "campId": "120233466943690508",
+        "campanha": "02. MEIO | Tráfego Instagram",
+        "adsetId": "120233466943820508",
+        "adset": "Interesses e Região + LL",
+        "thumbnail": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/854673146_2363400554495085_8932343230619208939_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeHlG2iutTe2bPmhKrOqE4ZgvTPH8hpxeDi9M8fyGnF4OHXag3kibpY9-lZkuTRGMouIezDQSZZLwQFhMXMw5TfY&_nc_ohc=IPgWP-ascBMQ7kNvwGCAA-N&_nc_oc=Adp3d3xBBaIdNKDEQ_27RP3sIFIg3l-5q-SqEXh2QegCQJmKcbHY4bKQd3kvSNm0QfM&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&edm=ACTJxZ4EAAAA&_nc_gid=SRk-YbcQLvizouCC5kRR4A&_nc_tpa=Q5bMBQJqzzKzM920F2Xtsq1m8U-wXovGqqVjF4Vqgzbzi0YSiVWs_yi6Zp_7-GXLlJwa72PeaxTmRnlug5U&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQScRX5E7FHGYkBui-H_fCV9P-x6BoJsrTlcSBhqtUIoDA&oe=6AFBCEC9",
+        "impressoes": 2541,
+        "alcance": 2210,
+        "cliques": 73,
+        "mensagens": 0,
+        "thruplay": 253,
+        "investimento": 40.74,
+        "cpc": 0.56,
+        "ctr": 2.87
+      },
+      {
+        "id": "120253416704570508",
+        "nome": "Tonalização Layer",
+        "status": "PAUSED",
+        "legenda": "Tonalização Layer - exclusivo no Bioma Sense em Ribeirão Preto - técnica com produtos naturais que  2026-10-19-1326a4b3ad6f074657cdf5a309a08bb0",
+        "campId": "120233467719910508",
+        "campanha": "03. FUNDO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/857344844_1110432831918738_8884921046836595831_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeG_5YyuxZdM-KKldSa1he1wcLPlsIkG271ws-WwiQbbvZttxJkvJ9pTbC4eZ1XXwno-svnHaWlVhcDxZm0B5umn&_nc_ohc=aVLI3B0lWvAQ7kNvwGyCy3G&_nc_oc=Adqmb2BL6cLFh8l-iwDVemaDarRdGwVA6yw02L05aq9dY0EF7auO4F6cWW9czT0fieg&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=ACTJxZ4EAAAA&_nc_gid=SRk-YbcQLvizouCC5kRR4A&_nc_tpa=Q5bMBQKB7_KNeDRb9cchHkAeCRpq4zDHOxbfJ8OWYzM1AFaD_j1liCYqJbwbWnQ7ZVy4QIMwxjJDKk2LkJM&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQQif2SNJvqTkptjAtZfjwboXH-9eWGSWX0KxXSLOyRKrw&oe=6AFBD564",
+        "impressoes": 1660,
+        "alcance": 820,
+        "cliques": 25,
+        "mensagens": 4,
+        "thruplay": 162,
+        "investimento": 91.35,
+        "cpc": 3.65,
+        "ctr": 1.51
+      },
+      {
+        "id": "120253593415200508",
+        "nome": "Loiro saudável",
+        "status": "ACTIVE",
+        "legenda": "Loiro saudável com argila descolorante e 10 volumes de oxidante, produtos exclusivos em Ribeirão Pr 2026-10-30-4e26e522d527920fd545aceb4f7b4d95",
+        "campId": "120233467719910508",
+        "campanha": "03. FUNDO | Conversas no WhatsApp",
+        "adsetId": "120233467720580508",
+        "adset": "Visualização + Insta",
+        "thumbnail": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/881787459_2379325659551057_7581102719404725706_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeFw183dW6fOyZgmo7OSyi0No5opt5e4Wo6jmim3l7hajn52QwHIm9oXFVwSho9UlCyqg6KukhR6jn8eqX_9TTnT&_nc_ohc=HhybdGwB00MQ7kNvwF4M_Qg&_nc_oc=AdrGeWtUsYPvecCO8BPUMdpmnnzWWLxkQ2Sx0VCLmoR9jfBNI0S6zIIqhTgyIy6QDFE&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&edm=ACTJxZ4EAAAA&_nc_gid=SRk-YbcQLvizouCC5kRR4A&_nc_tpa=Q5bMBQIIIss7PpzxPRx_QcSsM2VkgBjCDgsen9vlvcB68-3qRTFWL2RPPRybX5FDIAuLRBMJRrSIcc8S5OU&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQQjVXmLqIElHJ4XB42LTO78U5sktmuCY3otlIYaSrltbg&oe=6AFBC153",
+        "impressoes": 948,
+        "alcance": 463,
+        "cliques": 36,
+        "mensagens": 7,
+        "thruplay": 81,
+        "investimento": 41.36,
+        "cpc": 1.15,
+        "ctr": 3.8
+      }
+    ],
+    "genero": {
+      "F": 83,
+      "M": 17,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 29,
+      "35-44": 20,
+      "45-54": 20,
+      "55-64": 18,
+      "65+": 12
+    },
+    "periodo": "custom",
+    "timestamp": "2026-11-12T16:32:52.500Z",
+    "prev": {
+      "investimento": 271.05,
+      "impressoes": 13477,
+      "alcance": 8993,
+      "cliques": 348,
+      "cpc": 0.78,
+      "cpm": 20.11,
+      "mensagens": 18,
+      "cpa": 15.06,
+      "thruplay": 971,
+      "frequencia": 1.5
+    }
+  }
+}
