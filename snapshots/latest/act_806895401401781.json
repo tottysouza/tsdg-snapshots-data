@@ -4,79 +4,79 @@
     "account_name": "Espaçolaser Bragança",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-11-12T16:34:06.771Z",
+    "generated_at": "2026-11-13T15:55:28.666Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-05",
-      "until": "2026-11-11",
-      "label_pt": "5 nov a 11 nov"
+      "since": "2026-11-06",
+      "until": "2026-11-12",
+      "label_pt": "6 nov a 12 nov"
     },
     "previous": {
-      "since": "2026-10-29",
-      "until": "2026-11-04"
+      "since": "2026-10-30",
+      "until": "2026-11-05"
     }
   },
   "totals": {
     "spend": {
-      "current": 527.24,
-      "previous": 0,
-      "delta_pct": null
+      "current": 559.31,
+      "previous": 47,
+      "delta_pct": 1090
     },
     "impressions": {
-      "current": 38420,
-      "previous": 0,
-      "delta_pct": null
+      "current": 41198,
+      "previous": 3633,
+      "delta_pct": 1034
     },
     "reach": {
-      "current": 20255,
-      "previous": 0,
-      "delta_pct": null
+      "current": 21148,
+      "previous": 3111,
+      "delta_pct": 580
     },
     "clicks": {
-      "current": 372,
-      "previous": 0,
-      "delta_pct": null
+      "current": 412,
+      "previous": 36,
+      "delta_pct": 1044
     },
     "ctr": {
-      "current": 0.97,
-      "previous": null,
-      "delta_pct": null
+      "current": 1,
+      "previous": 0.99,
+      "delta_pct": 1
     },
     "cpc": {
-      "current": 1.42,
-      "previous": 0,
-      "delta_pct": null
+      "current": 1.36,
+      "previous": 1.31,
+      "delta_pct": 4
     },
     "thruplay": {
-      "current": 1976,
-      "previous": 0,
-      "delta_pct": null
+      "current": 2116,
+      "previous": 165,
+      "delta_pct": 1182
     },
     "frequency": {
-      "current": 1.9,
-      "previous": 0,
-      "delta_pct": null
+      "current": 1.95,
+      "previous": 1.17,
+      "delta_pct": 67
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 32,
-        "previous": 0,
-        "delta_pct": null
+        "current": 33,
+        "previous": 4,
+        "delta_pct": 725
       },
       "cost": {
-        "current": 16.48,
-        "previous": null,
-        "delta_pct": null
+        "current": 16.95,
+        "previous": 11.75,
+        "delta_pct": 44
       },
       "top_creative": {
         "name": "[NOV] 3 sessões grátis",
-        "value": 15
+        "value": 17
       }
     },
     "instagram_visits": {
@@ -97,118 +97,118 @@
   },
   "top_creatives": [
     {
-      "name": "[BLACK 04] 05 combo virilha + ânus",
-      "impressions": 8878,
-      "reach": 4881,
-      "clicks": 55,
-      "messages": 8,
-      "ctr": 0.62,
-      "thruplay": 0
-    },
-    {
       "name": "[NOV] 3 sessões grátis",
-      "impressions": 8778,
-      "reach": 5780,
-      "clicks": 75,
-      "messages": 15,
+      "impressions": 10214,
+      "reach": 6626,
+      "clicks": 87,
+      "messages": 17,
       "ctr": 0.85,
-      "thruplay": 199
+      "thruplay": 236
     },
     {
-      "name": "A Black da Líder",
-      "impressions": 5833,
-      "reach": 4096,
-      "clicks": 120,
-      "messages": 0,
-      "ctr": 2.06,
-      "thruplay": 5
-    },
-    {
-      "name": "[NOV] TOPO 3 sessões",
-      "impressions": 4761,
-      "reach": 4180,
-      "clicks": 52,
-      "messages": 1,
-      "ctr": 1.09,
-      "thruplay": 1444
-    },
-    {
-      "name": "[NOV] 3 sessões grátis",
-      "impressions": 2054,
-      "reach": 1554,
-      "clicks": 8,
-      "messages": 2,
-      "ctr": 0.39,
-      "thruplay": 46
-    },
-    {
-      "name": "[BLACK 04] 01 80% OFF",
-      "impressions": 1867,
-      "reach": 1066,
-      "clicks": 13,
-      "messages": 0,
-      "ctr": 0.7,
-      "thruplay": 0
-    },
-    {
-      "name": "[NOV] 3 sessões grátis",
-      "impressions": 1857,
-      "reach": 1552,
-      "clicks": 13,
-      "messages": 2,
-      "ctr": 0.7,
-      "thruplay": 43
-    },
-    {
-      "name": "[NOV] 3 sessões grátis",
-      "impressions": 1758,
-      "reach": 1362,
-      "clicks": 20,
-      "messages": 4,
-      "ctr": 1.14,
-      "thruplay": 60
-    },
-    {
-      "name": "[BLACK 04] 03 pernas inteiras",
-      "impressions": 1717,
-      "reach": 1173,
-      "clicks": 10,
-      "messages": 0,
+      "name": "[BLACK 04] 05 combo virilha + ânus",
+      "impressions": 8161,
+      "reach": 4516,
+      "clicks": 47,
+      "messages": 7,
       "ctr": 0.58,
       "thruplay": 0
     },
     {
-      "name": "[BLACK 04] 02 a partir de R$ 99,90 — Cópia",
-      "impressions": 464,
-      "reach": 355,
-      "clicks": 1,
+      "name": "A Black da Líder",
+      "impressions": 7958,
+      "reach": 5220,
+      "clicks": 163,
       "messages": 0,
-      "ctr": 0.22,
+      "ctr": 2.05,
+      "thruplay": 5
+    },
+    {
+      "name": "[NOV] TOPO 3 sessões",
+      "impressions": 4097,
+      "reach": 3483,
+      "clicks": 41,
+      "messages": 1,
+      "ctr": 1,
+      "thruplay": 1537
+    },
+    {
+      "name": "[BLACK 04] 01 80% OFF",
+      "impressions": 3225,
+      "reach": 1643,
+      "clicks": 22,
+      "messages": 2,
+      "ctr": 0.68,
+      "thruplay": 0
+    },
+    {
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 2113,
+      "reach": 1597,
+      "clicks": 9,
+      "messages": 2,
+      "ctr": 0.43,
+      "thruplay": 47
+    },
+    {
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 1814,
+      "reach": 1535,
+      "clicks": 12,
+      "messages": 2,
+      "ctr": 0.66,
+      "thruplay": 40
+    },
+    {
+      "name": "[BLACK 04] 03 pernas inteiras",
+      "impressions": 1416,
+      "reach": 959,
+      "clicks": 10,
+      "messages": 0,
+      "ctr": 0.71,
+      "thruplay": 0
+    },
+    {
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 1212,
+      "reach": 969,
+      "clicks": 13,
+      "messages": 2,
+      "ctr": 1.07,
+      "thruplay": 37
+    },
+    {
+      "name": "[BLACK 04] 02 a partir de R$ 99,90 — Cópia",
+      "impressions": 478,
+      "reach": 359,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 0.42,
       "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 72,
-      "male_pct": 28,
+      "female_pct": 74,
+      "male_pct": 26,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 39,
-      "35-44": 27,
-      "45-54": 15,
-      "55-64": 10,
-      "65+": 9
+      "25-34": 37,
+      "35-44": 26,
+      "45-54": 16,
+      "55-64": 11,
+      "65+": 10
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 194.24,
+    "balance_brl": 257.38,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
-    "balance_low"
+    "spend_delta_over_50"
   ]
 }

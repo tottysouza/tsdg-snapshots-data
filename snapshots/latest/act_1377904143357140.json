@@ -4,75 +4,75 @@
     "account_name": "LACES Origens",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-12T16:33:47.688Z",
+    "generated_at": "2026-11-13T15:55:10.963Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-05",
-      "until": "2026-11-11",
-      "label_pt": "5 nov a 11 nov"
+      "since": "2026-11-06",
+      "until": "2026-11-12",
+      "label_pt": "6 nov a 12 nov"
     },
     "previous": {
-      "since": "2026-10-29",
-      "until": "2026-11-04"
+      "since": "2026-10-30",
+      "until": "2026-11-05"
     }
   },
   "totals": {
     "spend": {
-      "current": 387.33,
-      "previous": 383.54,
-      "delta_pct": 1
+      "current": 416.22,
+      "previous": 384.74,
+      "delta_pct": 8
     },
     "impressions": {
-      "current": 15128,
-      "previous": 17607,
-      "delta_pct": -14
+      "current": 15669,
+      "previous": 16725,
+      "delta_pct": -6
     },
     "reach": {
-      "current": 11698,
-      "previous": 14339,
-      "delta_pct": -18
+      "current": 11830,
+      "previous": 13482,
+      "delta_pct": -12
     },
     "clicks": {
-      "current": 405,
-      "previous": 468,
-      "delta_pct": -13
+      "current": 432,
+      "previous": 441,
+      "delta_pct": -2
     },
     "ctr": {
-      "current": 2.68,
-      "previous": 2.66,
-      "delta_pct": 1
+      "current": 2.76,
+      "previous": 2.64,
+      "delta_pct": 5
     },
     "cpc": {
       "current": 0.96,
-      "previous": 0.82,
-      "delta_pct": 17
+      "previous": 0.87,
+      "delta_pct": 10
     },
     "thruplay": {
-      "current": 2678,
-      "previous": 3094,
-      "delta_pct": -13
+      "current": 2704,
+      "previous": 3066,
+      "delta_pct": -12
     },
     "frequency": {
-      "current": 1.29,
-      "previous": 1.23,
-      "delta_pct": 5
+      "current": 1.32,
+      "previous": 1.24,
+      "delta_pct": 6
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 8,
-        "previous": 11,
-        "delta_pct": -27
+        "current": 9,
+        "previous": 12,
+        "delta_pct": -25
       },
       "cost": {
-        "current": 48.42,
-        "previous": 34.87,
-        "delta_pct": 39
+        "current": 46.25,
+        "previous": 32.06,
+        "delta_pct": 44
       },
       "top_creative": {
         "name": "Contei para vocês",
@@ -98,75 +98,93 @@
   "top_creatives": [
     {
       "name": "Contei para vocês",
-      "impressions": 5649,
-      "reach": 4004,
-      "clicks": 227,
+      "impressions": 5505,
+      "reach": 3933,
+      "clicks": 236,
       "messages": 0,
-      "ctr": 4.02,
-      "thruplay": 412
+      "ctr": 4.29,
+      "thruplay": 389
     },
     {
       "name": "Há rituais",
-      "impressions": 3418,
-      "reach": 3013,
-      "clicks": 53,
+      "impressions": 3729,
+      "reach": 3297,
+      "clicks": 54,
       "messages": 0,
-      "ctr": 1.55,
-      "thruplay": 999
+      "ctr": 1.45,
+      "thruplay": 1094
     },
     {
       "name": "Multiprime",
-      "impressions": 3208,
-      "reach": 2776,
+      "impressions": 3162,
+      "reach": 2699,
       "clicks": 33,
       "messages": 0,
-      "ctr": 1.03,
-      "thruplay": 728
+      "ctr": 1.04,
+      "thruplay": 695
     },
     {
       "name": "Contei para vocês",
-      "impressions": 1584,
-      "reach": 1279,
+      "impressions": 1593,
+      "reach": 1294,
       "clicks": 56,
       "messages": 4,
-      "ctr": 3.54,
-      "thruplay": 217
+      "ctr": 3.52,
+      "thruplay": 216
+    },
+    {
+      "name": "Contei para vocês",
+      "impressions": 487,
+      "reach": 361,
+      "clicks": 27,
+      "messages": 3,
+      "ctr": 5.54,
+      "thruplay": 60
     },
     {
       "name": "Massagens",
-      "impressions": 517,
-      "reach": 488,
-      "clicks": 8,
+      "impressions": 485,
+      "reach": 456,
+      "clicks": 9,
       "messages": 0,
-      "ctr": 1.55,
-      "thruplay": 256
+      "ctr": 1.86,
+      "thruplay": 231
+    },
+    {
+      "name": "SMH | Estático",
+      "impressions": 376,
+      "reach": 317,
+      "clicks": 4,
+      "messages": 0,
+      "ctr": 1.06,
+      "thruplay": 0
     },
     {
       "name": "O que acontece (Comunidade)",
-      "impressions": 388,
-      "reach": 254,
+      "impressions": 288,
+      "reach": 195,
       "clicks": 10,
       "messages": 2,
-      "ctr": 2.58,
-      "thruplay": 25
+      "ctr": 3.47,
+      "thruplay": 18
     },
     {
-      "name": "Contei para vocês",
-      "impressions": 358,
-      "reach": 278,
-      "clicks": 18,
-      "messages": 2,
-      "ctr": 5.03,
-      "thruplay": 41
+      "name": "SMH | Carrossel 5 cards",
+      "impressions": 37,
+      "reach": 33,
+      "clicks": 3,
+      "messages": 0,
+      "ctr": 8.11,
+      "thruplay": 0
     },
     {
       "name": "O que acontece (Comunidade)",
-      "impressions": 6,
-      "reach": 6,
+      "impressions": 7,
+      "reach": 7,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
-      "thruplay": 0
+      "thruplay": 1
     }
   ],
   "demographics": {
@@ -177,7 +195,7 @@
     },
     "age": {
       "18-24": 0,
-      "25-34": 18,
+      "25-34": 17,
       "35-44": 11,
       "45-54": 18,
       "55-64": 24,
@@ -186,9 +204,11 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 383.3,
+    "balance_brl": 150.1,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": []
+  "auto_flags": [
+    "balance_low"
+  ]
 }
