@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "account_id": "act_166071522",
+    "account_name": "BIOMA Valéria Alleoni",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-14T14:45:32.116Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-07",
+      "until": "2026-11-13",
+      "label_pt": "7 nov a 13 nov"
+    },
+    "previous": {
+      "since": "2026-10-31",
+      "until": "2026-11-06"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 711.41,
+      "previous": 782.45,
+      "delta_pct": -9
+    },
+    "impressions": {
+      "current": 36381,
+      "previous": 53705,
+      "delta_pct": -32
+    },
+    "reach": {
+      "current": 21498,
+      "previous": 31890,
+      "delta_pct": -33
+    },
+    "clicks": {
+      "current": 1024,
+      "previous": 1376,
+      "delta_pct": -26
+    },
+    "ctr": {
+      "current": 2.81,
+      "previous": 2.56,
+      "delta_pct": 10
+    },
+    "cpc": {
+      "current": 0.69,
+      "previous": 0.57,
+      "delta_pct": 21
+    },
+    "thruplay": {
+      "current": 3362,
+      "previous": 4182,
+      "delta_pct": -20
+    },
+    "frequency": {
+      "current": 1.69,
+      "previous": 1.68,
+      "delta_pct": 1
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 34,
+        "previous": 28,
+        "delta_pct": 21
+      },
+      "cost": {
+        "current": 20.92,
+        "previous": 27.94,
+        "delta_pct": -25
+      },
+      "top_creative": {
+        "name": "O Meu Corte Saudável",
+        "value": 17
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "O Meu Corte Saudável",
+      "impressions": 7831,
+      "reach": 4176,
+      "clicks": 262,
+      "messages": 17,
+      "ctr": 3.35,
+      "thruplay": 576
+    },
+    {
+      "name": "Quase 50 anos",
+      "impressions": 6373,
+      "reach": 5535,
+      "clicks": 188,
+      "messages": 0,
+      "ctr": 2.95,
+      "thruplay": 1597
+    },
+    {
+      "name": "Moreno iluminado",
+      "impressions": 6103,
+      "reach": 5024,
+      "clicks": 178,
+      "messages": 0,
+      "ctr": 2.92,
+      "thruplay": 200
+    },
+    {
+      "name": "Ontem",
+      "impressions": 3450,
+      "reach": 3162,
+      "clicks": 88,
+      "messages": 0,
+      "ctr": 2.55,
+      "thruplay": 511
+    },
+    {
+      "name": "2026-11-07_F_CAR_URGENCIA-solucao_NovembroVoando",
+      "impressions": 3415,
+      "reach": 1131,
+      "clicks": 67,
+      "messages": 10,
+      "ctr": 1.96,
+      "thruplay": 0
+    },
+    {
+      "name": "Respira",
+      "impressions": 2761,
+      "reach": 2180,
+      "clicks": 43,
+      "messages": 0,
+      "ctr": 1.56,
+      "thruplay": 1
+    },
+    {
+      "name": "O Meu Corte Saudável",
+      "impressions": 2442,
+      "reach": 1422,
+      "clicks": 89,
+      "messages": 2,
+      "ctr": 3.64,
+      "thruplay": 195
+    },
+    {
+      "name": "Lua out",
+      "impressions": 1252,
+      "reach": 584,
+      "clicks": 15,
+      "messages": 3,
+      "ctr": 1.2,
+      "thruplay": 79
+    },
+    {
+      "name": "Colorir os fios",
+      "impressions": 872,
+      "reach": 858,
+      "clicks": 33,
+      "messages": 0,
+      "ctr": 3.78,
+      "thruplay": 48
+    },
+    {
+      "name": "De Paris ao Rio",
+      "impressions": 774,
+      "reach": 743,
+      "clicks": 7,
+      "messages": 0,
+      "ctr": 0.9,
+      "thruplay": 155
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 91,
+      "male_pct": 9,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 8,
+      "35-44": 11,
+      "45-54": 17,
+      "55-64": 28,
+      "65+": 36
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 1610.55,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": []
+}

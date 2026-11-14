@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_806895401401781",
+    "account_name": "Espaçolaser Bragança",
+    "segment": "LASER",
+    "template": "LASER",
+    "generated_at": "2026-11-14T14:45:38.826Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-07",
+      "until": "2026-11-13",
+      "label_pt": "7 nov a 13 nov"
+    },
+    "previous": {
+      "since": "2026-10-31",
+      "until": "2026-11-06"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 551.12,
+      "previous": 122.41,
+      "delta_pct": 350
+    },
+    "impressions": {
+      "current": 41860,
+      "previous": 8593,
+      "delta_pct": 387
+    },
+    "reach": {
+      "current": 21036,
+      "previous": 6080,
+      "delta_pct": 246
+    },
+    "clicks": {
+      "current": 454,
+      "previous": 70,
+      "delta_pct": 549
+    },
+    "ctr": {
+      "current": 1.08,
+      "previous": 0.81,
+      "delta_pct": 33
+    },
+    "cpc": {
+      "current": 1.21,
+      "previous": 1.75,
+      "delta_pct": -31
+    },
+    "thruplay": {
+      "current": 2035,
+      "previous": 488,
+      "delta_pct": 317
+    },
+    "frequency": {
+      "current": 1.99,
+      "previous": 1.41,
+      "delta_pct": 41
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 33,
+        "previous": 8,
+        "delta_pct": 313
+      },
+      "cost": {
+        "current": 16.7,
+        "previous": 15.3,
+        "delta_pct": 9
+      },
+      "top_creative": {
+        "name": "[NOV] 3 sessões grátis",
+        "value": 19
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 11336,
+      "reach": 7227,
+      "clicks": 97,
+      "messages": 19,
+      "ctr": 0.86,
+      "thruplay": 248
+    },
+    {
+      "name": "A Black da Líder",
+      "impressions": 9894,
+      "reach": 6209,
+      "clicks": 213,
+      "messages": 0,
+      "ctr": 2.15,
+      "thruplay": 6
+    },
+    {
+      "name": "[BLACK 04] 05 combo virilha + ânus",
+      "impressions": 6498,
+      "reach": 3908,
+      "clicks": 38,
+      "messages": 6,
+      "ctr": 0.58,
+      "thruplay": 0
+    },
+    {
+      "name": "[BLACK 04] 01 80% OFF",
+      "impressions": 3965,
+      "reach": 1854,
+      "clicks": 25,
+      "messages": 3,
+      "ctr": 0.63,
+      "thruplay": 0
+    },
+    {
+      "name": "[NOV] TOPO 3 sessões",
+      "impressions": 3588,
+      "reach": 3089,
+      "clicks": 39,
+      "messages": 1,
+      "ctr": 1.09,
+      "thruplay": 1436
+    },
+    {
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 2113,
+      "reach": 1597,
+      "clicks": 9,
+      "messages": 2,
+      "ctr": 0.43,
+      "thruplay": 47
+    },
+    {
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 1705,
+      "reach": 1456,
+      "clicks": 11,
+      "messages": 1,
+      "ctr": 0.65,
+      "thruplay": 38
+    },
+    {
+      "name": "[BLACK 04] 03 pernas inteiras",
+      "impressions": 1384,
+      "reach": 932,
+      "clicks": 9,
+      "messages": 0,
+      "ctr": 0.65,
+      "thruplay": 0
+    },
+    {
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 525,
+      "reach": 464,
+      "clicks": 5,
+      "messages": 1,
+      "ctr": 0.95,
+      "thruplay": 18
+    },
+    {
+      "name": "[BLACK 04] 02 a partir de R$ 99,90 — Cópia",
+      "impressions": 361,
+      "reach": 278,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 0.55,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 74,
+      "male_pct": 26,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 36,
+      "35-44": 25,
+      "45-54": 16,
+      "55-64": 11,
+      "65+": 11
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 328.08,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50"
+  ]
+}

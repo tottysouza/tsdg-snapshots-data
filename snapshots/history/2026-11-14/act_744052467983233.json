@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "account_id": "act_744052467983233",
+    "account_name": "BIOMA Sense",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-14T14:44:30.285Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-07",
+      "until": "2026-11-13",
+      "label_pt": "7 nov a 13 nov"
+    },
+    "previous": {
+      "since": "2026-10-31",
+      "until": "2026-11-06"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 245,
+      "previous": 142.2,
+      "delta_pct": 72
+    },
+    "impressions": {
+      "current": 9430,
+      "previous": 8199,
+      "delta_pct": 15
+    },
+    "reach": {
+      "current": 7148,
+      "previous": 6171,
+      "delta_pct": 16
+    },
+    "clicks": {
+      "current": 350,
+      "previous": 268,
+      "delta_pct": 31
+    },
+    "ctr": {
+      "current": 3.71,
+      "previous": 3.27,
+      "delta_pct": 13
+    },
+    "cpc": {
+      "current": 0.7,
+      "previous": 0.53,
+      "delta_pct": 32
+    },
+    "thruplay": {
+      "current": 931,
+      "previous": 574,
+      "delta_pct": 62
+    },
+    "frequency": {
+      "current": 1.32,
+      "previous": 1.33,
+      "delta_pct": -1
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 13,
+        "previous": 7,
+        "delta_pct": 86
+      },
+      "cost": {
+        "current": 18.85,
+        "previous": 20.31,
+        "delta_pct": -7
+      },
+      "top_creative": {
+        "name": "Loiro saudável",
+        "value": 13
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Loiro saudável",
+      "impressions": 5832,
+      "reach": 4900,
+      "clicks": 242,
+      "messages": 0,
+      "ctr": 4.15,
+      "thruplay": 588
+    },
+    {
+      "name": "Loiro saudável",
+      "impressions": 2873,
+      "reach": 1835,
+      "clicks": 94,
+      "messages": 13,
+      "ctr": 3.27,
+      "thruplay": 288
+    },
+    {
+      "name": "Desacelerar",
+      "impressions": 386,
+      "reach": 211,
+      "clicks": 6,
+      "messages": 0,
+      "ctr": 1.55,
+      "thruplay": 25
+    },
+    {
+      "name": "Desacelerar",
+      "impressions": 339,
+      "reach": 303,
+      "clicks": 8,
+      "messages": 0,
+      "ctr": 2.36,
+      "thruplay": 30
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 92,
+      "male_pct": 8,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 26,
+      "35-44": 20,
+      "45-54": 22,
+      "55-64": 19,
+      "65+": 13
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 31.68,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "creative_concentration_over_80",
+    "balance_low"
+  ]
+}
