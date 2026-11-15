@@ -4,61 +4,61 @@
     "account_name": "VIRGO Cases",
     "segment": "TECH",
     "template": "VIRGO",
-    "generated_at": "2026-11-14T14:45:42.228Z",
+    "generated_at": "2026-11-15T15:18:50.029Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-07",
-      "until": "2026-11-13",
-      "label_pt": "7 nov a 13 nov"
+      "since": "2026-11-08",
+      "until": "2026-11-14",
+      "label_pt": "8 nov a 14 nov"
     },
     "previous": {
-      "since": "2026-10-31",
-      "until": "2026-11-06"
+      "since": "2026-11-01",
+      "until": "2026-11-07"
     }
   },
   "totals": {
     "spend": {
       "current": 0,
-      "previous": 254.35,
+      "previous": 188.4,
       "delta_pct": -100
     },
     "impressions": {
       "current": 0,
-      "previous": 20704,
+      "previous": 15906,
       "delta_pct": -100
     },
     "reach": {
       "current": 0,
-      "previous": 11131,
+      "previous": 9476,
       "delta_pct": -100
     },
     "clicks": {
       "current": 0,
-      "previous": 1440,
+      "previous": 1082,
       "delta_pct": -100
     },
     "ctr": {
       "current": null,
-      "previous": 6.96,
+      "previous": 6.8,
       "delta_pct": null
     },
     "cpc": {
       "current": 0,
-      "previous": 0.18,
+      "previous": 0.17,
       "delta_pct": -100
     },
     "thruplay": {
       "current": 0,
-      "previous": 185,
+      "previous": 144,
       "delta_pct": -100
     },
     "frequency": {
       "current": 0,
-      "previous": 1.86,
+      "previous": 1.68,
       "delta_pct": -100
     }
   },
@@ -71,7 +71,7 @@
       },
       "cost": {
         "current": null,
-        "previous": 254.35,
+        "previous": 188.4,
         "delta_pct": null
       },
       "top_creative": null

@@ -4,60 +4,60 @@
     "account_name": "MORINGA Hair",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-14T14:45:37.563Z",
+    "generated_at": "2026-11-15T15:18:45.407Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-07",
-      "until": "2026-11-13",
-      "label_pt": "7 nov a 13 nov"
+      "since": "2026-11-08",
+      "until": "2026-11-14",
+      "label_pt": "8 nov a 14 nov"
     },
     "previous": {
-      "since": "2026-10-31",
-      "until": "2026-11-06"
+      "since": "2026-11-01",
+      "until": "2026-11-07"
     }
   },
   "totals": {
     "spend": {
-      "current": 36.41,
+      "current": 70.79,
       "previous": 0,
       "delta_pct": null
     },
     "impressions": {
-      "current": 1998,
+      "current": 3820,
       "previous": 0,
       "delta_pct": null
     },
     "reach": {
-      "current": 1531,
+      "current": 2950,
       "previous": 0,
       "delta_pct": null
     },
     "clicks": {
-      "current": 47,
+      "current": 118,
       "previous": 0,
       "delta_pct": null
     },
     "ctr": {
-      "current": 2.35,
+      "current": 3.09,
       "previous": null,
       "delta_pct": null
     },
     "cpc": {
-      "current": 0.77,
+      "current": 0.6,
       "previous": 0,
       "delta_pct": null
     },
     "thruplay": {
-      "current": 79,
+      "current": 247,
       "previous": 0,
       "delta_pct": null
     },
     "frequency": {
-      "current": 1.31,
+      "current": 1.29,
       "previous": 0,
       "delta_pct": null
     }
@@ -70,7 +70,7 @@
         "delta_pct": null
       },
       "cost": {
-        "current": 36.41,
+        "current": 70.79,
         "previous": null,
         "delta_pct": null
       },
@@ -97,82 +97,83 @@
   },
   "top_creatives": [
     {
-      "name": "BLACK Moringa 2026",
-      "impressions": 655,
-      "reach": 621,
-      "clicks": 12,
+      "name": "Lumière Point",
+      "impressions": 1192,
+      "reach": 1091,
+      "clicks": 45,
       "messages": 0,
-      "ctr": 1.83,
-      "thruplay": 21
+      "ctr": 3.78,
+      "thruplay": 50
+    },
+    {
+      "name": "BLACK Moringa 2026",
+      "impressions": 1177,
+      "reach": 1036,
+      "clicks": 31,
+      "messages": 0,
+      "ctr": 2.63,
+      "thruplay": 113
     },
     {
       "name": "Lumière Point",
-      "impressions": 443,
-      "reach": 438,
+      "impressions": 498,
+      "reach": 488,
       "clicks": 8,
       "messages": 1,
-      "ctr": 1.81,
-      "thruplay": 13
+      "ctr": 1.61,
+      "thruplay": 17
     },
     {
       "name": "Naturalíssima",
-      "impressions": 343,
-      "reach": 315,
-      "clicks": 13,
+      "impressions": 473,
+      "reach": 425,
+      "clicks": 18,
       "messages": 0,
-      "ctr": 3.79,
-      "thruplay": 19
-    },
-    {
-      "name": "Lumière Point",
-      "impressions": 334,
-      "reach": 334,
-      "clicks": 7,
-      "messages": 0,
-      "ctr": 2.1,
-      "thruplay": 13
+      "ctr": 3.81,
+      "thruplay": 28
     },
     {
       "name": "Black Moringa 2026",
-      "impressions": 211,
-      "reach": 206,
-      "clicks": 7,
+      "impressions": 441,
+      "reach": 419,
+      "clicks": 16,
       "messages": 0,
-      "ctr": 3.32,
-      "thruplay": 12
+      "ctr": 3.63,
+      "thruplay": 37
     },
     {
       "name": "Naturalíssima 2",
-      "impressions": 12,
-      "reach": 12,
+      "impressions": 39,
+      "reach": 38,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
-      "thruplay": 1
+      "thruplay": 2
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 94,
+      "female_pct": 97,
       "male_pct": 0,
-      "unknown_pct": 6
+      "unknown_pct": 3
     },
     "age": {
       "18-24": 0,
-      "25-34": 18,
-      "35-44": 27,
-      "45-54": 26,
-      "55-64": 10,
-      "65+": 1
+      "25-34": 16,
+      "35-44": 26,
+      "45-54": 30,
+      "55-64": 13,
+      "65+": 5
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 23.15,
+    "balance_brl": 25.66,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
-    "creative_concentration_over_80"
+    "creative_concentration_over_80",
+    "balance_low"
   ]
 }

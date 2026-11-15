@@ -4,79 +4,79 @@
     "account_name": "BIOMA Casa 631",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-14T14:44:16.819Z",
+    "generated_at": "2026-11-15T15:17:29.716Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-07",
-      "until": "2026-11-13",
-      "label_pt": "7 nov a 13 nov"
+      "since": "2026-11-08",
+      "until": "2026-11-14",
+      "label_pt": "8 nov a 14 nov"
     },
     "previous": {
-      "since": "2026-10-31",
-      "until": "2026-11-06"
+      "since": "2026-11-01",
+      "until": "2026-11-07"
     }
   },
   "totals": {
     "spend": {
-      "current": 128.73,
-      "previous": 383.54,
-      "delta_pct": -66
+      "current": 92.26,
+      "previous": 370.91,
+      "delta_pct": -75
     },
     "impressions": {
-      "current": 7690,
-      "previous": 44313,
-      "delta_pct": -83
+      "current": 5287,
+      "previous": 40515,
+      "delta_pct": -87
     },
     "reach": {
-      "current": 4791,
-      "previous": 24562,
-      "delta_pct": -80
+      "current": 3673,
+      "previous": 22482,
+      "delta_pct": -84
     },
     "clicks": {
-      "current": 335,
-      "previous": 1425,
-      "delta_pct": -76
+      "current": 243,
+      "previous": 1325,
+      "delta_pct": -82
     },
     "ctr": {
-      "current": 4.36,
-      "previous": 3.22,
-      "delta_pct": 35
+      "current": 4.6,
+      "previous": 3.27,
+      "delta_pct": 41
     },
     "cpc": {
       "current": 0.38,
-      "previous": 0.27,
-      "delta_pct": 41
+      "previous": 0.28,
+      "delta_pct": 36
     },
     "thruplay": {
-      "current": 640,
-      "previous": 2191,
-      "delta_pct": -71
+      "current": 474,
+      "previous": 2014,
+      "delta_pct": -76
     },
     "frequency": {
-      "current": 1.61,
+      "current": 1.44,
       "previous": 1.8,
-      "delta_pct": -11
+      "delta_pct": -20
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 5,
+        "current": 3,
         "previous": 13,
-        "delta_pct": -62
+        "delta_pct": -77
       },
       "cost": {
-        "current": 25.75,
-        "previous": 29.5,
-        "delta_pct": -13
+        "current": 30.75,
+        "previous": 28.53,
+        "delta_pct": 8
       },
       "top_creative": {
         "name": "Seu cabelo",
-        "value": 4
+        "value": 3
       }
     },
     "instagram_visits": {
@@ -98,56 +98,47 @@
   "top_creatives": [
     {
       "name": "Seu cabelo",
-      "impressions": 3060,
-      "reach": 1505,
-      "clicks": 40,
-      "messages": 4,
-      "ctr": 1.31,
-      "thruplay": 45
+      "impressions": 2099,
+      "reach": 1185,
+      "clicks": 31,
+      "messages": 3,
+      "ctr": 1.48,
+      "thruplay": 34
     },
     {
       "name": "Um novo conceito",
-      "impressions": 2273,
-      "reach": 1543,
-      "clicks": 272,
+      "impressions": 1607,
+      "reach": 1182,
+      "clicks": 195,
       "messages": 0,
-      "ctr": 11.97,
+      "ctr": 12.13,
       "thruplay": 0
     },
     {
       "name": "Comunidade",
-      "impressions": 1133,
-      "reach": 1028,
+      "impressions": 988,
+      "reach": 936,
       "clicks": 11,
       "messages": 0,
-      "ctr": 0.97,
-      "thruplay": 238
+      "ctr": 1.11,
+      "thruplay": 217
     },
     {
       "name": "Alguns lugares — Cópia",
-      "impressions": 1104,
-      "reach": 993,
-      "clicks": 9,
+      "impressions": 591,
+      "reach": 544,
+      "clicks": 6,
       "messages": 0,
-      "ctr": 0.82,
-      "thruplay": 352
+      "ctr": 1.02,
+      "thruplay": 223
     },
     {
       "name": "Aqui no Bioma",
-      "impressions": 117,
-      "reach": 104,
-      "clicks": 1,
-      "messages": 1,
-      "ctr": 0.85,
-      "thruplay": 5
-    },
-    {
-      "name": "Seu cabelo",
-      "impressions": 3,
-      "reach": 3,
-      "clicks": 2,
+      "impressions": 2,
+      "reach": 2,
+      "clicks": 0,
       "messages": 0,
-      "ctr": 66.67,
+      "ctr": 0,
       "thruplay": 0
     }
   ],
@@ -160,7 +151,7 @@
     "age": {
       "18-24": 0,
       "25-34": 29,
-      "35-44": 22,
+      "35-44": 21,
       "45-54": 19,
       "55-64": 16,
       "65+": 15
@@ -174,6 +165,7 @@
   },
   "auto_flags": [
     "spend_delta_over_50",
+    "creative_concentration_over_80",
     "balance_low"
   ]
 }

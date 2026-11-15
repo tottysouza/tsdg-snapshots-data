@@ -4,75 +4,75 @@
     "account_name": "BIOMA Sense",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-14T14:44:30.285Z",
+    "generated_at": "2026-11-15T15:17:42.024Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-07",
-      "until": "2026-11-13",
-      "label_pt": "7 nov a 13 nov"
+      "since": "2026-11-08",
+      "until": "2026-11-14",
+      "label_pt": "8 nov a 14 nov"
     },
     "previous": {
-      "since": "2026-10-31",
-      "until": "2026-11-06"
+      "since": "2026-11-01",
+      "until": "2026-11-07"
     }
   },
   "totals": {
     "spend": {
-      "current": 245,
-      "previous": 142.2,
-      "delta_pct": 72
+      "current": 278.01,
+      "previous": 119.89,
+      "delta_pct": 132
     },
     "impressions": {
-      "current": 9430,
-      "previous": 8199,
-      "delta_pct": 15
+      "current": 11024,
+      "previous": 6729,
+      "delta_pct": 64
     },
     "reach": {
-      "current": 7148,
-      "previous": 6171,
-      "delta_pct": 16
+      "current": 8011,
+      "previous": 5304,
+      "delta_pct": 51
     },
     "clicks": {
-      "current": 350,
-      "previous": 268,
-      "delta_pct": 31
+      "current": 416,
+      "previous": 221,
+      "delta_pct": 88
     },
     "ctr": {
-      "current": 3.71,
-      "previous": 3.27,
-      "delta_pct": 13
+      "current": 3.77,
+      "previous": 3.28,
+      "delta_pct": 15
     },
     "cpc": {
-      "current": 0.7,
-      "previous": 0.53,
-      "delta_pct": 32
+      "current": 0.67,
+      "previous": 0.54,
+      "delta_pct": 24
     },
     "thruplay": {
-      "current": 931,
-      "previous": 574,
-      "delta_pct": 62
+      "current": 1097,
+      "previous": 466,
+      "delta_pct": 135
     },
     "frequency": {
-      "current": 1.32,
-      "previous": 1.33,
-      "delta_pct": -1
+      "current": 1.38,
+      "previous": 1.27,
+      "delta_pct": 9
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 13,
-        "previous": 7,
-        "delta_pct": 86
+        "current": 14,
+        "previous": 6,
+        "delta_pct": 133
       },
       "cost": {
-        "current": 18.85,
-        "previous": 20.31,
-        "delta_pct": -7
+        "current": 19.86,
+        "previous": 19.98,
+        "delta_pct": -1
       },
       "top_creative": {
         "name": "Loiro saudável",
@@ -98,39 +98,39 @@
   "top_creatives": [
     {
       "name": "Loiro saudável",
-      "impressions": 5832,
-      "reach": 4900,
-      "clicks": 242,
+      "impressions": 6372,
+      "reach": 5283,
+      "clicks": 267,
       "messages": 0,
-      "ctr": 4.15,
-      "thruplay": 588
+      "ctr": 4.19,
+      "thruplay": 652
     },
     {
       "name": "Loiro saudável",
-      "impressions": 2873,
-      "reach": 1835,
-      "clicks": 94,
+      "impressions": 2920,
+      "reach": 1845,
+      "clicks": 95,
       "messages": 13,
-      "ctr": 3.27,
-      "thruplay": 288
+      "ctr": 3.25,
+      "thruplay": 290
     },
     {
       "name": "Desacelerar",
-      "impressions": 386,
-      "reach": 211,
-      "clicks": 6,
+      "impressions": 1000,
+      "reach": 857,
+      "clicks": 41,
       "messages": 0,
-      "ctr": 1.55,
-      "thruplay": 25
+      "ctr": 4.1,
+      "thruplay": 104
     },
     {
       "name": "Desacelerar",
-      "impressions": 339,
-      "reach": 303,
-      "clicks": 8,
-      "messages": 0,
-      "ctr": 2.36,
-      "thruplay": 30
+      "impressions": 732,
+      "reach": 340,
+      "clicks": 13,
+      "messages": 1,
+      "ctr": 1.78,
+      "thruplay": 51
     }
   ],
   "demographics": {
@@ -142,15 +142,15 @@
     "age": {
       "18-24": 0,
       "25-34": 26,
-      "35-44": 20,
-      "45-54": 22,
-      "55-64": 19,
-      "65+": 13
+      "35-44": 21,
+      "45-54": 23,
+      "55-64": 18,
+      "65+": 12
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 31.68,
+    "balance_brl": 63.23,
     "balance_low": false,
     "account_disabled": false
   },
