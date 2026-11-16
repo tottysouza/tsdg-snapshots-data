@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "account_id": "act_1495147508059741",
+    "account_name": "Espaçolaser Caçapava",
+    "segment": "LASER",
+    "template": "LASER",
+    "generated_at": "2026-11-16T17:55:56.639Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-09",
+      "until": "2026-11-15",
+      "label_pt": "9 nov a 15 nov"
+    },
+    "previous": {
+      "since": "2026-11-02",
+      "until": "2026-11-08"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 187.19,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "impressions": {
+      "current": 12996,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "reach": {
+      "current": 6974,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "clicks": {
+      "current": 91,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "ctr": {
+      "current": 0.7,
+      "previous": null,
+      "delta_pct": null
+    },
+    "cpc": {
+      "current": 2.06,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "thruplay": {
+      "current": 28,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "frequency": {
+      "current": 1.86,
+      "previous": 0,
+      "delta_pct": null
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 3,
+        "previous": 0,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": 62.4,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": {
+        "name": "BLACK | Estático Black da Líder",
+        "value": 3
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "BLACK | Estático Black da Líder",
+      "impressions": 9133,
+      "reach": 5496,
+      "clicks": 68,
+      "messages": 3,
+      "ctr": 0.74,
+      "thruplay": 0
+    },
+    {
+      "name": "BLACK | Arte 02 a partir de R$ 99,90",
+      "impressions": 1933,
+      "reach": 1374,
+      "clicks": 13,
+      "messages": 0,
+      "ctr": 0.67,
+      "thruplay": 0
+    },
+    {
+      "name": "BLACK | Reel A mensagem tá dada 80% OFF",
+      "impressions": 663,
+      "reach": 591,
+      "clicks": 5,
+      "messages": 0,
+      "ctr": 0.75,
+      "thruplay": 16
+    },
+    {
+      "name": "BLACK | Reel Calculadora 80% OFF",
+      "impressions": 619,
+      "reach": 560,
+      "clicks": 4,
+      "messages": 0,
+      "ctr": 0.65,
+      "thruplay": 12
+    },
+    {
+      "name": "BLACK | Arte 01 80% OFF",
+      "impressions": 381,
+      "reach": 323,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 0
+    },
+    {
+      "name": "BLACK | Arte 05 combo virilha + ânus",
+      "impressions": 267,
+      "reach": 226,
+      "clicks": 1,
+      "messages": 0,
+      "ctr": 0.37,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 85,
+      "male_pct": 15,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 44,
+      "35-44": 40,
+      "45-54": 12,
+      "55-64": 3,
+      "65+": 1
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 38.59,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "creative_concentration_over_80",
+    "balance_low"
+  ]
+}

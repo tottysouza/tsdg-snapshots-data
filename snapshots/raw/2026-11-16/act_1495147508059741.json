@@ -1,0 +1,213 @@
+{
+  "current": {
+    "accountId": "act_1495147508059741",
+    "saldo": 38.59,
+    "dateRange": {
+      "since": "2026-11-09",
+      "until": "2026-11-15"
+    },
+    "kpis": {
+      "investimento": 187.19,
+      "impressoes": 12996,
+      "alcance": 6974,
+      "cliques": 91,
+      "cpc": 2.06,
+      "cpm": 14.4,
+      "mensagens": 3,
+      "cpa": 62.4,
+      "thruplay": 28,
+      "frequencia": 1.86
+    },
+    "ads": [
+      {
+        "id": "120250649245870430",
+        "nome": "BLACK | Estático Black da Líder",
+        "status": "ACTIVE",
+        "legenda": "api.whatsapp.com 2026-11-13-e8b2754242da22c9b84b1568066e2eda",
+        "campId": "120250499148900430",
+        "campanha": "04. BLACK DA LÍDER | WhatsApp",
+        "adsetId": "120250649245830430",
+        "adset": "GERAL | VV 75-95 + INSTA — BLACK DA LÍDER — Cópia",
+        "thumbnail": "https://scontent-zrh1-1.xx.fbcdn.net/v/t45.1600-4/896003470_29540776295514637_4663111717406788306_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ff4730&_nc_eui2=AeEuukQIeHn_1AdpOFl7W6sMSAvUoFu1m7tIC9SgW7WbuwGzBb7c_K1UnASHMdviyv83quC_xvc23kC1Y2BzBRBq&_nc_ohc=SwModrEmjx0Q7kNvwEnZc1_&_nc_oc=AdrDmV4QRUGwjENchUV4BG1hnN2yES9GoPshU7UpV4asNCw81lBETIZSnuKwkF0VCyQ&_nc_zt=1&_nc_ht=scontent-zrh1-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=4XPPA0pL5WwPtcnmLKNN9w&_nc_tpa=Q5bMBQIqkh4a6cpczN515SJsg3KmEu8XhSRgE2IHhq6SB1PD19KLyRLbruGSq6OPe1S-TxpYIs6B3hRaorA&oh=00_AQRq491t5AkGZf6-CaIL72Wi2vxXmDnagkanaIX8w8SxWA&oe=6B010EB5",
+        "impressoes": 9133,
+        "alcance": 5496,
+        "cliques": 68,
+        "mensagens": 3,
+        "thruplay": 0,
+        "investimento": 127.76,
+        "cpc": 1.88,
+        "ctr": 0.74
+      },
+      {
+        "id": "120250649245850430",
+        "nome": "BLACK | Arte 02 a partir de R$ 99,90",
+        "status": "PAUSED",
+        "legenda": "Black da Líder: a partir de R$ 99,90 2026-11-16-e70040779612774516e80f96244c58f4",
+        "campId": "120250499148900430",
+        "campanha": "04. BLACK DA LÍDER | WhatsApp",
+        "adsetId": "120250649245830430",
+        "adset": "GERAL | VV 75-95 + INSTA — BLACK DA LÍDER — Cópia",
+        "thumbnail": "https://scontent-zrh1-1.xx.fbcdn.net/v/t45.1600-4/907582649_29604421799150086_8748552970370311301_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeHMw_hf5CbQaQWKMo6jeUZgOf9nGF2-UlE5_2cYXb5SUcdebguxwQ-oDhRmzgTX2NaUwUbkL5yhEMjr3B-UaU8V&_nc_ohc=2-OcJ5VhceEQ7kNvwEtS9V4&_nc_oc=Adov8XisWZLnaBMtYQVu4L90E7cTcdFpCMh7SE2IPZ9p9fkTt86tqSD8C_9OY7lAu5I&_nc_zt=1&_nc_ht=scontent-zrh1-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=4XPPA0pL5WwPtcnmLKNN9w&_nc_tpa=Q5bMBQJCVG9HPwxTNzdsHzz8bm3fnjSsux54EV7ah5GBK-3H9sYpyAyYxr4yPqEc-fyZBR_C7A-oX5Mmk-o&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQQ_2fOmrbQl3cCHHan1JPI4huHxW-vg5E-D0vyRmLvShw&oe=6B0108F6",
+        "impressoes": 1933,
+        "alcance": 1374,
+        "cliques": 13,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 27.41,
+        "cpc": 2.11,
+        "ctr": 0.67
+      },
+      {
+        "id": "120250649245800430",
+        "nome": "BLACK | Reel A mensagem tá dada 80% OFF",
+        "status": "ACTIVE",
+        "legenda": "A mensagem tá dada e os 80% OFF também. Apenas garanta o seu pacote 💅\nCorre pro link da bio.\n*consu 2026-11-13-711360a94e0814a3f240b9e0fa5a24a0",
+        "campId": "120250499148900430",
+        "campanha": "04. BLACK DA LÍDER | WhatsApp",
+        "adsetId": "120250649245830430",
+        "adset": "GERAL | VV 75-95 + INSTA — BLACK DA LÍDER — Cópia",
+        "thumbnail": "https://scontent-zrh1-1.xx.fbcdn.net/v/t15.5256-10/895910214_1439299281702851_9049131946012145146_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeGit1NAkn4OQlGTmbV_9Nq0QVTjtcka9RdBVOO1yRr1F7fxSwWks5mBVlsv_nNFIyu_8e81iqBEWmQVrduWqpef&_nc_ohc=yHSOh0UTIlQQ7kNvwExdnwZ&_nc_oc=AdrlH0PdR7FC3dJ5do-635nvHX-VH7XFd8iuF9_bHa2hXNYISbSov6sB6TviCqwxGZs&_nc_zt=23&_nc_ht=scontent-zrh1-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=4XPPA0pL5WwPtcnmLKNN9w&_nc_tpa=Q5bMBQJDbNMgJNpllYqCIGHfnguVTbYDCnm-MJB-2l1gcKr7fkEDEAiDIx_Qb9qtKYtTpV7IyU-Au39W1x0&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQSQTc2zzDc1aaf02Nk1fIE4xox_jdxJAj3j-b5Q8--zTA&oe=6B01149C",
+        "impressoes": 663,
+        "alcance": 591,
+        "cliques": 5,
+        "mensagens": 0,
+        "thruplay": 16,
+        "investimento": 12.25,
+        "cpc": 2.45,
+        "ctr": 0.75
+      },
+      {
+        "id": "120250649245820430",
+        "nome": "BLACK | Reel Calculadora 80% OFF",
+        "status": "ACTIVE",
+        "legenda": "Quanto você gasta com cera ou lâmina todo mês? Faça as contas com a calculadora no site da Espaçola 2026-11-13-3f1d071240da0732006e7ae2f423fe6b",
+        "campId": "120250499148900430",
+        "campanha": "04. BLACK DA LÍDER | WhatsApp",
+        "adsetId": "120250649245830430",
+        "adset": "GERAL | VV 75-95 + INSTA — BLACK DA LÍDER — Cópia",
+        "thumbnail": "https://scontent-zrh1-1.xx.fbcdn.net/v/t15.5256-10/899617544_1526909556162340_6113998135700598638_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeFk9EpV5CMZMYbpjO-ch2nzDY4mpB-y0WkNjiakH7LRaSJPAn4Dn-JSBS7eiVBiFqTXL4h7xJQl22hqcmSYE7Cd&_nc_ohc=ha8-XERTugQQ7kNvwEFB83u&_nc_oc=AdrcGVIMHMo8OBVefxLiUXzyPB7TE-wG0cUXjQEmmLRVhH6ElgkEuB8xTtGLOB-fKKM&_nc_zt=23&_nc_ht=scontent-zrh1-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=4XPPA0pL5WwPtcnmLKNN9w&_nc_tpa=Q5bMBQIsJkyxH9J5-E9cHRoPV--u7hVB80wx3_V7H1uWA_pMhSMd7qrLfmLldoKK2GEMI9ucA8NfV-y_rVA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQQkfsoPvrKmGy4tT05TxGtEpDoRJ8iINr3s-eJIvv95KA&oe=6B010263",
+        "impressoes": 619,
+        "alcance": 560,
+        "cliques": 4,
+        "mensagens": 0,
+        "thruplay": 12,
+        "investimento": 9.6,
+        "cpc": 2.4,
+        "ctr": 0.65
+      },
+      {
+        "id": "120250649245840430",
+        "nome": "BLACK | Arte 01 80% OFF",
+        "status": "PAUSED",
+        "legenda": "Até 80% OFF na Black da Líder 2026-11-16-0346bb7bff8bcecc117379f7927747ad",
+        "campId": "120250499148900430",
+        "campanha": "04. BLACK DA LÍDER | WhatsApp",
+        "adsetId": "120250649245830430",
+        "adset": "GERAL | VV 75-95 + INSTA — BLACK DA LÍDER — Cópia",
+        "thumbnail": "https://scontent-zrh1-1.xx.fbcdn.net/v/t45.1600-4/877713310_29485126011079666_4196881759017460095_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeEvaAcyqkk9gAeVdwijHqNUflwR2Odl2gp-XBHY52XaCs4KIWCi9mWZVQG2yEMDbkk0_ojlapGhXMfck8PT-jze&_nc_ohc=BnLJm4XB0kkQ7kNvwFfgfYY&_nc_oc=AdpVu240yyG6UDN70qvEWt1sJjpyAi6c9HWY3Wk931VDgMFSJH1ZSBNDAEHerlAio8w&_nc_zt=1&_nc_ht=scontent-zrh1-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=4XPPA0pL5WwPtcnmLKNN9w&_nc_tpa=Q5bMBQICMj6meZD-zJU3f5VxLzYsDGfwHQJrZBjvKbz8SNX7fK9Pj7Ig11Pd86X_0OnnVOywLvQ2hr4EQJo&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQRAfELxgWX3JGp7TFycBAznSAdgHu0l7UHZOLNRlkBZ2Q&oe=6B011DFC",
+        "impressoes": 381,
+        "alcance": 323,
+        "cliques": 0,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 6.28,
+        "cpc": 0,
+        "ctr": 0
+      },
+      {
+        "id": "120250649245810430",
+        "nome": "BLACK | Arte 05 combo virilha + ânus",
+        "status": "ACTIVE",
+        "legenda": "Até 80% OFF na Black da Líder 2026-11-16-739da4d2ec54b94596fe817e4a1e4f78",
+        "campId": "120250499148900430",
+        "campanha": "04. BLACK DA LÍDER | WhatsApp",
+        "adsetId": "120250649245830430",
+        "adset": "GERAL | VV 75-95 + INSTA — BLACK DA LÍDER — Cópia",
+        "thumbnail": "https://scontent-zrh1-1.xx.fbcdn.net/v/t45.1600-4/903442152_29604415722484027_5674670352600093260_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeFZu8OC3ngqCyk3Kw1fEF7COChZgHvPf3Q4KFmAe89_dDOwX0l1U66Iz7sp8zfpXuUDiHwpKxPYj4by2nrkDIVR&_nc_ohc=U_WVAxzwfRAQ7kNvwGWXOwG&_nc_oc=AdpuxrY8ucIpAtGeAJtiRg5CmCo0i2OinCu0hxpZsJtpiORNEXyt3NCH7iq5HfFth-Y&_nc_zt=1&_nc_ht=scontent-zrh1-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=4XPPA0pL5WwPtcnmLKNN9w&_nc_tpa=Q5bMBQIhBvIZdYfCBUqAyZOK20evZEs7u9eb-3xv4PqTBa-K_Eukl8yuBVbDsDqnI0HAuVEpUWLfaLdD0FY&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQRAho4Jb4uS0bbyQYiwj7RSmWWr56Zij6LuHhsvmAqjhA&oe=6B0102E1",
+        "impressoes": 267,
+        "alcance": 226,
+        "cliques": 1,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 3.89,
+        "cpc": 3.89,
+        "ctr": 0.37
+      }
+    ],
+    "genero": {
+      "F": 85,
+      "M": 15,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 44,
+      "35-44": 40,
+      "45-54": 12,
+      "55-64": 3,
+      "65+": 1
+    },
+    "periodo": "custom",
+    "timestamp": "2026-11-16T17:55:56.558Z",
+    "prev": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    }
+  },
+  "previous": {
+    "accountId": "act_1495147508059741",
+    "saldo": 38.59,
+    "periodo": "custom",
+    "dateRange": {
+      "since": "2026-11-02",
+      "until": "2026-11-08"
+    },
+    "timestamp": "2026-11-16T17:55:53.059Z",
+    "kpis": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    },
+    "ads": [],
+    "genero": {
+      "F": 0,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    },
+    "prev": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    }
+  }
+}

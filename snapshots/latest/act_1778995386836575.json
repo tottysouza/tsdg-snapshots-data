@@ -4,79 +4,79 @@
     "account_name": "BIOMA Jackeline",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-15T15:17:34.106Z",
+    "generated_at": "2026-11-16T17:55:12.865Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-08",
-      "until": "2026-11-14",
-      "label_pt": "8 nov a 14 nov"
+      "since": "2026-11-09",
+      "until": "2026-11-15",
+      "label_pt": "9 nov a 15 nov"
     },
     "previous": {
-      "since": "2026-11-01",
-      "until": "2026-11-07"
+      "since": "2026-11-02",
+      "until": "2026-11-08"
     }
   },
   "totals": {
     "spend": {
-      "current": 340.13,
-      "previous": 0,
-      "delta_pct": null
+      "current": 292.58,
+      "previous": 47.55,
+      "delta_pct": 515
     },
     "impressions": {
-      "current": 20208,
-      "previous": 0,
-      "delta_pct": null
+      "current": 16994,
+      "previous": 3214,
+      "delta_pct": 429
     },
     "reach": {
-      "current": 16435,
-      "previous": 0,
-      "delta_pct": null
+      "current": 14131,
+      "previous": 2984,
+      "delta_pct": 374
     },
     "clicks": {
-      "current": 720,
-      "previous": 0,
-      "delta_pct": null
+      "current": 594,
+      "previous": 126,
+      "delta_pct": 371
     },
     "ctr": {
-      "current": 3.56,
-      "previous": null,
-      "delta_pct": null
+      "current": 3.5,
+      "previous": 3.92,
+      "delta_pct": -11
     },
     "cpc": {
-      "current": 0.47,
-      "previous": 0,
-      "delta_pct": null
+      "current": 0.49,
+      "previous": 0.38,
+      "delta_pct": 29
     },
     "thruplay": {
-      "current": 1928,
-      "previous": 0,
-      "delta_pct": null
+      "current": 1585,
+      "previous": 343,
+      "delta_pct": 362
     },
     "frequency": {
-      "current": 1.23,
-      "previous": 0,
-      "delta_pct": null
+      "current": 1.2,
+      "previous": 1.08,
+      "delta_pct": 11
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 17,
-        "previous": 0,
-        "delta_pct": null
+        "current": 11,
+        "previous": 6,
+        "delta_pct": 83
       },
       "cost": {
-        "current": 20.01,
-        "previous": null,
-        "delta_pct": null
+        "current": 26.6,
+        "previous": 7.92,
+        "delta_pct": 236
       },
       "top_creative": {
-        "name": "Tem dias que o corpo",
-        "value": 8
+        "name": "Tem dias que o corpo — Cópia",
+        "value": 5
       }
     },
     "instagram_visits": {
@@ -97,15 +97,6 @@
   },
   "top_creatives": [
     {
-      "name": "Seu cabelo - reconhecimento",
-      "impressions": 5326,
-      "reach": 5026,
-      "clicks": 119,
-      "messages": 0,
-      "ctr": 2.23,
-      "thruplay": 955
-    },
-    {
       "name": "Quem vive",
       "impressions": 3918,
       "reach": 3266,
@@ -115,31 +106,40 @@
       "thruplay": 0
     },
     {
-      "name": "Tem dias que o corpo",
-      "impressions": 3593,
-      "reach": 3113,
-      "clicks": 263,
+      "name": "Seu cabelo - reconhecimento",
+      "impressions": 3827,
+      "reach": 3654,
+      "clicks": 84,
       "messages": 0,
-      "ctr": 7.32,
-      "thruplay": 137
+      "ctr": 2.19,
+      "thruplay": 697
     },
     {
       "name": "Tem dias que o corpo",
-      "impressions": 3524,
-      "reach": 2456,
-      "clicks": 82,
-      "messages": 8,
-      "ctr": 2.33,
-      "thruplay": 115
+      "impressions": 3155,
+      "reach": 2280,
+      "clicks": 71,
+      "messages": 4,
+      "ctr": 2.25,
+      "thruplay": 100
+    },
+    {
+      "name": "Tem dias que o corpo",
+      "impressions": 2545,
+      "reach": 2294,
+      "clicks": 207,
+      "messages": 0,
+      "ctr": 8.13,
+      "thruplay": 94
     },
     {
       "name": "Tem dias que o corpo — Cópia",
-      "impressions": 1510,
-      "reach": 1019,
-      "clicks": 66,
-      "messages": 7,
-      "ctr": 4.37,
-      "thruplay": 104
+      "impressions": 1212,
+      "reach": 825,
+      "clicks": 42,
+      "messages": 5,
+      "ctr": 3.47,
+      "thruplay": 77
     },
     {
       "name": "Sextou",
@@ -195,11 +195,11 @@
     },
     "age": {
       "18-24": 0,
-      "25-34": 31,
+      "25-34": 33,
       "35-44": 20,
       "45-54": 14,
       "55-64": 18,
-      "65+": 17
+      "65+": 16
     }
   },
   "campaigns_active": [],
@@ -208,5 +208,7 @@
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": []
+  "auto_flags": [
+    "spend_delta_over_50"
+  ]
 }
