@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "account_id": "act_1377904143357140",
+    "account_name": "LACES Origens",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-17T17:22:24.939Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-10",
+      "until": "2026-11-16",
+      "label_pt": "10 nov a 16 nov"
+    },
+    "previous": {
+      "since": "2026-11-03",
+      "until": "2026-11-09"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 635.44,
+      "previous": 394.68,
+      "delta_pct": 61
+    },
+    "impressions": {
+      "current": 19334,
+      "previous": 15465,
+      "delta_pct": 25
+    },
+    "reach": {
+      "current": 13550,
+      "previous": 12161,
+      "delta_pct": 11
+    },
+    "clicks": {
+      "current": 509,
+      "previous": 415,
+      "delta_pct": 23
+    },
+    "ctr": {
+      "current": 2.63,
+      "previous": 2.68,
+      "delta_pct": -2
+    },
+    "cpc": {
+      "current": 1.25,
+      "previous": 0.95,
+      "delta_pct": 32
+    },
+    "thruplay": {
+      "current": 2654,
+      "previous": 2857,
+      "delta_pct": -7
+    },
+    "frequency": {
+      "current": 1.43,
+      "previous": 1.27,
+      "delta_pct": 13
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 17,
+        "previous": 9,
+        "delta_pct": 89
+      },
+      "cost": {
+        "current": 37.38,
+        "previous": 43.85,
+        "delta_pct": -15
+      },
+      "top_creative": {
+        "name": "SMH | Estático",
+        "value": 6
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Contei para vocês",
+      "impressions": 6066,
+      "reach": 4198,
+      "clicks": 247,
+      "messages": 0,
+      "ctr": 4.07,
+      "thruplay": 363
+    },
+    {
+      "name": "Há rituais",
+      "impressions": 4386,
+      "reach": 3828,
+      "clicks": 57,
+      "messages": 0,
+      "ctr": 1.3,
+      "thruplay": 1285
+    },
+    {
+      "name": "SMH | Estático",
+      "impressions": 3199,
+      "reach": 1865,
+      "clicks": 61,
+      "messages": 6,
+      "ctr": 1.91,
+      "thruplay": 2
+    },
+    {
+      "name": "Multiprime",
+      "impressions": 2804,
+      "reach": 2428,
+      "clicks": 21,
+      "messages": 0,
+      "ctr": 0.75,
+      "thruplay": 562
+    },
+    {
+      "name": "Contei para vocês",
+      "impressions": 1540,
+      "reach": 1273,
+      "clicks": 57,
+      "messages": 6,
+      "ctr": 3.7,
+      "thruplay": 173
+    },
+    {
+      "name": "Contei para vocês",
+      "impressions": 931,
+      "reach": 636,
+      "clicks": 54,
+      "messages": 5,
+      "ctr": 5.8,
+      "thruplay": 122
+    },
+    {
+      "name": "Massagens",
+      "impressions": 277,
+      "reach": 254,
+      "clicks": 6,
+      "messages": 0,
+      "ctr": 2.17,
+      "thruplay": 145
+    },
+    {
+      "name": "SMH | Carrossel 5 cards",
+      "impressions": 106,
+      "reach": 89,
+      "clicks": 3,
+      "messages": 0,
+      "ctr": 2.83,
+      "thruplay": 0
+    },
+    {
+      "name": "O que acontece (Comunidade)",
+      "impressions": 25,
+      "reach": 21,
+      "clicks": 3,
+      "messages": 0,
+      "ctr": 12,
+      "thruplay": 2
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 92,
+      "male_pct": 8,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 17,
+      "35-44": 12,
+      "45-54": 18,
+      "55-64": 24,
+      "65+": 29
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 71.64,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "balance_low"
+  ]
+}

@@ -4,79 +4,79 @@
     "account_name": "BIOMA Casa 631",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-16T17:55:03.789Z",
+    "generated_at": "2026-11-17T17:21:09.934Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-09",
-      "until": "2026-11-15",
-      "label_pt": "9 nov a 15 nov"
+      "since": "2026-11-10",
+      "until": "2026-11-16",
+      "label_pt": "10 nov a 16 nov"
     },
     "previous": {
-      "since": "2026-11-02",
-      "until": "2026-11-08"
+      "since": "2026-11-03",
+      "until": "2026-11-09"
     }
   },
   "totals": {
     "spend": {
-      "current": 52.51,
-      "previous": 343.48,
-      "delta_pct": -85
+      "current": 11.66,
+      "previous": 327.06,
+      "delta_pct": -96
     },
     "impressions": {
-      "current": 2650,
-      "previous": 34492,
-      "delta_pct": -92
+      "current": 550,
+      "previous": 28228,
+      "delta_pct": -98
     },
     "reach": {
-      "current": 2091,
-      "previous": 19065,
-      "delta_pct": -89
+      "current": 479,
+      "previous": 16236,
+      "delta_pct": -97
     },
     "clicks": {
-      "current": 123,
-      "previous": 1198,
-      "delta_pct": -90
+      "current": 26,
+      "previous": 1045,
+      "delta_pct": -98
     },
     "ctr": {
-      "current": 4.64,
-      "previous": 3.47,
-      "delta_pct": 34
+      "current": 4.73,
+      "previous": 3.7,
+      "delta_pct": 28
     },
     "cpc": {
-      "current": 0.43,
-      "previous": 0.29,
-      "delta_pct": 48
+      "current": 0.45,
+      "previous": 0.31,
+      "delta_pct": 45
     },
     "thruplay": {
-      "current": 253,
-      "previous": 1727,
-      "delta_pct": -85
+      "current": 47,
+      "previous": 1596,
+      "delta_pct": -97
     },
     "frequency": {
-      "current": 1.27,
-      "previous": 1.81,
-      "delta_pct": -30
+      "current": 1.15,
+      "previous": 1.74,
+      "delta_pct": -34
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 2,
+        "current": 1,
         "previous": 14,
-        "delta_pct": -86
+        "delta_pct": -93
       },
       "cost": {
-        "current": 26.25,
-        "previous": 24.53,
-        "delta_pct": 7
+        "current": 11.66,
+        "previous": 23.36,
+        "delta_pct": -50
       },
       "top_creative": {
         "name": "Seu cabelo",
-        "value": 2
+        "value": 1
       }
     },
     "instagram_visits": {
@@ -98,63 +98,54 @@
   "top_creatives": [
     {
       "name": "Seu cabelo",
-      "impressions": 1047,
-      "reach": 700,
-      "clicks": 12,
-      "messages": 2,
-      "ctr": 1.15,
-      "thruplay": 18
+      "impressions": 268,
+      "reach": 221,
+      "clicks": 3,
+      "messages": 1,
+      "ctr": 1.12,
+      "thruplay": 8
     },
     {
       "name": "Um novo conceito",
-      "impressions": 860,
-      "reach": 733,
-      "clicks": 105,
+      "impressions": 155,
+      "reach": 147,
+      "clicks": 22,
       "messages": 0,
-      "ctr": 12.21,
+      "ctr": 14.19,
       "thruplay": 0
     },
     {
       "name": "Comunidade",
-      "impressions": 440,
-      "reach": 428,
-      "clicks": 4,
+      "impressions": 75,
+      "reach": 75,
+      "clicks": 1,
       "messages": 0,
-      "ctr": 0.91,
-      "thruplay": 105
+      "ctr": 1.33,
+      "thruplay": 14
     },
     {
       "name": "Alguns lugares — Cópia",
-      "impressions": 301,
-      "reach": 285,
-      "clicks": 2,
-      "messages": 0,
-      "ctr": 0.66,
-      "thruplay": 130
-    },
-    {
-      "name": "Aqui no Bioma",
-      "impressions": 2,
-      "reach": 2,
+      "impressions": 52,
+      "reach": 52,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
-      "thruplay": 0
+      "thruplay": 25
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 45,
-      "male_pct": 55,
+      "female_pct": 50,
+      "male_pct": 50,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
       "25-34": 31,
-      "35-44": 20,
-      "45-54": 17,
+      "35-44": 22,
+      "45-54": 19,
       "55-64": 16,
-      "65+": 15
+      "65+": 13
     }
   },
   "campaigns_active": [],

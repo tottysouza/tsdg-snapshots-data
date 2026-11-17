@@ -1,0 +1,213 @@
+{
+  "current": {
+    "accountId": "act_1365837951918266",
+    "saldo": 144.47,
+    "periodo": "custom",
+    "dateRange": {
+      "since": "2026-11-10",
+      "until": "2026-11-16"
+    },
+    "timestamp": "2026-11-17T17:23:24.999Z",
+    "kpis": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    },
+    "ads": [],
+    "genero": {
+      "F": 0,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    },
+    "prev": {
+      "investimento": 94.12,
+      "impressoes": 10480,
+      "alcance": 9286,
+      "cliques": 581,
+      "cpc": 0.16,
+      "cpm": 8.98,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 224,
+      "frequencia": 1.13
+    }
+  },
+  "previous": {
+    "accountId": "act_1365837951918266",
+    "saldo": 144.47,
+    "dateRange": {
+      "since": "2026-11-03",
+      "until": "2026-11-09"
+    },
+    "kpis": {
+      "investimento": 94.12,
+      "impressoes": 10480,
+      "alcance": 9286,
+      "cliques": 581,
+      "cpc": 0.16,
+      "cpm": 8.98,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 224,
+      "frequencia": 1.13
+    },
+    "ads": [
+      {
+        "id": "120250492888900214",
+        "nome": "ANÚNCIO CALENDÁRIO",
+        "status": "CAMPAIGN_PAUSED",
+        "legenda": "Fale com a Mimo 2026-09-23-84ee06da5fde3075b57d63f91c3a4a83",
+        "campId": "120250284209800214",
+        "campanha": "CALENDARIO 26",
+        "adsetId": "120250284209820214",
+        "adset": "Interesses e região",
+        "thumbnail": "https://scontent-atl3-2.xx.fbcdn.net/v/t15.5256-10/822423500_1448910827306845_3733353152215921705_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeFtYUxJGtW1D0xEA1gIvzE_JCN8u1iZ7AIkI3y7WJnsArqfiErE3-J_zvKrgu3yJ1BhlWSyNGUPsSN4PG_q6gwH&_nc_ohc=mbgIrjewXQ4Q7kNvwE_S15C&_nc_oc=AdpALbOWEI6rUzfM3e8Mtd7cPT9M9Jna1M_x3ROyG8WD_KkWE64YXsQyqxNIcOzTowk&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=ACTJxZ4EAAAA&_nc_gid=Mfm8iOiIT2SU53zUC3KLnQ&_nc_tpa=Q5bMBQLm71RnjDshPWi6PuBUGEs5EAfzVJzNpJHqyNhDo4DL1x-H-kqruaA0vrNJOvPC0fYN5Xtouv5RLZs&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQR954TqSAeMGRuO-g4uJLoDwxmEo8iLpQwAvAK7U4yhCA&oe=6B027469",
+        "impressoes": 5391,
+        "alcance": 4832,
+        "cliques": 319,
+        "mensagens": 0,
+        "thruplay": 142,
+        "investimento": 42.76,
+        "cpc": 0.13,
+        "ctr": 5.92
+      },
+      {
+        "id": "120250503722450214",
+        "nome": "ANÚNCIO BLACK",
+        "status": "CAMPAIGN_PAUSED",
+        "legenda": "⬇️ BAIXE O GUIA 2026-09-24-c99385074fa30823294e19729a309436",
+        "campId": "120250283981570214",
+        "campanha": "BLACK FRIDAY 26",
+        "adsetId": "120250283981700214",
+        "adset": "Interesses e região",
+        "thumbnail": "https://scontent-atl3-2.xx.fbcdn.net/v/t15.5256-10/824393823_1599272381851087_7374020675479865943_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeGVX0Ho_wEGyBfD87vvBNtl4VDaSmZoNh7hUNpKZmg2HjuXk6BoibACkhGTa1f-G7LUqgwrpfoEppKxNa_JWV_I&_nc_ohc=m-R9KFTMJAkQ7kNvwFksXkm&_nc_oc=AdoKy4BBuQiV1DryKnxK9YYY9NdkxHlvTqGREwALBo-WrGtcTvcBJjgKPODki8f8gUM&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=ACTJxZ4EAAAA&_nc_gid=Mfm8iOiIT2SU53zUC3KLnQ&_nc_tpa=Q5bMBQKrDXWlB552SGtFDMVzSZG_tT_l81eGtR2K3KRBlPIqQAlEdMinupkPhd3uXSXPTpO20U7ghM7YUeU&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQRjW2AFc5hFAj9xyWk6mGGza-PkMMA19s20zeitgtYKnA&oe=6B0269B0",
+        "impressoes": 4113,
+        "alcance": 3823,
+        "cliques": 145,
+        "mensagens": 0,
+        "thruplay": 82,
+        "investimento": 30.94,
+        "cpc": 0.21,
+        "ctr": 3.53
+      },
+      {
+        "id": "120250284025200214",
+        "nome": "Sua BF ja comecou?",
+        "status": "CAMPAIGN_PAUSED",
+        "legenda": "🤩 Black Friday MIMO 2026-09-11-2b3476eb37c7d025bb3d3c68abfa2af7",
+        "campId": "120250283981570214",
+        "campanha": "BLACK FRIDAY 26",
+        "adsetId": "120250283981700214",
+        "adset": "Interesses e região",
+        "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t45.1600-4/793935884_28719148607677414_866749684375410460_n.png?stp=dst-jpg_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ff4730&_nc_eui2=AeHsfKnGIJ73PRT9z9inZqAtMxwP0_ZgGcMzHA_T9mAZwzQuE1KJDkM_11iLQE6fmv-yjrqtWlppWMn6T2Y71mxy&_nc_ohc=XKNqQNhj5SUQ7kNvwEqO7ma&_nc_oc=AdowTGLSUczxJ18Nw3_s9BS3j3J6WLx2Zdje7RPw02LCic3hcQ2yNXQdpRttMgr5wEs&_nc_zt=1&_nc_ht=scontent-atl3-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=Mfm8iOiIT2SU53zUC3KLnQ&_nc_tpa=Q5bMBQJpqfPEplPiENYz_-P1sXpNA65UXHSNcJp6XMk5FAyFiQHOch0EPZhrpeqdctrknXTYWvnOkuo6HiA&oh=00_AQS-6YFftAEWVnXW3cN2uoLJDp4BCZF7GPC0TuS00EGfjQ&oe=6B0259AA",
+        "impressoes": 863,
+        "alcance": 723,
+        "cliques": 106,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 18.91,
+        "cpc": 0.18,
+        "ctr": 12.28
+      },
+      {
+        "id": "120250284209810214",
+        "nome": "O calendário",
+        "status": "CAMPAIGN_PAUSED",
+        "legenda": "🤩 Black Friday MIMO 2026-09-11-a61a5437db5413c83e7b021a2d4e0a38",
+        "campId": "120250284209800214",
+        "campanha": "CALENDARIO 26",
+        "adsetId": "120250284209820214",
+        "adset": "Interesses e região",
+        "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t45.1600-4/794032966_28719223144336627_6296912370231584976_n.png?stp=dst-jpg_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ff4730&_nc_eui2=AeEYYYzDOrU2F317BxKYDmmCP5vtE6s074M_m-0TqzTvg9b_V0UTIaJ3n9CQ1QUQ6mPvjkH1zibrntf4JCyBr0pt&_nc_ohc=M-Qk_LfuVygQ7kNvwENC27a&_nc_oc=AdqbMA-v-L8s0xqtJj4Cqr8_NOXS1RLEIqEHToc9HrLbH-k6QjnADJ_L2ns6spAlxXA&_nc_zt=1&_nc_ht=scontent-atl3-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=Mfm8iOiIT2SU53zUC3KLnQ&_nc_tpa=Q5bMBQKpOth14QyRiFoPd9PVwEX0m8RGV8LnB-nN54Yr1wNlVC2PL_23h-BBRSKbgHlnDIWgsNw6bfzxp44&oh=00_AQSq5wHnsO5o-wGC4o0sOXebGsbVxm7PvPxs65uJHCQpAw&oe=6B024F1E",
+        "impressoes": 75,
+        "alcance": 73,
+        "cliques": 11,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 1.31,
+        "cpc": 0.12,
+        "ctr": 14.67
+      },
+      {
+        "id": "120250452370420214",
+        "nome": "A BF ainda está",
+        "status": "CAMPAIGN_PAUSED",
+        "legenda": "🗃️ BAIXE O GUIA 2026-09-21-569a3e3331b5c6e371368ab04cdd2985",
+        "campId": "120250283981570214",
+        "campanha": "BLACK FRIDAY 26",
+        "adsetId": "120250283981700214",
+        "adset": "Interesses e região",
+        "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/819935441_1711458306598422_6035064613543787826_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeEgoVeq92S9Q2lRYXiwTS-t5C4Px-rgiIHkLg_H6uCIgSLL1yOzkuqX1uxVTWi9G15SeBmQlOw8jf9Z0ufZTgKK&_nc_ohc=H7AzayjEkuUQ7kNvwE6NyV6&_nc_oc=Adrzjcwz91BxjzEHQnXJKDPpZD2nkwiiD75TuZ1jmsFA7LlmOx_KjAAGEi6mRmCglLE&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=Mfm8iOiIT2SU53zUC3KLnQ&_nc_tpa=Q5bMBQIkfOyy7vDnblt3D2NwED53srYwUIzY4NCEJ2rYhan5HSXy5eKIn1RXmj06-NKf3vj1hICSl50YQRc&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQRxMFlFYpyJVlaKbZQxXgiveYFq58-clITOymcmLM7ibg&oe=6B025047",
+        "impressoes": 29,
+        "alcance": 29,
+        "cliques": 0,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 0.16,
+        "cpc": 0,
+        "ctr": 0
+      },
+      {
+        "id": "120250452473840214",
+        "nome": "O último trimestre",
+        "status": "CAMPAIGN_PAUSED",
+        "legenda": "📥 BAIXE O CALENDÁRIO 2026-09-21-d95d92e5256566e1809ed9e017cf1a35",
+        "campId": "120250284209800214",
+        "campanha": "CALENDARIO 26",
+        "adsetId": "120250284209820214",
+        "adset": "Interesses e região",
+        "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/819942958_1396205898774664_5413589486630276178_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeHIWNgYMCnv9mF4QpQo9l023fjOPyXUG1Pd-M4_JdQbU0roLp5Yc-k0i-eS-ATpzVxjVwxgrmMEbIc3j-O-OtUb&_nc_ohc=QRMfrnT3KGAQ7kNvwFGmdYY&_nc_oc=Adrp2k_MXozCUJrQebVGUxun2MsnJ8s5RxYh2C2DoG9XeCWogfe6QqiFWGIBYq7aYwA&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=ACTJxZ4EAAAA&_nc_gid=Mfm8iOiIT2SU53zUC3KLnQ&_nc_tpa=Q5bMBQJSrX4VXIszAzjUKEoOqblTysw2NvXI6KbEqgjWqXze7FINKsv3BsACxVydzgs71tzkLYeUrr0atJY&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQQnL55JShMSjbpC8E5vw92qiJexK071vpQAcOA9nX_bNw&oe=6B0278D3",
+        "impressoes": 9,
+        "alcance": 9,
+        "cliques": 0,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 0.04,
+        "cpc": 0,
+        "ctr": 0
+      }
+    ],
+    "genero": {
+      "F": 20,
+      "M": 80,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 4,
+      "35-44": 4,
+      "45-54": 7,
+      "55-64": 23,
+      "65+": 62
+    },
+    "periodo": "custom",
+    "timestamp": "2026-11-17T17:23:29.189Z",
+    "prev": {
+      "investimento": 293.18,
+      "impressoes": 29554,
+      "alcance": 24009,
+      "cliques": 1787,
+      "cpc": 0.16,
+      "cpm": 9.92,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 460,
+      "frequencia": 1.23
+    }
+  }
+}

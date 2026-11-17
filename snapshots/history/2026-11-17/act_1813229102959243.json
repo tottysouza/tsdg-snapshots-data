@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "account_id": "act_1813229102959243",
+    "account_name": "MORINGA Hair",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-17T17:23:11.263Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-10",
+      "until": "2026-11-16",
+      "label_pt": "10 nov a 16 nov"
+    },
+    "previous": {
+      "since": "2026-11-03",
+      "until": "2026-11-09"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 182.74,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "impressions": {
+      "current": 10130,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "reach": {
+      "current": 6451,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "clicks": {
+      "current": 414,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "ctr": {
+      "current": 4.09,
+      "previous": null,
+      "delta_pct": null
+    },
+    "cpc": {
+      "current": 0.44,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "thruplay": {
+      "current": 837,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "frequency": {
+      "current": 1.57,
+      "previous": 0,
+      "delta_pct": null
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 5,
+        "previous": 0,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": 36.55,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": {
+        "name": "BLACK Moringa 2026",
+        "value": 3
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Lumière Point",
+      "impressions": 4495,
+      "reach": 3405,
+      "clicks": 211,
+      "messages": 0,
+      "ctr": 4.69,
+      "thruplay": 245
+    },
+    {
+      "name": "BLACK Moringa 2026",
+      "impressions": 2664,
+      "reach": 1811,
+      "clicks": 80,
+      "messages": 3,
+      "ctr": 3,
+      "thruplay": 322
+    },
+    {
+      "name": "Black Moringa 2026",
+      "impressions": 1327,
+      "reach": 1187,
+      "clicks": 59,
+      "messages": 0,
+      "ctr": 4.45,
+      "thruplay": 151
+    },
+    {
+      "name": "Naturalíssima",
+      "impressions": 804,
+      "reach": 632,
+      "clicks": 39,
+      "messages": 0,
+      "ctr": 4.85,
+      "thruplay": 68
+    },
+    {
+      "name": "Lumière Point",
+      "impressions": 770,
+      "reach": 647,
+      "clicks": 23,
+      "messages": 2,
+      "ctr": 2.99,
+      "thruplay": 46
+    },
+    {
+      "name": "Naturalíssima 2",
+      "impressions": 70,
+      "reach": 63,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 2.86,
+      "thruplay": 5
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 93,
+      "male_pct": 6,
+      "unknown_pct": 1
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 13,
+      "35-44": 19,
+      "45-54": 26,
+      "55-64": 20,
+      "65+": 18
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 27.71,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}
