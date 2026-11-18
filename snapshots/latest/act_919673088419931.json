@@ -4,7 +4,7 @@
     "account_name": "BIOMA Silvio Amaral",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-17T17:22:13.181Z",
+    "generated_at": "2026-11-18T16:56:35.693Z",
     "fetch_status": "failed",
     "fetch_source": "github_actions",
     "notes": [
@@ -14,13 +14,13 @@
   },
   "period": {
     "current": {
-      "since": "2026-11-10",
-      "until": "2026-11-16",
-      "label_pt": "10 nov a 16 nov"
+      "since": "2026-11-11",
+      "until": "2026-11-17",
+      "label_pt": "11 nov a 17 nov"
     },
     "previous": {
-      "since": "2026-11-03",
-      "until": "2026-11-09"
+      "since": "2026-11-04",
+      "until": "2026-11-10"
     }
   },
   "totals": {

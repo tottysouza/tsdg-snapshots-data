@@ -4,61 +4,61 @@
     "account_name": "MIMO Live Sales",
     "segment": "TECH",
     "template": "MIMO",
-    "generated_at": "2026-11-17T17:23:29.196Z",
+    "generated_at": "2026-11-18T16:57:23.986Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-10",
-      "until": "2026-11-16",
-      "label_pt": "10 nov a 16 nov"
+      "since": "2026-11-11",
+      "until": "2026-11-17",
+      "label_pt": "11 nov a 17 nov"
     },
     "previous": {
-      "since": "2026-11-03",
-      "until": "2026-11-09"
+      "since": "2026-11-04",
+      "until": "2026-11-10"
     }
   },
   "totals": {
     "spend": {
       "current": 0,
-      "previous": 94.12,
+      "previous": 60.98,
       "delta_pct": -100
     },
     "impressions": {
       "current": 0,
-      "previous": 10480,
+      "previous": 6937,
       "delta_pct": -100
     },
     "reach": {
       "current": 0,
-      "previous": 9286,
+      "previous": 6285,
       "delta_pct": -100
     },
     "clicks": {
       "current": 0,
-      "previous": 581,
+      "previous": 344,
       "delta_pct": -100
     },
     "ctr": {
       "current": null,
-      "previous": 5.54,
+      "previous": 4.96,
       "delta_pct": null
     },
     "cpc": {
       "current": 0,
-      "previous": 0.16,
+      "previous": 0.18,
       "delta_pct": -100
     },
     "thruplay": {
       "current": 0,
-      "previous": 224,
+      "previous": 139,
       "delta_pct": -100
     },
     "frequency": {
       "current": 0,
-      "previous": 1.13,
+      "previous": 1.1,
       "delta_pct": -100
     }
   },

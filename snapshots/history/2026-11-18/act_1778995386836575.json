@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_1778995386836575",
+    "account_name": "BIOMA Jackeline",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-18T16:55:43.187Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-11",
+      "until": "2026-11-17",
+      "label_pt": "11 nov a 17 nov"
+    },
+    "previous": {
+      "since": "2026-11-04",
+      "until": "2026-11-10"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 117.23,
+      "previous": 222.9,
+      "delta_pct": -47
+    },
+    "impressions": {
+      "current": 6710,
+      "previous": 13498,
+      "delta_pct": -50
+    },
+    "reach": {
+      "current": 5536,
+      "previous": 11507,
+      "delta_pct": -52
+    },
+    "clicks": {
+      "current": 212,
+      "previous": 508,
+      "delta_pct": -58
+    },
+    "ctr": {
+      "current": 3.16,
+      "previous": 3.76,
+      "delta_pct": -16
+    },
+    "cpc": {
+      "current": 0.55,
+      "previous": 0.44,
+      "delta_pct": 25
+    },
+    "thruplay": {
+      "current": 553,
+      "previous": 1375,
+      "delta_pct": -60
+    },
+    "frequency": {
+      "current": 1.21,
+      "previous": 1.17,
+      "delta_pct": 3
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 4,
+        "previous": 13,
+        "delta_pct": -69
+      },
+      "cost": {
+        "current": 29.31,
+        "previous": 17.15,
+        "delta_pct": 71
+      },
+      "top_creative": {
+        "name": "O poder da transformação",
+        "value": 2
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Quem vive",
+      "impressions": 2573,
+      "reach": 2254,
+      "clicks": 83,
+      "messages": 0,
+      "ctr": 3.23,
+      "thruplay": 0
+    },
+    {
+      "name": "Tem dias que o corpo",
+      "impressions": 1320,
+      "reach": 1096,
+      "clicks": 26,
+      "messages": 1,
+      "ctr": 1.97,
+      "thruplay": 41
+    },
+    {
+      "name": "Sextou",
+      "impressions": 708,
+      "reach": 642,
+      "clicks": 43,
+      "messages": 0,
+      "ctr": 6.07,
+      "thruplay": 36
+    },
+    {
+      "name": "O poder da transformação",
+      "impressions": 554,
+      "reach": 446,
+      "clicks": 22,
+      "messages": 2,
+      "ctr": 3.97,
+      "thruplay": 45
+    },
+    {
+      "name": "Tem dias que o corpo",
+      "impressions": 486,
+      "reach": 453,
+      "clicks": 32,
+      "messages": 0,
+      "ctr": 6.58,
+      "thruplay": 12
+    },
+    {
+      "name": "Beleza à brasileira",
+      "impressions": 415,
+      "reach": 170,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 340
+    },
+    {
+      "name": "Seu cabelo - reconhecimento",
+      "impressions": 319,
+      "reach": 314,
+      "clicks": 4,
+      "messages": 0,
+      "ctr": 1.25,
+      "thruplay": 64
+    },
+    {
+      "name": "Terapias capilares (Comunidade)",
+      "impressions": 176,
+      "reach": 127,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 1.14,
+      "thruplay": 0
+    },
+    {
+      "name": "Nosso jardim floresceu",
+      "impressions": 62,
+      "reach": 62,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 7
+    },
+    {
+      "name": "Você conhece o Shirobalance",
+      "impressions": 51,
+      "reach": 41,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 2
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 75,
+      "male_pct": 25,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 38,
+      "35-44": 22,
+      "45-54": 13,
+      "55-64": 14,
+      "65+": 14
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 23.1,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

@@ -4,78 +4,78 @@
     "account_name": "BIOMA Jackeline",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-17T17:21:20.673Z",
+    "generated_at": "2026-11-18T16:55:43.187Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-10",
-      "until": "2026-11-16",
-      "label_pt": "10 nov a 16 nov"
+      "since": "2026-11-11",
+      "until": "2026-11-17",
+      "label_pt": "11 nov a 17 nov"
     },
     "previous": {
-      "since": "2026-11-03",
-      "until": "2026-11-09"
+      "since": "2026-11-04",
+      "until": "2026-11-10"
     }
   },
   "totals": {
     "spend": {
-      "current": 176.76,
-      "previous": 163.37,
-      "delta_pct": 8
+      "current": 117.23,
+      "previous": 222.9,
+      "delta_pct": -47
     },
     "impressions": {
-      "current": 10161,
-      "previous": 10047,
-      "delta_pct": 1
+      "current": 6710,
+      "previous": 13498,
+      "delta_pct": -50
     },
     "reach": {
-      "current": 8049,
-      "previous": 8978,
-      "delta_pct": -10
+      "current": 5536,
+      "previous": 11507,
+      "delta_pct": -52
     },
     "clicks": {
-      "current": 293,
-      "previous": 427,
-      "delta_pct": -31
+      "current": 212,
+      "previous": 508,
+      "delta_pct": -58
     },
     "ctr": {
-      "current": 2.88,
-      "previous": 4.25,
-      "delta_pct": -32
+      "current": 3.16,
+      "previous": 3.76,
+      "delta_pct": -16
     },
     "cpc": {
-      "current": 0.6,
-      "previous": 0.38,
-      "delta_pct": 58
+      "current": 0.55,
+      "previous": 0.44,
+      "delta_pct": 25
     },
     "thruplay": {
-      "current": 858,
-      "previous": 1070,
-      "delta_pct": -20
+      "current": 553,
+      "previous": 1375,
+      "delta_pct": -60
     },
     "frequency": {
-      "current": 1.26,
-      "previous": 1.12,
-      "delta_pct": 12
+      "current": 1.21,
+      "previous": 1.17,
+      "delta_pct": 3
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 6,
-        "previous": 11,
-        "delta_pct": -45
+        "current": 4,
+        "previous": 13,
+        "delta_pct": -69
       },
       "cost": {
-        "current": 29.46,
-        "previous": 14.85,
-        "delta_pct": 98
+        "current": 29.31,
+        "previous": 17.15,
+        "delta_pct": 71
       },
       "top_creative": {
-        "name": "Tem dias que o corpo",
+        "name": "O poder da transformação",
         "value": 2
       }
     },
@@ -98,30 +98,21 @@
   "top_creatives": [
     {
       "name": "Quem vive",
-      "impressions": 3918,
-      "reach": 3266,
-      "clicks": 118,
+      "impressions": 2573,
+      "reach": 2254,
+      "clicks": 83,
       "messages": 0,
-      "ctr": 3.01,
+      "ctr": 3.23,
       "thruplay": 0
     },
     {
       "name": "Tem dias que o corpo",
-      "impressions": 2327,
-      "reach": 1763,
-      "clicks": 46,
-      "messages": 2,
-      "ctr": 1.98,
-      "thruplay": 66
-    },
-    {
-      "name": "Seu cabelo - reconhecimento",
-      "impressions": 711,
-      "reach": 711,
-      "clicks": 7,
-      "messages": 0,
-      "ctr": 0.98,
-      "thruplay": 139
+      "impressions": 1320,
+      "reach": 1096,
+      "clicks": 26,
+      "messages": 1,
+      "ctr": 1.97,
+      "thruplay": 41
     },
     {
       "name": "Sextou",
@@ -133,24 +124,6 @@
       "thruplay": 36
     },
     {
-      "name": "Tem dias que o corpo",
-      "impressions": 628,
-      "reach": 583,
-      "clicks": 44,
-      "messages": 0,
-      "ctr": 7.01,
-      "thruplay": 21
-    },
-    {
-      "name": "Beleza à brasileira",
-      "impressions": 615,
-      "reach": 246,
-      "clicks": 1,
-      "messages": 0,
-      "ctr": 0.16,
-      "thruplay": 521
-    },
-    {
       "name": "O poder da transformação",
       "impressions": 554,
       "reach": 446,
@@ -160,22 +133,40 @@
       "thruplay": 45
     },
     {
-      "name": "Terapias capilares (Comunidade)",
-      "impressions": 287,
-      "reach": 180,
-      "clicks": 6,
+      "name": "Tem dias que o corpo",
+      "impressions": 486,
+      "reach": 453,
+      "clicks": 32,
       "messages": 0,
-      "ctr": 2.09,
-      "thruplay": 0
+      "ctr": 6.58,
+      "thruplay": 12
     },
     {
-      "name": "Tem dias que o corpo — Cópia",
-      "impressions": 257,
-      "reach": 228,
-      "clicks": 6,
-      "messages": 2,
-      "ctr": 2.33,
-      "thruplay": 15
+      "name": "Beleza à brasileira",
+      "impressions": 415,
+      "reach": 170,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 340
+    },
+    {
+      "name": "Seu cabelo - reconhecimento",
+      "impressions": 319,
+      "reach": 314,
+      "clicks": 4,
+      "messages": 0,
+      "ctr": 1.25,
+      "thruplay": 64
+    },
+    {
+      "name": "Terapias capilares (Comunidade)",
+      "impressions": 176,
+      "reach": 127,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 1.14,
+      "thruplay": 0
     },
     {
       "name": "Nosso jardim floresceu",
@@ -185,28 +176,39 @@
       "messages": 0,
       "ctr": 0,
       "thruplay": 7
+    },
+    {
+      "name": "Você conhece o Shirobalance",
+      "impressions": 51,
+      "reach": 41,
+      "clicks": 0,
+      "messages": 0,
+      "ctr": 0,
+      "thruplay": 2
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 74,
+      "female_pct": 75,
       "male_pct": 25,
-      "unknown_pct": 1
+      "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 39,
+      "25-34": 38,
       "35-44": 22,
-      "45-54": 12,
+      "45-54": 13,
       "55-64": 14,
-      "65+": 13
+      "65+": 14
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 340.13,
+    "balance_brl": 23.1,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": []
+  "auto_flags": [
+    "balance_low"
+  ]
 }

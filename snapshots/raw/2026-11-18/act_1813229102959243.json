@@ -1,0 +1,213 @@
+{
+  "current": {
+    "accountId": "act_1813229102959243",
+    "saldo": 25.73,
+    "dateRange": {
+      "since": "2026-11-11",
+      "until": "2026-11-17"
+    },
+    "kpis": {
+      "investimento": 247.74,
+      "impressoes": 12597,
+      "alcance": 7346,
+      "cliques": 524,
+      "cpc": 0.47,
+      "cpm": 19.67,
+      "mensagens": 8,
+      "cpa": 30.97,
+      "thruplay": 1107,
+      "frequencia": 1.71
+    },
+    "ads": [
+      {
+        "id": "120253456273450723",
+        "nome": "Lumière Point",
+        "status": "ACTIVE",
+        "legenda": "Eu me realizo trazendo luz.\n\nTalvez essa seja a minha maior arte: iluminar cabelos sem apagar ident 2026-11-13-ff2aa706cfd13295169b6352fc63a797",
+        "campId": "120253455228860723",
+        "campanha": "02. MEIO | BLACK Moringa 26",
+        "adsetId": "120253455228840723",
+        "adset": "LL1% e VV + INSTA",
+        "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/896716908_1147235507792302_1603433094242631009_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeED9xH-ijsfCaXk2JNvR9KpwFABkGokewnAUAGQaiR7CdGsq8dY9sgbT_q7BaBd9tR52H0CncK2W8seI5k8mdbx&_nc_ohc=s2vlde9rSggQ7kNvwGBh5iP&_nc_oc=AdoX-zKVtxu9EhJquH0NZKiatA3hTEnVFoRu23H55TTwNAItT9c5x2PjPbFi1doOMoQ&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=UtYbOHoQBPzeLidu_t9gVA&_nc_tpa=Q5bMBQL4ZkwbAATS427bbouHPwYK_dgDfd-t8_vl7eRbTNSE30U0dQma7yhFqCut_KUQupxJwIfuhsR8Cac&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQTAIHRORVrsRmyPaAiWU69hUrK_HJls_Qs4fuhugEz2gQ&oe=6B03A096",
+        "impressoes": 4955,
+        "alcance": 3723,
+        "cliques": 233,
+        "mensagens": 0,
+        "thruplay": 264,
+        "investimento": 48.42,
+        "cpc": 0.21,
+        "ctr": 4.7
+      },
+      {
+        "id": "120253456380560723",
+        "nome": "BLACK Moringa 2026",
+        "status": "ACTIVE",
+        "legenda": "📅 Agende seu Horário 2026-11-17-4b8ce2270622d45019148604924b86e9",
+        "campId": "120253456380540723",
+        "campanha": "03. FUNDO | BLACK Moringa 26 | WhatsApp",
+        "adsetId": "120253456380550723",
+        "adset": "TP + INSTA + VV + Clientes + Assistiu Black",
+        "thumbnail": "https://scontent-atl3-2.xx.fbcdn.net/v/t15.5256-10/895982777_1155926650634462_7412696754976156489_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeG5IeJ2ePeFR0mXBZYNknauC1KY79-91xYLUpjv373XFgPA1kcWAN-yBMuaO5Lhw_bxcaelLjlHK2XoAOpEPwmd&_nc_ohc=S3D2cmsU-jYQ7kNvwHp4j01&_nc_oc=AdpWOx8yS3dIzKBUfn0T7GE8s6wH0aL09OXLZj8qGCbi6EQqZyafa3AF9H35oHwUN0o&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=UtYbOHoQBPzeLidu_t9gVA&_nc_tpa=Q5bMBQLpYoslACaw1nm3KVpVEMk4ZI93kEDE1DbMURKSNEeTbBPvQMzN2OoifIvsMPHErC0K40q8IVAe9iE&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQQA1dlAX8WN524k0wzGqP__GpsHPW27nKqfphQJLKQVwQ&oe=6B039F98",
+        "impressoes": 3316,
+        "alcance": 2081,
+        "cliques": 97,
+        "mensagens": 3,
+        "thruplay": 398,
+        "investimento": 114.07,
+        "cpc": 1.18,
+        "ctr": 2.93
+      },
+      {
+        "id": "120253455228850723",
+        "nome": "Black Moringa 2026",
+        "status": "ACTIVE",
+        "legenda": "🖤 A XOXA DESCEU DA NAVE COM SUA VIRILHA POLÊMICA PARA AVISAR QUE A MAIOR BLACK DO ANO CHEGOU!\n\nA BL 2026-11-13-0acacba1319efd1bbdf627d959ebea24",
+        "campId": "120253455228860723",
+        "campanha": "02. MEIO | BLACK Moringa 26",
+        "adsetId": "120253455228840723",
+        "adset": "LL1% e VV + INSTA",
+        "thumbnail": "https://scontent-atl3-2.xx.fbcdn.net/v/t15.5256-10/895982777_1155926650634462_7412696754976156489_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeG5IeJ2ePeFR0mXBZYNknauC1KY79-91xYLUpjv373XFgPA1kcWAN-yBMuaO5Lhw_bxcaelLjlHK2XoAOpEPwmd&_nc_ohc=S3D2cmsU-jYQ7kNvwHp4j01&_nc_oc=AdpWOx8yS3dIzKBUfn0T7GE8s6wH0aL09OXLZj8qGCbi6EQqZyafa3AF9H35oHwUN0o&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=UtYbOHoQBPzeLidu_t9gVA&_nc_tpa=Q5bMBQL4pRAXsd1oEnTIngy_11gB6II-D4y5L--KsdlGMwJkJLgnfh9qEHYDP3Hzb41artadj0_Q-bBBrI8&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQT91dnHV7yjpozQSSnMP8nFtyqPUVhU7Na-V-tcgMm08w&oe=6B039F98",
+        "impressoes": 1740,
+        "alcance": 1539,
+        "cliques": 87,
+        "mensagens": 0,
+        "thruplay": 205,
+        "investimento": 20.83,
+        "cpc": 0.24,
+        "ctr": 5
+      },
+      {
+        "id": "120253456843940723",
+        "nome": "Lumière Point",
+        "status": "ACTIVE",
+        "legenda": "📅 Agende seu Horário 2026-11-17-2e1d4c3511022344ad9494a8fea5914c",
+        "campId": "120253456380540723",
+        "campanha": "03. FUNDO | BLACK Moringa 26 | WhatsApp",
+        "adsetId": "120253456380550723",
+        "adset": "TP + INSTA + VV + Clientes + Assistiu Black",
+        "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/896716908_1147235507792302_1603433094242631009_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeED9xH-ijsfCaXk2JNvR9KpwFABkGokewnAUAGQaiR7CdGsq8dY9sgbT_q7BaBd9tR52H0CncK2W8seI5k8mdbx&_nc_ohc=s2vlde9rSggQ7kNvwGBh5iP&_nc_oc=AdoX-zKVtxu9EhJquH0NZKiatA3hTEnVFoRu23H55TTwNAItT9c5x2PjPbFi1doOMoQ&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=UtYbOHoQBPzeLidu_t9gVA&_nc_tpa=Q5bMBQIsuPVPBN6BnOULGKwz-5po1D5fWH_RvyFIgD98-RylBgEPlBW4tfuPobIKa03ZncyhMaUxltRjWdw&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQRBbpByfJhpw1RNQsz42xqgi9XNqXyfziURykIe1uHD0Q&oe=6B03A096",
+        "impressoes": 1014,
+        "alcance": 795,
+        "cliques": 31,
+        "mensagens": 3,
+        "thruplay": 67,
+        "investimento": 29.6,
+        "cpc": 0.95,
+        "ctr": 3.06
+      },
+      {
+        "id": "120253456318190723",
+        "nome": "Naturalíssima",
+        "status": "ACTIVE",
+        "legenda": "Ela tinha um sonho: se olhar no espelho e ver mais cabelo, mais volume. ✨\n\nNo aniversário dela, apr 2026-11-13-616d8fed9e9141959bb9098cd48557ba",
+        "campId": "120253455228860723",
+        "campanha": "02. MEIO | BLACK Moringa 26",
+        "adsetId": "120253455228840723",
+        "adset": "LL1% e VV + INSTA",
+        "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/896641814_1929609228026143_6877990472218984152_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeHmMt7PohVXZ_u6G8Ei0Va9cDK9YzZPQXNwMr1jNk9Bc6QfrM92RmKUfY_jHFA_n8LhmNulRkMBJPwHSYZW1Wb0&_nc_ohc=zkbiIY84UOQQ7kNvwHovdHK&_nc_oc=AdqM8kwOCYyBJ55D8CS07b3Zbn0cYI_EXhHsxMyy890k_Ibp2a5nZMUN-j3wAluI7AQ&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=UtYbOHoQBPzeLidu_t9gVA&_nc_tpa=Q5bMBQK0fmNV0_Glrca1AV_Xx_q17XVAf0CZBQpiGGHe1KtcMCMVMzWrfc0Q7_C0Bt_JJOKn9DlqlHOwDkg&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQSmz_XjpbnnqWq1R91lu5arEEZWRKchCWNmE0YEbJgxhg&oe=6B039000",
+        "impressoes": 897,
+        "alcance": 685,
+        "cliques": 47,
+        "mensagens": 0,
+        "thruplay": 81,
+        "investimento": 11.32,
+        "cpc": 0.24,
+        "ctr": 5.24
+      },
+      {
+        "id": "120253456824710723",
+        "nome": "Naturalíssima 2",
+        "status": "ACTIVE",
+        "legenda": "A BLACK MORINGA 2026 está oficialmente aberta!\n\n✨ 1 serviço — 10% OFF\n✨ 2 serviços — 20% OFF\n✨ 3 ou 2026-11-17-3c292cd5e43f73a0886f1be9bf834ce5",
+        "campId": "120253456380540723",
+        "campanha": "03. FUNDO | BLACK Moringa 26 | WhatsApp",
+        "adsetId": "120253456380550723",
+        "adset": "TP + INSTA + VV + Clientes + Assistiu Black",
+        "thumbnail": "https://scontent-atl3-2.xx.fbcdn.net/v/t15.5256-10/901334561_2228595181202178_2854364174499404239_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeFa6kObq9vgknshrbVoNycYpxY3qkP1u2CnFjeqQ_W7YP8gRicTtOzugPrWJuAQSXkDL-3lWRnfiEr5j0J06awL&_nc_ohc=gcyd4qMSdZ0Q7kNvwGvcB1O&_nc_oc=AdrrPy6fkjC4yFyVHLF_P8igIc-fF3nD-kKdTNNO-hAUorBlrfbdJei3n5jknU_o6tI&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=UtYbOHoQBPzeLidu_t9gVA&_nc_tpa=Q5bMBQIfV3I-bD-1VwD5V8Al26w-Z2BYXT_JBXpZNn0H92hnDr906nHQRwBVsVnxEzXqvuNVH7hy2HFR9s4&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQTComyZfSO-Mva8tSxyN40_NBI62rTDuy4t80lUK7UW2Q&oe=6B0396CF",
+        "impressoes": 675,
+        "alcance": 527,
+        "cliques": 29,
+        "mensagens": 2,
+        "thruplay": 92,
+        "investimento": 23.5,
+        "cpc": 0.81,
+        "ctr": 4.3
+      }
+    ],
+    "genero": {
+      "F": 94,
+      "M": 5,
+      "U": 1
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 12,
+      "35-44": 19,
+      "45-54": 26,
+      "55-64": 21,
+      "65+": 19
+    },
+    "periodo": "custom",
+    "timestamp": "2026-11-18T16:57:04.762Z",
+    "prev": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    }
+  },
+  "previous": {
+    "accountId": "act_1813229102959243",
+    "saldo": 25.73,
+    "periodo": "custom",
+    "dateRange": {
+      "since": "2026-11-04",
+      "until": "2026-11-10"
+    },
+    "timestamp": "2026-11-18T16:56:59.154Z",
+    "kpis": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    },
+    "ads": [],
+    "genero": {
+      "F": 0,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    },
+    "prev": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 1,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    }
+  }
+}

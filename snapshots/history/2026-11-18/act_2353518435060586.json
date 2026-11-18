@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "account_id": "act_2353518435060586",
+    "account_name": "BIOMA Elizete Corrêa",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-18T16:55:42.799Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-11",
+      "until": "2026-11-17",
+      "label_pt": "11 nov a 17 nov"
+    },
+    "previous": {
+      "since": "2026-11-04",
+      "until": "2026-11-10"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 463.47,
+      "previous": 439.44,
+      "delta_pct": 5
+    },
+    "impressions": {
+      "current": 30273,
+      "previous": 29315,
+      "delta_pct": 3
+    },
+    "reach": {
+      "current": 21997,
+      "previous": 20258,
+      "delta_pct": 9
+    },
+    "clicks": {
+      "current": 891,
+      "previous": 859,
+      "delta_pct": 4
+    },
+    "ctr": {
+      "current": 2.94,
+      "previous": 2.93,
+      "delta_pct": 0
+    },
+    "cpc": {
+      "current": 0.52,
+      "previous": 0.51,
+      "delta_pct": 2
+    },
+    "thruplay": {
+      "current": 6101,
+      "previous": 6766,
+      "delta_pct": -10
+    },
+    "frequency": {
+      "current": 1.38,
+      "previous": 1.45,
+      "delta_pct": -5
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 56,
+        "previous": 40,
+        "delta_pct": 40
+      },
+      "cost": {
+        "current": 8.28,
+        "previous": 10.99,
+        "delta_pct": -25
+      },
+      "top_creative": {
+        "name": "Morena iluminada",
+        "value": 38
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Sobre curtinho",
+      "impressions": 12868,
+      "reach": 11848,
+      "clicks": 57,
+      "messages": 0,
+      "ctr": 0.44,
+      "thruplay": 4940
+    },
+    {
+      "name": "Morena iluminada",
+      "impressions": 7685,
+      "reach": 4792,
+      "clicks": 309,
+      "messages": 38,
+      "ctr": 4.02,
+      "thruplay": 491
+    },
+    {
+      "name": "Começamos com — Cópia",
+      "impressions": 3933,
+      "reach": 2474,
+      "clicks": 223,
+      "messages": 17,
+      "ctr": 5.67,
+      "thruplay": 0
+    },
+    {
+      "name": "Sua transição",
+      "impressions": 2718,
+      "reach": 2073,
+      "clicks": 160,
+      "messages": 0,
+      "ctr": 5.89,
+      "thruplay": 209
+    },
+    {
+      "name": "E se você pudesse (color veg)",
+      "impressions": 1084,
+      "reach": 786,
+      "clicks": 54,
+      "messages": 0,
+      "ctr": 4.98,
+      "thruplay": 54
+    },
+    {
+      "name": "Protocolo terra fértil",
+      "impressions": 785,
+      "reach": 623,
+      "clicks": 48,
+      "messages": 0,
+      "ctr": 6.11,
+      "thruplay": 35
+    },
+    {
+      "name": "Coloração 100% vegetal",
+      "impressions": 701,
+      "reach": 625,
+      "clicks": 4,
+      "messages": 0,
+      "ctr": 0.57,
+      "thruplay": 250
+    },
+    {
+      "name": "Começamos com",
+      "impressions": 165,
+      "reach": 155,
+      "clicks": 14,
+      "messages": 0,
+      "ctr": 8.48,
+      "thruplay": 30
+    },
+    {
+      "name": "Coloração 100% vegetal",
+      "impressions": 142,
+      "reach": 117,
+      "clicks": 8,
+      "messages": 1,
+      "ctr": 5.63,
+      "thruplay": 35
+    },
+    {
+      "name": "Nossa coloração",
+      "impressions": 85,
+      "reach": 80,
+      "clicks": 7,
+      "messages": 0,
+      "ctr": 8.24,
+      "thruplay": 16
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 89,
+      "male_pct": 11,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 7,
+      "35-44": 13,
+      "45-54": 21,
+      "55-64": 28,
+      "65+": 31
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 419.44,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": []
+}
