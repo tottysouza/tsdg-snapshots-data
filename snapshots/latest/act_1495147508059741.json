@@ -4,45 +4,45 @@
     "account_name": "Espaçolaser Caçapava",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-11-18T16:57:18.030Z",
+    "generated_at": "2026-11-19T17:03:14.260Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-11",
-      "until": "2026-11-17",
-      "label_pt": "11 nov a 17 nov"
+      "since": "2026-11-12",
+      "until": "2026-11-18",
+      "label_pt": "12 nov a 18 nov"
     },
     "previous": {
-      "since": "2026-11-04",
-      "until": "2026-11-10"
+      "since": "2026-11-05",
+      "until": "2026-11-11"
     }
   },
   "totals": {
     "spend": {
-      "current": 385.94,
+      "current": 468.14,
       "previous": 0,
       "delta_pct": null
     },
     "impressions": {
-      "current": 29419,
+      "current": 37466,
       "previous": 0,
       "delta_pct": null
     },
     "reach": {
-      "current": 15309,
+      "current": 18955,
       "previous": 0,
       "delta_pct": null
     },
     "clicks": {
-      "current": 277,
+      "current": 338,
       "previous": 0,
       "delta_pct": null
     },
     "ctr": {
-      "current": 0.94,
+      "current": 0.9,
       "previous": null,
       "delta_pct": null
     },
@@ -52,12 +52,12 @@
       "delta_pct": null
     },
     "thruplay": {
-      "current": 868,
+      "current": 1254,
       "previous": 0,
       "delta_pct": null
     },
     "frequency": {
-      "current": 1.92,
+      "current": 1.98,
       "previous": 0,
       "delta_pct": null
     }
@@ -65,12 +65,12 @@
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 8,
+        "current": 9,
         "previous": 0,
         "delta_pct": null
       },
       "cost": {
-        "current": 48.24,
+        "current": 52.02,
         "previous": null,
         "delta_pct": null
       },
@@ -98,113 +98,113 @@
   "top_creatives": [
     {
       "name": "BLACK | Estático Black da Líder",
-      "impressions": 12070,
-      "reach": 6224,
+      "impressions": 12196,
+      "reach": 6256,
       "clicks": 81,
       "messages": 4,
-      "ctr": 0.67,
+      "ctr": 0.66,
       "thruplay": 0
     },
     {
       "name": "UNIDADE | A partir de R$ 99 (estático)",
-      "impressions": 4076,
-      "reach": 2659,
-      "clicks": 34,
-      "messages": 2,
-      "ctr": 0.83,
+      "impressions": 5437,
+      "reach": 3286,
+      "clicks": 40,
+      "messages": 3,
+      "ctr": 0.74,
       "thruplay": 0
     },
     {
       "name": "Chega de tabu",
-      "impressions": 2251,
-      "reach": 2183,
-      "clicks": 28,
+      "impressions": 3549,
+      "reach": 3281,
+      "clicks": 40,
       "messages": 0,
-      "ctr": 1.24,
-      "thruplay": 411
+      "ctr": 1.13,
+      "thruplay": 639
     },
     {
       "name": "Liberdade nas axilas?",
-      "impressions": 2167,
-      "reach": 1876,
-      "clicks": 28,
+      "impressions": 3543,
+      "reach": 2788,
+      "clicks": 43,
       "messages": 0,
-      "ctr": 1.29,
-      "thruplay": 0
-    },
-    {
-      "name": "BLACK | Arte 02 a partir de R$ 99,90",
-      "impressions": 1933,
-      "reach": 1374,
-      "clicks": 13,
-      "messages": 0,
-      "ctr": 0.67,
+      "ctr": 1.21,
       "thruplay": 0
     },
     {
       "name": "Depilar a região íntima",
-      "impressions": 1919,
-      "reach": 1744,
-      "clicks": 37,
+      "impressions": 2342,
+      "reach": 2082,
+      "clicks": 42,
       "messages": 0,
-      "ctr": 1.93,
-      "thruplay": 314
+      "ctr": 1.79,
+      "thruplay": 376
     },
     {
-      "name": "UNIDADE | 3 sessões (estático)",
-      "impressions": 1357,
-      "reach": 896,
-      "clicks": 12,
-      "messages": 1,
-      "ctr": 0.88,
+      "name": "3 sessões 2",
+      "impressions": 2107,
+      "reach": 1621,
+      "clicks": 11,
+      "messages": 0,
+      "ctr": 0.52,
+      "thruplay": 75
+    },
+    {
+      "name": "BLACK | Arte 02 a partir de R$ 99,90",
+      "impressions": 2014,
+      "reach": 1412,
+      "clicks": 14,
+      "messages": 0,
+      "ctr": 0.7,
       "thruplay": 0
     },
     {
+      "name": "UNIDADE | 3 sessões (estático)",
+      "impressions": 1874,
+      "reach": 1161,
+      "clicks": 14,
+      "messages": 1,
+      "ctr": 0.75,
+      "thruplay": 0
+    },
+    {
+      "name": "Fui conhecer",
+      "impressions": 1107,
+      "reach": 1024,
+      "clicks": 24,
+      "messages": 0,
+      "ctr": 2.17,
+      "thruplay": 30
+    },
+    {
       "name": "BLACK | Reel A mensagem tá dada 80% OFF",
-      "impressions": 864,
-      "reach": 756,
+      "impressions": 947,
+      "reach": 831,
       "clicks": 6,
       "messages": 1,
-      "ctr": 0.69,
-      "thruplay": 22
-    },
-    {
-      "name": "BLACK | Reel Calculadora 80% OFF",
-      "impressions": 692,
-      "reach": 617,
-      "clicks": 4,
-      "messages": 0,
-      "ctr": 0.58,
-      "thruplay": 13
-    },
-    {
-      "name": "A Black da Líder",
-      "impressions": 626,
-      "reach": 569,
-      "clicks": 15,
-      "messages": 0,
-      "ctr": 2.4,
-      "thruplay": 62
+      "ctr": 0.63,
+      "thruplay": 26
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 77,
-      "male_pct": 23,
+      "female_pct": 75,
+      "male_pct": 25,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 36,
-      "35-44": 31,
+      "25-34": 35,
+      "35-44": 29,
       "45-54": 14,
-      "55-64": 8,
-      "65+": 11
+      "55-64": 9,
+      "65+": 12
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 37.35,
+    "balance_brl": 29.62,
     "balance_low": false,
     "account_disabled": false
   },
