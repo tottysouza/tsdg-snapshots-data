@@ -4,75 +4,75 @@
     "account_name": "Espaçolaser Campolim",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-11-19T17:03:12.548Z",
+    "generated_at": "2026-11-20T16:42:14.246Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-12",
-      "until": "2026-11-18",
-      "label_pt": "12 nov a 18 nov"
+      "since": "2026-11-13",
+      "until": "2026-11-19",
+      "label_pt": "13 nov a 19 nov"
     },
     "previous": {
-      "since": "2026-11-05",
-      "until": "2026-11-11"
+      "since": "2026-11-06",
+      "until": "2026-11-12"
     }
   },
   "totals": {
     "spend": {
-      "current": 551.68,
-      "previous": 558.8,
+      "current": 551.87,
+      "previous": 557.04,
       "delta_pct": -1
     },
     "impressions": {
-      "current": 34140,
-      "previous": 38398,
-      "delta_pct": -11
+      "current": 34730,
+      "previous": 36186,
+      "delta_pct": -4
     },
     "reach": {
-      "current": 20615,
-      "previous": 23284,
-      "delta_pct": -11
+      "current": 21602,
+      "previous": 21317,
+      "delta_pct": 1
     },
     "clicks": {
-      "current": 764,
-      "previous": 674,
+      "current": 753,
+      "previous": 664,
       "delta_pct": 13
     },
     "ctr": {
-      "current": 2.24,
-      "previous": 1.76,
-      "delta_pct": 27
+      "current": 2.17,
+      "previous": 1.83,
+      "delta_pct": 19
     },
     "cpc": {
-      "current": 0.72,
-      "previous": 0.83,
+      "current": 0.73,
+      "previous": 0.84,
       "delta_pct": -13
     },
     "thruplay": {
-      "current": 2378,
-      "previous": 2227,
-      "delta_pct": 7
+      "current": 2395,
+      "previous": 2202,
+      "delta_pct": 9
     },
     "frequency": {
-      "current": 1.66,
-      "previous": 1.65,
-      "delta_pct": 1
+      "current": 1.61,
+      "previous": 1.7,
+      "delta_pct": -5
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 31,
-        "previous": 38,
-        "delta_pct": -18
+        "current": 30,
+        "previous": 37,
+        "delta_pct": -19
       },
       "cost": {
-        "current": 17.8,
-        "previous": 14.71,
-        "delta_pct": 21
+        "current": 18.4,
+        "previous": 15.06,
+        "delta_pct": 22
       },
       "top_creative": {
         "name": "Resgate — Cópia FEM",
@@ -98,113 +98,113 @@
   "top_creatives": [
     {
       "name": "De perto",
-      "impressions": 9397,
-      "reach": 8297,
-      "clicks": 21,
+      "impressions": 9406,
+      "reach": 8388,
+      "clicks": 17,
       "messages": 0,
-      "ctr": 0.22,
-      "thruplay": 1868
+      "ctr": 0.18,
+      "thruplay": 1824
     },
     {
       "name": "Resgate — Cópia FEM",
-      "impressions": 5620,
-      "reach": 3611,
-      "clicks": 48,
+      "impressions": 5794,
+      "reach": 3795,
+      "clicks": 52,
       "messages": 8,
-      "ctr": 0.85,
-      "thruplay": 136
+      "ctr": 0.9,
+      "thruplay": 137
     },
     {
       "name": "[BLACK 12x] MEIO pernas inteiras",
-      "impressions": 4088,
-      "reach": 2914,
-      "clicks": 528,
+      "impressions": 3987,
+      "reach": 2810,
+      "clicks": 506,
       "messages": 0,
-      "ctr": 12.92,
-      "thruplay": 0
-    },
-    {
-      "name": "[BLACK 04] 03 pernas inteiras",
-      "impressions": 2941,
-      "reach": 1951,
-      "clicks": 29,
-      "messages": 2,
-      "ctr": 0.99,
+      "ctr": 12.69,
       "thruplay": 0
     },
     {
       "name": "Resgate",
-      "impressions": 2542,
-      "reach": 1815,
-      "clicks": 24,
+      "impressions": 3614,
+      "reach": 2415,
+      "clicks": 31,
       "messages": 5,
-      "ctr": 0.94,
-      "thruplay": 57
+      "ctr": 0.86,
+      "thruplay": 79
     },
     {
       "name": "Pena que nao e meu caso",
-      "impressions": 2519,
-      "reach": 2121,
-      "clicks": 38,
+      "impressions": 3120,
+      "reach": 2586,
+      "clicks": 44,
       "messages": 7,
-      "ctr": 1.51,
-      "thruplay": 184
+      "ctr": 1.41,
+      "thruplay": 217
     },
     {
       "name": "[BLACK+] 03 pernas inteiras",
-      "impressions": 2422,
-      "reach": 1593,
-      "clicks": 26,
+      "impressions": 2675,
+      "reach": 1684,
+      "clicks": 30,
       "messages": 3,
-      "ctr": 1.07,
+      "ctr": 1.12,
+      "thruplay": 0
+    },
+    {
+      "name": "[BLACK 04] 03 pernas inteiras",
+      "impressions": 2136,
+      "reach": 1489,
+      "clicks": 25,
+      "messages": 1,
+      "ctr": 1.17,
       "thruplay": 0
     },
     {
       "name": "Segredos",
-      "impressions": 1378,
-      "reach": 893,
-      "clicks": 23,
+      "impressions": 1379,
+      "reach": 892,
+      "clicks": 22,
       "messages": 3,
-      "ctr": 1.67,
-      "thruplay": 72
+      "ctr": 1.6,
+      "thruplay": 68
     },
     {
       "name": "[BLACK 04] 02 a partir de R$ 99,90",
-      "impressions": 1311,
-      "reach": 835,
-      "clicks": 15,
+      "impressions": 1202,
+      "reach": 778,
+      "clicks": 14,
       "messages": 2,
-      "ctr": 1.14,
+      "ctr": 1.16,
       "thruplay": 0
     },
     {
-      "name": "[BLACK 04] 03 pernas inteiras — MASC",
-      "impressions": 792,
-      "reach": 542,
-      "clicks": 6,
-      "messages": 0,
-      "ctr": 0.76,
+      "name": "[BLACK+] 02 a partir de R$ 99,90",
+      "impressions": 368,
+      "reach": 245,
+      "clicks": 3,
+      "messages": 1,
+      "ctr": 0.82,
       "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 40,
-      "male_pct": 59,
+      "female_pct": 41,
+      "male_pct": 58,
       "unknown_pct": 1
     },
     "age": {
       "18-24": 0,
       "25-34": 37,
-      "35-44": 28,
-      "45-54": 16,
+      "35-44": 29,
+      "45-54": 17,
       "55-64": 10,
-      "65+": 9
+      "65+": 8
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 32.15,
+    "balance_brl": 29.92,
     "balance_low": false,
     "account_disabled": false
   },

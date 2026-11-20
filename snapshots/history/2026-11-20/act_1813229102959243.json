@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "account_id": "act_1813229102959243",
+    "account_name": "MORINGA Hair",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-20T16:42:00.705Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-13",
+      "until": "2026-11-19",
+      "label_pt": "13 nov a 19 nov"
+    },
+    "previous": {
+      "since": "2026-11-06",
+      "until": "2026-11-12"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 353.25,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "impressions": {
+      "current": 16801,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "reach": {
+      "current": 8767,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "clicks": {
+      "current": 716,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "ctr": {
+      "current": 4.26,
+      "previous": null,
+      "delta_pct": null
+    },
+    "cpc": {
+      "current": 0.49,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "thruplay": {
+      "current": 1511,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "frequency": {
+      "current": 1.92,
+      "previous": 0,
+      "delta_pct": null
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 14,
+        "previous": 0,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": 25.23,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": {
+        "name": "BLACK Moringa 2026",
+        "value": 4
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Lumière Point",
+      "impressions": 5387,
+      "reach": 3937,
+      "clicks": 256,
+      "messages": 0,
+      "ctr": 4.75,
+      "thruplay": 290
+    },
+    {
+      "name": "BLACK Moringa 2026",
+      "impressions": 3389,
+      "reach": 2095,
+      "clicks": 101,
+      "messages": 4,
+      "ctr": 2.98,
+      "thruplay": 406
+    },
+    {
+      "name": "Black Moringa 2026",
+      "impressions": 2315,
+      "reach": 1980,
+      "clicks": 123,
+      "messages": 0,
+      "ctr": 5.31,
+      "thruplay": 268
+    },
+    {
+      "name": "Naturalíssima 2",
+      "impressions": 2031,
+      "reach": 1208,
+      "clicks": 63,
+      "messages": 3,
+      "ctr": 3.1,
+      "thruplay": 229
+    },
+    {
+      "name": "Naturalíssima",
+      "impressions": 1232,
+      "reach": 889,
+      "clicks": 71,
+      "messages": 0,
+      "ctr": 5.76,
+      "thruplay": 121
+    },
+    {
+      "name": "Lumière Point",
+      "impressions": 1176,
+      "reach": 866,
+      "clicks": 42,
+      "messages": 4,
+      "ctr": 3.57,
+      "thruplay": 73
+    },
+    {
+      "name": "FUNDO_Ha-cabelos",
+      "impressions": 575,
+      "reach": 470,
+      "clicks": 21,
+      "messages": 2,
+      "ctr": 3.65,
+      "thruplay": 55
+    },
+    {
+      "name": "MEIO_LJa-aproveitou-Black",
+      "impressions": 409,
+      "reach": 389,
+      "clicks": 28,
+      "messages": 0,
+      "ctr": 6.85,
+      "thruplay": 45
+    },
+    {
+      "name": "2026-11-17_FUNDO_REELS_PROVA-SOCIAL-produto_Lumiere-Karynne",
+      "impressions": 287,
+      "reach": 243,
+      "clicks": 11,
+      "messages": 1,
+      "ctr": 3.83,
+      "thruplay": 24
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 94,
+      "male_pct": 5,
+      "unknown_pct": 1
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 13,
+      "35-44": 19,
+      "45-54": 26,
+      "55-64": 21,
+      "65+": 19
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 22.53,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

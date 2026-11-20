@@ -4,79 +4,79 @@
     "account_name": "Espaçolaser Bragança",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-11-19T17:03:03.001Z",
+    "generated_at": "2026-11-20T16:42:06.986Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-12",
-      "until": "2026-11-18",
-      "label_pt": "12 nov a 18 nov"
+      "since": "2026-11-13",
+      "until": "2026-11-19",
+      "label_pt": "13 nov a 19 nov"
     },
     "previous": {
-      "since": "2026-11-05",
-      "until": "2026-11-11"
+      "since": "2026-11-06",
+      "until": "2026-11-12"
     }
   },
   "totals": {
     "spend": {
-      "current": 578.37,
-      "previous": 527.28,
-      "delta_pct": 10
+      "current": 568.51,
+      "previous": 559.34,
+      "delta_pct": 2
     },
     "impressions": {
-      "current": 47857,
-      "previous": 38427,
-      "delta_pct": 25
+      "current": 47684,
+      "previous": 41207,
+      "delta_pct": 16
     },
     "reach": {
-      "current": 24779,
-      "previous": 20255,
-      "delta_pct": 22
+      "current": 25144,
+      "previous": 21148,
+      "delta_pct": 19
     },
     "clicks": {
-      "current": 560,
-      "previous": 372,
-      "delta_pct": 51
+      "current": 543,
+      "previous": 412,
+      "delta_pct": 32
     },
     "ctr": {
-      "current": 1.17,
-      "previous": 0.97,
-      "delta_pct": 21
+      "current": 1.14,
+      "previous": 1,
+      "delta_pct": 14
     },
     "cpc": {
-      "current": 1.03,
-      "previous": 1.42,
-      "delta_pct": -27
+      "current": 1.05,
+      "previous": 1.36,
+      "delta_pct": -23
     },
     "thruplay": {
-      "current": 1930,
-      "previous": 1976,
-      "delta_pct": -2
+      "current": 1875,
+      "previous": 2116,
+      "delta_pct": -11
     },
     "frequency": {
-      "current": 1.93,
-      "previous": 1.9,
-      "delta_pct": 2
+      "current": 1.9,
+      "previous": 1.95,
+      "delta_pct": -3
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 50,
-        "previous": 32,
-        "delta_pct": 56
+        "current": 51,
+        "previous": 33,
+        "delta_pct": 55
       },
       "cost": {
-        "current": 11.57,
-        "previous": 16.48,
-        "delta_pct": -30
+        "current": 11.15,
+        "previous": 16.95,
+        "delta_pct": -34
       },
       "top_creative": {
         "name": "[NOV] 3 sessões grátis",
-        "value": 21
+        "value": 19
       }
     },
     "instagram_visits": {
@@ -98,99 +98,99 @@
   "top_creatives": [
     {
       "name": "[NOV] 3 sessões grátis",
-      "impressions": 17308,
-      "reach": 10726,
-      "clicks": 112,
-      "messages": 21,
-      "ctr": 0.65,
-      "thruplay": 356
+      "impressions": 16546,
+      "reach": 10232,
+      "clicks": 102,
+      "messages": 19,
+      "ctr": 0.62,
+      "thruplay": 334
     },
     {
       "name": "A Black da Líder",
-      "impressions": 13609,
-      "reach": 7170,
-      "clicks": 262,
+      "impressions": 11976,
+      "reach": 6559,
+      "clicks": 227,
       "messages": 0,
-      "ctr": 1.93,
-      "thruplay": 2
+      "ctr": 1.9,
+      "thruplay": 3
     },
     {
       "name": "[BLACK 04] 01 80% OFF",
-      "impressions": 5574,
-      "reach": 2488,
-      "clicks": 43,
-      "messages": 4,
-      "ctr": 0.77,
+      "impressions": 4192,
+      "reach": 2049,
+      "clicks": 34,
+      "messages": 2,
+      "ctr": 0.81,
       "thruplay": 0
     },
     {
       "name": "[NOV] TOPO 3 sessões",
-      "impressions": 3307,
-      "reach": 2909,
-      "clicks": 37,
+      "impressions": 3364,
+      "reach": 2972,
+      "clicks": 35,
       "messages": 0,
-      "ctr": 1.12,
-      "thruplay": 1297
+      "ctr": 1.04,
+      "thruplay": 1247
     },
     {
       "name": "[BLACK+] 02 a partir de R$ 99,90",
-      "impressions": 2145,
-      "reach": 1376,
-      "clicks": 9,
+      "impressions": 2246,
+      "reach": 1404,
+      "clicks": 10,
       "messages": 2,
-      "ctr": 0.42,
+      "ctr": 0.45,
       "thruplay": 0
     },
     {
-      "name": "2026-11-18_FUNDO_REELS_OFERTA-quente_3-sessoes-agenda",
-      "impressions": 1133,
-      "reach": 1005,
-      "clicks": 5,
-      "messages": 1,
-      "ctr": 0.44,
-      "thruplay": 22
+      "name": "2026-11-18_FUNDO_REELS_OBJECAO-quente_3-sessoes-gratis",
+      "impressions": 1855,
+      "reach": 1524,
+      "clicks": 8,
+      "messages": 2,
+      "ctr": 0.43,
+      "thruplay": 43
     },
     {
-      "name": "[BLACK 04] 05 combo virilha + ânus",
-      "impressions": 988,
-      "reach": 788,
-      "clicks": 9,
+      "name": "2026-11-18_FUNDO_REELS_OFERTA-quente_3-sessoes-agenda",
+      "impressions": 1767,
+      "reach": 1489,
+      "clicks": 7,
+      "messages": 1,
+      "ctr": 0.4,
+      "thruplay": 38
+    },
+    {
+      "name": "Mudamos para te atender",
+      "impressions": 1044,
+      "reach": 959,
+      "clicks": 15,
       "messages": 0,
-      "ctr": 0.91,
+      "ctr": 1.44,
       "thruplay": 0
     },
     {
       "name": "AD03 | Esteticista/Biomédica | Copy principal | arte oficial",
-      "impressions": 722,
-      "reach": 413,
-      "clicks": 29,
-      "messages": 9,
-      "ctr": 4.02,
+      "impressions": 953,
+      "reach": 471,
+      "clicks": 39,
+      "messages": 12,
+      "ctr": 4.09,
       "thruplay": 0
     },
     {
       "name": "[BLACK+] 07 compre 2 leve 3",
-      "impressions": 666,
-      "reach": 439,
+      "impressions": 766,
+      "reach": 493,
       "clicks": 6,
       "messages": 0,
-      "ctr": 0.9,
-      "thruplay": 0
-    },
-    {
-      "name": "[BLACK+] 05 combo virilha + ânus",
-      "impressions": 624,
-      "reach": 372,
-      "clicks": 3,
-      "messages": 0,
-      "ctr": 0.48,
+      "ctr": 0.78,
       "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 77,
-      "male_pct": 23,
+      "female_pct": 76,
+      "male_pct": 24,
       "unknown_pct": 0
     },
     "age": {
@@ -199,12 +199,12 @@
       "35-44": 26,
       "45-54": 16,
       "55-64": 11,
-      "65+": 12
+      "65+": 11
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 265.6,
+    "balance_brl": 341.26,
     "balance_low": false,
     "account_disabled": false
   },
