@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "account_id": "act_1813229102959243",
+    "account_name": "MORINGA Hair",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-21T15:54:54.304Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-14",
+      "until": "2026-11-20",
+      "label_pt": "14 nov a 20 nov"
+    },
+    "previous": {
+      "since": "2026-11-07",
+      "until": "2026-11-13"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 359.25,
+      "previous": 36.43,
+      "delta_pct": 886
+    },
+    "impressions": {
+      "current": 16683,
+      "previous": 1999,
+      "delta_pct": 735
+    },
+    "reach": {
+      "current": 8403,
+      "previous": 1531,
+      "delta_pct": 449
+    },
+    "clicks": {
+      "current": 761,
+      "previous": 47,
+      "delta_pct": 1519
+    },
+    "ctr": {
+      "current": 4.56,
+      "previous": 2.35,
+      "delta_pct": 94
+    },
+    "cpc": {
+      "current": 0.47,
+      "previous": 0.78,
+      "delta_pct": -40
+    },
+    "thruplay": {
+      "current": 1588,
+      "previous": 79,
+      "delta_pct": 1910
+    },
+    "frequency": {
+      "current": 1.99,
+      "previous": 1.31,
+      "delta_pct": 52
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 21,
+        "previous": 1,
+        "delta_pct": 2000
+      },
+      "cost": {
+        "current": 17.11,
+        "previous": 36.43,
+        "delta_pct": -53
+      },
+      "top_creative": {
+        "name": "FUNDO_Ha-cabelos",
+        "value": 9
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Lumière Point",
+      "impressions": 5072,
+      "reach": 3725,
+      "clicks": 249,
+      "messages": 0,
+      "ctr": 4.91,
+      "thruplay": 278
+    },
+    {
+      "name": "BLACK Moringa 2026",
+      "impressions": 2770,
+      "reach": 1520,
+      "clicks": 91,
+      "messages": 4,
+      "ctr": 3.29,
+      "thruplay": 388
+    },
+    {
+      "name": "Black Moringa 2026",
+      "impressions": 2158,
+      "reach": 1852,
+      "clicks": 117,
+      "messages": 0,
+      "ctr": 5.42,
+      "thruplay": 262
+    },
+    {
+      "name": "Naturalíssima 2",
+      "impressions": 2019,
+      "reach": 1198,
+      "clicks": 63,
+      "messages": 3,
+      "ctr": 3.12,
+      "thruplay": 228
+    },
+    {
+      "name": "FUNDO_Ha-cabelos",
+      "impressions": 1279,
+      "reach": 869,
+      "clicks": 56,
+      "messages": 9,
+      "ctr": 4.38,
+      "thruplay": 113
+    },
+    {
+      "name": "MEIO_LJa-aproveitou-Black",
+      "impressions": 1183,
+      "reach": 1076,
+      "clicks": 63,
+      "messages": 0,
+      "ctr": 5.33,
+      "thruplay": 108
+    },
+    {
+      "name": "Naturalíssima",
+      "impressions": 941,
+      "reach": 672,
+      "clicks": 60,
+      "messages": 0,
+      "ctr": 6.38,
+      "thruplay": 108
+    },
+    {
+      "name": "Lumière Point",
+      "impressions": 785,
+      "reach": 451,
+      "clicks": 35,
+      "messages": 3,
+      "ctr": 4.46,
+      "thruplay": 62
+    },
+    {
+      "name": "2026-11-17_FUNDO_REELS_PROVA-SOCIAL-produto_Lumiere-Karynne",
+      "impressions": 476,
+      "reach": 362,
+      "clicks": 27,
+      "messages": 2,
+      "ctr": 5.67,
+      "thruplay": 41
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 95,
+      "male_pct": 5,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 12,
+      "35-44": 18,
+      "45-54": 26,
+      "55-64": 23,
+      "65+": 21
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 14.33,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "balance_low"
+  ]
+}

@@ -4,79 +4,79 @@
     "account_name": "MORINGA Hair",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-20T16:42:00.705Z",
+    "generated_at": "2026-11-21T15:54:54.304Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-13",
-      "until": "2026-11-19",
-      "label_pt": "13 nov a 19 nov"
+      "since": "2026-11-14",
+      "until": "2026-11-20",
+      "label_pt": "14 nov a 20 nov"
     },
     "previous": {
-      "since": "2026-11-06",
-      "until": "2026-11-12"
+      "since": "2026-11-07",
+      "until": "2026-11-13"
     }
   },
   "totals": {
     "spend": {
-      "current": 353.25,
-      "previous": 0,
-      "delta_pct": null
+      "current": 359.25,
+      "previous": 36.43,
+      "delta_pct": 886
     },
     "impressions": {
-      "current": 16801,
-      "previous": 0,
-      "delta_pct": null
+      "current": 16683,
+      "previous": 1999,
+      "delta_pct": 735
     },
     "reach": {
-      "current": 8767,
-      "previous": 0,
-      "delta_pct": null
+      "current": 8403,
+      "previous": 1531,
+      "delta_pct": 449
     },
     "clicks": {
-      "current": 716,
-      "previous": 0,
-      "delta_pct": null
+      "current": 761,
+      "previous": 47,
+      "delta_pct": 1519
     },
     "ctr": {
-      "current": 4.26,
-      "previous": null,
-      "delta_pct": null
+      "current": 4.56,
+      "previous": 2.35,
+      "delta_pct": 94
     },
     "cpc": {
-      "current": 0.49,
-      "previous": 0,
-      "delta_pct": null
+      "current": 0.47,
+      "previous": 0.78,
+      "delta_pct": -40
     },
     "thruplay": {
-      "current": 1511,
-      "previous": 0,
-      "delta_pct": null
+      "current": 1588,
+      "previous": 79,
+      "delta_pct": 1910
     },
     "frequency": {
-      "current": 1.92,
-      "previous": 0,
-      "delta_pct": null
+      "current": 1.99,
+      "previous": 1.31,
+      "delta_pct": 52
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 14,
-        "previous": 0,
-        "delta_pct": null
+        "current": 21,
+        "previous": 1,
+        "delta_pct": 2000
       },
       "cost": {
-        "current": 25.23,
-        "previous": null,
-        "delta_pct": null
+        "current": 17.11,
+        "previous": 36.43,
+        "delta_pct": -53
       },
       "top_creative": {
-        "name": "BLACK Moringa 2026",
-        "value": 4
+        "name": "FUNDO_Ha-cabelos",
+        "value": 9
       }
     },
     "instagram_visits": {
@@ -98,108 +98,109 @@
   "top_creatives": [
     {
       "name": "Lumière Point",
-      "impressions": 5387,
-      "reach": 3937,
-      "clicks": 256,
+      "impressions": 5072,
+      "reach": 3725,
+      "clicks": 249,
       "messages": 0,
-      "ctr": 4.75,
-      "thruplay": 290
+      "ctr": 4.91,
+      "thruplay": 278
     },
     {
       "name": "BLACK Moringa 2026",
-      "impressions": 3389,
-      "reach": 2095,
-      "clicks": 101,
+      "impressions": 2770,
+      "reach": 1520,
+      "clicks": 91,
       "messages": 4,
-      "ctr": 2.98,
-      "thruplay": 406
+      "ctr": 3.29,
+      "thruplay": 388
     },
     {
       "name": "Black Moringa 2026",
-      "impressions": 2315,
-      "reach": 1980,
-      "clicks": 123,
+      "impressions": 2158,
+      "reach": 1852,
+      "clicks": 117,
       "messages": 0,
-      "ctr": 5.31,
-      "thruplay": 268
+      "ctr": 5.42,
+      "thruplay": 262
     },
     {
       "name": "Naturalíssima 2",
-      "impressions": 2031,
-      "reach": 1208,
+      "impressions": 2019,
+      "reach": 1198,
       "clicks": 63,
       "messages": 3,
-      "ctr": 3.1,
-      "thruplay": 229
-    },
-    {
-      "name": "Naturalíssima",
-      "impressions": 1232,
-      "reach": 889,
-      "clicks": 71,
-      "messages": 0,
-      "ctr": 5.76,
-      "thruplay": 121
-    },
-    {
-      "name": "Lumière Point",
-      "impressions": 1176,
-      "reach": 866,
-      "clicks": 42,
-      "messages": 4,
-      "ctr": 3.57,
-      "thruplay": 73
+      "ctr": 3.12,
+      "thruplay": 228
     },
     {
       "name": "FUNDO_Ha-cabelos",
-      "impressions": 575,
-      "reach": 470,
-      "clicks": 21,
-      "messages": 2,
-      "ctr": 3.65,
-      "thruplay": 55
+      "impressions": 1279,
+      "reach": 869,
+      "clicks": 56,
+      "messages": 9,
+      "ctr": 4.38,
+      "thruplay": 113
     },
     {
       "name": "MEIO_LJa-aproveitou-Black",
-      "impressions": 409,
-      "reach": 389,
-      "clicks": 28,
+      "impressions": 1183,
+      "reach": 1076,
+      "clicks": 63,
       "messages": 0,
-      "ctr": 6.85,
-      "thruplay": 45
+      "ctr": 5.33,
+      "thruplay": 108
+    },
+    {
+      "name": "Naturalíssima",
+      "impressions": 941,
+      "reach": 672,
+      "clicks": 60,
+      "messages": 0,
+      "ctr": 6.38,
+      "thruplay": 108
+    },
+    {
+      "name": "Lumière Point",
+      "impressions": 785,
+      "reach": 451,
+      "clicks": 35,
+      "messages": 3,
+      "ctr": 4.46,
+      "thruplay": 62
     },
     {
       "name": "2026-11-17_FUNDO_REELS_PROVA-SOCIAL-produto_Lumiere-Karynne",
-      "impressions": 287,
-      "reach": 243,
-      "clicks": 11,
-      "messages": 1,
-      "ctr": 3.83,
-      "thruplay": 24
+      "impressions": 476,
+      "reach": 362,
+      "clicks": 27,
+      "messages": 2,
+      "ctr": 5.67,
+      "thruplay": 41
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 94,
+      "female_pct": 95,
       "male_pct": 5,
-      "unknown_pct": 1
+      "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 13,
-      "35-44": 19,
+      "25-34": 12,
+      "35-44": 18,
       "45-54": 26,
-      "55-64": 21,
-      "65+": 19
+      "55-64": 23,
+      "65+": 21
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 22.53,
+    "balance_brl": 14.33,
     "balance_low": false,
     "account_disabled": false
   },
   "auto_flags": [
+    "spend_delta_over_50",
     "balance_low"
   ]
 }

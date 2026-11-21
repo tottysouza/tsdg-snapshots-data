@@ -4,79 +4,79 @@
     "account_name": "LACES Origens",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-20T16:41:42.633Z",
+    "generated_at": "2026-11-21T15:54:32.684Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-13",
-      "until": "2026-11-19",
-      "label_pt": "13 nov a 19 nov"
+      "since": "2026-11-14",
+      "until": "2026-11-20",
+      "label_pt": "14 nov a 20 nov"
     },
     "previous": {
-      "since": "2026-11-06",
-      "until": "2026-11-12"
+      "since": "2026-11-07",
+      "until": "2026-11-13"
     }
   },
   "totals": {
     "spend": {
-      "current": 755.81,
-      "previous": 416.22,
-      "delta_pct": 82
+      "current": 695.53,
+      "previous": 483.42,
+      "delta_pct": 44
     },
     "impressions": {
-      "current": 20464,
-      "previous": 15670,
-      "delta_pct": 31
+      "current": 18358,
+      "previous": 16546,
+      "delta_pct": 11
     },
     "reach": {
-      "current": 13881,
-      "previous": 11830,
-      "delta_pct": 17
+      "current": 12759,
+      "previous": 12122,
+      "delta_pct": 5
     },
     "clicks": {
-      "current": 525,
-      "previous": 432,
-      "delta_pct": 22
+      "current": 477,
+      "previous": 445,
+      "delta_pct": 7
     },
     "ctr": {
-      "current": 2.57,
-      "previous": 2.76,
-      "delta_pct": -7
+      "current": 2.6,
+      "previous": 2.69,
+      "delta_pct": -3
     },
     "cpc": {
-      "current": 1.44,
-      "previous": 0.96,
-      "delta_pct": 50
+      "current": 1.46,
+      "previous": 1.09,
+      "delta_pct": 34
     },
     "thruplay": {
-      "current": 2377,
-      "previous": 2704,
-      "delta_pct": -12
+      "current": 2065,
+      "previous": 2694,
+      "delta_pct": -23
     },
     "frequency": {
-      "current": 1.47,
-      "previous": 1.32,
-      "delta_pct": 11
+      "current": 1.44,
+      "previous": 1.36,
+      "delta_pct": 6
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 27,
-        "previous": 9,
-        "delta_pct": 200
+        "current": 26,
+        "previous": 13,
+        "delta_pct": 100
       },
       "cost": {
-        "current": 27.99,
-        "previous": 46.25,
-        "delta_pct": -39
+        "current": 26.75,
+        "previous": 37.19,
+        "delta_pct": -28
       },
       "top_creative": {
         "name": "SMH | Estático",
-        "value": 11
+        "value": 8
       }
     },
     "instagram_visits": {
@@ -98,57 +98,66 @@
   "top_creatives": [
     {
       "name": "Contei para vocês",
-      "impressions": 5241,
-      "reach": 3774,
-      "clicks": 202,
+      "impressions": 4462,
+      "reach": 3330,
+      "clicks": 176,
       "messages": 0,
-      "ctr": 3.85,
-      "thruplay": 314
+      "ctr": 3.94,
+      "thruplay": 273
     },
     {
       "name": "Há rituais",
-      "impressions": 4304,
-      "reach": 3793,
-      "clicks": 51,
+      "impressions": 3731,
+      "reach": 3360,
+      "clicks": 43,
       "messages": 0,
-      "ctr": 1.18,
-      "thruplay": 1222
+      "ctr": 1.15,
+      "thruplay": 1009
     },
     {
       "name": "SMH | Estático",
-      "impressions": 3604,
-      "reach": 2153,
-      "clicks": 75,
-      "messages": 11,
+      "impressions": 2638,
+      "reach": 1664,
+      "clicks": 55,
+      "messages": 8,
       "ctr": 2.08,
       "thruplay": 2
     },
     {
       "name": "Multiprime",
-      "impressions": 2144,
-      "reach": 1918,
-      "clicks": 19,
+      "impressions": 1858,
+      "reach": 1677,
+      "clicks": 15,
       "messages": 0,
-      "ctr": 0.89,
-      "thruplay": 400
+      "ctr": 0.81,
+      "thruplay": 342
     },
     {
       "name": "Contei para vocês",
-      "impressions": 1513,
-      "reach": 1238,
-      "clicks": 61,
+      "impressions": 1472,
+      "reach": 1207,
+      "clicks": 63,
       "messages": 7,
-      "ctr": 4.03,
-      "thruplay": 177
+      "ctr": 4.28,
+      "thruplay": 183
+    },
+    {
+      "name": "GF | Vídeo Aminomel v2",
+      "impressions": 827,
+      "reach": 620,
+      "clicks": 18,
+      "messages": 1,
+      "ctr": 2.18,
+      "thruplay": 42
     },
     {
       "name": "Contei para vocês",
-      "impressions": 710,
-      "reach": 512,
-      "clicks": 37,
+      "impressions": 670,
+      "reach": 489,
+      "clicks": 30,
       "messages": 3,
-      "ctr": 5.21,
-      "thruplay": 93
+      "ctr": 4.48,
+      "thruplay": 83
     },
     {
       "name": "Tem dias",
@@ -160,31 +169,22 @@
       "thruplay": 1
     },
     {
-      "name": "GF | Vídeo Aminomel v2",
-      "impressions": 614,
-      "reach": 478,
-      "clicks": 14,
-      "messages": 1,
-      "ctr": 2.28,
-      "thruplay": 31
-    },
-    {
       "name": "SMH | Estático Monique",
-      "impressions": 328,
-      "reach": 243,
-      "clicks": 11,
-      "messages": 2,
-      "ctr": 3.35,
+      "impressions": 447,
+      "reach": 312,
+      "clicks": 15,
+      "messages": 3,
+      "ctr": 3.36,
       "thruplay": 0
     },
     {
-      "name": "Massagens",
-      "impressions": 247,
-      "reach": 233,
-      "clicks": 6,
-      "messages": 0,
-      "ctr": 2.43,
-      "thruplay": 121
+      "name": "GF | Estático Prioridades",
+      "impressions": 347,
+      "reach": 263,
+      "clicks": 4,
+      "messages": 2,
+      "ctr": 1.15,
+      "thruplay": 14
     }
   ],
   "demographics": {
@@ -198,17 +198,15 @@
       "25-34": 17,
       "35-44": 14,
       "45-54": 19,
-      "55-64": 23,
-      "65+": 28
+      "55-64": 22,
+      "65+": 27
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 371.78,
+    "balance_brl": 422.21,
     "balance_low": false,
     "account_disabled": false
   },
-  "auto_flags": [
-    "spend_delta_over_50"
-  ]
+  "auto_flags": []
 }
