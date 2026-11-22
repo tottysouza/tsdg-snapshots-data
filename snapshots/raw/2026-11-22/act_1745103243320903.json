@@ -1,0 +1,194 @@
+{
+  "current": {
+    "accountId": "act_1745103243320903",
+    "saldo": 0,
+    "periodo": "custom",
+    "dateRange": {
+      "since": "2026-11-15",
+      "until": "2026-11-21"
+    },
+    "timestamp": "2026-11-22T15:54:09.628Z",
+    "kpis": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    },
+    "ads": [],
+    "genero": {
+      "F": 0,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    },
+    "prev": {
+      "investimento": 92.26,
+      "impressoes": 5287,
+      "alcance": 3673,
+      "cliques": 243,
+      "cpc": 0.38,
+      "cpm": 17.45,
+      "mensagens": 3,
+      "cpa": 30.75,
+      "thruplay": 474,
+      "frequencia": 1.44
+    }
+  },
+  "previous": {
+    "accountId": "act_1745103243320903",
+    "saldo": 0,
+    "dateRange": {
+      "since": "2026-11-08",
+      "until": "2026-11-14"
+    },
+    "kpis": {
+      "investimento": 92.26,
+      "impressoes": 5287,
+      "alcance": 3673,
+      "cliques": 243,
+      "cpc": 0.38,
+      "cpm": 17.45,
+      "mensagens": 3,
+      "cpa": 30.75,
+      "thruplay": 474,
+      "frequencia": 1.44
+    },
+    "ads": [
+      {
+        "id": "120258021695480595",
+        "nome": "Seu cabelo",
+        "status": "CAMPAIGN_PAUSED",
+        "legenda": "Reserve sua experiência Bioma 💚 2026-09-21-0d095d23395a58e578fea364d3983696",
+        "campId": "120256359292260595",
+        "campanha": "03. FUNDO | Engajamento WhatsApp",
+        "adsetId": "120256359292270595",
+        "adset": "VV + INSTA",
+        "thumbnail": "https://scontent-msp1-1.xx.fbcdn.net/v/t45.1600-4/802627141_28858892447036362_6465228157706727835_n.png?stp=dst-jpg_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ff4730&_nc_eui2=AeGXnrdLKfig0xRtL2sfp3-8fDIt_aNwQqp8Mi39o3BCqndm0NW_LPOzstIrYpRyXSdl0h5H_GeQj-r5lQOgDeCa&_nc_ohc=MYwygHBZEdkQ7kNvwHrzR1h&_nc_oc=AdoHdA94bnwRO3MfVDMWO9oMClP5TlpKJGCam6ezjRajlQKzBIzFvCBs6MBGNIKpIiM&_nc_zt=1&_nc_ht=scontent-msp1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=Ae8-7AuezDVUfm7DlWMwvQ&_nc_tpa=Q5bMBQL0mBjtVW5nEXBROr3EIExK8I22kAXEjB6keT3uuSrZvyhHOYTtdOmsanWq1sQ6eV1dn5wXzEjfXkc&oh=00_AQRuCmCTk5FnpX0wTCneHwsnKtToP9rSfortnPuJeA3icQ&oe=6B08F71C",
+        "impressoes": 2099,
+        "alcance": 1185,
+        "cliques": 31,
+        "mensagens": 3,
+        "thruplay": 34,
+        "investimento": 53.55,
+        "cpc": 1.73,
+        "ctr": 1.48
+      },
+      {
+        "id": "120253287858520595",
+        "nome": "Um novo conceito",
+        "status": "CAMPAIGN_PAUSED",
+        "legenda": "instagram.com 2026-05-28-aa9e2989d0f8a8d52b36393b918b1bd7",
+        "campId": "120253287858540595",
+        "campanha": "02. MEIO | Tráfego Instagram",
+        "adsetId": "120253287858530595",
+        "adset": "TDs",
+        "thumbnail": "https://scontent-msp1-1.xx.fbcdn.net/v/t45.1600-4/709769396_27422047974054157_3134765012730523070_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ff4730&_nc_eui2=AeGeU3q776DuSONki9EE3C3X0qwkT5JxbljSrCRPknFuWNu0INvw_OS7s7QpMfIYWL8wqlgn9QCWayI5k55aCWr0&_nc_ohc=2Y-dssosvYgQ7kNvwGZb-dn&_nc_oc=AdoFHocn7J1YQzMhmvICKfHIfLuRy8iDa80QgitmkcVugBAoa3Vp-hdeLZBxEtncHMk&_nc_zt=1&_nc_ht=scontent-msp1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=Ae8-7AuezDVUfm7DlWMwvQ&_nc_tpa=Q5bMBQLvYpIzlPBz1PA1i8557yYbmE3E8wI6iGRZOfW50PZ5SLizTSs44QnZHl2jgoExeGHvxk03VjlBJaw&oh=00_AQS0wmZ4J1sbIvkv142Qa8-VopawmTmaoKUkjZx49jPfKA&oe=6B08F6E4",
+        "impressoes": 1607,
+        "alcance": 1182,
+        "cliques": 195,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 23.93,
+        "cpc": 0.12,
+        "ctr": 12.13
+      },
+      {
+        "id": "120258076451060595",
+        "nome": "Comunidade",
+        "status": "CAMPAIGN_PAUSED",
+        "legenda": "BIOMA asa 631 2026-09-23-e913f851177be89c14a4bbb83680ef25",
+        "campId": "120253276774080595",
+        "campanha": "01. TOPO | Reconhecimento TP",
+        "adsetId": "120253276774070595",
+        "adset": "TDs",
+        "thumbnail": "https://scontent-msp1-1.xx.fbcdn.net/v/t15.5256-10/815060543_1877602266577836_8393475900171269312_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeEic0z7KtarblAFMBVyKVRlEIwtH3oLIrEQjC0fegsisetmJnFOafFkq1LWLmTaOZHzoBY65yzOWIaME48EDuKm&_nc_ohc=LvA41Q0n8nQQ7kNvwEiCPBn&_nc_oc=Adq3cW6vExN99DyWlgDewsYvI3qlzIVJ2NOcjIfUY2-HOEObbbAcKEbXvrtn8e6iDYY&_nc_zt=23&_nc_ht=scontent-msp1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=Ae8-7AuezDVUfm7DlWMwvQ&_nc_tpa=Q5bMBQJeeHyGN2kCzrbinVeEmH0lStTpZ3TaAIFfN2Oor8tyKDXDnItu92Xy7oECGc7Bc-8-Ifmax-5OsMY&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQRKhLR7-g3r-T42_Ta6z4Vj9sSScuPGjve8rZAlvmOxEw&oe=6B08F218",
+        "impressoes": 988,
+        "alcance": 936,
+        "cliques": 11,
+        "mensagens": 0,
+        "thruplay": 217,
+        "investimento": 7.54,
+        "cpc": 0.69,
+        "ctr": 1.11
+      },
+      {
+        "id": "120254338086500595",
+        "nome": "Alguns lugares — Cópia",
+        "status": "CAMPAIGN_PAUSED",
+        "legenda": "Alguns lugares mudam a forma como você se sente.\nO Casa 631 nasce para ser uma pausa.\n\nUm espaço de 2026-07-21-4fdc0c7ddab86dc9f83d2c97d3813579",
+        "campId": "120253276774080595",
+        "campanha": "01. TOPO | Reconhecimento TP",
+        "adsetId": "120253276774070595",
+        "adset": "TDs",
+        "thumbnail": "https://scontent-msp1-1.xx.fbcdn.net/v/t15.5256-10/753672524_1029704289840929_2978556777958907608_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeEMauAbhcCslLs5QCIEAmcoa7ck7uvc0JZrtyTu69zQllSrLtEdkyo2VmbvO0jQ6v4kDNb3nmYgOVJjFfjzSzcs&_nc_ohc=p8_hCnIlSDIQ7kNvwGG58Zx&_nc_oc=AdpOoQC__tZoNG41Ln4cvP7aKlZ4QU73tCOnvp7yomQ5kCJHcuxOvUPU_cLnZRkJ3-E&_nc_zt=23&_nc_ht=scontent-msp1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=Ae8-7AuezDVUfm7DlWMwvQ&_nc_tpa=Q5bMBQKwjySh9vdheBPtyFzFgAqNfL2hHtAlrJh3iAwnCC8eE2fZRpQ0VtyZ5CG6i145ICYWbi8SHobiyl4&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_AQTfI8GYMMZ6HdovAByp6rKBdQwqME5W9YtRo3bpRYbxyQ&oe=6B08C97F",
+        "impressoes": 591,
+        "alcance": 544,
+        "cliques": 6,
+        "mensagens": 0,
+        "thruplay": 223,
+        "investimento": 7.19,
+        "cpc": 1.2,
+        "ctr": 1.02
+      },
+      {
+        "id": "120258762417290595",
+        "nome": "Aqui no Bioma",
+        "status": "CAMPAIGN_PAUSED",
+        "legenda": "📅 Agende seu Horário 2026-11-03-19a715b11daa594a47da543408013cc7",
+        "campId": "120256359292260595",
+        "campanha": "03. FUNDO | Engajamento WhatsApp",
+        "adsetId": "120256359292270595",
+        "adset": "VV + INSTA",
+        "thumbnail": "https://scontent-msp1-1.xx.fbcdn.net/v/t15.5256-10/887995704_1641388294109345_4418816218742769471_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_eui2=AeHn78E7m7JHufI7guL8vVyOWiyfWr3LhIlaLJ9avcuEib4dSufzPmJDa_o4s0VH8CT-rsWAasCGd1MxJyVLISbb&_nc_ohc=Z8kyFqV0zKsQ7kNvwHVhrH2&_nc_oc=AdrFiqe6GPoxLr-fC1kr-f8lGO1qlDohXlTuA7XME3_LJc-TB9nAoyVCpgloRjUt_A8&_nc_zt=23&_nc_ht=scontent-msp1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=Ae8-7AuezDVUfm7DlWMwvQ&_nc_tpa=Q5bMBQJp5mhsPxddzc-b6LO1PvQORnzcGLL5rsmYyBowIsr2h0JqKdoovyWY-0qfuIB6q2oflXbB0opy0Ho&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQRf1vglvSEznlbdOF_DuJ9WkV1pVO4493lESYfdMYO-kg&oe=6B08D5E1",
+        "impressoes": 2,
+        "alcance": 2,
+        "cliques": 0,
+        "mensagens": 0,
+        "thruplay": 0,
+        "investimento": 0.05,
+        "cpc": 0,
+        "ctr": 0
+      }
+    ],
+    "genero": {
+      "F": 51,
+      "M": 49,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 29,
+      "35-44": 21,
+      "45-54": 19,
+      "55-64": 16,
+      "65+": 15
+    },
+    "periodo": "custom",
+    "timestamp": "2026-11-22T15:54:12.820Z",
+    "prev": {
+      "investimento": 370.91,
+      "impressoes": 40515,
+      "alcance": 22482,
+      "cliques": 1325,
+      "cpc": 0.28,
+      "cpm": 9.15,
+      "mensagens": 13,
+      "cpa": 28.53,
+      "thruplay": 2014,
+      "frequencia": 1.8
+    }
+  }
+}

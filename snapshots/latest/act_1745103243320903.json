@@ -4,46 +4,46 @@
     "account_name": "BIOMA Casa 631",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-21T15:53:22.628Z",
+    "generated_at": "2026-11-22T15:54:12.827Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-14",
-      "until": "2026-11-20",
-      "label_pt": "14 nov a 20 nov"
+      "since": "2026-11-15",
+      "until": "2026-11-21",
+      "label_pt": "15 nov a 21 nov"
     },
     "previous": {
-      "since": "2026-11-07",
-      "until": "2026-11-13"
+      "since": "2026-11-08",
+      "until": "2026-11-14"
     }
   },
   "totals": {
     "spend": {
       "current": 0,
-      "previous": 128.73,
+      "previous": 92.26,
       "delta_pct": -100
     },
     "impressions": {
       "current": 0,
-      "previous": 7690,
+      "previous": 5287,
       "delta_pct": -100
     },
     "reach": {
       "current": 0,
-      "previous": 4791,
+      "previous": 3673,
       "delta_pct": -100
     },
     "clicks": {
       "current": 0,
-      "previous": 335,
+      "previous": 243,
       "delta_pct": -100
     },
     "ctr": {
       "current": null,
-      "previous": 4.36,
+      "previous": 4.6,
       "delta_pct": null
     },
     "cpc": {
@@ -53,12 +53,12 @@
     },
     "thruplay": {
       "current": 0,
-      "previous": 640,
+      "previous": 474,
       "delta_pct": -100
     },
     "frequency": {
       "current": 0,
-      "previous": 1.61,
+      "previous": 1.44,
       "delta_pct": -100
     }
   },
@@ -66,12 +66,12 @@
     "whatsapp_messages": {
       "count": {
         "current": 0,
-        "previous": 5,
+        "previous": 3,
         "delta_pct": -100
       },
       "cost": {
         "current": null,
-        "previous": 25.75,
+        "previous": 30.75,
         "delta_pct": null
       },
       "top_creative": null

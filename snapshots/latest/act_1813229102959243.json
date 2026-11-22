@@ -4,79 +4,79 @@
     "account_name": "MORINGA Hair",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-21T15:54:54.304Z",
+    "generated_at": "2026-11-22T15:55:34.832Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-14",
-      "until": "2026-11-20",
-      "label_pt": "14 nov a 20 nov"
+      "since": "2026-11-15",
+      "until": "2026-11-21",
+      "label_pt": "15 nov a 21 nov"
     },
     "previous": {
-      "since": "2026-11-07",
-      "until": "2026-11-13"
+      "since": "2026-11-08",
+      "until": "2026-11-14"
     }
   },
   "totals": {
     "spend": {
-      "current": 359.25,
-      "previous": 36.43,
-      "delta_pct": 886
+      "current": 362.13,
+      "previous": 70.79,
+      "delta_pct": 412
     },
     "impressions": {
-      "current": 16683,
-      "previous": 1999,
-      "delta_pct": 735
+      "current": 16695,
+      "previous": 3820,
+      "delta_pct": 337
     },
     "reach": {
-      "current": 8403,
-      "previous": 1531,
-      "delta_pct": 449
+      "current": 8529,
+      "previous": 2950,
+      "delta_pct": 189
     },
     "clicks": {
-      "current": 761,
-      "previous": 47,
-      "delta_pct": 1519
+      "current": 765,
+      "previous": 118,
+      "delta_pct": 548
     },
     "ctr": {
-      "current": 4.56,
-      "previous": 2.35,
-      "delta_pct": 94
+      "current": 4.58,
+      "previous": 3.09,
+      "delta_pct": 48
     },
     "cpc": {
       "current": 0.47,
-      "previous": 0.78,
-      "delta_pct": -40
+      "previous": 0.6,
+      "delta_pct": -22
     },
     "thruplay": {
-      "current": 1588,
-      "previous": 79,
-      "delta_pct": 1910
+      "current": 1570,
+      "previous": 247,
+      "delta_pct": 536
     },
     "frequency": {
-      "current": 1.99,
-      "previous": 1.31,
+      "current": 1.96,
+      "previous": 1.29,
       "delta_pct": 52
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 21,
+        "current": 23,
         "previous": 1,
-        "delta_pct": 2000
+        "delta_pct": 2200
       },
       "cost": {
-        "current": 17.11,
-        "previous": 36.43,
-        "delta_pct": -53
+        "current": 15.74,
+        "previous": 70.79,
+        "delta_pct": -78
       },
       "top_creative": {
         "name": "FUNDO_Ha-cabelos",
-        "value": 9
+        "value": 11
       }
     },
     "instagram_visits": {
@@ -98,84 +98,84 @@
   "top_creatives": [
     {
       "name": "Lumière Point",
-      "impressions": 5072,
-      "reach": 3725,
-      "clicks": 249,
+      "impressions": 4237,
+      "reach": 3262,
+      "clicks": 212,
       "messages": 0,
-      "ctr": 4.91,
-      "thruplay": 278
+      "ctr": 5,
+      "thruplay": 242
     },
     {
       "name": "BLACK Moringa 2026",
-      "impressions": 2770,
-      "reach": 1520,
-      "clicks": 91,
+      "impressions": 2283,
+      "reach": 1288,
+      "clicks": 72,
       "messages": 4,
-      "ctr": 3.29,
-      "thruplay": 388
-    },
-    {
-      "name": "Black Moringa 2026",
-      "impressions": 2158,
-      "reach": 1852,
-      "clicks": 117,
-      "messages": 0,
-      "ctr": 5.42,
-      "thruplay": 262
-    },
-    {
-      "name": "Naturalíssima 2",
-      "impressions": 2019,
-      "reach": 1198,
-      "clicks": 63,
-      "messages": 3,
-      "ctr": 3.12,
-      "thruplay": 228
-    },
-    {
-      "name": "FUNDO_Ha-cabelos",
-      "impressions": 1279,
-      "reach": 869,
-      "clicks": 56,
-      "messages": 9,
-      "ctr": 4.38,
-      "thruplay": 113
+      "ctr": 3.15,
+      "thruplay": 297
     },
     {
       "name": "MEIO_LJa-aproveitou-Black",
-      "impressions": 1183,
-      "reach": 1076,
-      "clicks": 63,
+      "impressions": 2018,
+      "reach": 1730,
+      "clicks": 95,
       "messages": 0,
-      "ctr": 5.33,
-      "thruplay": 108
+      "ctr": 4.71,
+      "thruplay": 173
+    },
+    {
+      "name": "Naturalíssima 2",
+      "impressions": 1996,
+      "reach": 1169,
+      "clicks": 63,
+      "messages": 3,
+      "ctr": 3.16,
+      "thruplay": 228
+    },
+    {
+      "name": "Black Moringa 2026",
+      "impressions": 1983,
+      "reach": 1730,
+      "clicks": 111,
+      "messages": 0,
+      "ctr": 5.6,
+      "thruplay": 246
+    },
+    {
+      "name": "FUNDO_Ha-cabelos",
+      "impressions": 1816,
+      "reach": 1145,
+      "clicks": 76,
+      "messages": 11,
+      "ctr": 4.19,
+      "thruplay": 156
     },
     {
       "name": "Naturalíssima",
-      "impressions": 941,
-      "reach": 672,
-      "clicks": 60,
+      "impressions": 881,
+      "reach": 624,
+      "clicks": 61,
       "messages": 0,
-      "ctr": 6.38,
-      "thruplay": 108
+      "ctr": 6.92,
+      "thruplay": 105
     },
     {
       "name": "Lumière Point",
-      "impressions": 785,
-      "reach": 451,
-      "clicks": 35,
+      "impressions": 788,
+      "reach": 435,
+      "clicks": 36,
       "messages": 3,
-      "ctr": 4.46,
-      "thruplay": 62
+      "ctr": 4.57,
+      "thruplay": 61
     },
     {
       "name": "2026-11-17_FUNDO_REELS_PROVA-SOCIAL-produto_Lumiere-Karynne",
-      "impressions": 476,
-      "reach": 362,
-      "clicks": 27,
+      "impressions": 693,
+      "reach": 489,
+      "clicks": 39,
       "messages": 2,
-      "ctr": 5.67,
-      "thruplay": 41
+      "ctr": 5.63,
+      "thruplay": 62
     }
   ],
   "demographics": {
@@ -187,15 +187,15 @@
     "age": {
       "18-24": 0,
       "25-34": 12,
-      "35-44": 18,
-      "45-54": 26,
+      "35-44": 17,
+      "45-54": 25,
       "55-64": 23,
-      "65+": 21
+      "65+": 22
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 14.33,
+    "balance_brl": 18.41,
     "balance_low": false,
     "account_disabled": false
   },

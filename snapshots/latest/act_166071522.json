@@ -4,79 +4,79 @@
     "account_name": "BIOMA Valéria Alleoni",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-21T15:54:50.199Z",
+    "generated_at": "2026-11-22T15:55:30.481Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-14",
-      "until": "2026-11-20",
-      "label_pt": "14 nov a 20 nov"
+      "since": "2026-11-15",
+      "until": "2026-11-21",
+      "label_pt": "15 nov a 21 nov"
     },
     "previous": {
-      "since": "2026-11-07",
-      "until": "2026-11-13"
+      "since": "2026-11-08",
+      "until": "2026-11-14"
     }
   },
   "totals": {
     "spend": {
-      "current": 457.96,
-      "previous": 711.42,
-      "delta_pct": -36
+      "current": 444.38,
+      "previous": 685.63,
+      "delta_pct": -35
     },
     "impressions": {
-      "current": 26586,
-      "previous": 36385,
-      "delta_pct": -27
+      "current": 26203,
+      "previous": 34879,
+      "delta_pct": -25
     },
     "reach": {
-      "current": 17267,
-      "previous": 21498,
-      "delta_pct": -20
+      "current": 16933,
+      "previous": 20734,
+      "delta_pct": -18
     },
     "clicks": {
-      "current": 754,
-      "previous": 1024,
-      "delta_pct": -26
+      "current": 753,
+      "previous": 977,
+      "delta_pct": -23
     },
     "ctr": {
-      "current": 2.84,
-      "previous": 2.81,
-      "delta_pct": 1
+      "current": 2.87,
+      "previous": 2.8,
+      "delta_pct": 3
     },
     "cpc": {
-      "current": 0.61,
-      "previous": 0.69,
-      "delta_pct": -12
+      "current": 0.59,
+      "previous": 0.7,
+      "delta_pct": -16
     },
     "thruplay": {
-      "current": 2089,
-      "previous": 3362,
-      "delta_pct": -38
+      "current": 2007,
+      "previous": 3121,
+      "delta_pct": -36
     },
     "frequency": {
-      "current": 1.54,
-      "previous": 1.69,
-      "delta_pct": -9
+      "current": 1.55,
+      "previous": 1.68,
+      "delta_pct": -8
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
         "current": 32,
-        "previous": 34,
-        "delta_pct": -6
+        "previous": 38,
+        "delta_pct": -16
       },
       "cost": {
-        "current": 14.31,
-        "previous": 20.92,
-        "delta_pct": -32
+        "current": 13.89,
+        "previous": 18.04,
+        "delta_pct": -23
       },
       "top_creative": {
-        "name": "2026-11-07_F_CAR_URGENCIA-solucao_NovembroVoando",
-        "value": 10
+        "name": "2026-11-12_F_REEL_BASTIDOR-quente_NossaVibe",
+        "value": 7
       }
     },
     "instagram_visits": {
@@ -98,92 +98,92 @@
   "top_creatives": [
     {
       "name": "Ontem",
-      "impressions": 6447,
-      "reach": 5579,
-      "clicks": 137,
+      "impressions": 5119,
+      "reach": 4610,
+      "clicks": 105,
       "messages": 0,
-      "ctr": 2.13,
-      "thruplay": 902
+      "ctr": 2.05,
+      "thruplay": 714
     },
     {
       "name": "O Meu Corte Saudável",
-      "impressions": 5155,
-      "reach": 3179,
-      "clicks": 173,
-      "messages": 8,
-      "ctr": 3.36,
-      "thruplay": 376
+      "impressions": 4780,
+      "reach": 2937,
+      "clicks": 159,
+      "messages": 5,
+      "ctr": 3.33,
+      "thruplay": 339
     },
     {
       "name": "Moreno iluminado",
-      "impressions": 4644,
-      "reach": 3750,
-      "clicks": 110,
+      "impressions": 4675,
+      "reach": 3873,
+      "clicks": 109,
       "messages": 0,
-      "ctr": 2.37,
-      "thruplay": 72
+      "ctr": 2.33,
+      "thruplay": 68
     },
     {
       "name": "2026-11-07_F_CAR_URGENCIA-solucao_NovembroVoando",
-      "impressions": 2396,
-      "reach": 1049,
-      "clicks": 62,
-      "messages": 10,
-      "ctr": 2.59,
+      "impressions": 1906,
+      "reach": 940,
+      "clicks": 48,
+      "messages": 6,
+      "ctr": 2.52,
       "thruplay": 0
     },
     {
       "name": "2026-11-12_F_REEL_BASTIDOR-quente_NossaVibe",
-      "impressions": 1583,
-      "reach": 872,
-      "clicks": 70,
-      "messages": 6,
-      "ctr": 4.42,
-      "thruplay": 165
-    },
-    {
-      "name": "Quase 50 anos",
-      "impressions": 1086,
-      "reach": 1085,
-      "clicks": 30,
-      "messages": 0,
-      "ctr": 2.76,
-      "thruplay": 280
-    },
-    {
-      "name": "2026-11-17_MEIO_REELS_BASTIDOR-morno_nossa-vibe — Cópia",
-      "impressions": 913,
-      "reach": 828,
-      "clicks": 35,
-      "messages": 0,
-      "ctr": 3.83,
-      "thruplay": 69
+      "impressions": 1876,
+      "reach": 977,
+      "clicks": 86,
+      "messages": 7,
+      "ctr": 4.58,
+      "thruplay": 201
     },
     {
       "name": "2026-11-17_F_IMG_PROVA-solucao_CurtoAvermelhado",
-      "impressions": 906,
-      "reach": 763,
-      "clicks": 25,
-      "messages": 1,
-      "ctr": 2.76,
+      "impressions": 1740,
+      "reach": 1331,
+      "clicks": 51,
+      "messages": 6,
+      "ctr": 2.93,
       "thruplay": 0
     },
     {
-      "name": "De Paris ao Rio",
-      "impressions": 892,
-      "reach": 852,
-      "clicks": 13,
+      "name": "Quase 50 anos",
+      "impressions": 1322,
+      "reach": 1309,
+      "clicks": 38,
       "messages": 0,
-      "ctr": 1.46,
-      "thruplay": 167
+      "ctr": 2.87,
+      "thruplay": 336
+    },
+    {
+      "name": "De Paris ao Rio",
+      "impressions": 1254,
+      "reach": 1203,
+      "clicks": 15,
+      "messages": 0,
+      "ctr": 1.2,
+      "thruplay": 227
+    },
+    {
+      "name": "2026-11-17_MEIO_REELS_BASTIDOR-morno_nossa-vibe — Cópia",
+      "impressions": 956,
+      "reach": 866,
+      "clicks": 36,
+      "messages": 0,
+      "ctr": 3.77,
+      "thruplay": 71
     },
     {
       "name": "2026-11-17_FUNDO_CAR_PROVA-quente_verao-referencias",
-      "impressions": 827,
-      "reach": 518,
-      "clicks": 29,
-      "messages": 3,
-      "ctr": 3.51,
+      "impressions": 917,
+      "reach": 567,
+      "clicks": 32,
+      "messages": 4,
+      "ctr": 3.49,
       "thruplay": 0
     }
   ],
@@ -198,13 +198,13 @@
       "25-34": 8,
       "35-44": 12,
       "45-54": 18,
-      "55-64": 30,
+      "55-64": 29,
       "65+": 33
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 2052.49,
+    "balance_brl": 2121.36,
     "balance_low": false,
     "account_disabled": false
   },

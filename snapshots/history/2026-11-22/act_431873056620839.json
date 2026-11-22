@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_431873056620839",
+    "account_name": "Espaçolaser Campolim",
+    "segment": "LASER",
+    "template": "LASER",
+    "generated_at": "2026-11-22T15:55:46.026Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-15",
+      "until": "2026-11-21",
+      "label_pt": "15 nov a 21 nov"
+    },
+    "previous": {
+      "since": "2026-11-08",
+      "until": "2026-11-14"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 579.2,
+      "previous": 558.74,
+      "delta_pct": 4
+    },
+    "impressions": {
+      "current": 36360,
+      "previous": 34974,
+      "delta_pct": 4
+    },
+    "reach": {
+      "current": 23179,
+      "previous": 21316,
+      "delta_pct": 9
+    },
+    "clicks": {
+      "current": 843,
+      "previous": 715,
+      "delta_pct": 18
+    },
+    "ctr": {
+      "current": 2.32,
+      "previous": 2.04,
+      "delta_pct": 14
+    },
+    "cpc": {
+      "current": 0.69,
+      "previous": 0.78,
+      "delta_pct": -12
+    },
+    "thruplay": {
+      "current": 2482,
+      "previous": 2227,
+      "delta_pct": 11
+    },
+    "frequency": {
+      "current": 1.57,
+      "previous": 1.64,
+      "delta_pct": -4
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 31,
+        "previous": 39,
+        "delta_pct": -21
+      },
+      "cost": {
+        "current": 18.68,
+        "previous": 14.33,
+        "delta_pct": 30
+      },
+      "top_creative": {
+        "name": "Resgate — Cópia FEM",
+        "value": 8
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "De perto",
+      "impressions": 9731,
+      "reach": 8709,
+      "clicks": 19,
+      "messages": 0,
+      "ctr": 0.2,
+      "thruplay": 1812
+    },
+    {
+      "name": "Resgate — Cópia FEM",
+      "impressions": 5978,
+      "reach": 3924,
+      "clicks": 54,
+      "messages": 8,
+      "ctr": 0.9,
+      "thruplay": 139
+    },
+    {
+      "name": "Resgate",
+      "impressions": 4715,
+      "reach": 3025,
+      "clicks": 41,
+      "messages": 7,
+      "ctr": 0.87,
+      "thruplay": 104
+    },
+    {
+      "name": "[BLACK 12x] MEIO pernas inteiras",
+      "impressions": 4362,
+      "reach": 3044,
+      "clicks": 596,
+      "messages": 0,
+      "ctr": 13.66,
+      "thruplay": 0
+    },
+    {
+      "name": "Pena que nao e meu caso",
+      "impressions": 4247,
+      "reach": 3493,
+      "clicks": 50,
+      "messages": 6,
+      "ctr": 1.18,
+      "thruplay": 301
+    },
+    {
+      "name": "[BLACK+] 03 pernas inteiras",
+      "impressions": 3195,
+      "reach": 1916,
+      "clicks": 34,
+      "messages": 3,
+      "ctr": 1.06,
+      "thruplay": 0
+    },
+    {
+      "name": "Segredos",
+      "impressions": 1356,
+      "reach": 863,
+      "clicks": 21,
+      "messages": 4,
+      "ctr": 1.55,
+      "thruplay": 67
+    },
+    {
+      "name": "[BLACK 04] 03 pernas inteiras",
+      "impressions": 753,
+      "reach": 628,
+      "clicks": 9,
+      "messages": 0,
+      "ctr": 1.2,
+      "thruplay": 0
+    },
+    {
+      "name": "[BLACK 04] 02 a partir de R$ 99,90",
+      "impressions": 636,
+      "reach": 504,
+      "clicks": 7,
+      "messages": 1,
+      "ctr": 1.1,
+      "thruplay": 0
+    },
+    {
+      "name": "[BLACK+] 02 a partir de R$ 99,90",
+      "impressions": 579,
+      "reach": 344,
+      "clicks": 6,
+      "messages": 2,
+      "ctr": 1.04,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 38,
+      "male_pct": 62,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 37,
+      "35-44": 29,
+      "45-54": 17,
+      "55-64": 9,
+      "65+": 7
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 21.44,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}
