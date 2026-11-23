@@ -4,20 +4,20 @@
     "account_name": "VIRGO Cases",
     "segment": "TECH",
     "template": "VIRGO",
-    "generated_at": "2026-11-22T15:55:39.840Z",
+    "generated_at": "2026-11-23T19:49:51.663Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-15",
-      "until": "2026-11-21",
-      "label_pt": "15 nov a 21 nov"
+      "since": "2026-11-16",
+      "until": "2026-11-22",
+      "label_pt": "16 nov a 22 nov"
     },
     "previous": {
-      "since": "2026-11-08",
-      "until": "2026-11-14"
+      "since": "2026-11-09",
+      "until": "2026-11-15"
     }
   },
   "totals": {

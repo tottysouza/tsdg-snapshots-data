@@ -4,75 +4,75 @@
     "account_name": "BIOMA Yu Tin Tin",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-22T15:55:17.530Z",
+    "generated_at": "2026-11-23T19:49:26.220Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-15",
-      "until": "2026-11-21",
-      "label_pt": "15 nov a 21 nov"
+      "since": "2026-11-16",
+      "until": "2026-11-22",
+      "label_pt": "16 nov a 22 nov"
     },
     "previous": {
-      "since": "2026-11-08",
-      "until": "2026-11-14"
+      "since": "2026-11-09",
+      "until": "2026-11-15"
     }
   },
   "totals": {
     "spend": {
-      "current": 234.73,
-      "previous": 612.06,
-      "delta_pct": -62
+      "current": 177.14,
+      "previous": 568.95,
+      "delta_pct": -69
     },
     "impressions": {
-      "current": 14895,
-      "previous": 31293,
-      "delta_pct": -52
+      "current": 10756,
+      "previous": 29951,
+      "delta_pct": -64
     },
     "reach": {
-      "current": 10498,
-      "previous": 19409,
-      "delta_pct": -46
-    },
-    "clicks": {
-      "current": 308,
-      "previous": 583,
-      "delta_pct": -47
-    },
-    "ctr": {
-      "current": 2.07,
-      "previous": 1.86,
-      "delta_pct": 11
-    },
-    "cpc": {
-      "current": 0.76,
-      "previous": 1.05,
-      "delta_pct": -28
-    },
-    "thruplay": {
-      "current": 1403,
-      "previous": 3326,
+      "current": 7724,
+      "previous": 18273,
       "delta_pct": -58
     },
+    "clicks": {
+      "current": 214,
+      "previous": 548,
+      "delta_pct": -61
+    },
+    "ctr": {
+      "current": 1.99,
+      "previous": 1.83,
+      "delta_pct": 9
+    },
+    "cpc": {
+      "current": 0.83,
+      "previous": 1.04,
+      "delta_pct": -20
+    },
+    "thruplay": {
+      "current": 1006,
+      "previous": 3207,
+      "delta_pct": -69
+    },
     "frequency": {
-      "current": 1.42,
-      "previous": 1.61,
-      "delta_pct": -12
+      "current": 1.39,
+      "previous": 1.64,
+      "delta_pct": -15
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
         "current": 10,
-        "previous": 38,
-        "delta_pct": -74
+        "previous": 34,
+        "delta_pct": -71
       },
       "cost": {
-        "current": 23.47,
-        "previous": 16.11,
-        "delta_pct": 46
+        "current": 17.71,
+        "previous": 16.73,
+        "delta_pct": 6
       },
       "top_creative": {
         "name": "Velas | Img vela-1",
@@ -98,12 +98,12 @@
   "top_creatives": [
     {
       "name": "Bride day",
-      "impressions": 4190,
-      "reach": 4100,
-      "clicks": 53,
+      "impressions": 2695,
+      "reach": 2695,
+      "clicks": 31,
       "messages": 0,
-      "ctr": 1.26,
-      "thruplay": 834
+      "ctr": 1.15,
+      "thruplay": 553
     },
     {
       "name": "2026-11-17_MEIO_REELS_BASTIDOR-morno_7-anos",
@@ -116,66 +116,48 @@
     },
     {
       "name": "2026-11-02_T_REEL_PROVA-inconsciente_Debutante",
-      "impressions": 1372,
-      "reach": 1343,
+      "impressions": 1358,
+      "reach": 1333,
       "clicks": 13,
       "messages": 0,
-      "ctr": 0.95,
-      "thruplay": 289
+      "ctr": 0.96,
+      "thruplay": 285
     },
     {
       "name": "Velas | Img vela-1",
-      "impressions": 1298,
-      "reach": 770,
-      "clicks": 36,
+      "impressions": 904,
+      "reach": 615,
+      "clicks": 27,
       "messages": 5,
-      "ctr": 2.77,
+      "ctr": 2.99,
       "thruplay": 0
-    },
-    {
-      "name": "Muito além",
-      "impressions": 986,
-      "reach": 918,
-      "clicks": 39,
-      "messages": 0,
-      "ctr": 3.96,
-      "thruplay": 63
-    },
-    {
-      "name": "Cuidado masculino",
-      "impressions": 820,
-      "reach": 773,
-      "clicks": 25,
-      "messages": 0,
-      "ctr": 3.05,
-      "thruplay": 69
-    },
-    {
-      "name": "O frizz",
-      "impressions": 705,
-      "reach": 506,
-      "clicks": 13,
-      "messages": 1,
-      "ctr": 1.84,
-      "thruplay": 41
     },
     {
       "name": "Velas | Carrossel 7",
-      "impressions": 702,
-      "reach": 305,
-      "clicks": 10,
+      "impressions": 664,
+      "reach": 300,
+      "clicks": 9,
       "messages": 2,
-      "ctr": 1.42,
+      "ctr": 1.36,
       "thruplay": 0
     },
     {
-      "name": "Loiro cheio de luz",
+      "name": "O frizz",
       "impressions": 513,
-      "reach": 159,
+      "reach": 384,
       "clicks": 9,
-      "messages": 2,
+      "messages": 1,
       "ctr": 1.75,
-      "thruplay": 0
+      "thruplay": 28
+    },
+    {
+      "name": "Muito além",
+      "impressions": 449,
+      "reach": 433,
+      "clicks": 17,
+      "messages": 0,
+      "ctr": 3.79,
+      "thruplay": 32
     },
     {
       "name": "2026-11-17_FUNDO_CAR_PROVA-morno_1-ano-bioma",
@@ -185,17 +167,35 @@
       "messages": 0,
       "ctr": 1.38,
       "thruplay": 0
+    },
+    {
+      "name": "Cuidado masculino",
+      "impressions": 344,
+      "reach": 321,
+      "clicks": 11,
+      "messages": 0,
+      "ctr": 3.2,
+      "thruplay": 25
+    },
+    {
+      "name": "Loiro cheio de luz",
+      "impressions": 336,
+      "reach": 115,
+      "clicks": 6,
+      "messages": 2,
+      "ctr": 1.79,
+      "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 82,
-      "male_pct": 18,
+      "female_pct": 84,
+      "male_pct": 16,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 29,
+      "25-34": 30,
       "35-44": 15,
       "45-54": 13,
       "55-64": 17,

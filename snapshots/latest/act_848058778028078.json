@@ -4,79 +4,79 @@
     "account_name": "BIOMA Casa Fio",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-22T15:54:12.792Z",
+    "generated_at": "2026-11-23T19:48:21.838Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-15",
-      "until": "2026-11-21",
-      "label_pt": "15 nov a 21 nov"
+      "since": "2026-11-16",
+      "until": "2026-11-22",
+      "label_pt": "16 nov a 22 nov"
     },
     "previous": {
-      "since": "2026-11-08",
-      "until": "2026-11-14"
+      "since": "2026-11-09",
+      "until": "2026-11-15"
     }
   },
   "totals": {
     "spend": {
-      "current": 415.97,
-      "previous": 468.67,
-      "delta_pct": -11
+      "current": 416.93,
+      "previous": 410.55,
+      "delta_pct": 2
     },
     "impressions": {
-      "current": 19259,
-      "previous": 21123,
-      "delta_pct": -9
-    },
-    "reach": {
-      "current": 12250,
-      "previous": 14035,
+      "current": 17010,
+      "previous": 19638,
       "delta_pct": -13
     },
+    "reach": {
+      "current": 10992,
+      "previous": 11601,
+      "delta_pct": -5
+    },
     "clicks": {
-      "current": 570,
-      "previous": 786,
-      "delta_pct": -27
+      "current": 474,
+      "previous": 784,
+      "delta_pct": -40
     },
     "ctr": {
-      "current": 2.96,
-      "previous": 3.72,
-      "delta_pct": -20
+      "current": 2.79,
+      "previous": 3.99,
+      "delta_pct": -30
     },
     "cpc": {
-      "current": 0.73,
-      "previous": 0.6,
-      "delta_pct": 22
+      "current": 0.88,
+      "previous": 0.52,
+      "delta_pct": 69
     },
     "thruplay": {
-      "current": 2745,
-      "previous": 2547,
-      "delta_pct": 8
+      "current": 2640,
+      "previous": 2783,
+      "delta_pct": -5
     },
     "frequency": {
-      "current": 1.57,
-      "previous": 1.51,
-      "delta_pct": 4
+      "current": 1.55,
+      "previous": 1.69,
+      "delta_pct": -8
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 21,
-        "previous": 35,
-        "delta_pct": -40
+        "current": 24,
+        "previous": 30,
+        "delta_pct": -20
       },
       "cost": {
-        "current": 19.81,
-        "previous": 13.39,
-        "delta_pct": 48
+        "current": 17.37,
+        "previous": 13.69,
+        "delta_pct": 27
       },
       "top_creative": {
         "name": "Terra fértil — Cópia",
-        "value": 12
+        "value": 14
       }
     },
     "instagram_visits": {
@@ -97,31 +97,31 @@
   },
   "top_creatives": [
     {
-      "name": "Nutrição também",
-      "impressions": 4886,
-      "reach": 3503,
-      "clicks": 256,
-      "messages": 0,
-      "ctr": 5.24,
-      "thruplay": 178
+      "name": "Terra fértil — Cópia",
+      "impressions": 4369,
+      "reach": 3050,
+      "clicks": 144,
+      "messages": 14,
+      "ctr": 3.3,
+      "thruplay": 296
     },
     {
-      "name": "Terra fértil — Cópia",
-      "impressions": 4421,
-      "reach": 3014,
-      "clicks": 140,
-      "messages": 12,
-      "ctr": 3.17,
-      "thruplay": 309
+      "name": "Nutrição também",
+      "impressions": 2875,
+      "reach": 2229,
+      "clicks": 159,
+      "messages": 0,
+      "ctr": 5.53,
+      "thruplay": 91
     },
     {
       "name": "Todo cuidado",
-      "impressions": 2059,
-      "reach": 733,
-      "clicks": 6,
+      "impressions": 2001,
+      "reach": 672,
+      "clicks": 5,
       "messages": 0,
-      "ctr": 0.29,
-      "thruplay": 1763
+      "ctr": 0.25,
+      "thruplay": 1767
     },
     {
       "name": "Experiencias BIOMA",
@@ -143,20 +143,20 @@
     },
     {
       "name": "Pacote Escova",
-      "impressions": 1417,
-      "reach": 817,
-      "clicks": 25,
+      "impressions": 1321,
+      "reach": 816,
+      "clicks": 24,
       "messages": 1,
-      "ctr": 1.76,
+      "ctr": 1.82,
       "thruplay": 3
     },
     {
       "name": "Pacote Escova",
-      "impressions": 843,
-      "reach": 565,
-      "clicks": 19,
+      "impressions": 880,
+      "reach": 599,
+      "clicks": 17,
       "messages": 1,
-      "ctr": 2.25,
+      "ctr": 1.93,
       "thruplay": 3
     },
     {
@@ -170,41 +170,41 @@
     },
     {
       "name": "Como está a saúde do seu cabelo?",
-      "impressions": 495,
-      "reach": 201,
+      "impressions": 466,
+      "reach": 160,
       "clicks": 0,
       "messages": 0,
       "ctr": 0,
-      "thruplay": 389
+      "thruplay": 378
     },
     {
       "name": "Equilibrio",
-      "impressions": 314,
-      "reach": 218,
-      "clicks": 19,
-      "messages": 3,
-      "ctr": 6.05,
-      "thruplay": 40
+      "impressions": 398,
+      "reach": 281,
+      "clicks": 25,
+      "messages": 4,
+      "ctr": 6.28,
+      "thruplay": 50
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 64,
-      "male_pct": 36,
+      "female_pct": 72,
+      "male_pct": 28,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 19,
-      "35-44": 19,
+      "25-34": 20,
+      "35-44": 20,
       "45-54": 17,
-      "55-64": 20,
-      "65+": 26
+      "55-64": 19,
+      "65+": 24
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 384.11,
+    "balance_brl": 430.25,
     "balance_low": false,
     "account_disabled": false
   },

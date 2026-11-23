@@ -4,79 +4,79 @@
     "account_name": "Espaçolaser Caçapava",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-11-22T15:55:43.881Z",
+    "generated_at": "2026-11-23T19:49:58.529Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-15",
-      "until": "2026-11-21",
-      "label_pt": "15 nov a 21 nov"
+      "since": "2026-11-16",
+      "until": "2026-11-22",
+      "label_pt": "16 nov a 22 nov"
     },
     "previous": {
-      "since": "2026-11-08",
-      "until": "2026-11-14"
+      "since": "2026-11-09",
+      "until": "2026-11-15"
     }
   },
   "totals": {
     "spend": {
-      "current": 591.99,
-      "previous": 94.86,
-      "delta_pct": 524
+      "current": 581.59,
+      "previous": 187.23,
+      "delta_pct": 211
     },
     "impressions": {
-      "current": 52792,
-      "previous": 6423,
-      "delta_pct": 722
+      "current": 54064,
+      "previous": 12999,
+      "delta_pct": 316
     },
     "reach": {
-      "current": 26247,
-      "previous": 4518,
-      "delta_pct": 481
+      "current": 28310,
+      "previous": 6974,
+      "delta_pct": 306
     },
     "clicks": {
-      "current": 578,
-      "previous": 39,
-      "delta_pct": 1382
+      "current": 646,
+      "previous": 91,
+      "delta_pct": 610
     },
     "ctr": {
-      "current": 1.09,
-      "previous": 0.61,
-      "delta_pct": 79
+      "current": 1.19,
+      "previous": 0.7,
+      "delta_pct": 70
     },
     "cpc": {
-      "current": 1.02,
-      "previous": 2.43,
-      "delta_pct": -58
+      "current": 0.9,
+      "previous": 2.06,
+      "delta_pct": -56
     },
     "thruplay": {
-      "current": 2543,
-      "previous": 17,
-      "delta_pct": 14859
+      "current": 2980,
+      "previous": 28,
+      "delta_pct": 10543
     },
     "frequency": {
-      "current": 2.01,
-      "previous": 1.42,
-      "delta_pct": 42
+      "current": 1.91,
+      "previous": 1.86,
+      "delta_pct": 3
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 17,
-        "previous": 2,
-        "delta_pct": 750
+        "current": 19,
+        "previous": 3,
+        "delta_pct": 533
       },
       "cost": {
-        "current": 34.82,
-        "previous": 47.43,
-        "delta_pct": -27
+        "current": 30.61,
+        "previous": 62.41,
+        "delta_pct": -51
       },
       "top_creative": {
         "name": "3 sessões 2",
-        "value": 6
+        "value": 9
       }
     },
     "instagram_visits": {
@@ -98,65 +98,65 @@
   "top_creatives": [
     {
       "name": "3 sessões 2",
-      "impressions": 9342,
-      "reach": 5547,
-      "clicks": 52,
-      "messages": 6,
-      "ctr": 0.56,
-      "thruplay": 239
+      "impressions": 12333,
+      "reach": 6981,
+      "clicks": 81,
+      "messages": 9,
+      "ctr": 0.66,
+      "thruplay": 317
     },
     {
       "name": "Chega de tabu",
-      "impressions": 8036,
-      "reach": 7128,
-      "clicks": 93,
+      "impressions": 9404,
+      "reach": 8178,
+      "clicks": 110,
       "messages": 0,
-      "ctr": 1.16,
-      "thruplay": 1401
-    },
-    {
-      "name": "BLACK | Estático Black da Líder",
-      "impressions": 7899,
-      "reach": 4349,
-      "clicks": 51,
-      "messages": 2,
-      "ctr": 0.65,
-      "thruplay": 0
+      "ctr": 1.17,
+      "thruplay": 1629
     },
     {
       "name": "UNIDADE | A partir de R$ 99 (estático)",
-      "impressions": 7429,
-      "reach": 4076,
-      "clicks": 50,
+      "impressions": 7944,
+      "reach": 4303,
+      "clicks": 51,
       "messages": 3,
-      "ctr": 0.67,
+      "ctr": 0.64,
       "thruplay": 0
     },
     {
       "name": "Liberdade nas axilas?",
-      "impressions": 5029,
-      "reach": 3712,
-      "clicks": 59,
+      "impressions": 5658,
+      "reach": 4124,
+      "clicks": 66,
       "messages": 0,
       "ctr": 1.17,
       "thruplay": 0
     },
     {
       "name": "Depilar a região íntima",
-      "impressions": 4041,
-      "reach": 3561,
-      "clicks": 64,
+      "impressions": 4480,
+      "reach": 3928,
+      "clicks": 74,
       "messages": 0,
-      "ctr": 1.58,
-      "thruplay": 588
+      "ctr": 1.65,
+      "thruplay": 637
     },
     {
       "name": "UNIDADE | 3 sessões (estático)",
-      "impressions": 2934,
-      "reach": 1664,
+      "impressions": 3163,
+      "reach": 1737,
       "clicks": 21,
       "messages": 3,
-      "ctr": 0.72,
+      "ctr": 0.66,
+      "thruplay": 0
+    },
+    {
+      "name": "BLACK | Estático Black da Líder",
+      "impressions": 3061,
+      "reach": 2021,
+      "clicks": 13,
+      "messages": 1,
+      "ctr": 0.42,
       "thruplay": 0
     },
     {
@@ -169,42 +169,42 @@
       "thruplay": 95
     },
     {
-      "name": "BLACK | Arte 02 a partir de R$ 99,90",
-      "impressions": 1399,
-      "reach": 1014,
-      "clicks": 11,
-      "messages": 1,
-      "ctr": 0.79,
-      "thruplay": 0
+      "name": "A Black da Líder",
+      "impressions": 2189,
+      "reach": 1850,
+      "clicks": 110,
+      "messages": 0,
+      "ctr": 5.03,
+      "thruplay": 205
     },
     {
-      "name": "A Black da Líder",
-      "impressions": 1282,
-      "reach": 1150,
-      "clicks": 57,
+      "name": "BLACK | Reel Calculadora 80% OFF",
+      "impressions": 1189,
+      "reach": 798,
+      "clicks": 6,
       "messages": 0,
-      "ctr": 4.45,
-      "thruplay": 127
+      "ctr": 0.5,
+      "thruplay": 27
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 72,
-      "male_pct": 28,
+      "female_pct": 70,
+      "male_pct": 30,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 28,
-      "35-44": 26,
-      "45-54": 17,
-      "55-64": 13,
-      "65+": 16
+      "25-34": 26,
+      "35-44": 24,
+      "45-54": 18,
+      "55-64": 14,
+      "65+": 18
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 27.39,
+    "balance_brl": 39.66,
     "balance_low": false,
     "account_disabled": false
   },

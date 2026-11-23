@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "account_id": "act_1495147508059741",
+    "account_name": "Espaçolaser Caçapava",
+    "segment": "LASER",
+    "template": "LASER",
+    "generated_at": "2026-11-23T19:49:58.529Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-16",
+      "until": "2026-11-22",
+      "label_pt": "16 nov a 22 nov"
+    },
+    "previous": {
+      "since": "2026-11-09",
+      "until": "2026-11-15"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 581.59,
+      "previous": 187.23,
+      "delta_pct": 211
+    },
+    "impressions": {
+      "current": 54064,
+      "previous": 12999,
+      "delta_pct": 316
+    },
+    "reach": {
+      "current": 28310,
+      "previous": 6974,
+      "delta_pct": 306
+    },
+    "clicks": {
+      "current": 646,
+      "previous": 91,
+      "delta_pct": 610
+    },
+    "ctr": {
+      "current": 1.19,
+      "previous": 0.7,
+      "delta_pct": 70
+    },
+    "cpc": {
+      "current": 0.9,
+      "previous": 2.06,
+      "delta_pct": -56
+    },
+    "thruplay": {
+      "current": 2980,
+      "previous": 28,
+      "delta_pct": 10543
+    },
+    "frequency": {
+      "current": 1.91,
+      "previous": 1.86,
+      "delta_pct": 3
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 19,
+        "previous": 3,
+        "delta_pct": 533
+      },
+      "cost": {
+        "current": 30.61,
+        "previous": 62.41,
+        "delta_pct": -51
+      },
+      "top_creative": {
+        "name": "3 sessões 2",
+        "value": 9
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "3 sessões 2",
+      "impressions": 12333,
+      "reach": 6981,
+      "clicks": 81,
+      "messages": 9,
+      "ctr": 0.66,
+      "thruplay": 317
+    },
+    {
+      "name": "Chega de tabu",
+      "impressions": 9404,
+      "reach": 8178,
+      "clicks": 110,
+      "messages": 0,
+      "ctr": 1.17,
+      "thruplay": 1629
+    },
+    {
+      "name": "UNIDADE | A partir de R$ 99 (estático)",
+      "impressions": 7944,
+      "reach": 4303,
+      "clicks": 51,
+      "messages": 3,
+      "ctr": 0.64,
+      "thruplay": 0
+    },
+    {
+      "name": "Liberdade nas axilas?",
+      "impressions": 5658,
+      "reach": 4124,
+      "clicks": 66,
+      "messages": 0,
+      "ctr": 1.17,
+      "thruplay": 0
+    },
+    {
+      "name": "Depilar a região íntima",
+      "impressions": 4480,
+      "reach": 3928,
+      "clicks": 74,
+      "messages": 0,
+      "ctr": 1.65,
+      "thruplay": 637
+    },
+    {
+      "name": "UNIDADE | 3 sessões (estático)",
+      "impressions": 3163,
+      "reach": 1737,
+      "clicks": 21,
+      "messages": 3,
+      "ctr": 0.66,
+      "thruplay": 0
+    },
+    {
+      "name": "BLACK | Estático Black da Líder",
+      "impressions": 3061,
+      "reach": 2021,
+      "clicks": 13,
+      "messages": 1,
+      "ctr": 0.42,
+      "thruplay": 0
+    },
+    {
+      "name": "Fui conhecer",
+      "impressions": 2688,
+      "reach": 2261,
+      "clicks": 97,
+      "messages": 0,
+      "ctr": 3.61,
+      "thruplay": 95
+    },
+    {
+      "name": "A Black da Líder",
+      "impressions": 2189,
+      "reach": 1850,
+      "clicks": 110,
+      "messages": 0,
+      "ctr": 5.03,
+      "thruplay": 205
+    },
+    {
+      "name": "BLACK | Reel Calculadora 80% OFF",
+      "impressions": 1189,
+      "reach": 798,
+      "clicks": 6,
+      "messages": 0,
+      "ctr": 0.5,
+      "thruplay": 27
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 70,
+      "male_pct": 30,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 26,
+      "35-44": 24,
+      "45-54": 18,
+      "55-64": 14,
+      "65+": 18
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 39.66,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "spend_delta_over_50",
+    "balance_low"
+  ]
+}
