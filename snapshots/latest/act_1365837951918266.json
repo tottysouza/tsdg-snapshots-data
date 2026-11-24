@@ -4,20 +4,20 @@
     "account_name": "MIMO Live Sales",
     "segment": "TECH",
     "template": "MIMO",
-    "generated_at": "2026-11-23T19:49:59.744Z",
+    "generated_at": "2026-11-24T19:20:20.511Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-16",
-      "until": "2026-11-22",
-      "label_pt": "16 nov a 22 nov"
+      "since": "2026-11-17",
+      "until": "2026-11-23",
+      "label_pt": "17 nov a 23 nov"
     },
     "previous": {
-      "since": "2026-11-09",
-      "until": "2026-11-15"
+      "since": "2026-11-10",
+      "until": "2026-11-16"
     }
   },
   "totals": {

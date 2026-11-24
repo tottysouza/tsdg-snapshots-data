@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "account_id": "act_166071522",
+    "account_name": "BIOMA Valéria Alleoni",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-24T19:19:56.727Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-17",
+      "until": "2026-11-23",
+      "label_pt": "17 nov a 23 nov"
+    },
+    "previous": {
+      "since": "2026-11-10",
+      "until": "2026-11-16"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 432.39,
+      "previous": 592.7,
+      "delta_pct": -27
+    },
+    "impressions": {
+      "current": 25118,
+      "previous": 32097,
+      "delta_pct": -22
+    },
+    "reach": {
+      "current": 16031,
+      "previous": 19625,
+      "delta_pct": -18
+    },
+    "clicks": {
+      "current": 779,
+      "previous": 870,
+      "delta_pct": -10
+    },
+    "ctr": {
+      "current": 3.1,
+      "previous": 2.71,
+      "delta_pct": 14
+    },
+    "cpc": {
+      "current": 0.56,
+      "previous": 0.68,
+      "delta_pct": -18
+    },
+    "thruplay": {
+      "current": 1831,
+      "previous": 2349,
+      "delta_pct": -22
+    },
+    "frequency": {
+      "current": 1.57,
+      "previous": 1.64,
+      "delta_pct": -4
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 33,
+        "previous": 40,
+        "delta_pct": -17
+      },
+      "cost": {
+        "current": 13.1,
+        "previous": 14.82,
+        "delta_pct": -12
+      },
+      "top_creative": {
+        "name": "2026-11-12_F_REEL_BASTIDOR-quente_NossaVibe",
+        "value": 8
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Moreno iluminado",
+      "impressions": 3620,
+      "reach": 3102,
+      "clicks": 102,
+      "messages": 0,
+      "ctr": 2.82,
+      "thruplay": 42
+    },
+    {
+      "name": "Ontem",
+      "impressions": 3533,
+      "reach": 3176,
+      "clicks": 79,
+      "messages": 0,
+      "ctr": 2.24,
+      "thruplay": 486
+    },
+    {
+      "name": "O Meu Corte Saudável",
+      "impressions": 3356,
+      "reach": 2234,
+      "clicks": 108,
+      "messages": 3,
+      "ctr": 3.22,
+      "thruplay": 234
+    },
+    {
+      "name": "2026-11-17_F_IMG_PROVA-solucao_CurtoAvermelhado",
+      "impressions": 3198,
+      "reach": 2211,
+      "clicks": 92,
+      "messages": 7,
+      "ctr": 2.88,
+      "thruplay": 0
+    },
+    {
+      "name": "De Paris ao Rio",
+      "impressions": 2401,
+      "reach": 2264,
+      "clicks": 49,
+      "messages": 0,
+      "ctr": 2.04,
+      "thruplay": 439
+    },
+    {
+      "name": "2026-11-12_F_REEL_BASTIDOR-quente_NossaVibe",
+      "impressions": 1944,
+      "reach": 1006,
+      "clicks": 93,
+      "messages": 8,
+      "ctr": 4.78,
+      "thruplay": 208
+    },
+    {
+      "name": "2026-11-17_FUNDO_CAR_PROVA-quente_verao-referencias",
+      "impressions": 1827,
+      "reach": 937,
+      "clicks": 65,
+      "messages": 7,
+      "ctr": 3.56,
+      "thruplay": 0
+    },
+    {
+      "name": "Quase 50 anos",
+      "impressions": 1163,
+      "reach": 1154,
+      "clicks": 38,
+      "messages": 0,
+      "ctr": 3.27,
+      "thruplay": 288
+    },
+    {
+      "name": "2026-11-17_MEIO_REELS_BASTIDOR-morno_nossa-vibe — Cópia",
+      "impressions": 1017,
+      "reach": 912,
+      "clicks": 38,
+      "messages": 0,
+      "ctr": 3.74,
+      "thruplay": 77
+    },
+    {
+      "name": "2026-11-09_F_IMG_DOR-problema_VidaCorrida",
+      "impressions": 702,
+      "reach": 526,
+      "clicks": 37,
+      "messages": 2,
+      "ctr": 5.27,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 91,
+      "male_pct": 9,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 8,
+      "35-44": 11,
+      "45-54": 18,
+      "55-64": 29,
+      "65+": 34
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 2260.96,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": []
+}
