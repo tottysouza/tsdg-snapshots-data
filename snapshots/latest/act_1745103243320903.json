@@ -4,74 +4,74 @@
     "account_name": "BIOMA Casa 631",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-24T19:18:30.706Z",
+    "generated_at": "2026-11-25T18:24:04.706Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-17",
-      "until": "2026-11-23",
-      "label_pt": "17 nov a 23 nov"
+      "since": "2026-11-18",
+      "until": "2026-11-24",
+      "label_pt": "18 nov a 24 nov"
     },
     "previous": {
-      "since": "2026-11-10",
-      "until": "2026-11-16"
+      "since": "2026-11-11",
+      "until": "2026-11-17"
     }
   },
   "totals": {
     "spend": {
       "current": 0,
-      "previous": 11.66,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "impressions": {
       "current": 0,
-      "previous": 550,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "reach": {
       "current": 0,
-      "previous": 479,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "clicks": {
       "current": 0,
-      "previous": 26,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "ctr": {
       "current": null,
-      "previous": 4.73,
+      "previous": null,
       "delta_pct": null
     },
     "cpc": {
       "current": 0,
-      "previous": 0.45,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "thruplay": {
       "current": 0,
-      "previous": 47,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     },
     "frequency": {
       "current": 0,
-      "previous": 1.15,
-      "delta_pct": -100
+      "previous": 0,
+      "delta_pct": 0
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
         "current": 0,
-        "previous": 1,
-        "delta_pct": -100
+        "previous": 0,
+        "delta_pct": 0
       },
       "cost": {
         "current": null,
-        "previous": 11.66,
+        "previous": null,
         "delta_pct": null
       },
       "top_creative": null
@@ -115,7 +115,6 @@
     "account_disabled": false
   },
   "auto_flags": [
-    "spend_delta_over_50",
     "zero_conversations_current",
     "zero_activity_current"
   ]

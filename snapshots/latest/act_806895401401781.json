@@ -4,79 +4,79 @@
     "account_name": "Espaçolaser Bragança",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-11-24T19:20:07.540Z",
+    "generated_at": "2026-11-25T18:26:07.566Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-17",
-      "until": "2026-11-23",
-      "label_pt": "17 nov a 23 nov"
+      "since": "2026-11-18",
+      "until": "2026-11-24",
+      "label_pt": "18 nov a 24 nov"
     },
     "previous": {
-      "since": "2026-11-10",
-      "until": "2026-11-16"
+      "since": "2026-11-11",
+      "until": "2026-11-17"
     }
   },
   "totals": {
     "spend": {
-      "current": 718.92,
-      "previous": 568.69,
-      "delta_pct": 26
+      "current": 739.01,
+      "previous": 572.11,
+      "delta_pct": 29
     },
     "impressions": {
-      "current": 61042,
-      "previous": 46951,
-      "delta_pct": 30
+      "current": 64761,
+      "previous": 46173,
+      "delta_pct": 40
     },
     "reach": {
-      "current": 31403,
-      "previous": 23599,
-      "delta_pct": 33
+      "current": 33268,
+      "previous": 23272,
+      "delta_pct": 43
     },
     "clicks": {
-      "current": 656,
-      "previous": 533,
-      "delta_pct": 23
+      "current": 676,
+      "previous": 527,
+      "delta_pct": 28
     },
     "ctr": {
-      "current": 1.07,
+      "current": 1.04,
       "previous": 1.14,
-      "delta_pct": -6
+      "delta_pct": -9
     },
     "cpc": {
-      "current": 1.1,
-      "previous": 1.07,
-      "delta_pct": 3
+      "current": 1.09,
+      "previous": 1.09,
+      "delta_pct": 0
     },
     "thruplay": {
-      "current": 1999,
-      "previous": 1876,
-      "delta_pct": 7
+      "current": 2039,
+      "previous": 1887,
+      "delta_pct": 8
     },
     "frequency": {
-      "current": 1.94,
-      "previous": 1.99,
-      "delta_pct": -3
+      "current": 1.95,
+      "previous": 1.98,
+      "delta_pct": -2
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 78,
-        "previous": 28,
-        "delta_pct": 179
+        "current": 73,
+        "previous": 38,
+        "delta_pct": 92
       },
       "cost": {
-        "current": 9.22,
-        "previous": 20.31,
-        "delta_pct": -55
+        "current": 10.12,
+        "previous": 15.06,
+        "delta_pct": -33
       },
       "top_creative": {
         "name": "AD02 | Consultor | Copy B ganhos | arte oficial",
-        "value": 22
+        "value": 20
       }
     },
     "instagram_visits": {
@@ -98,30 +98,30 @@
   "top_creatives": [
     {
       "name": "[NOV] 3 sessões grátis",
-      "impressions": 18202,
-      "reach": 11319,
-      "clicks": 111,
-      "messages": 21,
-      "ctr": 0.61,
-      "thruplay": 353
+      "impressions": 19437,
+      "reach": 12481,
+      "clicks": 116,
+      "messages": 18,
+      "ctr": 0.6,
+      "thruplay": 364
     },
     {
       "name": "2026-11-18_FUNDO_REELS_OBJECAO-quente_3-sessoes-gratis",
-      "impressions": 10401,
-      "reach": 7320,
-      "clicks": 42,
-      "messages": 7,
-      "ctr": 0.4,
-      "thruplay": 194
+      "impressions": 12510,
+      "reach": 8495,
+      "clicks": 52,
+      "messages": 8,
+      "ctr": 0.42,
+      "thruplay": 228
     },
     {
       "name": "A Black da Líder",
-      "impressions": 8154,
-      "reach": 5369,
-      "clicks": 132,
+      "impressions": 8172,
+      "reach": 5386,
+      "clicks": 128,
       "messages": 0,
-      "ctr": 1.62,
-      "thruplay": 3
+      "ctr": 1.57,
+      "thruplay": 4
     },
     {
       "name": "Mudamos para te atender",
@@ -134,38 +134,38 @@
     },
     {
       "name": "[NOV] TOPO 3 sessões",
-      "impressions": 3835,
-      "reach": 3485,
-      "clicks": 52,
+      "impressions": 3976,
+      "reach": 3517,
+      "clicks": 50,
       "messages": 0,
-      "ctr": 1.36,
-      "thruplay": 1280
+      "ctr": 1.26,
+      "thruplay": 1269
     },
     {
       "name": "AD02 | Consultor | Copy B ganhos | arte oficial",
-      "impressions": 3020,
-      "reach": 1256,
-      "clicks": 80,
-      "messages": 22,
-      "ctr": 2.65,
+      "impressions": 3318,
+      "reach": 1288,
+      "clicks": 84,
+      "messages": 20,
+      "ctr": 2.53,
       "thruplay": 0
     },
     {
       "name": "AD03 | Esteticista/Biomédica | Copy principal | arte oficial",
-      "impressions": 2778,
-      "reach": 1095,
-      "clicks": 82,
-      "messages": 15,
-      "ctr": 2.95,
+      "impressions": 2983,
+      "reach": 1141,
+      "clicks": 83,
+      "messages": 12,
+      "ctr": 2.78,
       "thruplay": 0
     },
     {
-      "name": "[BLACK+] 02 a partir de R$ 99,90",
-      "impressions": 2088,
-      "reach": 1374,
-      "clicks": 8,
-      "messages": 2,
-      "ctr": 0.38,
+      "name": "AD01 | Consultor | Copy A emocional | arte oficial",
+      "impressions": 2316,
+      "reach": 1145,
+      "clicks": 33,
+      "messages": 8,
+      "ctr": 1.42,
       "thruplay": 0
     },
     {
@@ -178,24 +178,24 @@
       "thruplay": 38
     },
     {
-      "name": "AD01 | Consultor | Copy A emocional | arte oficial",
-      "impressions": 1582,
-      "reach": 801,
-      "clicks": 27,
-      "messages": 7,
-      "ctr": 1.71,
+      "name": "[BLACK+] 05 combo virilha + ânus",
+      "impressions": 1271,
+      "reach": 843,
+      "clicks": 11,
+      "messages": 0,
+      "ctr": 0.87,
       "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 74,
-      "male_pct": 26,
+      "female_pct": 75,
+      "male_pct": 25,
       "unknown_pct": 0
     },
     "age": {
-      "18-24": 3,
-      "25-34": 36,
+      "18-24": 4,
+      "25-34": 37,
       "35-44": 27,
       "45-54": 17,
       "55-64": 9,
@@ -204,7 +204,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 346.75,
+    "balance_brl": 434.94,
     "balance_low": false,
     "account_disabled": false
   },

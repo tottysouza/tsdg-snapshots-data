@@ -4,75 +4,75 @@
     "account_name": "Espaçolaser Caçapava",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-11-24T19:20:18.578Z",
+    "generated_at": "2026-11-25T18:26:23.252Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-17",
-      "until": "2026-11-23",
-      "label_pt": "17 nov a 23 nov"
+      "since": "2026-11-18",
+      "until": "2026-11-24",
+      "label_pt": "18 nov a 24 nov"
     },
     "previous": {
-      "since": "2026-11-10",
-      "until": "2026-11-16"
+      "since": "2026-11-11",
+      "until": "2026-11-17"
     }
   },
   "totals": {
     "spend": {
-      "current": 586.58,
-      "previous": 278.95,
-      "delta_pct": 110
+      "current": 582.65,
+      "previous": 385.99,
+      "delta_pct": 51
     },
     "impressions": {
-      "current": 55118,
-      "previous": 19642,
-      "delta_pct": 181
+      "current": 54194,
+      "previous": 29430,
+      "delta_pct": 84
     },
     "reach": {
-      "current": 30464,
-      "previous": 10555,
-      "delta_pct": 189
+      "current": 29660,
+      "previous": 15309,
+      "delta_pct": 94
     },
     "clicks": {
-      "current": 676,
-      "previous": 170,
-      "delta_pct": 298
+      "current": 659,
+      "previous": 278,
+      "delta_pct": 137
     },
     "ctr": {
-      "current": 1.23,
-      "previous": 0.87,
-      "delta_pct": 41
+      "current": 1.22,
+      "previous": 0.94,
+      "delta_pct": 30
     },
     "cpc": {
-      "current": 0.87,
-      "previous": 1.64,
-      "delta_pct": -47
+      "current": 0.88,
+      "previous": 1.39,
+      "delta_pct": -37
     },
     "thruplay": {
-      "current": 3142,
-      "previous": 350,
-      "delta_pct": 798
+      "current": 3179,
+      "previous": 869,
+      "delta_pct": 266
     },
     "frequency": {
-      "current": 1.81,
-      "previous": 1.86,
-      "delta_pct": -3
+      "current": 1.83,
+      "previous": 1.92,
+      "delta_pct": -5
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 22,
-        "previous": 6,
-        "delta_pct": 267
+        "current": 21,
+        "previous": 8,
+        "delta_pct": 163
       },
       "cost": {
-        "current": 26.66,
-        "previous": 46.49,
-        "delta_pct": -43
+        "current": 27.75,
+        "previous": 48.25,
+        "delta_pct": -42
       },
       "top_creative": {
         "name": "3 sessões 2",
@@ -98,113 +98,113 @@
   "top_creatives": [
     {
       "name": "3 sessões 2",
-      "impressions": 14955,
-      "reach": 8094,
-      "clicks": 93,
+      "impressions": 18681,
+      "reach": 9600,
+      "clicks": 105,
       "messages": 12,
-      "ctr": 0.62,
-      "thruplay": 411
+      "ctr": 0.56,
+      "thruplay": 576
     },
     {
       "name": "Chega de tabu",
-      "impressions": 10837,
-      "reach": 9252,
-      "clicks": 128,
+      "impressions": 10594,
+      "reach": 9000,
+      "clicks": 129,
       "messages": 0,
-      "ctr": 1.18,
-      "thruplay": 1831
+      "ctr": 1.22,
+      "thruplay": 1773
     },
     {
       "name": "UNIDADE | A partir de R$ 99 (estático)",
-      "impressions": 7522,
-      "reach": 4373,
-      "clicks": 50,
+      "impressions": 6493,
+      "reach": 3931,
+      "clicks": 40,
       "messages": 4,
-      "ctr": 0.66,
+      "ctr": 0.62,
       "thruplay": 0
     },
     {
       "name": "Liberdade nas axilas?",
-      "impressions": 4835,
-      "reach": 3618,
-      "clicks": 55,
+      "impressions": 3498,
+      "reach": 2885,
+      "clicks": 38,
       "messages": 0,
-      "ctr": 1.14,
+      "ctr": 1.09,
       "thruplay": 0
     },
     {
       "name": "Depilar a região íntima",
-      "impressions": 3738,
-      "reach": 3299,
-      "clicks": 66,
+      "impressions": 3044,
+      "reach": 2735,
+      "clicks": 46,
       "messages": 0,
-      "ctr": 1.77,
-      "thruplay": 499
-    },
-    {
-      "name": "UNIDADE | 3 sessões (estático)",
-      "impressions": 3304,
-      "reach": 1833,
-      "clicks": 18,
-      "messages": 3,
-      "ctr": 0.54,
-      "thruplay": 0
+      "ctr": 1.51,
+      "thruplay": 374
     },
     {
       "name": "Fui conhecer",
-      "impressions": 2988,
-      "reach": 2418,
-      "clicks": 122,
+      "impressions": 2747,
+      "reach": 2235,
+      "clicks": 111,
       "messages": 0,
-      "ctr": 4.08,
-      "thruplay": 115
+      "ctr": 4.04,
+      "thruplay": 104
     },
     {
       "name": "A Black da Líder",
-      "impressions": 2078,
-      "reach": 1794,
-      "clicks": 115,
+      "impressions": 2584,
+      "reach": 2135,
+      "clicks": 149,
       "messages": 0,
-      "ctr": 5.53,
-      "thruplay": 206
+      "ctr": 5.77,
+      "thruplay": 273
     },
     {
-      "name": "BLACK | Estático Black da Líder",
-      "impressions": 1509,
-      "reach": 1073,
-      "clicks": 4,
-      "messages": 0,
-      "ctr": 0.27,
+      "name": "UNIDADE | 3 sessões (estático)",
+      "impressions": 2488,
+      "reach": 1505,
+      "clicks": 11,
+      "messages": 2,
+      "ctr": 0.44,
       "thruplay": 0
     },
     {
       "name": "BLACK | Reel Calculadora 80% OFF",
-      "impressions": 1473,
-      "reach": 951,
-      "clicks": 9,
+      "impressions": 1761,
+      "reach": 1100,
+      "clicks": 10,
       "messages": 0,
-      "ctr": 0.61,
-      "thruplay": 30
+      "ctr": 0.57,
+      "thruplay": 34
+    },
+    {
+      "name": "ÂNCORA | Estático Black da Líder",
+      "impressions": 803,
+      "reach": 474,
+      "clicks": 9,
+      "messages": 2,
+      "ctr": 1.12,
+      "thruplay": 0
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 67,
-      "male_pct": 33,
+      "female_pct": 66,
+      "male_pct": 34,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
       "25-34": 26,
-      "35-44": 24,
+      "35-44": 25,
       "45-54": 18,
       "55-64": 15,
-      "65+": 18
+      "65+": 16
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 68.36,
+    "balance_brl": 35.5,
     "balance_low": false,
     "account_disabled": false
   },

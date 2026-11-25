@@ -1,0 +1,118 @@
+{
+  "current": {
+    "accountId": "act_1365837951918266",
+    "saldo": 20.97,
+    "dateRange": {
+      "since": "2026-11-18",
+      "until": "2026-11-24"
+    },
+    "kpis": {
+      "investimento": 20.97,
+      "impressoes": 2199,
+      "alcance": 2150,
+      "cliques": 19,
+      "cpc": 1.1,
+      "cpm": 9.54,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 380,
+      "frequencia": 1.02
+    },
+    "ads": [
+      {
+        "id": "120251477912080214",
+        "nome": "Campanha de mensagens personalizadas 24/11/2026 Anúncio",
+        "status": "WITH_ISSUES",
+        "legenda": "instagram.com 2026-11-24-df31b530e15f4a1c1d65c81dd3c2a33b",
+        "campId": "120251477912060214",
+        "campanha": "Campanha de mensagens personalizadas 24/11/2026 Campanha",
+        "adsetId": "120251477912070214",
+        "adset": "Campanha de mensagens personalizadas 24/11/2026 Conjunto de anúncios",
+        "thumbnail": "https://scontent-yyz1-1.xx.fbcdn.net/v/t45.1600-4/882957168_122127822981422832_9077431232633327058_n.png?stp=dst-jpg_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ff4730&_nc_eui2=AeH08cOySGNpn4NGnXjmThQamIwuzCsoLp2YjC7MKygunYeick1SJrW1bYmALBzawDk_arxI0bkORz6hO2Qkpizq&_nc_ohc=ifdjil3NZmoQ7kNvwFJq5TD&_nc_oc=AdqNa2I_LHZFNczTDo4AZylFQfuKZTLjMtE7UB8uWamaIw8tiQRb48L8NgIOQc1GJk0&_nc_zt=1&_nc_ht=scontent-yyz1-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=fDeFcfMXiOLoowhUg4JfKg&_nc_tpa=Q5bMBQId9ENnbiQ83hrdWks6hoG4tda9fS-HrXXlaBJd3VAOEFeSXTSU4ou5Z6-2vnmaqgdll5Fs-tumwHc&oh=00_AQS_RlPJyRWiYjaUux0O_XcUGAD1b-v0UyP7ZNtcQY0pOA&oe=6B0D0D0F",
+        "impressoes": 2199,
+        "alcance": 2150,
+        "cliques": 19,
+        "mensagens": 0,
+        "thruplay": 380,
+        "investimento": 20.97,
+        "cpc": 1.1,
+        "ctr": 0.86
+      }
+    ],
+    "genero": {
+      "F": 58,
+      "M": 42,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 23,
+      "25-34": 26,
+      "35-44": 18,
+      "45-54": 12,
+      "55-64": 9,
+      "65+": 11
+    },
+    "periodo": "custom",
+    "timestamp": "2026-11-25T18:26:26.678Z",
+    "prev": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    }
+  },
+  "previous": {
+    "accountId": "act_1365837951918266",
+    "saldo": 20.97,
+    "periodo": "custom",
+    "dateRange": {
+      "since": "2026-11-11",
+      "until": "2026-11-17"
+    },
+    "timestamp": "2026-11-25T18:26:24.261Z",
+    "kpis": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    },
+    "ads": [],
+    "genero": {
+      "F": 0,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    },
+    "prev": {
+      "investimento": 60.98,
+      "impressoes": 6937,
+      "alcance": 6285,
+      "cliques": 344,
+      "cpc": 0.18,
+      "cpm": 8.79,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 139,
+      "frequencia": 1.1
+    }
+  }
+}
