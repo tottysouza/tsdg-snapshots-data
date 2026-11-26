@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "account_id": "act_1377904143357140",
+    "account_name": "LACES Origens",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-26T18:07:05.294Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "label_pt": "19 nov a 25 nov"
+    },
+    "previous": {
+      "since": "2026-11-12",
+      "until": "2026-11-18"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 554.3,
+      "previous": 756.14,
+      "delta_pct": -27
+    },
+    "impressions": {
+      "current": 7339,
+      "previous": 21306,
+      "delta_pct": -66
+    },
+    "reach": {
+      "current": 3850,
+      "previous": 14151,
+      "delta_pct": -73
+    },
+    "clicks": {
+      "current": 218,
+      "previous": 549,
+      "delta_pct": -60
+    },
+    "ctr": {
+      "current": 2.97,
+      "previous": 2.58,
+      "delta_pct": 15
+    },
+    "cpc": {
+      "current": 2.54,
+      "previous": 1.38,
+      "delta_pct": 84
+    },
+    "thruplay": {
+      "current": 388,
+      "previous": 2689,
+      "delta_pct": -86
+    },
+    "frequency": {
+      "current": 1.91,
+      "previous": 1.51,
+      "delta_pct": 26
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 24,
+        "previous": 25,
+        "delta_pct": -4
+      },
+      "cost": {
+        "current": 23.1,
+        "previous": 30.25,
+        "delta_pct": -24
+      },
+      "top_creative": {
+        "name": "Contei para vocês",
+        "value": 6
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Contei para vocês",
+      "impressions": 1128,
+      "reach": 910,
+      "clicks": 41,
+      "messages": 4,
+      "ctr": 3.63,
+      "thruplay": 143
+    },
+    {
+      "name": "SMH | Estático Monique",
+      "impressions": 950,
+      "reach": 624,
+      "clicks": 28,
+      "messages": 4,
+      "ctr": 2.95,
+      "thruplay": 0
+    },
+    {
+      "name": "GF | Vídeo Aminomel v2",
+      "impressions": 885,
+      "reach": 651,
+      "clicks": 15,
+      "messages": 1,
+      "ctr": 1.69,
+      "thruplay": 56
+    },
+    {
+      "name": "GF | Estático Nutrição Coco",
+      "impressions": 641,
+      "reach": 500,
+      "clicks": 22,
+      "messages": 2,
+      "ctr": 3.43,
+      "thruplay": 0
+    },
+    {
+      "name": "Contei para vocês",
+      "impressions": 566,
+      "reach": 425,
+      "clicks": 21,
+      "messages": 6,
+      "ctr": 3.71,
+      "thruplay": 73
+    },
+    {
+      "name": "SMH | Carrossel 5 cards",
+      "impressions": 558,
+      "reach": 386,
+      "clicks": 14,
+      "messages": 0,
+      "ctr": 2.51,
+      "thruplay": 0
+    },
+    {
+      "name": "2026-11-18_FUNDO_CARROSSEL_OFERTA-quente_GF-diagnostico-capilar",
+      "impressions": 406,
+      "reach": 277,
+      "clicks": 14,
+      "messages": 2,
+      "ctr": 3.45,
+      "thruplay": 0
+    },
+    {
+      "name": "2026-11-17_F_REEL_AUTORIDADE-frio_CabeloEArte",
+      "impressions": 366,
+      "reach": 285,
+      "clicks": 19,
+      "messages": 1,
+      "ctr": 5.19,
+      "thruplay": 30
+    },
+    {
+      "name": "GF | Carrossel 4 cards",
+      "impressions": 310,
+      "reach": 218,
+      "clicks": 9,
+      "messages": 0,
+      "ctr": 2.9,
+      "thruplay": 0
+    },
+    {
+      "name": "GF | Estático Prioridades",
+      "impressions": 239,
+      "reach": 186,
+      "clicks": 4,
+      "messages": 2,
+      "ctr": 1.67,
+      "thruplay": 14
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 96,
+      "male_pct": 3,
+      "unknown_pct": 1
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 12,
+      "35-44": 21,
+      "45-54": 25,
+      "55-64": 22,
+      "65+": 20
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 352.49,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": []
+}

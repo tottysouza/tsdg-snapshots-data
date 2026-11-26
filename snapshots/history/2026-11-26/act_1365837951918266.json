@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "account_id": "act_1365837951918266",
+    "account_name": "MIMO Live Sales",
+    "segment": "TECH",
+    "template": "MIMO",
+    "generated_at": "2026-11-26T18:07:39.990Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "label_pt": "19 nov a 25 nov"
+    },
+    "previous": {
+      "since": "2026-11-12",
+      "until": "2026-11-18"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 219.16,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "impressions": {
+      "current": 20371,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "reach": {
+      "current": 14323,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "clicks": {
+      "current": 193,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "ctr": {
+      "current": 0.95,
+      "previous": null,
+      "delta_pct": null
+    },
+    "cpc": {
+      "current": 1.14,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "thruplay": {
+      "current": 1058,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "frequency": {
+      "current": 1.42,
+      "previous": 0,
+      "delta_pct": null
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 0,
+        "previous": 0,
+        "delta_pct": 0
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": {
+        "name": "Anuncio @ortobomparanagua",
+        "value": 0
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Anuncio @ortobomparanagua",
+      "impressions": 18172,
+      "reach": 12352,
+      "clicks": 174,
+      "messages": 0,
+      "ctr": 0.96,
+      "thruplay": 678
+    },
+    {
+      "name": "Campanha de mensagens personalizadas 24/11/2026 Anúncio",
+      "impressions": 2199,
+      "reach": 2150,
+      "clicks": 19,
+      "messages": 0,
+      "ctr": 0.86,
+      "thruplay": 380
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 64,
+      "male_pct": 36,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 3,
+      "25-34": 40,
+      "35-44": 28,
+      "45-54": 16,
+      "55-64": 8,
+      "65+": 5
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 168.78,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "zero_conversations_current"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "current": {
+    "accountId": "act_1365837951918266",
+    "saldo": 168.78,
+    "dateRange": {
+      "since": "2026-11-19",
+      "until": "2026-11-25"
+    },
+    "kpis": {
+      "investimento": 219.16,
+      "impressoes": 20371,
+      "alcance": 14323,
+      "cliques": 193,
+      "cpc": 1.14,
+      "cpm": 10.76,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 1058,
+      "frequencia": 1.42
+    },
+    "ads": [
+      {
+        "id": "120251497194720214",
+        "nome": "Anuncio @ortobomparanagua",
+        "status": "ACTIVE",
+        "legenda": "instagram.com 2026-11-25-0344af5f9cfc097f3a92044fe184b410",
+        "campId": "120251497194700214",
+        "campanha": "@ortobomparanagua",
+        "adsetId": "120251497194710214",
+        "adset": "Conjunto @ortobomparanagua",
+        "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/882957168_122127822981422832_9077431232633327058_n.png?stp=dst-jpg_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ff4730&_nc_eui2=AeH08cOySGNpn4NGnXjmThQamIwuzCsoLp2YjC7MKygunYeick1SJrW1bYmALBzawDk_arxI0bkORz6hO2Qkpizq&_nc_ohc=ifdjil3NZmoQ7kNvwEB7PyS&_nc_oc=Ado_sIKdK6dL3afcYZebPbMP9tdnDRIecOxn0zNqcCPsPaBPPBEBLb_3Gz5LZvgRITU&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=Jlg9ovCJ84ZJVWG49CBHlw&_nc_tpa=Q5bMBQLFXN7_HK033Rllf34uUAdNGFs7Vk9V9l0_LgG_fv-aLRwA9pcv1PVuwmcYY-zO0K4RUrt1Eg5nNqw&oh=00_AQQFfowzoURVNG0d5CbLjkp7oClpBA314L9GlmyJX57ciw&oe=6B0E5E8F",
+        "impressoes": 18172,
+        "alcance": 12352,
+        "cliques": 174,
+        "mensagens": 0,
+        "thruplay": 678,
+        "investimento": 198.19,
+        "cpc": 1.14,
+        "ctr": 0.96
+      },
+      {
+        "id": "120251477912080214",
+        "nome": "Campanha de mensagens personalizadas 24/11/2026 Anúncio",
+        "status": "WITH_ISSUES",
+        "legenda": "instagram.com 2026-11-24-df31b530e15f4a1c1d65c81dd3c2a33b",
+        "campId": "120251477912060214",
+        "campanha": "Campanha de mensagens personalizadas 24/11/2026 Campanha",
+        "adsetId": "120251477912070214",
+        "adset": "Campanha de mensagens personalizadas 24/11/2026 Conjunto de anúncios",
+        "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/882957168_122127822981422832_9077431232633327058_n.png?stp=dst-jpg_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ff4730&_nc_eui2=AeH08cOySGNpn4NGnXjmThQamIwuzCsoLp2YjC7MKygunYeick1SJrW1bYmALBzawDk_arxI0bkORz6hO2Qkpizq&_nc_ohc=ifdjil3NZmoQ7kNvwEB7PyS&_nc_oc=Ado_sIKdK6dL3afcYZebPbMP9tdnDRIecOxn0zNqcCPsPaBPPBEBLb_3Gz5LZvgRITU&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=Jlg9ovCJ84ZJVWG49CBHlw&_nc_tpa=Q5bMBQLRsDXKahCF-8Hx5zJy3u6Xp0vbaed67lnsd9-JB6ixIWU9a9TSqeib2fzkW7W1aPqVY51NKCIVcoA&oh=00_AQTy9qGTR1upV7ozFSMPWX8o6X2HsyqEJgg2aUB2rD8f_w&oe=6B0E5E8F",
+        "impressoes": 2199,
+        "alcance": 2150,
+        "cliques": 19,
+        "mensagens": 0,
+        "thruplay": 380,
+        "investimento": 20.97,
+        "cpc": 1.1,
+        "ctr": 0.86
+      }
+    ],
+    "genero": {
+      "F": 64,
+      "M": 36,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 3,
+      "25-34": 40,
+      "35-44": 28,
+      "45-54": 16,
+      "55-64": 8,
+      "65+": 5
+    },
+    "periodo": "custom",
+    "timestamp": "2026-11-26T18:07:39.982Z",
+    "prev": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    }
+  },
+  "previous": {
+    "accountId": "act_1365837951918266",
+    "saldo": 168.78,
+    "periodo": "custom",
+    "dateRange": {
+      "since": "2026-11-12",
+      "until": "2026-11-18"
+    },
+    "timestamp": "2026-11-26T18:07:38.876Z",
+    "kpis": {
+      "investimento": 0,
+      "impressoes": 0,
+      "alcance": 0,
+      "cliques": 0,
+      "cpc": 0,
+      "cpm": 0,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 0,
+      "frequencia": 0
+    },
+    "ads": [],
+    "genero": {
+      "F": 0,
+      "M": 0,
+      "U": 0
+    },
+    "idade": {
+      "18-24": 0,
+      "25-34": 0,
+      "35-44": 0,
+      "45-54": 0,
+      "55-64": 0,
+      "65+": 0
+    },
+    "prev": {
+      "investimento": 24.19,
+      "impressoes": 2749,
+      "alcance": 2614,
+      "cliques": 142,
+      "cpc": 0.17,
+      "cpm": 8.8,
+      "mensagens": 0,
+      "cpa": 0,
+      "thruplay": 68,
+      "frequencia": 1.05
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_806895401401781",
+    "account_name": "Espaçolaser Bragança",
+    "segment": "LASER",
+    "template": "LASER",
+    "generated_at": "2026-11-26T18:07:27.056Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "label_pt": "19 nov a 25 nov"
+    },
+    "previous": {
+      "since": "2026-11-12",
+      "until": "2026-11-18"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 734.72,
+      "previous": 578.4,
+      "delta_pct": 27
+    },
+    "impressions": {
+      "current": 64523,
+      "previous": 47861,
+      "delta_pct": 35
+    },
+    "reach": {
+      "current": 33554,
+      "previous": 24779,
+      "delta_pct": 35
+    },
+    "clicks": {
+      "current": 661,
+      "previous": 560,
+      "delta_pct": 18
+    },
+    "ctr": {
+      "current": 1.02,
+      "previous": 1.17,
+      "delta_pct": -13
+    },
+    "cpc": {
+      "current": 1.11,
+      "previous": 1.03,
+      "delta_pct": 8
+    },
+    "thruplay": {
+      "current": 2043,
+      "previous": 1930,
+      "delta_pct": 6
+    },
+    "frequency": {
+      "current": 1.92,
+      "previous": 1.93,
+      "delta_pct": -1
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 63,
+        "previous": 50,
+        "delta_pct": 26
+      },
+      "cost": {
+        "current": 11.66,
+        "previous": 11.57,
+        "delta_pct": 1
+      },
+      "top_creative": {
+        "name": "AD02 | Consultor | Copy B ganhos | arte oficial",
+        "value": 17
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "[NOV] 3 sessões grátis",
+      "impressions": 18805,
+      "reach": 12514,
+      "clicks": 112,
+      "messages": 16,
+      "ctr": 0.6,
+      "thruplay": 352
+    },
+    {
+      "name": "2026-11-18_FUNDO_REELS_OBJECAO-quente_3-sessoes-gratis",
+      "impressions": 14316,
+      "reach": 9630,
+      "clicks": 59,
+      "messages": 10,
+      "ctr": 0.41,
+      "thruplay": 246
+    },
+    {
+      "name": "A Black da Líder",
+      "impressions": 6760,
+      "reach": 4668,
+      "clicks": 113,
+      "messages": 0,
+      "ctr": 1.67,
+      "thruplay": 5
+    },
+    {
+      "name": "Mudamos para te atender",
+      "impressions": 6619,
+      "reach": 4750,
+      "clicks": 107,
+      "messages": 0,
+      "ctr": 1.62,
+      "thruplay": 0
+    },
+    {
+      "name": "[NOV] TOPO 3 sessões",
+      "impressions": 3990,
+      "reach": 3531,
+      "clicks": 42,
+      "messages": 0,
+      "ctr": 1.05,
+      "thruplay": 1263
+    },
+    {
+      "name": "AD02 | Consultor | Copy B ganhos | arte oficial",
+      "impressions": 3373,
+      "reach": 1337,
+      "clicks": 78,
+      "messages": 17,
+      "ctr": 2.31,
+      "thruplay": 0
+    },
+    {
+      "name": "AD03 | Esteticista/Biomédica | Copy principal | arte oficial",
+      "impressions": 2822,
+      "reach": 1129,
+      "clicks": 70,
+      "messages": 8,
+      "ctr": 2.48,
+      "thruplay": 0
+    },
+    {
+      "name": "AD01 | Consultor | Copy A emocional | arte oficial",
+      "impressions": 2592,
+      "reach": 1267,
+      "clicks": 34,
+      "messages": 7,
+      "ctr": 1.31,
+      "thruplay": 0
+    },
+    {
+      "name": "[BLACK+] 05 combo virilha + ânus",
+      "impressions": 1168,
+      "reach": 803,
+      "clicks": 10,
+      "messages": 0,
+      "ctr": 0.86,
+      "thruplay": 0
+    },
+    {
+      "name": "[BLACK+] 09 meia perna",
+      "impressions": 1013,
+      "reach": 772,
+      "clicks": 10,
+      "messages": 2,
+      "ctr": 0.99,
+      "thruplay": 0
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 74,
+      "male_pct": 26,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 4,
+      "25-34": 37,
+      "35-44": 27,
+      "45-54": 16,
+      "55-64": 9,
+      "65+": 7
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 7.58,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

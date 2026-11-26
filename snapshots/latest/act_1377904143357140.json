@@ -4,75 +4,75 @@
     "account_name": "LACES Origens",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-25T18:25:18.400Z",
+    "generated_at": "2026-11-26T18:07:05.294Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-18",
-      "until": "2026-11-24",
-      "label_pt": "18 nov a 24 nov"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "label_pt": "19 nov a 25 nov"
     },
     "previous": {
-      "since": "2026-11-11",
-      "until": "2026-11-17"
+      "since": "2026-11-12",
+      "until": "2026-11-18"
     }
   },
   "totals": {
     "spend": {
-      "current": 604.33,
-      "previous": 701.7,
-      "delta_pct": -14
+      "current": 554.3,
+      "previous": 756.14,
+      "delta_pct": -27
     },
     "impressions": {
-      "current": 9449,
-      "previous": 20262,
-      "delta_pct": -53
+      "current": 7339,
+      "previous": 21306,
+      "delta_pct": -66
     },
     "reach": {
-      "current": 5554,
-      "previous": 14039,
-      "delta_pct": -60
-    },
-    "clicks": {
-      "current": 265,
-      "previous": 539,
-      "delta_pct": -51
-    },
-    "ctr": {
-      "current": 2.8,
-      "previous": 2.66,
-      "delta_pct": 5
-    },
-    "cpc": {
-      "current": 2.28,
-      "previous": 1.3,
-      "delta_pct": 75
-    },
-    "thruplay": {
-      "current": 730,
-      "previous": 2670,
+      "current": 3850,
+      "previous": 14151,
       "delta_pct": -73
     },
+    "clicks": {
+      "current": 218,
+      "previous": 549,
+      "delta_pct": -60
+    },
+    "ctr": {
+      "current": 2.97,
+      "previous": 2.58,
+      "delta_pct": 15
+    },
+    "cpc": {
+      "current": 2.54,
+      "previous": 1.38,
+      "delta_pct": 84
+    },
+    "thruplay": {
+      "current": 388,
+      "previous": 2689,
+      "delta_pct": -86
+    },
     "frequency": {
-      "current": 1.7,
-      "previous": 1.44,
-      "delta_pct": 18
+      "current": 1.91,
+      "previous": 1.51,
+      "delta_pct": 26
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 26,
-        "previous": 21,
-        "delta_pct": 24
+        "current": 24,
+        "previous": 25,
+        "delta_pct": -4
       },
       "cost": {
-        "current": 23.24,
-        "previous": 33.41,
-        "delta_pct": -30
+        "current": 23.1,
+        "previous": 30.25,
+        "delta_pct": -24
       },
       "top_creative": {
         "name": "Contei para vocês",
@@ -98,66 +98,48 @@
   "top_creatives": [
     {
       "name": "Contei para vocês",
-      "impressions": 1233,
-      "reach": 1013,
-      "clicks": 51,
+      "impressions": 1128,
+      "reach": 910,
+      "clicks": 41,
       "messages": 4,
-      "ctr": 4.14,
-      "thruplay": 162
-    },
-    {
-      "name": "GF | Vídeo Aminomel v2",
-      "impressions": 1134,
-      "reach": 810,
-      "clicks": 20,
-      "messages": 2,
-      "ctr": 1.76,
-      "thruplay": 69
-    },
-    {
-      "name": "Há rituais",
-      "impressions": 951,
-      "reach": 942,
-      "clicks": 8,
-      "messages": 0,
-      "ctr": 0.84,
-      "thruplay": 247
+      "ctr": 3.63,
+      "thruplay": 143
     },
     {
       "name": "SMH | Estático Monique",
-      "impressions": 824,
-      "reach": 559,
-      "clicks": 26,
-      "messages": 3,
-      "ctr": 3.16,
+      "impressions": 950,
+      "reach": 624,
+      "clicks": 28,
+      "messages": 4,
+      "ctr": 2.95,
       "thruplay": 0
+    },
+    {
+      "name": "GF | Vídeo Aminomel v2",
+      "impressions": 885,
+      "reach": 651,
+      "clicks": 15,
+      "messages": 1,
+      "ctr": 1.69,
+      "thruplay": 56
     },
     {
       "name": "GF | Estático Nutrição Coco",
-      "impressions": 683,
-      "reach": 529,
-      "clicks": 24,
+      "impressions": 641,
+      "reach": 500,
+      "clicks": 22,
       "messages": 2,
-      "ctr": 3.51,
+      "ctr": 3.43,
       "thruplay": 0
     },
     {
-      "name": "Tem dias",
-      "impressions": 657,
-      "reach": 589,
-      "clicks": 25,
-      "messages": 0,
-      "ctr": 3.81,
-      "thruplay": 1
-    },
-    {
       "name": "Contei para vocês",
-      "impressions": 602,
-      "reach": 441,
+      "impressions": 566,
+      "reach": 425,
       "clicks": 21,
       "messages": 6,
-      "ctr": 3.49,
-      "thruplay": 76
+      "ctr": 3.71,
+      "thruplay": 73
     },
     {
       "name": "SMH | Carrossel 5 cards",
@@ -169,42 +151,60 @@
       "thruplay": 0
     },
     {
-      "name": "2026-11-17_F_REEL_AUTORIDADE-frio_CabeloEArte",
-      "impressions": 360,
-      "reach": 278,
-      "clicks": 19,
+      "name": "2026-11-18_FUNDO_CARROSSEL_OFERTA-quente_GF-diagnostico-capilar",
+      "impressions": 406,
+      "reach": 277,
+      "clicks": 14,
       "messages": 2,
-      "ctr": 5.28,
-      "thruplay": 25
+      "ctr": 3.45,
+      "thruplay": 0
+    },
+    {
+      "name": "2026-11-17_F_REEL_AUTORIDADE-frio_CabeloEArte",
+      "impressions": 366,
+      "reach": 285,
+      "clicks": 19,
+      "messages": 1,
+      "ctr": 5.19,
+      "thruplay": 30
+    },
+    {
+      "name": "GF | Carrossel 4 cards",
+      "impressions": 310,
+      "reach": 218,
+      "clicks": 9,
+      "messages": 0,
+      "ctr": 2.9,
+      "thruplay": 0
     },
     {
       "name": "GF | Estático Prioridades",
-      "impressions": 341,
-      "reach": 257,
-      "clicks": 5,
+      "impressions": 239,
+      "reach": 186,
+      "clicks": 4,
       "messages": 2,
-      "ctr": 1.47,
+      "ctr": 1.67,
       "thruplay": 14
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 95,
-      "male_pct": 5,
-      "unknown_pct": 0
+      "female_pct": 96,
+      "male_pct": 3,
+      "unknown_pct": 1
     },
     "age": {
       "18-24": 0,
       "25-34": 12,
-      "35-44": 19,
-      "45-54": 24,
+      "35-44": 21,
+      "45-54": 25,
       "55-64": 22,
-      "65+": 22
+      "65+": 20
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 286.74,
+    "balance_brl": 352.49,
     "balance_low": false,
     "account_disabled": false
   },

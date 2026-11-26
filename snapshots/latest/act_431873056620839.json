@@ -4,75 +4,75 @@
     "account_name": "Espaçolaser Campolim",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-11-25T18:26:14.670Z",
+    "generated_at": "2026-11-26T18:07:34.763Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-18",
-      "until": "2026-11-24",
-      "label_pt": "18 nov a 24 nov"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "label_pt": "19 nov a 25 nov"
     },
     "previous": {
-      "since": "2026-11-11",
-      "until": "2026-11-17"
+      "since": "2026-11-12",
+      "until": "2026-11-18"
     }
   },
   "totals": {
     "spend": {
-      "current": 614.75,
-      "previous": 553.9,
-      "delta_pct": 11
+      "current": 608,
+      "previous": 551.68,
+      "delta_pct": 10
     },
     "impressions": {
-      "current": 40435,
-      "previous": 32998,
-      "delta_pct": 23
-    },
-    "reach": {
-      "current": 26403,
-      "previous": 19323,
-      "delta_pct": 37
-    },
-    "clicks": {
-      "current": 896,
-      "previous": 760,
+      "current": 40216,
+      "previous": 34140,
       "delta_pct": 18
     },
+    "reach": {
+      "current": 27162,
+      "previous": 20615,
+      "delta_pct": 32
+    },
+    "clicks": {
+      "current": 864,
+      "previous": 764,
+      "delta_pct": 13
+    },
     "ctr": {
-      "current": 2.22,
-      "previous": 2.3,
-      "delta_pct": -3
+      "current": 2.15,
+      "previous": 2.24,
+      "delta_pct": -4
     },
     "cpc": {
-      "current": 0.69,
-      "previous": 0.73,
-      "delta_pct": -5
+      "current": 0.7,
+      "previous": 0.72,
+      "delta_pct": -3
     },
     "thruplay": {
-      "current": 2789,
-      "previous": 2222,
-      "delta_pct": 26
+      "current": 2855,
+      "previous": 2378,
+      "delta_pct": 20
     },
     "frequency": {
-      "current": 1.53,
-      "previous": 1.71,
+      "current": 1.48,
+      "previous": 1.66,
       "delta_pct": -11
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 48,
-        "previous": 30,
-        "delta_pct": 60
+        "current": 47,
+        "previous": 31,
+        "delta_pct": 52
       },
       "cost": {
-        "current": 12.81,
-        "previous": 18.46,
-        "delta_pct": -31
+        "current": 12.94,
+        "previous": 17.8,
+        "delta_pct": -27
       },
       "top_creative": {
         "name": "Resgate — Cópia FEM",
@@ -98,105 +98,105 @@
   "top_creatives": [
     {
       "name": "De perto",
-      "impressions": 10252,
-      "reach": 9155,
-      "clicks": 30,
+      "impressions": 10212,
+      "reach": 9012,
+      "clicks": 32,
       "messages": 0,
-      "ctr": 0.29,
-      "thruplay": 1900
-    },
-    {
-      "name": "Resgate",
-      "impressions": 7120,
-      "reach": 4380,
-      "clicks": 49,
-      "messages": 13,
-      "ctr": 0.69,
-      "thruplay": 153
+      "ctr": 0.31,
+      "thruplay": 1878
     },
     {
       "name": "Resgate — Cópia FEM",
-      "impressions": 6454,
-      "reach": 4465,
-      "clicks": 63,
+      "impressions": 6485,
+      "reach": 4440,
+      "clicks": 61,
       "messages": 16,
-      "ctr": 0.98,
-      "thruplay": 146
+      "ctr": 0.94,
+      "thruplay": 159
+    },
+    {
+      "name": "Resgate",
+      "impressions": 6309,
+      "reach": 4069,
+      "clicks": 47,
+      "messages": 14,
+      "ctr": 0.74,
+      "thruplay": 139
     },
     {
       "name": "Pena que nao e meu caso",
-      "impressions": 6388,
-      "reach": 5341,
-      "clicks": 80,
-      "messages": 7,
-      "ctr": 1.25,
-      "thruplay": 421
+      "impressions": 5962,
+      "reach": 5028,
+      "clicks": 72,
+      "messages": 6,
+      "ctr": 1.21,
+      "thruplay": 404
     },
     {
       "name": "[BLACK 12x] MEIO pernas inteiras",
-      "impressions": 4195,
-      "reach": 3023,
-      "clicks": 602,
+      "impressions": 3600,
+      "reach": 2663,
+      "clicks": 527,
       "messages": 0,
-      "ctr": 14.35,
+      "ctr": 14.64,
       "thruplay": 0
     },
     {
       "name": "Segredos",
-      "impressions": 2219,
-      "reach": 1326,
-      "clicks": 34,
+      "impressions": 1985,
+      "reach": 1194,
+      "clicks": 28,
       "messages": 5,
-      "ctr": 1.53,
-      "thruplay": 94
+      "ctr": 1.41,
+      "thruplay": 82
+    },
+    {
+      "name": "A sua pele merece",
+      "impressions": 1785,
+      "reach": 1693,
+      "clicks": 61,
+      "messages": 0,
+      "ctr": 3.42,
+      "thruplay": 111
     },
     {
       "name": "[BLACK+] 03 pernas inteiras",
-      "impressions": 1746,
-      "reach": 1161,
-      "clicks": 16,
-      "messages": 3,
-      "ctr": 0.92,
+      "impressions": 1367,
+      "reach": 936,
+      "clicks": 12,
+      "messages": 2,
+      "ctr": 0.88,
       "thruplay": 0
     },
     {
       "name": "[BLACK+] 02 a partir de R$ 99,90",
-      "impressions": 612,
-      "reach": 321,
-      "clicks": 8,
-      "messages": 2,
-      "ctr": 1.31,
+      "impressions": 598,
+      "reach": 336,
+      "clicks": 6,
+      "messages": 1,
+      "ctr": 1,
       "thruplay": 0
     },
     {
       "name": "[BLACK+] 10 coxas",
-      "impressions": 443,
-      "reach": 316,
-      "clicks": 3,
-      "messages": 1,
-      "ctr": 0.68,
+      "impressions": 476,
+      "reach": 333,
+      "clicks": 6,
+      "messages": 2,
+      "ctr": 1.26,
       "thruplay": 0
-    },
-    {
-      "name": "Eu deixando",
-      "impressions": 363,
-      "reach": 352,
-      "clicks": 4,
-      "messages": 0,
-      "ctr": 1.1,
-      "thruplay": 62
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 38,
-      "male_pct": 62,
+      "female_pct": 40,
+      "male_pct": 60,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
       "25-34": 37,
-      "35-44": 30,
+      "35-44": 29,
       "45-54": 17,
       "55-64": 9,
       "65+": 7
@@ -204,7 +204,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 51.35,
+    "balance_brl": 31.81,
     "balance_low": false,
     "account_disabled": false
   },

@@ -4,79 +4,79 @@
     "account_name": "BIOMA Elizete Corrêa",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-25T18:24:17.371Z",
+    "generated_at": "2026-11-26T18:06:05.625Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-18",
-      "until": "2026-11-24",
-      "label_pt": "18 nov a 24 nov"
+      "since": "2026-11-19",
+      "until": "2026-11-25",
+      "label_pt": "19 nov a 25 nov"
     },
     "previous": {
-      "since": "2026-11-11",
-      "until": "2026-11-17"
+      "since": "2026-11-12",
+      "until": "2026-11-18"
     }
   },
   "totals": {
     "spend": {
-      "current": 455.99,
-      "previous": 463.49,
-      "delta_pct": -2
+      "current": 455.37,
+      "previous": 454.1,
+      "delta_pct": 0
     },
     "impressions": {
-      "current": 29597,
-      "previous": 30275,
-      "delta_pct": -2
+      "current": 29131,
+      "previous": 30228,
+      "delta_pct": -4
     },
     "reach": {
-      "current": 21884,
-      "previous": 21997,
-      "delta_pct": -1
+      "current": 21628,
+      "previous": 22193,
+      "delta_pct": -3
     },
     "clicks": {
-      "current": 902,
-      "previous": 891,
-      "delta_pct": 1
+      "current": 906,
+      "previous": 843,
+      "delta_pct": 7
     },
     "ctr": {
-      "current": 3.05,
-      "previous": 2.94,
-      "delta_pct": 4
+      "current": 3.11,
+      "previous": 2.79,
+      "delta_pct": 11
     },
     "cpc": {
-      "current": 0.51,
-      "previous": 0.52,
-      "delta_pct": -2
+      "current": 0.5,
+      "previous": 0.54,
+      "delta_pct": -7
     },
     "thruplay": {
-      "current": 7073,
-      "previous": 6101,
-      "delta_pct": 16
+      "current": 7172,
+      "previous": 6143,
+      "delta_pct": 17
     },
     "frequency": {
       "current": 1.35,
-      "previous": 1.38,
-      "delta_pct": -2
+      "previous": 1.36,
+      "delta_pct": -1
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 50,
-        "previous": 56,
-        "delta_pct": -11
+        "current": 53,
+        "previous": 49,
+        "delta_pct": 8
       },
       "cost": {
-        "current": 9.12,
-        "previous": 8.28,
-        "delta_pct": 10
+        "current": 8.59,
+        "previous": 9.27,
+        "delta_pct": -7
       },
       "top_creative": {
         "name": "Corte",
-        "value": 22
+        "value": 24
       }
     },
     "instagram_visits": {
@@ -98,93 +98,93 @@
   "top_creatives": [
     {
       "name": "Sobre curtinho",
-      "impressions": 12726,
-      "reach": 11644,
-      "clicks": 66,
+      "impressions": 12575,
+      "reach": 11320,
+      "clicks": 70,
       "messages": 0,
-      "ctr": 0.52,
-      "thruplay": 5133
+      "ctr": 0.56,
+      "thruplay": 5091
     },
     {
       "name": "Corte",
-      "impressions": 4618,
-      "reach": 3091,
-      "clicks": 263,
-      "messages": 22,
-      "ctr": 5.7,
-      "thruplay": 709
+      "impressions": 5176,
+      "reach": 3399,
+      "clicks": 294,
+      "messages": 24,
+      "ctr": 5.68,
+      "thruplay": 792
     },
     {
       "name": "Sua transição",
-      "impressions": 3837,
-      "reach": 3012,
-      "clicks": 181,
+      "impressions": 3899,
+      "reach": 3063,
+      "clicks": 182,
       "messages": 0,
-      "ctr": 4.72,
-      "thruplay": 257
+      "ctr": 4.67,
+      "thruplay": 258
     },
     {
       "name": "Morena iluminada",
-      "impressions": 3348,
-      "reach": 2283,
-      "clicks": 153,
-      "messages": 16,
-      "ctr": 4.57,
-      "thruplay": 241
+      "impressions": 2559,
+      "reach": 1670,
+      "clicks": 127,
+      "messages": 15,
+      "ctr": 4.96,
+      "thruplay": 199
+    },
+    {
+      "name": "Coloração 100% vegetal",
+      "impressions": 1671,
+      "reach": 1145,
+      "clicks": 94,
+      "messages": 8,
+      "ctr": 5.63,
+      "thruplay": 416
     },
     {
       "name": "Começamos com — Cópia",
-      "impressions": 1506,
-      "reach": 1126,
-      "clicks": 95,
+      "impressions": 1045,
+      "reach": 819,
+      "clicks": 70,
       "messages": 6,
-      "ctr": 6.31,
+      "ctr": 6.7,
       "thruplay": 0
     },
     {
       "name": "Coloração 100% vegetal",
-      "impressions": 1322,
-      "reach": 939,
-      "clicks": 78,
-      "messages": 6,
-      "ctr": 5.9,
-      "thruplay": 325
-    },
-    {
-      "name": "Coloração 100% vegetal",
-      "impressions": 895,
-      "reach": 797,
+      "impressions": 906,
+      "reach": 807,
       "clicks": 4,
       "messages": 0,
-      "ctr": 0.45,
-      "thruplay": 321
-    },
-    {
-      "name": "Protocolo terra fértil",
-      "impressions": 636,
-      "reach": 529,
-      "clicks": 25,
-      "messages": 0,
-      "ctr": 3.93,
-      "thruplay": 32
+      "ctr": 0.44,
+      "thruplay": 324
     },
     {
       "name": "E se você pudesse (color veg)",
-      "impressions": 594,
-      "reach": 492,
-      "clicks": 28,
+      "impressions": 601,
+      "reach": 494,
+      "clicks": 31,
       "messages": 0,
-      "ctr": 4.71,
-      "thruplay": 50
+      "ctr": 5.16,
+      "thruplay": 55
+    },
+    {
+      "name": "Protocolo terra fértil",
+      "impressions": 576,
+      "reach": 471,
+      "clicks": 24,
+      "messages": 0,
+      "ctr": 4.17,
+      "thruplay": 30
     },
     {
       "name": "Diagnóstico",
-      "impressions": 102,
-      "reach": 70,
-      "clicks": 7,
+      "impressions": 114,
+      "reach": 73,
+      "clicks": 8,
       "messages": 0,
-      "ctr": 6.86,
-      "thruplay": 3
+      "ctr": 7.02,
+      "thruplay": 5
     }
   ],
   "demographics": {
@@ -199,12 +199,12 @@
       "35-44": 13,
       "45-54": 19,
       "55-64": 26,
-      "65+": 32
+      "65+": 33
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 876.5,
+    "balance_brl": 938.22,
     "balance_low": false,
     "account_disabled": false
   },
