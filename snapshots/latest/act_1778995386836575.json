@@ -4,75 +4,75 @@
     "account_name": "BIOMA Jackeline",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-26T18:06:05.562Z",
+    "generated_at": "2026-11-27T17:49:23.981Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-19",
-      "until": "2026-11-25",
-      "label_pt": "19 nov a 25 nov"
+      "since": "2026-11-20",
+      "until": "2026-11-26",
+      "label_pt": "20 nov a 26 nov"
     },
     "previous": {
-      "since": "2026-11-12",
-      "until": "2026-11-18"
+      "since": "2026-11-13",
+      "until": "2026-11-19"
     }
   },
   "totals": {
     "spend": {
-      "current": 493.71,
-      "previous": 147.49,
-      "delta_pct": 235
+      "current": 452.64,
+      "previous": 163.44,
+      "delta_pct": 177
     },
     "impressions": {
-      "current": 28259,
-      "previous": 8659,
-      "delta_pct": 226
+      "current": 25735,
+      "previous": 9708,
+      "delta_pct": 165
     },
     "reach": {
-      "current": 22242,
-      "previous": 7533,
-      "delta_pct": 195
+      "current": 19586,
+      "previous": 8662,
+      "delta_pct": 126
     },
     "clicks": {
-      "current": 1075,
-      "previous": 281,
-      "delta_pct": 283
+      "current": 1003,
+      "previous": 292,
+      "delta_pct": 243
     },
     "ctr": {
-      "current": 3.8,
-      "previous": 3.25,
-      "delta_pct": 17
+      "current": 3.9,
+      "previous": 3.01,
+      "delta_pct": 30
     },
     "cpc": {
-      "current": 0.46,
-      "previous": 0.52,
-      "delta_pct": -12
+      "current": 0.45,
+      "previous": 0.56,
+      "delta_pct": -20
     },
     "thruplay": {
-      "current": 2726,
-      "previous": 736,
-      "delta_pct": 270
+      "current": 2480,
+      "previous": 914,
+      "delta_pct": 171
     },
     "frequency": {
-      "current": 1.27,
-      "previous": 1.15,
-      "delta_pct": 10
+      "current": 1.31,
+      "previous": 1.12,
+      "delta_pct": 17
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 19,
-        "previous": 7,
-        "delta_pct": 171
+        "current": 18,
+        "previous": 6,
+        "delta_pct": 200
       },
       "cost": {
-        "current": 25.98,
-        "previous": 21.07,
-        "delta_pct": 23
+        "current": 25.15,
+        "previous": 27.24,
+        "delta_pct": -8
       },
       "top_creative": {
         "name": "O poder da transformação",
@@ -98,104 +98,104 @@
   "top_creatives": [
     {
       "name": "Seu cabelo - reconhecimento",
-      "impressions": 7871,
-      "reach": 7249,
-      "clicks": 130,
+      "impressions": 7752,
+      "reach": 7089,
+      "clicks": 136,
       "messages": 1,
-      "ctr": 1.65,
-      "thruplay": 1593
+      "ctr": 1.75,
+      "thruplay": 1566
     },
     {
       "name": "Tem lugares",
-      "impressions": 4194,
-      "reach": 3530,
-      "clicks": 179,
+      "impressions": 4208,
+      "reach": 3546,
+      "clicks": 178,
       "messages": 0,
-      "ctr": 4.27,
-      "thruplay": 96
+      "ctr": 4.23,
+      "thruplay": 97
     },
     {
       "name": "Corte",
-      "impressions": 3707,
-      "reach": 2651,
+      "impressions": 4015,
+      "reach": 2812,
       "clicks": 79,
-      "messages": 5,
-      "ctr": 2.13,
-      "thruplay": 146
+      "messages": 7,
+      "ctr": 1.97,
+      "thruplay": 154
     },
     {
       "name": "Quem vive",
-      "impressions": 3479,
-      "reach": 2884,
-      "clicks": 401,
+      "impressions": 3626,
+      "reach": 2968,
+      "clicks": 422,
       "messages": 0,
-      "ctr": 11.53,
+      "ctr": 11.64,
       "thruplay": 0
     },
     {
       "name": "O poder da transformação",
-      "impressions": 3449,
-      "reach": 2120,
-      "clicks": 94,
+      "impressions": 3475,
+      "reach": 2124,
+      "clicks": 96,
       "messages": 10,
-      "ctr": 2.73,
-      "thruplay": 246
+      "ctr": 2.76,
+      "thruplay": 243
     },
     {
       "name": "Sextou",
-      "impressions": 3073,
-      "reach": 2757,
-      "clicks": 99,
+      "impressions": 1630,
+      "reach": 1462,
+      "clicks": 79,
       "messages": 0,
-      "ctr": 3.22,
-      "thruplay": 88
-    },
-    {
-      "name": "Tem dias que o corpo",
-      "impressions": 769,
-      "reach": 726,
-      "clicks": 48,
-      "messages": 0,
-      "ctr": 6.24,
-      "thruplay": 21
+      "ctr": 4.85,
+      "thruplay": 39
     },
     {
       "name": "Beleza à brasileira",
-      "impressions": 371,
-      "reach": 225,
+      "impressions": 281,
+      "reach": 182,
       "clicks": 1,
       "messages": 0,
-      "ctr": 0.27,
-      "thruplay": 283
+      "ctr": 0.36,
+      "thruplay": 200
     },
     {
-      "name": "Tem dias que o corpo — Cópia",
-      "impressions": 370,
-      "reach": 299,
-      "clicks": 25,
-      "messages": 3,
-      "ctr": 6.76,
-      "thruplay": 20
+      "name": "Você conhece o Shirobalance",
+      "impressions": 232,
+      "reach": 190,
+      "clicks": 3,
+      "messages": 0,
+      "ctr": 1.29,
+      "thruplay": 3
     },
     {
       "name": "Um pouco que vivi",
-      "impressions": 284,
-      "reach": 174,
+      "impressions": 229,
+      "reach": 149,
       "clicks": 3,
       "messages": 0,
-      "ctr": 1.06,
-      "thruplay": 197
+      "ctr": 1.31,
+      "thruplay": 157
+    },
+    {
+      "name": "Já pode mandar",
+      "impressions": 158,
+      "reach": 97,
+      "clicks": 3,
+      "messages": 0,
+      "ctr": 1.9,
+      "thruplay": 2
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 94,
-      "male_pct": 6,
+      "female_pct": 99,
+      "male_pct": 1,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 39,
+      "25-34": 38,
       "35-44": 26,
       "45-54": 11,
       "55-64": 12,
@@ -204,7 +204,7 @@
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 597.34,
+    "balance_brl": 643.02,
     "balance_low": false,
     "account_disabled": false
   },

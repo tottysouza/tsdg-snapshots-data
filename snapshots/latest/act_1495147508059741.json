@@ -4,79 +4,79 @@
     "account_name": "Espaçolaser Caçapava",
     "segment": "LASER",
     "template": "LASER",
-    "generated_at": "2026-11-26T18:07:36.150Z",
+    "generated_at": "2026-11-27T17:51:01.489Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-19",
-      "until": "2026-11-25",
-      "label_pt": "19 nov a 25 nov"
+      "since": "2026-11-20",
+      "until": "2026-11-26",
+      "label_pt": "20 nov a 26 nov"
     },
     "previous": {
-      "since": "2026-11-12",
-      "until": "2026-11-18"
+      "since": "2026-11-13",
+      "until": "2026-11-19"
     }
   },
   "totals": {
     "spend": {
-      "current": 570.39,
-      "previous": 468.23,
-      "delta_pct": 22
+      "current": 602.29,
+      "previous": 540.07,
+      "delta_pct": 12
     },
     "impressions": {
-      "current": 53035,
-      "previous": 37471,
-      "delta_pct": 42
+      "current": 53581,
+      "previous": 44476,
+      "delta_pct": 20
     },
     "reach": {
-      "current": 30595,
-      "previous": 18955,
-      "delta_pct": 61
+      "current": 30802,
+      "previous": 22331,
+      "delta_pct": 38
     },
     "clicks": {
-      "current": 678,
-      "previous": 338,
-      "delta_pct": 101
+      "current": 636,
+      "previous": 442,
+      "delta_pct": 44
     },
     "ctr": {
-      "current": 1.28,
-      "previous": 0.9,
-      "delta_pct": 42
+      "current": 1.19,
+      "previous": 0.99,
+      "delta_pct": 20
     },
     "cpc": {
-      "current": 0.84,
-      "previous": 1.39,
-      "delta_pct": -40
+      "current": 0.95,
+      "previous": 1.22,
+      "delta_pct": -22
     },
     "thruplay": {
-      "current": 3155,
-      "previous": 1256,
-      "delta_pct": 151
+      "current": 3116,
+      "previous": 1651,
+      "delta_pct": 89
     },
     "frequency": {
-      "current": 1.73,
-      "previous": 1.98,
+      "current": 1.74,
+      "previous": 1.99,
       "delta_pct": -13
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 22,
-        "previous": 9,
-        "delta_pct": 144
+        "current": 20,
+        "previous": 14,
+        "delta_pct": 43
       },
       "cost": {
-        "current": 25.93,
-        "previous": 52.03,
-        "delta_pct": -50
+        "current": 30.11,
+        "previous": 38.58,
+        "delta_pct": -22
       },
       "top_creative": {
         "name": "3 sessões 2",
-        "value": 12
+        "value": 9
       }
     },
     "instagram_visits": {
@@ -98,38 +98,38 @@
   "top_creatives": [
     {
       "name": "3 sessões 2",
-      "impressions": 17029,
-      "reach": 9293,
-      "clicks": 99,
-      "messages": 12,
-      "ctr": 0.58,
-      "thruplay": 520
+      "impressions": 14252,
+      "reach": 8242,
+      "clicks": 77,
+      "messages": 9,
+      "ctr": 0.54,
+      "thruplay": 457
     },
     {
       "name": "Chega de tabu",
-      "impressions": 11019,
-      "reach": 9470,
+      "impressions": 11144,
+      "reach": 9759,
       "clicks": 143,
       "messages": 0,
-      "ctr": 1.3,
-      "thruplay": 1836
+      "ctr": 1.28,
+      "thruplay": 1859
     },
     {
       "name": "UNIDADE | A partir de R$ 99 (estático)",
-      "impressions": 5237,
-      "reach": 3320,
-      "clicks": 34,
+      "impressions": 4601,
+      "reach": 3036,
+      "clicks": 29,
       "messages": 3,
-      "ctr": 0.65,
+      "ctr": 0.63,
       "thruplay": 0
     },
     {
       "name": "Liberdade nas axilas?",
-      "impressions": 3495,
-      "reach": 2891,
-      "clicks": 43,
+      "impressions": 4007,
+      "reach": 3260,
+      "clicks": 48,
       "messages": 0,
-      "ctr": 1.23,
+      "ctr": 1.2,
       "thruplay": 0
     },
     {
@@ -142,69 +142,69 @@
       "thruplay": 291
     },
     {
-      "name": "Depilar a região íntima",
-      "impressions": 2782,
-      "reach": 2513,
-      "clicks": 45,
-      "messages": 0,
-      "ctr": 1.62,
-      "thruplay": 330
+      "name": "DIRECT | A partir de R$ 99 (estático)",
+      "impressions": 2392,
+      "reach": 1749,
+      "clicks": 8,
+      "messages": 1,
+      "ctr": 0.33,
+      "thruplay": 0
     },
     {
-      "name": "Fui conhecer",
-      "impressions": 2214,
-      "reach": 1811,
-      "clicks": 102,
+      "name": "Depilar a região íntima",
+      "impressions": 2210,
+      "reach": 1973,
+      "clicks": 34,
       "messages": 0,
-      "ctr": 4.61,
-      "thruplay": 93
+      "ctr": 1.54,
+      "thruplay": 264
     },
     {
       "name": "UNIDADE | 3 sessões (estático)",
-      "impressions": 2008,
-      "reach": 1260,
-      "clicks": 9,
-      "messages": 2,
-      "ctr": 0.45,
+      "impressions": 1792,
+      "reach": 1155,
+      "clicks": 5,
+      "messages": 1,
+      "ctr": 0.28,
       "thruplay": 0
+    },
+    {
+      "name": "Fui conhecer",
+      "impressions": 1768,
+      "reach": 1547,
+      "clicks": 80,
+      "messages": 0,
+      "ctr": 4.52,
+      "thruplay": 70
     },
     {
       "name": "BLACK | Reel Calculadora 80% OFF",
-      "impressions": 1721,
-      "reach": 1090,
+      "impressions": 1551,
+      "reach": 1014,
       "clicks": 10,
       "messages": 0,
-      "ctr": 0.58,
-      "thruplay": 33
-    },
-    {
-      "name": "DIRECT | A partir de R$ 99 (estático)",
-      "impressions": 1566,
-      "reach": 1245,
-      "clicks": 6,
-      "messages": 1,
-      "ctr": 0.38,
-      "thruplay": 0
+      "ctr": 0.64,
+      "thruplay": 31
     }
   ],
   "demographics": {
     "gender": {
-      "female_pct": 64,
-      "male_pct": 36,
+      "female_pct": 62,
+      "male_pct": 38,
       "unknown_pct": 0
     },
     "age": {
       "18-24": 0,
-      "25-34": 26,
-      "35-44": 24,
-      "45-54": 19,
-      "55-64": 15,
+      "25-34": 28,
+      "35-44": 25,
+      "45-54": 18,
+      "55-64": 14,
       "65+": 16
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 41.66,
+    "balance_brl": 43.83,
     "balance_low": false,
     "account_disabled": false
   },

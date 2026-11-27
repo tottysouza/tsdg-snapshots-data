@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_1813229102959243",
+    "account_name": "MORINGA Hair",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-27T17:50:44.131Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-20",
+      "until": "2026-11-26",
+      "label_pt": "20 nov a 26 nov"
+    },
+    "previous": {
+      "since": "2026-11-13",
+      "until": "2026-11-19"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 375.95,
+      "previous": 353.27,
+      "delta_pct": 6
+    },
+    "impressions": {
+      "current": 16684,
+      "previous": 16803,
+      "delta_pct": -1
+    },
+    "reach": {
+      "current": 9179,
+      "previous": 8767,
+      "delta_pct": 5
+    },
+    "clicks": {
+      "current": 776,
+      "previous": 716,
+      "delta_pct": 8
+    },
+    "ctr": {
+      "current": 4.65,
+      "previous": 4.26,
+      "delta_pct": 9
+    },
+    "cpc": {
+      "current": 0.48,
+      "previous": 0.49,
+      "delta_pct": -2
+    },
+    "thruplay": {
+      "current": 1629,
+      "previous": 1512,
+      "delta_pct": 8
+    },
+    "frequency": {
+      "current": 1.82,
+      "previous": 1.92,
+      "delta_pct": -5
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 77,
+        "previous": 14,
+        "delta_pct": 450
+      },
+      "cost": {
+        "current": 4.88,
+        "previous": 25.23,
+        "delta_pct": -81
+      },
+      "top_creative": {
+        "name": "Últimos dias BLACK",
+        "value": 36
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Últimos dias BLACK",
+      "impressions": 5300,
+      "reach": 3356,
+      "clicks": 234,
+      "messages": 36,
+      "ctr": 4.42,
+      "thruplay": 644
+    },
+    {
+      "name": "MEIO_LJa-aproveitou-Black",
+      "impressions": 4757,
+      "reach": 3693,
+      "clicks": 217,
+      "messages": 0,
+      "ctr": 4.56,
+      "thruplay": 362
+    },
+    {
+      "name": "FUNDO_Ha-cabelos",
+      "impressions": 2649,
+      "reach": 1592,
+      "clicks": 114,
+      "messages": 17,
+      "ctr": 4.3,
+      "thruplay": 213
+    },
+    {
+      "name": "Black Moringa 2026",
+      "impressions": 1043,
+      "reach": 983,
+      "clicks": 58,
+      "messages": 0,
+      "ctr": 5.56,
+      "thruplay": 95
+    },
+    {
+      "name": "2026-11-17_FUNDO_REELS_PROVA-SOCIAL-produto_Lumiere-Karynne",
+      "impressions": 930,
+      "reach": 597,
+      "clicks": 48,
+      "messages": 7,
+      "ctr": 5.16,
+      "thruplay": 90
+    },
+    {
+      "name": "Última chance BLACK",
+      "impressions": 569,
+      "reach": 412,
+      "clicks": 32,
+      "messages": 14,
+      "ctr": 5.62,
+      "thruplay": 91
+    },
+    {
+      "name": "Naturalíssima",
+      "impressions": 477,
+      "reach": 374,
+      "clicks": 25,
+      "messages": 0,
+      "ctr": 5.24,
+      "thruplay": 36
+    },
+    {
+      "name": "Stories extensão Black",
+      "impressions": 357,
+      "reach": 330,
+      "clicks": 21,
+      "messages": 0,
+      "ctr": 5.88,
+      "thruplay": 60
+    },
+    {
+      "name": "Lumière Point",
+      "impressions": 248,
+      "reach": 146,
+      "clicks": 9,
+      "messages": 2,
+      "ctr": 3.63,
+      "thruplay": 17
+    },
+    {
+      "name": "Lumière Point",
+      "impressions": 243,
+      "reach": 210,
+      "clicks": 16,
+      "messages": 0,
+      "ctr": 6.58,
+      "thruplay": 14
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 96,
+      "male_pct": 4,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 13,
+      "35-44": 19,
+      "45-54": 28,
+      "55-64": 23,
+      "65+": 17
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 24.25,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}
