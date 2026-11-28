@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "account_id": "act_1365837951918266",
+    "account_name": "MIMO Live Sales",
+    "segment": "TECH",
+    "template": "MIMO",
+    "generated_at": "2026-11-28T16:39:08.509Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-21",
+      "until": "2026-11-27",
+      "label_pt": "21 nov a 27 nov"
+    },
+    "previous": {
+      "since": "2026-11-14",
+      "until": "2026-11-20"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 9589.23,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "impressions": {
+      "current": 691296,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "reach": {
+      "current": 485451,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "clicks": {
+      "current": 5485,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "ctr": {
+      "current": 0.79,
+      "previous": null,
+      "delta_pct": null
+    },
+    "cpc": {
+      "current": 1.75,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "thruplay": {
+      "current": 31755,
+      "previous": 0,
+      "delta_pct": null
+    },
+    "frequency": {
+      "current": 1.42,
+      "previous": 0,
+      "delta_pct": null
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 4,
+        "previous": 0,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": 2397.31,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": {
+        "name": "Anuncio @grupoortobomconquista",
+        "value": 1
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Anuncio  @ortobom.zonasulpoa",
+      "impressions": 42099,
+      "reach": 38317,
+      "clicks": 368,
+      "messages": 0,
+      "ctr": 0.87,
+      "thruplay": 2493
+    },
+    {
+      "name": "Anuncio @ortobompetropolis",
+      "impressions": 32953,
+      "reach": 26159,
+      "clicks": 199,
+      "messages": 0,
+      "ctr": 0.6,
+      "thruplay": 1425
+    },
+    {
+      "name": "Anuncio toledo",
+      "impressions": 28395,
+      "reach": 19399,
+      "clicks": 186,
+      "messages": 0,
+      "ctr": 0.66,
+      "thruplay": 1063
+    },
+    {
+      "name": "Anuncio @ortobom.domjoaquim",
+      "impressions": 24549,
+      "reach": 18798,
+      "clicks": 192,
+      "messages": 0,
+      "ctr": 0.78,
+      "thruplay": 851
+    },
+    {
+      "name": "Anuncio @macaeortobom",
+      "impressions": 24506,
+      "reach": 18681,
+      "clicks": 200,
+      "messages": 0,
+      "ctr": 0.82,
+      "thruplay": 1228
+    },
+    {
+      "name": "Anuncio @ortobomrecife",
+      "impressions": 24400,
+      "reach": 23151,
+      "clicks": 257,
+      "messages": 0,
+      "ctr": 1.05,
+      "thruplay": 2004
+    },
+    {
+      "name": "Anuncio @grupoortobomconquista",
+      "impressions": 23677,
+      "reach": 19469,
+      "clicks": 170,
+      "messages": 1,
+      "ctr": 0.72,
+      "thruplay": 1142
+    },
+    {
+      "name": "Anuncio @lojas_colchoesortobom",
+      "impressions": 21891,
+      "reach": 17591,
+      "clicks": 142,
+      "messages": 0,
+      "ctr": 0.65,
+      "thruplay": 1150
+    },
+    {
+      "name": "Anuncio @ortobomparanagua",
+      "impressions": 21405,
+      "reach": 13931,
+      "clicks": 198,
+      "messages": 0,
+      "ctr": 0.93,
+      "thruplay": 779
+    },
+    {
+      "name": "Anuncio @outlet_ortobom_uberlandia",
+      "impressions": 21349,
+      "reach": 17643,
+      "clicks": 135,
+      "messages": 0,
+      "ctr": 0.63,
+      "thruplay": 1125
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 63,
+      "male_pct": 37,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 34,
+      "35-44": 25,
+      "45-54": 17,
+      "55-64": 13,
+      "65+": 10
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 798.8,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "balance_low"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "account_id": "act_744052467983233",
+    "account_name": "BIOMA Sense",
+    "segment": "HAIR",
+    "template": "HAIR",
+    "generated_at": "2026-11-28T16:37:13.681Z",
+    "fetch_status": "ok",
+    "fetch_source": "github_actions",
+    "notes": []
+  },
+  "period": {
+    "current": {
+      "since": "2026-11-21",
+      "until": "2026-11-27",
+      "label_pt": "21 nov a 27 nov"
+    },
+    "previous": {
+      "since": "2026-11-14",
+      "until": "2026-11-20"
+    }
+  },
+  "totals": {
+    "spend": {
+      "current": 249.79,
+      "previous": 262.09,
+      "delta_pct": -5
+    },
+    "impressions": {
+      "current": 7406,
+      "previous": 9344,
+      "delta_pct": -21
+    },
+    "reach": {
+      "current": 4705,
+      "previous": 5823,
+      "delta_pct": -19
+    },
+    "clicks": {
+      "current": 201,
+      "previous": 279,
+      "delta_pct": -28
+    },
+    "ctr": {
+      "current": 2.71,
+      "previous": 2.99,
+      "delta_pct": -9
+    },
+    "cpc": {
+      "current": 1.24,
+      "previous": 0.94,
+      "delta_pct": 32
+    },
+    "thruplay": {
+      "current": 553,
+      "previous": 828,
+      "delta_pct": -33
+    },
+    "frequency": {
+      "current": 1.57,
+      "previous": 1.6,
+      "delta_pct": -2
+    }
+  },
+  "conversions": {
+    "whatsapp_messages": {
+      "count": {
+        "current": 16,
+        "previous": 14,
+        "delta_pct": 14
+      },
+      "cost": {
+        "current": 15.61,
+        "previous": 18.72,
+        "delta_pct": -17
+      },
+      "top_creative": {
+        "name": "Desacelerar",
+        "value": 13
+      }
+    },
+    "instagram_visits": {
+      "count": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "cost": {
+        "current": null,
+        "previous": null,
+        "delta_pct": null
+      },
+      "top_creative": null
+    },
+    "site_visits": null,
+    "site_purchases": null
+  },
+  "top_creatives": [
+    {
+      "name": "Desacelerar",
+      "impressions": 4057,
+      "reach": 3226,
+      "clicks": 117,
+      "messages": 0,
+      "ctr": 2.88,
+      "thruplay": 300
+    },
+    {
+      "name": "Desacelerar",
+      "impressions": 2808,
+      "reach": 1347,
+      "clicks": 75,
+      "messages": 13,
+      "ctr": 2.67,
+      "thruplay": 208
+    },
+    {
+      "name": "Valorizar a Beleza",
+      "impressions": 449,
+      "reach": 170,
+      "clicks": 7,
+      "messages": 3,
+      "ctr": 1.56,
+      "thruplay": 33
+    },
+    {
+      "name": "Valorizar a beleza",
+      "impressions": 92,
+      "reach": 84,
+      "clicks": 2,
+      "messages": 0,
+      "ctr": 2.17,
+      "thruplay": 12
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "female_pct": 91,
+      "male_pct": 9,
+      "unknown_pct": 0
+    },
+    "age": {
+      "18-24": 0,
+      "25-34": 30,
+      "35-44": 30,
+      "45-54": 20,
+      "55-64": 13,
+      "65+": 7
+    }
+  },
+  "campaigns_active": [],
+  "account_health": {
+    "balance_brl": 39.31,
+    "balance_low": false,
+    "account_disabled": false
+  },
+  "auto_flags": [
+    "creative_concentration_over_80",
+    "balance_low"
+  ]
+}

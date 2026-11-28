@@ -4,79 +4,79 @@
     "account_name": "LACES Origens",
     "segment": "HAIR",
     "template": "HAIR",
-    "generated_at": "2026-11-27T17:50:25.357Z",
+    "generated_at": "2026-11-28T16:38:08.344Z",
     "fetch_status": "ok",
     "fetch_source": "github_actions",
     "notes": []
   },
   "period": {
     "current": {
-      "since": "2026-11-20",
-      "until": "2026-11-26",
-      "label_pt": "20 nov a 26 nov"
+      "since": "2026-11-21",
+      "until": "2026-11-27",
+      "label_pt": "21 nov a 27 nov"
     },
     "previous": {
-      "since": "2026-11-13",
-      "until": "2026-11-19"
+      "since": "2026-11-14",
+      "until": "2026-11-20"
     }
   },
   "totals": {
     "spend": {
-      "current": 537.77,
-      "previous": 755.83,
-      "delta_pct": -29
+      "current": 534.91,
+      "previous": 695.53,
+      "delta_pct": -23
     },
     "impressions": {
-      "current": 6611,
-      "previous": 20465,
-      "delta_pct": -68
+      "current": 6415,
+      "previous": 18358,
+      "delta_pct": -65
     },
     "reach": {
-      "current": 3221,
-      "previous": 13881,
-      "delta_pct": -77
+      "current": 3068,
+      "previous": 12759,
+      "delta_pct": -76
     },
     "clicks": {
-      "current": 200,
-      "previous": 525,
-      "delta_pct": -62
+      "current": 195,
+      "previous": 477,
+      "delta_pct": -59
     },
     "ctr": {
-      "current": 3.03,
-      "previous": 2.57,
-      "delta_pct": 18
+      "current": 3.04,
+      "previous": 2.6,
+      "delta_pct": 17
     },
     "cpc": {
-      "current": 2.69,
-      "previous": 1.44,
-      "delta_pct": 87
+      "current": 2.74,
+      "previous": 1.46,
+      "delta_pct": 88
     },
     "thruplay": {
-      "current": 326,
-      "previous": 2377,
-      "delta_pct": -86
+      "current": 314,
+      "previous": 2065,
+      "delta_pct": -85
     },
     "frequency": {
-      "current": 2.05,
-      "previous": 1.47,
-      "delta_pct": 39
+      "current": 2.09,
+      "previous": 1.44,
+      "delta_pct": 45
     }
   },
   "conversions": {
     "whatsapp_messages": {
       "count": {
-        "current": 21,
-        "previous": 27,
-        "delta_pct": -22
+        "current": 23,
+        "previous": 26,
+        "delta_pct": -12
       },
       "cost": {
-        "current": 25.61,
-        "previous": 27.99,
-        "delta_pct": -9
+        "current": 23.26,
+        "previous": 26.75,
+        "delta_pct": -13
       },
       "top_creative": {
         "name": "Contei para vocês",
-        "value": 5
+        "value": 6
       }
     },
     "instagram_visits": {
@@ -98,57 +98,66 @@
   "top_creatives": [
     {
       "name": "Contei para vocês",
-      "impressions": 1044,
-      "reach": 855,
-      "clicks": 33,
-      "messages": 4,
-      "ctr": 3.16,
-      "thruplay": 142
+      "impressions": 1001,
+      "reach": 823,
+      "clicks": 32,
+      "messages": 5,
+      "ctr": 3.2,
+      "thruplay": 137
     },
     {
       "name": "SMH | Estático Monique",
-      "impressions": 889,
-      "reach": 587,
-      "clicks": 28,
-      "messages": 3,
-      "ctr": 3.15,
+      "impressions": 824,
+      "reach": 556,
+      "clicks": 25,
+      "messages": 2,
+      "ctr": 3.03,
       "thruplay": 0
     },
     {
-      "name": "GF | Vídeo Aminomel v2",
-      "impressions": 714,
-      "reach": 547,
-      "clicks": 14,
-      "messages": 1,
-      "ctr": 1.96,
-      "thruplay": 49
-    },
-    {
       "name": "GF | Estático Nutrição Coco",
-      "impressions": 611,
-      "reach": 481,
-      "clicks": 22,
+      "impressions": 595,
+      "reach": 470,
+      "clicks": 21,
       "messages": 2,
-      "ctr": 3.6,
+      "ctr": 3.53,
       "thruplay": 0
     },
     {
       "name": "SMH | Carrossel 5 cards",
-      "impressions": 564,
-      "reach": 384,
-      "clicks": 12,
+      "impressions": 584,
+      "reach": 383,
+      "clicks": 10,
       "messages": 0,
-      "ctr": 2.13,
+      "ctr": 1.71,
       "thruplay": 0
     },
     {
       "name": "Contei para vocês",
-      "impressions": 563,
-      "reach": 423,
+      "impressions": 570,
+      "reach": 429,
+      "clicks": 24,
+      "messages": 6,
+      "ctr": 4.21,
+      "thruplay": 74
+    },
+    {
+      "name": "GF | Vídeo Aminomel v2",
+      "impressions": 501,
+      "reach": 401,
+      "clicks": 10,
+      "messages": 1,
+      "ctr": 2,
+      "thruplay": 38
+    },
+    {
+      "name": "2026-11-17_F_REEL_AUTORIDADE-frio_CabeloEArte",
+      "impressions": 423,
+      "reach": 326,
       "clicks": 20,
-      "messages": 5,
-      "ctr": 3.55,
-      "thruplay": 73
+      "messages": 2,
+      "ctr": 4.73,
+      "thruplay": 27
     },
     {
       "name": "2026-11-18_FUNDO_CARROSSEL_OFERTA-quente_GF-diagnostico-capilar",
@@ -160,31 +169,22 @@
       "thruplay": 0
     },
     {
-      "name": "2026-11-17_F_REEL_AUTORIDADE-frio_CabeloEArte",
-      "impressions": 395,
-      "reach": 307,
-      "clicks": 20,
-      "messages": 2,
-      "ctr": 5.06,
-      "thruplay": 28
+      "name": "GF | Estático Prioridades",
+      "impressions": 381,
+      "reach": 265,
+      "clicks": 8,
+      "messages": 3,
+      "ctr": 2.1,
+      "thruplay": 14
     },
     {
       "name": "GF | Carrossel 4 cards",
-      "impressions": 359,
-      "reach": 248,
+      "impressions": 356,
+      "reach": 246,
       "clicks": 11,
       "messages": 0,
-      "ctr": 3.06,
+      "ctr": 3.09,
       "thruplay": 0
-    },
-    {
-      "name": "GF | Estático Prioridades",
-      "impressions": 288,
-      "reach": 227,
-      "clicks": 4,
-      "messages": 0,
-      "ctr": 1.39,
-      "thruplay": 12
     }
   ],
   "demographics": {
@@ -197,14 +197,14 @@
       "18-24": 0,
       "25-34": 12,
       "35-44": 21,
-      "45-54": 26,
+      "45-54": 25,
       "55-64": 22,
       "65+": 19
     }
   },
   "campaigns_active": [],
   "account_health": {
-    "balance_brl": 403.84,
+    "balance_brl": 455.54,
     "balance_low": false,
     "account_disabled": false
   },
